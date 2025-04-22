@@ -1,0 +1,360 @@
+###########################################;;;;;;;;;;;5954
+############### EVENT TEXTS ###############;;;;;;;;;;;5955
+###########################################;;;;;;;;;;;5956
+EVENT_A0_A;Accept their rightful claims.;;;;;;;;;;5957
+EVENT_A0_B;Ignore the demands;;;;;;;;;;5958
+EVENT_A0_C;Execute the Traitors;;;;;;;;;;5959
+EVENT_A10_A;Accept;;;;;;;;;;5960
+EVENT_A10_B;Decline;;;;;;;;;;5961
+EVENT_A11_A;Accept;;;;;;;;;;5962
+EVENT_A11_B;Decline;;;;;;;;;;5963
+EVENT_A13_A;Accept their demands;;;;;;;;;;5964
+EVENT_A13_B;Refuse their demands;;;;;;;;;;5965
+EVENT_A14_A;Accept;;;;;;;;;;5966
+EVENT_A14_B;Decline;;;;;;;;;;5967
+EVENT_A17_A;Reject Demands;;;;;;;;;;5968
+EVENT_A17_B;Accept Demands;;;;;;;;;;5969
+EVENT_A18_A;Deny Old Rights;;;;;;;;;;5970
+EVENT_A18_B;Accept;;;;;;;;;;5971
+EVENT_A20_A;Grant;;;;;;;;;;5972
+EVENT_A20_B;Deny;;;;;;;;;;5973
+EVENT_A21_A;Hire the engineer;;;;;;;;;;5974
+EVENT_A21_B;Decline the Offer;;;;;;;;;;5975
+EVENT_A22_A;Hire him;;;;;;;;;;5976
+EVENT_A22_B;Decline the Offer;;;;;;;;;;5977
+EVENT_A23_A;Build the Palace;;;;;;;;;;5978
+EVENT_A23_B;Don't build it.;;;;;;;;;;5979
+EVENT_A25_A;Imprison Thinker;;;;;;;;;;5980
+EVENT_A25_B;Allow to Remain Free;;;;;;;;;;5981
+EVENT_A26_A;Fund suppression effort;;;;;;;;;;5982
+EVENT_A26_B;Ignore Heresy;;;;;;;;;;5983
+EVENT_A27_A;Press Issue;;;;;;;;;;5984
+EVENT_A27_B;Settle Issue;;;;;;;;;;5985
+EVENT_A28_A;Escalate Complaint;;;;;;;;;;5986
+EVENT_A28_B;Diplomatically Resolve;;;;;;;;;;5987
+EVENT_A29_A;Grant Colonial Charter;;;;;;;;;;5988
+EVENT_A29_B;Deny Charter;;;;;;;;;;5989
+EVENT_A30_A;Accept Petition;;;;;;;;;;5990
+EVENT_A30_B;Deny Petition;;;;;;;;;;5991
+EVENT_A31_A;Grant Aid;;;;;;;;;;5992
+EVENT_A31_B;Deny Aid;;;;;;;;;;5993
+EVENT_A32_A;Support;;;;;;;;;;5994
+EVENT_A32_B;Decline;;;;;;;;;;5995
+EVENT_A33_A;Impose New Tariff;;;;;;;;;;5996
+EVENT_A33_B;Deny New Tariff;;;;;;;;;;5997
+EVENT_A34_A;Hire Painter;;;;;;;;;;5998
+EVENT_A34_B;Decline his Services;;;;;;;;;;5999
+EVENT_A35_A;Honor the beliefs of our ancestors;;;;;;;;;;6000
+EVENT_A35_B;Convert to Christians;;;;;;;;;;6001
+EVENT_A36_A;Honor the beliefs of our ancestors;;;;;;;;;;6002
+EVENT_A36_B;Convert to Christians;;;;;;;;;;6003
+EVENT_A37_A;Return to the faith of our ancestors;;;;;;;;;;6004
+EVENT_A37_B;Stay with Islam;;;;;;;;;;6005
+EVENT_A38_A;Honor the beliefs of our ancestors;;;;;;;;;;6006
+EVENT_A38_B;Convert to Islam;;;;;;;;;;6007
+EVENT_A39_A;Convert to Islam;;;;;;;;;;6008
+EVENT_A39_B;Stay Christians;;;;;;;;;;6009
+EVENT_A40_A;Honor the beliefs of our ancestors;;;;;;;;;;6010
+EVENT_A40_B;Convert to Christians;;;;;;;;;;6011
+EVENT_A41_A;Honor the beliefs of our ancestors;;;;;;;;;;6012
+EVENT_A41_B;Convert to Christians;;;;;;;;;;6013
+EVENT_A42_A;Convert to Islam;;;;;;;;;;6014
+EVENT_A42_B;Honor the beliefs of our ancestors;;;;;;;;;;6015
+EVENT_A7_A;Side with one family;;;;;;;;;;6016
+EVENT_A7_B;Let them fight it out.;;;;;;;;;;6017
+EVENT_A7_C;Try to settle the issue.;;;;;;;;;;6018
+EVENT_NEXT;Next Event;;;;;;;;;;6019
+EVENT_SELECTION;%s : We went with %s in %s.;;;;;;;;;;6020
+EVENT_SIMPLE;%s : %s happened to us.;;;;;;;;;;6021
+EVENT1101A;Yes;;;;;;;;;;6022
+EVENT1101B;No;;;;;;;;;;6023
+EVENT1102A;Yes;;;;;;;;;;6024
+EVENT1102B;No;;;;;;;;;;6025
+EVENT1129A;Celebrate!;;;;;;;;;;6026
+EVENT1130A;Yes;;;;;;;;;;6027
+EVENT1130B;No;;;;;;;;;;6028
+EVENT1131A;Let us send them a gift!;;;;;;;;;;6029
+EVENT42_A;Ignore their Demands;;;;;;;;;;6030
+EVENT42_B;Agree to their Demands;;;;;;;;;;6031
+EVENT43_A;Execute the Troublemakers;;;;;;;;;;6032
+EVENT43_B;Abolish a Tax;;;;;;;;;;6033
+EVENT48_A;Try to eradicate the problems;;;;;;;;;;6034
+EVENT48_B;Ignore them;;;;;;;;;;6035
+EVENT59A;Splendid!;;;;;;;;;;6036
+EVENT60A1;Anglian culture is our culture;;;;;;;;;;6037
+EVENT60A10;Dutch culture is our culture;;;;;;;;;;6038
+EVENT60A11;Franco-provençal culture is our culture;;;;;;;;;;6039
+EVENT60A12;French culture is our culture;;;;;;;;;;6040
+EVENT60A13;Gaelic culture is our culture;;;;;;;;;;6041
+EVENT60A14;Greek culture is our culture;;;;;;;;;;6042
+EVENT60A15;Italian culture is our culture;;;;;;;;;;6043
+EVENT60A16;Lithuanian culture is our culture;;;;;;;;;;6044
+EVENT60A17;Lower german culture is our culture;;;;;;;;;;6045
+EVENT60A18;Magyar culture is our culture;;;;;;;;;;6046
+EVENT60A19;Middle german culture is our culture;;;;;;;;;;6047
+EVENT60A2;Armenian culture is our culture;;;;;;;;;;6048
+EVENT60A20;Occitan culture is our culture;;;;;;;;;;6049
+EVENT60A21;Polish culture is our culture;;;;;;;;;;6050
+EVENT60A22;Portuguese culture is our culture;;;;;;;;;;6051
+EVENT60A23;Romanian culture is our culture;;;;;;;;;;6052
+EVENT60A24;Russian culture is our culture;;;;;;;;;;6053
+EVENT60A25;Ruthenian culture is our culture;;;;;;;;;;6054
+EVENT60A26;Slavonic culture is our culture;;;;;;;;;;6055
+EVENT60A27;Tatar culture is our culture;;;;;;;;;;6056
+EVENT60A28;Turkish culture is our culture;;;;;;;;;;6057
+EVENT60A29;Umbrian culture is our culture;;;;;;;;;;6058
+EVENT60A3;Baltic culture is our culture;;;;;;;;;;6059
+EVENT60A30;Upper german culture is our culture;;;;;;;;;;6060
+EVENT60A31;Egyptian culture is our culture;;;;;;;;;;6061
+EVENT60A32;Arabic culture is our culture;;;;;;;;;;6062
+EVENT60A4;Scandinavian culture is our culture;;;;;;;;;;6063
+EVENT60A5;Berber culture is our culture;;;;;;;;;;6064
+EVENT60A6;Castillian culture is our culture;;;;;;;;;;6065
+EVENT60A7;Catalan culture is our culture;;;;;;;;;;6066
+EVENT60A8;Ugric culture is our culture;;;;;;;;;;6067
+EVENT60A9;Czech culture is our culture;;;;;;;;;;6068
+EVENT60B;Our culture is strong;;;;;;;;;;6069
+EVENT61A;Great!;;;;;;;;;;6070
+EVENT62A;Offensive Reforms;;;;;;;;;;6071
+EVENT62B;Defensive Reforms;;;;;;;;;;6072
+EVENT62C;Minimal Reforms;;;;;;;;;;6073
+EVENT62D;Naval Reforms;;;;;;;;;;6074
+EVENT62E;Hire Instructors;;;;;;;;;;6075
+EVENT62F;Recruit Conscripts;;;;;;;;;;6076
+EVENT63A;Traitors!;;;;;;;;;;6077
+EVENT64A;Damn!;;;;;;;;;;6078
+EVENT64B;Try to Rebuild it;;;;;;;;;;6079
+EVENT65A;More troops are always welcome;;;;;;;;;;6080
+EVENT65B;Pass the Opportunity;;;;;;;;;;6081
+EVENT66A;More ships are always welcome;;;;;;;;;;6082
+EVENT66B;Pass the Opportunity;;;;;;;;;;6083
+EVENT67A;Open a new Center of Trade;;;;;;;;;;6084
+EVENT67B;Pass the Opportunity;;;;;;;;;;6085
+EVENT68A;Expand the Royal Influence;;;;;;;;;;6086
+EVENT68B;Pass the Opportunity;;;;;;;;;;6087
+EVENT69A;We will try to compete with the new tradecenters!;;;;;;;;;;6088
+EVENT70A;Dang!;;;;;;;;;;6089
+EVENT71A;This is great news!;;;;;;;;;;6090
+EVENT72B;Don't remind me again;;;;;;;;;;6091
+EVENT73A;Let our culture guide our new nation;;;;;;;;;;6092
+EVENT73B;Proclaim that we are the defender of our culture!;;;;;;;;;;6093
+EVENT73C;Culture is overrated…;;;;;;;;;;6094
+EVENT74A;Let Europe fear the new Empire!;;;;;;;;;;6095
+EVENT74B;Proclaim that we are the defender of our culture!;;;;;;;;;;6096
+EVENT74C;I just did this for fun. I never wanted an empire.;;;;;;;;;;6097
+EVENTBUTTON_INFO;(For effects on your decision, check the information appearing when you move the mouse over the button.);;;;;;;;;;6098
+EVENTHIST_A0;The privileges of the nobility were continually under assault as the monarch tried to centralize more and more control. Sometimes the nobles would attempt to gain rights they had lost or surrendered to the monarch in earlier times.;;;;;;;;;;6099
+EVENTHIST_A1;Trading companies were often founded on highly speculative stocks. When they failed, large sums of wealth could be lost and faith in the goverment declined as well.;;;;;;;;;;6100
+EVENTHIST_A10;Noble families were often granted control over church lands and appointment in many states in exchange for cash contributions to the crown's efforts. The crown, of course, lost control over some revenues this way in exhange for a short term boost in revenue.;;;;;;;;;;6101
+EVENTHIST_A11;The crown often resorted to short term cash grabs like the sale of government offices. These sales would bring in a lot of revenue but in the long haul more officials meant more tax revenue siphoned off before it reached the royal treasury.;;;;;;;;;;6102
+EVENTHIST_A12;Crowns often granted trading companies the exclusive rights to traffic in goods in a region. These monopolies were granted in exchange for a lump-sum payment and continuing revenues from the traders.;;;;;;;;;;6103
+EVENTHIST_A13;Kings had to keep their unruly nobles in line through many methods. One of the most common was cold hard cash. Nobles would demand increased pensions in exchange for relinquishing certain rights to the King.;;;;;;;;;;6104
+EVENTHIST_A14;When the crown could not or would not pay cash to the nobles they would grant them instead privileges to collect special revenues from which they could make a healthy profit.;;;;;;;;;;6105
+EVENTHIST_A15;During this time period many areas that were forests or swamps were cleared or drained to provide new areas for settlement. These newly cleared areas often led to a short term population boom.;;;;;;;;;;6106
+EVENTHIST_A16;The establishment of permanent recruiting areas for the armies of the age made it easier to extract men from the population to serve in the army.;;;;;;;;;;6107
+EVENTHIST_A17;The nobility during this period still recalled the days when the King was just the first among many nobles. The nobility wanted to return to these days and would frequently pressure the King to regain certain lost rights of privileges.;;;;;;;;;;6108
+EVENTHIST_A18;Urban dwellers had always existed under a different code of rules than their rural brethren - even in the same state. Just as monarchs looked to curb the privileges of nobles they often tried to bring cities under more uniform rules and regulations. The cities often resisted these efforts.;;;;;;;;;;6109
+EVENTHIST_A19;Monarchs ruled by issuing ordinances but they were almost powerless to enforce them. Enforcement depended upon the local powers (nobles/city governments) who would not always be as vigilant as the monarchs would have desired.;;;;;;;;;;6110
+EVENTHIST_A2;Ordinances provided that roads, post relays and taverns be properly maintained to ensure the smooth flow of trade within a state.;;;;;;;;;;6111
+EVENTHIST_A20;The Bourgeoisie class grew increasing resentful of the power of the noble families and particularly their lack of opportunities in the higher ranks of government. One route into power was to marry into poor but well titled noble families. The other was to pry open positions in government circles.;;;;;;;;;;6112
+EVENTHIST_A21;During the period from 1450-1600 Italian siege engineers were highly sought after to teach the ways of the trace italienne to the militaries of Europe. These engineers had no national identity in most cases and simply worked for whoever could afford to pay them.;;;;;;;;;;6113
+EVENTHIST_A22;Maurice of Orange pioneered new drills for firearms that made the new weapons much more effective. This drill technique was not a secret and numerous military entrepreneurs read on the drill and placed their service at the disposal of the crowned heads of Europe.;;;;;;;;;;6114
+EVENTHIST_A23;Monarchs struggles with ways to subdue the nobility. The rise of firearms reduced the nobles' role as warriors but left them with in the eyes of the monarchs too much idle time. Some monarchs created great new palaces with elaborate court rituals to dazzle the nobles and keep them occupied. Versailles is the greatest expression of this movement.;;;;;;;;;;6115
+EVENTHIST_A24;Indulgences were essentially a pre-pay system for your sins. A devotee could buy forgiveness before they committed sins. This practice was widely practiced and its abuse was one of the prompts for Luther's movement. Indulgence peddlers were very apt at extracting large amounts of cash from any area they passed through.;;;;;;;;;;6116
+EVENTHIST_A25;Many times men of ideas would posit ideas that ran counter to accept doctrine either from the monarch or the church. The state would normally try to get the thinker to recant his ideas and, failing that, would resort to imprisonment or execution. Men like Giordono Bruno, Thomas Moore and Galileo are classic examples of troublesome thinkers.;;;;;;;;;;6117
+EVENTHIST_A26;Small bouts of heretical ideas would spring up from time to time. Most were simple people who did not realize that their interpretation of the Bible went counter to established doctrine but all such ideas frightened the local rulers. Intended or not, the usual response was quick and brutal as authorities would suppress these outbreaks.;;;;;;;;;;6118
+EVENTHIST_A27;The lack of good maps or the tools to create accurate maps would occasionally lead to overlapping claims of authority in border regions. These disputes were usually over very marginal areas but could serve as a point of friction when monarchs decided to press the issue.;;;;;;;;;;6119
+EVENTHIST_A28;Disputes over the treatment of local merchants were not uncommon. All governments faced minor reports of unfair treatment and harassment of their merchants. At the higher levels there were complaints about banditry or privateering occuring within or at the direction of a certain state. These issues could be resolved but saber rattling was always an option.;;;;;;;;;;6120
+EVENTHIST_A29;A sudden baby boom was not always a blessing at this time. Agricultural societies could not easily scale to handle larger populations in a given region. Population pressures often led to efforts at immigration overseas or movement to the city. ;;;;;;;;;;6121
+EVENTHIST_A3;The peasants were always superstitious, and the appearance of a meteor in the sky could cause panic among the people. This was often viewed as a sign that the end of times were near or that something bad would happen in the near future.;;;;;;;;;;6122
+EVENTHIST_A30;Peasants typically had no voice but they could occasionally gain access to the monarch and ask for redress. Sometimes, these requests for redress would be directed at the local lord who was perceived to be violating the peasants' rights. Stepping in to override a noble's local authority was a very drastic step.;;;;;;;;;;6123
+EVENTHIST_A31;The most powerful of the noble families in the state often had vast wealth but that did not stop them like their monarchs from getting into financial troubles. They too could accumulate debts that escaped their ability to pay. They could at those times come to the monarch to request aid. The monarchs were often receptive since they would usually be related by blood or marriage.;;;;;;;;;;6124
+EVENTHIST_A32;Monarchs were contacted by a variety of dissidents from other states. These dissidents claimed to have vast supporters who just needed some cash - they were usually lying. Despite this, their claims excited many influential people at the court - particularly when religion entered the mix. Supporting these dissidents rarely accomplished anything other than antagonizing the other state but failure to support could create a bad impression at home.;;;;;;;;;;6125
+EVENTHIST_A33;Trade was heavily regulated during this era but despite this the markets were not fixed. At times merchants would try to enter new markets or sell new goods. Merchants facing these conditions would usually demand new or higher tariffs to stop their competitors. ;;;;;;;;;;6126
+EVENTHIST_A34;Courts were often looking for painters and artists to try to adequately capture the glory of the monarch. Artists during the Renaissance were usually multi-talented and worked in many fields other than art. Michelangelo worked in fortifications and da Vinci dabbled in engineering for example.;;;;;;;;;;6127
+EVENTHIST_A35;Following increased contact with europeans, the Portuguese in particular, several african nations converted to christians from the 15th century on. The Kongolese king Mbemba-a-Nzinga, also known as Afonso I, was a devouted catholic and cooperated close with the Portuguese. Other African kings converted, though many in name only. Most of them kept many of their old rituals.;;;;;;;;;;6128
+EVENTHIST_A36;With the founding of the Nederduitse Gereformeerde Kerk in Cape Town in 1652 christianity was introduced to southern Africa. The first native converts were slaves held by the colonizers in the Cape colony. They were later joined by the Xhosa in early 19th century and later the Zulus.;;;;;;;;;;6129
+EVENTHIST_A37;Following the fall of the Mali nation around 1600 Segu and other Bambera states rose to power. They were pagan nations and not islamic.;;;;;;;;;;6130
+EVENTHIST_A38;Nations in sub-Saharan and eastern Africa had contact with Islamic nations through trade and war. Arab and North-African traders settled in Africa and brought with them customs and beliefs. In some areas these were introduced to and accepted by the locals. Some African kings also converted to easen the relations with the nearby islamic nations.;;;;;;;;;;6131
+EVENTHIST_A39;From the 13th century aggressive warfare from the north diminished the christian population in Nubia. By 1500 there were few christians left.;;;;;;;;;;6132
+EVENTHIST_A4;Fire was a perennial scourge in crowded and unregulated cities and towns. The damage caused by fires slowed economic growth and hurt tax revenues. Starting in the late 15th century, efforts were made to create building codes to minimize fire damage.;;;;;;;;;;6133
+EVENTHIST_A40;The Jesuits and the Franciscans were granted permission to establish missions in America. Their success varied, but the Franciscans claimed by 1626 that they had converted 34,000 Indians.;;;;;;;;;;6134
+EVENTHIST_A41;Close contact with European colonists and missionaries made many indians convert to christians, becoming what was known as 'praying indians'.;;;;;;;;;;6135
+EVENTHIST_A42;In the 13th century Islam came to northern Sumatra. During the 14th and 15th century it spread south and east to the rest of the Indonerian islands.;;;;;;;;;;6136
+EVENTHIST_A5;Some people were so devout in their religion that they set out to help the poor and heal the sick. They were often called saints for their acts and were sometimes even believed to perform miracles.;;;;;;;;;;6137
+EVENTHIST_A6;States began to expand the number of doctors in the 16th century and also to regulate and supervise their training at universities. These regulations also covered midwives.;;;;;;;;;;6138
+EVENTHIST_A7;Violence among leading families within a state was never far from the surface. Often, this instability would boil over into open confilict. The result was less than a full blown civil war but could immensely disturb the stability of a state.;;;;;;;;;;6139
+EVENTHIST_A8;The nobility was not fully subjugated during this age and the nobles could and did strike independent alliances with foreign princes. The crowns of Europe might not have liked it but they were normally hard pressed to prevent these kinds of activities.;;;;;;;;;;6140
+EVENTHIST_A9;Noble families were the bulwark of power during these times. Assasination of a powerful house leader was seen as a critical blow to those families' fortunes. With the rise of religious strife, assassinations of rival religion's nobles became increasingly common.;;;;;;;;;;6141
+EVENTHIST1;Revolts were almost part of everyday life for the rulers all over Europe. High taxes noblemen cruelties as well as cultural and religious differencies caused unhappiness among the farmers and in the cities and in the most extreme cases this led to rebellions with sometimes long lasting and drastic effect.;;;;;;;;;;6142
+EVENTHIST10;Monarchs were sometimes wise or lucky enough to appoint excellent ministers whose actions would greatly benefit their realm.;;;;;;;;;;6143
+EVENTHIST101;On October 31, 1517 Martin Luther pinned his 95 articles on the churchdoor at Wittenberg  condemning the trafficking of Redeems by the Pope and advocating a return to a purer former of Christianity. This is normally said to be the birth of the Protestant branch of Christianity. Catholic nations can now convert to Protestantism thereby increasing their long term tax incomes and giving a one-time bonus of 25$ per province as church property is confiscated by the State.;;;;;;;;;;6144
+EVENTHIST102;Luther's followers created a formal church but Calvin's followers created many churches – among them the French Huguenots the English Puritans the Scottish Presbyterians and the Dutch Reformed Church. Protestant nations may now convert to Reformed Christians thereby increasing their long term tax incomes.;;;;;;;;;;6145
+EVENTHIST103;In the sixteenth century it became imperative for the State and the Church to stem the tide of Lutheranism sweeping through Europe. The decrees included the reorganization and moralization of the ecclesiastical body and solemnly reconfirmed the Pope's indisputable and absolute authority. Catholic nations may now convert to Counter Reformed Catholics, thereby allowing them to force enemy nations to convert back to Catholicism as a peace option.;;;;;;;;;;6146
+EVENTHIST104;Historically there are many such edicts in the later part of the sixteenth century, all aiming at stopping hostilities and imposing tolerance and mutual recognition between the religious factions. Most of them were broken nearly as soon as they were signed. The effects of the Counter Reformation and the Treaty of Tordesillas have been cancelled.;;;;;;;;;;6147
+EVENTHIST105;You'd better accept this one and convert yourself to a Kaigonist!;;;;;;;;;;6148
+EVENTHIST11;Sometimes a monarch would suffer a temporary crisis of insanity, leaving his realm with no or little efficient guidance for a few months;;;;;;;;;;6149
+EVENTHIST1101;Your advisors recommend that we charter a new University to support science and development. Should we heed their advise?;;;;;;;;;;6150
+EVENTHIST1102;Your advisors recommend that we commission a new Cathedral to the greater glory of God and Christianity. Should we heed their advise?;;;;;;;;;;6151
+EVENTHIST1103;From time to time most rulers liked to arrange great royal hunts. These occasions were quite popular, but far from everyone were invited to participate - being invited to a royal hunt was a clear indication of favour. As with similar occasions, this was used by the king to diplomatically demonstrate his current favorites among the nobility as well as the foreign dignitaries.;;;;;;;;;;6152
+EVENTHIST1129;A heir to the Crown has been born! Let us all rejoice!;;;;;;;;;;6153
+EVENTHIST1130;Your advisors recommend that we commission a new great Mosque to the greater glory of Allah and his prophet Mohammed. Should we heed their advise?;;;;;;;;;;6154
+EVENTHIST1131;Although rare, feuding families could sometimes lay their grievances to rest and come to terms. Usually this was the result of more or less overt directives by monarchs who could ill afford internal strife. The common method of ending such feuds was to bring the two families closer together by arranging a wedding between youngsters from both Houses. Your Excellency, a potential problem seems to be eliminated!;;;;;;;;;;6155
+EVENTHIST12;Sometimes a scandal would erupt in the royal court and would upset a monarch to the point where most diplomatic activity would come to a standstill until things quieted down a bit.;;;;;;;;;;6156
+EVENTHIST13;Good governments would sometimes prompt the nobility and the businessmen of the realm to donate cash to the treasury, out of pure patriotism or in exchange for the sales or transfer of honorary titles and positions.;;;;;;;;;;6157
+EVENTHIST15;As a typical response to different kinds of problems obscurantism was a frequent behavior in most nations at least until the Age of Enlightenment arose in the most advanced western nations of the European continent.;;;;;;;;;;6158
+EVENTHIST16;Excellent business environment combined with good harvests were once in a while a blessing for the nation's tax base generating higher income for the realm.;;;;;;;;;;6159
+EVENTHIST17;Demographic, economic and political pressure at home made way for sudden increases in the number of people looking for a better life in rich uncharted lands and businessmen in search of adventure and wealth in overseas trade.;;;;;;;;;;6160
+EVENTHIST2;From time to time the colonists rebelled due to high taxes or duties lack of attention or cruel Governors. Similarly white men's oppression led to outbursts of native rebellion or slave revolts.;;;;;;;;;;6161
+EVENTHIST20;The creation of a centralized state bank brought serious improvement to the economic life of a country, as it helped stabilize the currency and regulate the state budgets.;;;;;;;;;;6162
+EVENTHIST21;The creation of a Stock Exchange paved the way for the early forms of capitalism and signaled the start of easier access to financing, thereby improving the economic life of a country.;;;;;;;;;;6163
+EVENTHIST22;The creation of a Company of Trade was usually a boost to a country's economy, attracting more capital and people to overseas business ventures!;;;;;;;;;;6164
+EVENTHIST24;Diplomacy between European nations was often affected by random factors from both sides involved that were most of the time beyond the control of the foreign ministers involved.;;;;;;;;;;6165
+EVENTHIST25;Diplomacy between European nations was often affected by the fame and numerous other achievements of a nation. Her diplomats would capitalize on those factors to achieve better results than usual in their negotiations.;;;;;;;;;;6166
+EVENTHIST26;Colonial expansion led to a growing desire among people to move from their homeland to the New World in search of a new better life or to achieve fame and wealth through exploration colonization and conquest.;;;;;;;;;;6167
+EVENTHIST27;Unexpected inventions sometimes led to immediate technical applications, and manufactories were built to exploit them.;;;;;;;;;;6168
+EVENTHIST28;Maritime trade expansion led to a growing desire among merchants to start new shipping and trade ventures on the high seas.;;;;;;;;;;6169
+EVENTHIST3;After the Reformation, the European continent would have to live for several hundred years with religious differences causing rebellions and uprisings more or less frequently.;;;;;;;;;;6170
+EVENTHIST30;Epidemics in the early-modern era were far deadlier than wars or even famine. Diseases that with modern medicine are relatively harmless like smallpox or flu took a heavy toll whenever they struck especially among infants.;;;;;;;;;;6171
+EVENTHIST33;Army reformation be it from new tactics weapons or command or any other reason often translated into better combat efficiency.;;;;;;;;;;6172
+EVENTHIST34;Navy reformation be it from new tactics weapons or command or any other reason often translated into better combat efficiency.;;;;;;;;;;6173
+EVENTHIST35;The Army often provided a shelter for the homeless and jobless. In times of crisis, volunteers would flock to the ranks.;;;;;;;;;;6174
+EVENTHIST36;The Navy often provided a shelter for the homeless and jobless of coastal areas. In addition, wealthy merchants sometimes donated ships and equipped them as warships to improve their standing in the eyes of the monarch.;;;;;;;;;;6175
+EVENTHIST38;New farming techniques plantations irrigation and land properties organization were soon translated into increased agricultural production and therefore higher tax income for the state. However countries with backward peasantry and conservative political structure were slower than others to put progress into effect.;;;;;;;;;;6176
+EVENTHIST39;Fire was the major source of destruction of buildings in those times, as people lacked the necessary and efficient firefighting equipment.;;;;;;;;;;6177
+EVENTHIST40;Changes of policies when cleverly timed and made were often well perceived by the people of the time beyond their actual efficiency as a proof of the government's good will and interest in the welfare of the realm.;;;;;;;;;;6178
+EVENTHIST41;Changes of policies when poorly timed and made were often wrongly perceived by the people of the time beyond their actual efficiency as a proof of the government ill will and lack of interest in the welfare of the realm.;;;;;;;;;;6179
+EVENTHIST42;Conflict of opinion or interest over religious or secular matters between the ruler and the religious authorities often upset the clergy, which used its strong preaching power to influence the people of the realm.;;;;;;;;;;6180
+EVENTHIST43;Conflict and protests over taxes corporations trade and customs policies were quite frequent and could result in sharp drops in industrial production.;;;;;;;;;;6181
+EVENTHIST44;Conflict and protests over taxes landlord cruelty expropriation serfdom and customs policies were quite frequent and resulted in discontent and even revolts.;;;;;;;;;;6182
+EVENTHIST45;Conflict and protests over taxes corporations port duties navy requisitions trade and customs policies were quite frequent and often had counterproductive effects.;;;;;;;;;;6183
+EVENTHIST46;Discoveries of new minerals led to the exploitation of mines, sometimes resulting in unexpected production incomes.;;;;;;;;;;6184
+EVENTHIST47;Political crises may occur from time to time. They may involve a conflict between the ruler and the parliament or unrest among the nobility or conflicts of interest between the nobility and the merchants or religious leaders. In game terms these problems usually cause a loss of stability when they occur.;;;;;;;;;;6185
+EVENTHIST48;Corruption is one of the most common and frequent factors of political and economic life as always but all the more so in feudal regimes.;;;;;;;;;;6186
+EVENTHIST49;Rampant inflation originating from the vast inflow of silver and gold from the new world brought the Kingdom of Spain to bankruptcy in 1557 and 1597. However economic cycles led to reduction of inflation a process called deflation.;;;;;;;;;;6187
+EVENTHIST50;Conflicts sometimes erupted following diplomatic insults.;;;;;;;;;;6188
+EVENTHIST57;A permanent matter of regal attention fortification of the realm always received great care, particularly at the border or in strategic places such as capitals major shipyards or important colonies.;;;;;;;;;;6189
+EVENTHIST58;A bold captain has put himself his ship and his crew at your disposal to win glory for God and country!. The vast tract of still unknown sea lanes and unexplored lands would always attract seamen in search of adventure fame and wealth.;;;;;;;;;;6190
+EVENTHIST59;A daring adventurer and his company have put themselves at your disposal to win new land for god and country! The vast track of still unknown and unexplored lands would always attract adventurers in search of glory, fame and wealth.;;;;;;;;;;6191
+EVENTHIST60;Do you wish to expand the cultural radius?;;;;;;;;;;6192
+EVENTHIST61;A couple of missionaries are now at your service in order to convert any infidel.;;;;;;;;;;6193
+EVENTHIST62;In order to have competitable army, military reforms were necessary.;;;;;;;;;;6194
+EVENTHIST63;Deserters were people who abandoned fighting and returned home without any kind of permission. Sometimes even officers and general quite fighting if they were about to loose the war.;;;;;;;;;;6195
+EVENTHIST64;A great fire has burned out one of our manufactories.;;;;;;;;;;6196
+EVENTHIST65;Sometimes, great constructions of military was built by orders from the state. These constructions were expensive and not many states could afford them, but those who did often got an advantage over its neighbours.;;;;;;;;;;6197
+EVENTHIST66;Sometimes, great constructions of military was built by orders from the state. These constructions were expensive and not many states could afford them, but those who did often got an advantage over its neighbours.;;;;;;;;;;6198
+EVENTHIST67;When trade flourished in an area, it could develop into an international meeting-point of trade, which brought prosperity to the area.;;;;;;;;;;6199
+EVENTHIST68;The royal power was careful to keep their authority over the church and the nobles in the national regions, and often did so by installing governors, granting cityrights and introduce new taxes.;;;;;;;;;;6200
+EVENTHIST69;Due to increased trade activity in certain parts of Europe, we have been forced to limit tolls, to still be able to attract merchants from all over the world to Kaigon Island.;;;;;;;;;;6201
+EVENTHIST7;Church policy always supported by the might of Royal power was often directed at eradicating heresy. This led to massive if not willing conversions of the people regarded as heretics by the religious leadership.;;;;;;;;;;6202
+EVENTHIST70;Due to lack of foreign merchant activity, we have been forced to close down the tradecenter of Kaigon Island. The Europeans obviously found it more attractive to trade in their own areas, instead of taking sending a merchant ship, with about 0,1% chance of succeding, down to Kaigon Island.;;;;;;;;;;6203
+EVENTHIST71;Trade seems to have concentrated in one of our provinces and a new center of trade has emerged. This better bring some nice toll-income.;;;;;;;;;;6204
+EVENTHIST72;It's time to adjust your domestic policy sliders.;;;;;;;;;;6205
+EVENTHIST73;You've managed to unite all of our culture under one banner. What will you do?;;;;;;;;;;6206
+EVENTHIST74;After years of war and conquest, you've finally managed to bring a new empire to Europe. What will you do?;;;;;;;;;;6207
+EVENTHIST75;It seems that you inherited a claim on a province in Europe;;;;;;;;;;6208
+EVENTHIST8;Despite official Church policy to eradicate heresy the population of some provinces was sometimes strongly attached to their faith and resisted conversion. Similarly new faith would also engage in missionary activity and manage to convert whole regions to their own church.;;;;;;;;;;6209
+EVENTNAME_A0;Nobles demand recovery of former rights;;;;;;;;;;6210
+EVENTNAME_A1;Trading Company Bubble Bursts;;;;;;;;;;6211
+EVENTNAME_A10;Cessation of Church Functions to Nobility;;;;;;;;;;6212
+EVENTNAME_A11;Sale of Offices;;;;;;;;;;6213
+EVENTNAME_A12;Monopoly Company Formed;;;;;;;;;;6214
+EVENTNAME_A13;Nobles Demand Increased Pensions;;;;;;;;;;6215
+EVENTNAME_A14;Grant Export Licences;;;;;;;;;;6216
+EVENTNAME_A15;New Land Claimed;;;;;;;;;;6217
+EVENTNAME_A16;Establish Cantonments;;;;;;;;;;6218
+EVENTNAME_A17;Nobles Demand Old Rights;;;;;;;;;;6219
+EVENTNAME_A18;Cities Demand Old Rights;;;;;;;;;;6220
+EVENTNAME_A19;Non-enforcement of Ordinances;;;;;;;;;;6221
+EVENTNAME_A2;Internal Trade Ordinance;;;;;;;;;;6222
+EVENTNAME_A20;Bourgeoisie Request Privileges;;;;;;;;;;6223
+EVENTNAME_A21;Italian Engineer Available;;;;;;;;;;6224
+EVENTNAME_A22;Foreign Drill Instructor Available;;;;;;;;;;6225
+EVENTNAME_A23;Build a Great Palace;;;;;;;;;;6226
+EVENTNAME_A24;Indulgence Peddler in Your Domain;;;;;;;;;;6227
+EVENTNAME_A25;Uncooperative Philosopher;;;;;;;;;;6228
+EVENTNAME_A26;Regional Heresy;;;;;;;;;;6229
+EVENTNAME_A27;Boundary Dispute;;;;;;;;;;6230
+EVENTNAME_A28;Merchants Harassed;;;;;;;;;;6231
+EVENTNAME_A29;Regional Population Boom;;;;;;;;;;6232
+EVENTNAME_A3;Meteor Sighted;;;;;;;;;;6233
+EVENTNAME_A30;Petition for Redress;;;;;;;;;;6234
+EVENTNAME_A31;Great Noble Family Requests Aid;;;;;;;;;;6235
+EVENTNAME_A32;Support for Dissidents Abroad;;;;;;;;;;6236
+EVENTNAME_A33;Foreign Trade Competition Rises;;;;;;;;;;6237
+EVENTNAME_A34;Exceptional Court Painter Available;;;;;;;;;;6238
+EVENTNAME_A4;Fire Control Ordinances Succeed;;;;;;;;;;6239
+EVENTNAME_A5;Saint Performs Miracle;;;;;;;;;;6240
+EVENTNAME_A6;Regulation of the medical profession;;;;;;;;;;6241
+EVENTNAME_A7;Noble Families Feud;;;;;;;;;;6242
+EVENTNAME_A8;Nobles Ally with Foreign Power;;;;;;;;;;6243
+EVENTNAME_A9;Assassination of Noble;;;;;;;;;;6244
+EVENTNAME1;Unprovoked Revolt;;;;;;;;;;6245
+EVENTNAME10;Excellent Minister;;;;;;;;;;6246
+EVENTNAME101;Reformation;;;;;;;;;;6247
+EVENTNAME102;Jean Calvin;;;;;;;;;;6248
+EVENTNAME103;Council of Trent;;;;;;;;;;6249
+EVENTNAME104;Edict of Tolerance;;;;;;;;;;6250
+EVENTNAME105;Edict of Kaigon;;;;;;;;;;6251
+EVENTNAME11;Temporary Insanity of Monarch;;;;;;;;;;6252
+EVENTNAME1101;Chartering of a University;;;;;;;;;;6253
+EVENTNAME1102;Commissioning of a Cathedral;;;;;;;;;;6254
+EVENTNAME1103;Great royal hunt;;;;;;;;;;6255
+EVENTNAME1129;A Heir to the Crown;;;;;;;;;;6256
+EVENTNAME1130;Commissioning of a great Mosque;;;;;;;;;;6257
+EVENTNAME1131;End of a great Feud;;;;;;;;;;6258
+EVENTNAME12;Scandal at the Court;;;;;;;;;;6259
+EVENTNAME13;Gift to the State;;;;;;;;;;6260
+EVENTNAME15;Wave of Obscurantism;;;;;;;;;;6261
+EVENTNAME16;Exceptional Year;;;;;;;;;;6262
+EVENTNAME17;Rush of Colonists;;;;;;;;;;6263
+EVENTNAME2;Colonial Uprising;;;;;;;;;;6264
+EVENTNAME20;Creation of Bank;;;;;;;;;;6265
+EVENTNAME21;Creation of Stock Exchange;;;;;;;;;;6266
+EVENTNAME22;Creation of Company of Trade;;;;;;;;;;6267
+EVENTNAME24;Diplomatic Move;;;;;;;;;;6268
+EVENTNAME25;Great Reputation;;;;;;;;;;6269
+EVENTNAME26;Colonial Dynamism;;;;;;;;;;6270
+EVENTNAME27;Unexpected Invention;;;;;;;;;;6271
+EVENTNAME28;Rush of Merchants;;;;;;;;;;6272
+EVENTNAME3;Religious Turmoil;;;;;;;;;;6273
+EVENTNAME30;Plague!;;;;;;;;;;6274
+EVENTNAME33;Reformation of the Army;;;;;;;;;;6275
+EVENTNAME34;Reformation of the Navy;;;;;;;;;;6276
+EVENTNAME35;Enthusiasm for the Army;;;;;;;;;;6277
+EVENTNAME36;Enthusiasm for the Navy;;;;;;;;;;6278
+EVENTNAME38;Agricultural Revolution;;;;;;;;;;6279
+EVENTNAME39;Devastating Fire;;;;;;;;;;6280
+EVENTNAME40;Good Government Policies;;;;;;;;;;6281
+EVENTNAME41;Poor Government Policies;;;;;;;;;;6282
+EVENTNAME42;Unhappiness among the Clergy;;;;;;;;;;6283
+EVENTNAME43;Unhappiness among the Artisans;;;;;;;;;;6284
+EVENTNAME44;Unhappiness among the Peasantry;;;;;;;;;;6285
+EVENTNAME45;Unhappiness among the Merchants;;;;;;;;;;6286
+EVENTNAME46;New Valuable Mineral;;;;;;;;;;6287
+EVENTNAME47;Political Crisis;;;;;;;;;;6288
+EVENTNAME48;Corruption;;;;;;;;;;6289
+EVENTNAME49;Deflation;;;;;;;;;;6290
+EVENTNAME50;Diplomatic Insult;;;;;;;;;;6291
+EVENTNAME57;Fortification Effort;;;;;;;;;;6292
+EVENTNAME58;Explorer;;;;;;;;;;6293
+EVENTNAME59;Conquistador;;;;;;;;;;6294
+EVENTNAME60;Increased Cultural Radius;;;;;;;;;;6295
+EVENTNAME61;Missionary Crusade;;;;;;;;;;6296
+EVENTNAME62;Military Reforms;;;;;;;;;;6297
+EVENTNAME63;Desertions;;;;;;;;;;6298
+EVENTNAME64;Great Fire;;;;;;;;;;6299
+EVENTNAME65;Great Naval Reform;;;;;;;;;;6300
+EVENTNAME66;Great Army Reform;;;;;;;;;;6301
+EVENTNAME67;Trading Concentrates;;;;;;;;;;6302
+EVENTNAME68;Royal Expansion;;;;;;;;;;6303
+EVENTNAME69;Tradeactivity and tradecompetition raises new center of trade in Europe;;;;;;;;;;6304
+EVENTNAME7;Conversion of Heretics;;;;;;;;;;6305
+EVENTNAME70;European trade on Kaigon Island ends;;;;;;;;;;6306
+EVENTNAME71;Tradeactivity and tradecompetition raises new center of trade in Europe;;;;;;;;;;6307
+EVENTNAME72;Domestic Policy Reminder;;;;;;;;;;6308
+EVENTNAME73;Rebirth of a Culture;;;;;;;;;;6309
+EVENTNAME74;A New Empire;;;;;;;;;;6310
+EVENTNAME75;Inherited Claim;;;;;;;;;;6311
+EVENTNAME8;Heretics;;;;;;;;;;6312
+#;;;;;;;;;;;6313
