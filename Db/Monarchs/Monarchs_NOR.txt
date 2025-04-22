@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 19261 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1422
+	}
+	name = "Józef I"
+	DIP = 2
+	ADM = 7
+	MIL = 9
+	movement = 5
+	fire = 5
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19262 }
+	startdate = {
+		year = 1422
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1456
+	}
+	name = "Józef II"
+	DIP = 2
+	ADM = 2
+	MIL = 9
+	movement = 6
+	fire = 6
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19263 }
+	startdate = {
+		year = 1456
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1498
+	}
+	name = "Józef III"
+	DIP = 9
+	ADM = 9
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19264 }
+	startdate = {
+		year = 1498
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1516
+	}
+	name = "Kestutaitis V"
+	DIP = 9
+	ADM = 5
+	MIL = 7
+	movement = 5
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19265 }
+	startdate = {
+		year = 1516
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1544
+	}
+	name = "Kestutaitis VI"
+	DIP = 2
+	ADM = 3
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19266 }
+	startdate = {
+		year = 1544
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1597
+	}
+	name = "Józef IV"
+	DIP = 3
+	ADM = 2
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19267 }
+	startdate = {
+		year = 1597
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1621
+	}
+	name = "Kestutaitis VII"
+	DIP = 2
+	ADM = 2
+	MIL = 6
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19268 }
+	startdate = {
+		year = 1621
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1632
+	}
+	name = "Kestutaitis VIII"
+	DIP = 8
+	ADM = 2
+	MIL = 9
+	movement = 5
+	fire = 4
+	shock = 5
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 19269 }
+	startdate = {
+		year = 1632
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1647
+	}
+	name = "Kestutaitis IX"
+	DIP = 6
+	ADM = 2
+	MIL = 4
+	movement = 5
+	fire = 4
+	shock = 5
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 19270 }
+	startdate = {
+		year = 1647
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1697
+	}
+	name = "Kestutaitis X"
+	DIP = 9
+	ADM = 9
+	MIL = 2
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19271 }
+	startdate = {
+		year = 1697
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1714
+	}
+	name = "Józef V"
+	DIP = 3
+	ADM = 8
+	MIL = 2
+	movement = 5
+	fire = 5
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 19272 }
+	startdate = {
+		year = 1714
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1724
+	}
+	name = "Józef VI"
+	DIP = 6
+	ADM = 8
+	MIL = 5
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19273 }
+	startdate = {
+		year = 1724
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1765
+	}
+	name = "Ludwike IV"
+	DIP = 8
+	ADM = 6
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19274 }
+	startdate = {
+		year = 1765
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1785
+	}
+	name = "Kestutaitis XI"
+	DIP = 2
+	ADM = 2
+	MIL = 9
+	movement = 2
+	fire = 2
+	shock = 5
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19275 }
+	startdate = {
+		year = 1785
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1805
+	}
+	name = "Ludwike V"
+	DIP = 8
+	ADM = 4
+	MIL = 9
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19276 }
+	startdate = {
+		year = 1805
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1832
+	}
+	name = "Ludwike VI"
+	DIP = 9
+	ADM = 9
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 5
+	siege = 1
+}

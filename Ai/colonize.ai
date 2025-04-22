@@ -1,0 +1,49 @@
+# preferred areas for expansion
+continent = { africa asia europe america }
+
+# % of the time we prefer to establish a tradingpost if both are good.
+tradingpost = 20
+
+# The amount of provinces we try to colonize at the same time
+expansion = 20
+
+# Bonus/Penalty for establish colonies adjacent to other countries.
+enemies = 50
+
+# 100 = Total warmonger, 0 = absolute pacifist
+war = 50
+
+#How important is it to gather troops close to base
+base = 1.0
+
+#Evaluation factors for conquer plans 
+conquer = 
+{
+	# multiply enemy province value
+	enemy = 1.0
+	# multiplying supply factor
+	supply = 2.0
+	# factor for distance to not owner provinces
+	distance = 1.0
+	# factor for owned provines
+	owner = 5.0
+	# Multiplier for provinces not in supply.
+	notsupply = 2.0
+	# Multiplying the base constant for conquer.
+	base = 5.0
+}
+
+# Modifiers for garrison plans 
+garrison = 
+{
+	# low values keep troops stationed in low or no fortress provinces, high values keep troops near the largest fortress you have
+	fortress = 1.0
+	# low values don't acknowledge the strategic value of a province in deciding where to garrison, high values do
+	strategic = 2.0
+	# low values don't care if a province is big or small, high values do
+	size = 1.0
+	# low values don't care if a province has a good supply amount, high values do
+	supply = 5.0
+	# low values don't care if a province is occupied by you, high values do
+	war = 3.0
+}

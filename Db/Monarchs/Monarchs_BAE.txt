@@ -1,0 +1,247 @@
+historicalmonarch = {
+	id = { type = 6 id = 20561 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1427
+	}
+	name = "Orta Mamay IV"
+	DIP = 4
+	ADM = 2
+	MIL = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 20562 }
+	startdate = {
+		year = 1427
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1470
+	}
+	name = "Orta Mamay V"
+	DIP = 4
+	ADM = 6
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20563 }
+	startdate = {
+		year = 1470
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1506
+	}
+	name = "Yanköy V"
+	DIP = 6
+	ADM = 5
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20564 }
+	startdate = {
+		year = 1506
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1521
+	}
+	name = "Orta Mamay VI"
+	DIP = 4
+	ADM = 8
+	MIL = 5
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20565 }
+	startdate = {
+		year = 1521
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1578
+	}
+	name = "Selen IV"
+	DIP = 9
+	ADM = 8
+	MIL = 2
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20566 }
+	startdate = {
+		year = 1578
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1619
+	}
+	name = "Cuma Kisekaratuk I"
+	DIP = 5
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20567 }
+	startdate = {
+		year = 1619
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1649
+	}
+	name = "Koraneli III"
+	DIP = 3
+	ADM = 6
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 20568 }
+	startdate = {
+		year = 1649
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1699
+	}
+	name = "Kirbaylar VII"
+	DIP = 6
+	ADM = 2
+	MIL = 9
+	movement = 3
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20569 }
+	startdate = {
+		year = 1699
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1731
+	}
+	name = "Orta Mamay VII"
+	DIP = 6
+	ADM = 6
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20570 }
+	startdate = {
+		year = 1731
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1777
+	}
+	name = "Koraneli IV"
+	DIP = 5
+	ADM = 2
+	MIL = 2
+	movement = 2
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 20571 }
+	startdate = {
+		year = 1777
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1781
+	}
+	name = "Uluuzen III"
+	DIP = 2
+	ADM = 5
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20572 }
+	startdate = {
+		year = 1781
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1812
+	}
+	name = "Barin III"
+	DIP = 5
+	ADM = 9
+	MIL = 2
+	movement = 3
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20573 }
+	startdate = {
+		year = 1812
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1840
+	}
+	name = "Karabah IV"
+	DIP = 5
+	ADM = 3
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

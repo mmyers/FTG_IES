@@ -1,0 +1,380 @@
+historicalmonarch = {
+	id = { type = 6 id = 21481 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1429
+	}
+	name = "Hamza I"
+	DIP = 9
+	ADM = 3
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21482 }
+	startdate = {
+		year = 1429
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1452
+	}
+	name = "Salah III"
+	DIP = 6
+	ADM = 6
+	MIL = 4
+	movement = 5
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21483 }
+	startdate = {
+		year = 1452
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1467
+	}
+	name = "Mansur VIII"
+	DIP = 5
+	ADM = 5
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21484 }
+	startdate = {
+		year = 1467
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1522
+	}
+	name = "Salah IV"
+	DIP = 2
+	ADM = 3
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21485 }
+	startdate = {
+		year = 1522
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1526
+	}
+	name = "Hamza II"
+	DIP = 4
+	ADM = 6
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21486 }
+	startdate = {
+		year = 1526
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1546
+	}
+	name = "Hamza III"
+	DIP = 6
+	ADM = 7
+	MIL = 9
+	movement = 6
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 21487 }
+	startdate = {
+		year = 1546
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1586
+	}
+	name = "Hamza IV"
+	DIP = 4
+	ADM = 2
+	MIL = 9
+	movement = 5
+	fire = 4
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21488 }
+	startdate = {
+		year = 1586
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1612
+	}
+	name = "Haidar III"
+	DIP = 2
+	ADM = 7
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21489 }
+	startdate = {
+		year = 1612
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1623
+	}
+	name = "Mansur IX"
+	DIP = 5
+	ADM = 8
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21490 }
+	startdate = {
+		year = 1623
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1626
+	}
+	name = "Hamza V"
+	DIP = 4
+	ADM = 2
+	MIL = 2
+	movement = 4
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21491 }
+	startdate = {
+		year = 1626
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1646
+	}
+	name = "Haidar IV"
+	DIP = 9
+	ADM = 7
+	MIL = 5
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21492 }
+	startdate = {
+		year = 1646
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1675
+	}
+	name = "Mansur X"
+	DIP = 6
+	ADM = 6
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21493 }
+	startdate = {
+		year = 1675
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1685
+	}
+	name = "Hamza VI"
+	DIP = 7
+	ADM = 9
+	MIL = 9
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21494 }
+	startdate = {
+		year = 1685
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1691
+	}
+	name = "Haidar V"
+	DIP = 7
+	ADM = 2
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21495 }
+	startdate = {
+		year = 1691
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1710
+	}
+	name = "Amin III"
+	DIP = 4
+	ADM = 7
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21496 }
+	startdate = {
+		year = 1710
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1739
+	}
+	name = "Hamza VII"
+	DIP = 6
+	ADM = 8
+	MIL = 2
+	movement = 5
+	fire = 5
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21497 }
+	startdate = {
+		year = 1739
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1750
+	}
+	name = "Hamza VIII"
+	DIP = 5
+	ADM = 7
+	MIL = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21498 }
+	startdate = {
+		year = 1750
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1791
+	}
+	name = "Hassan I"
+	DIP = 5
+	ADM = 4
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 5
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 21499 }
+	startdate = {
+		year = 1791
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1806
+	}
+	name = "Salah V"
+	DIP = 2
+	ADM = 4
+	MIL = 2
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 21500 }
+	startdate = {
+		year = 1806
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1850
+	}
+	name = "Hamza IX"
+	DIP = 6
+	ADM = 4
+	MIL = 3
+	movement = 4
+	fire = 2
+	shock = 3
+	siege = 1
+}

@@ -1,0 +1,266 @@
+historicalmonarch = {
+	id = { type = 6 id = 19281 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1442
+	}
+	name = "Zygmunt III"
+	DIP = 9
+	ADM = 2
+	MIL = 9
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19282 }
+	startdate = {
+		year = 1442
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1486
+	}
+	name = "Zygmunt IV"
+	DIP = 5
+	ADM = 5
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19283 }
+	startdate = {
+		year = 1486
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1531
+	}
+	name = "Batory VII"
+	DIP = 2
+	ADM = 6
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19284 }
+	startdate = {
+		year = 1531
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1566
+	}
+	name = "Sobieski I"
+	DIP = 2
+	ADM = 6
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19285 }
+	startdate = {
+		year = 1566
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1587
+	}
+	name = "Sobieski II"
+	DIP = 2
+	ADM = 3
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19286 }
+	startdate = {
+		year = 1587
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1629
+	}
+	name = "Henryk II"
+	DIP = 2
+	ADM = 9
+	MIL = 9
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 19287 }
+	startdate = {
+		year = 1629
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1661
+	}
+	name = "Zygmunt V"
+	DIP = 2
+	ADM = 2
+	MIL = 5
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19288 }
+	startdate = {
+		year = 1661
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1696
+	}
+	name = "Sobieski III"
+	DIP = 2
+	ADM = 2
+	MIL = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19289 }
+	startdate = {
+		year = 1696
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1705
+	}
+	name = "Batory VIII"
+	DIP = 7
+	ADM = 5
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19290 }
+	startdate = {
+		year = 1705
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1710
+	}
+	name = "Batory IX"
+	DIP = 3
+	ADM = 2
+	MIL = 6
+	movement = 5
+	fire = 5
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19291 }
+	startdate = {
+		year = 1710
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1743
+	}
+	name = "Henryk III"
+	DIP = 2
+	ADM = 5
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19292 }
+	startdate = {
+		year = 1743
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1788
+	}
+	name = "Sobieski IV"
+	DIP = 3
+	ADM = 2
+	MIL = 5
+	movement = 6
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19293 }
+	startdate = {
+		year = 1788
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1811
+	}
+	name = "Batory X"
+	DIP = 5
+	ADM = 3
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19294 }
+	startdate = {
+		year = 1811
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1823
+	}
+	name = "Zygmunt VI"
+	DIP = 3
+	ADM = 7
+	MIL = 9
+	movement = 4
+	fire = 4
+	shock = 5
+	siege = 1
+}

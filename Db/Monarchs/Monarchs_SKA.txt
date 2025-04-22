@@ -1,0 +1,285 @@
+historicalmonarch = {
+	id = { type = 6 id = 20641 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1472
+	}
+	name = "Margerete III"
+	DIP = 2
+	ADM = 7
+	MIL = 6
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20642 }
+	startdate = {
+		year = 1472
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1510
+	}
+	name = "Christian V"
+	DIP = 9
+	ADM = 6
+	MIL = 3
+	movement = 4
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20643 }
+	startdate = {
+		year = 1510
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1535
+	}
+	name = "Magnus VII"
+	DIP = 3
+	ADM = 2
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20644 }
+	startdate = {
+		year = 1535
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1567
+	}
+	name = "Sigurd I"
+	DIP = 5
+	ADM = 2
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20645 }
+	startdate = {
+		year = 1567
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1581
+	}
+	name = "Sigurd II"
+	DIP = 2
+	ADM = 3
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 20646 }
+	startdate = {
+		year = 1581
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1609
+	}
+	name = "Sigurd III"
+	DIP = 9
+	ADM = 6
+	MIL = 5
+	movement = 2
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20647 }
+	startdate = {
+		year = 1609
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1660
+	}
+	name = "Valdemar IX"
+	DIP = 5
+	ADM = 6
+	MIL = 7
+	movement = 6
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20648 }
+	startdate = {
+		year = 1660
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1669
+	}
+	name = "Sigurd IV"
+	DIP = 7
+	ADM = 6
+	MIL = 9
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20649 }
+	startdate = {
+		year = 1669
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1694
+	}
+	name = "Valdemar X"
+	DIP = 7
+	ADM = 6
+	MIL = 8
+	movement = 5
+	fire = 6
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20650 }
+	startdate = {
+		year = 1694
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1703
+	}
+	name = "Christoffer III"
+	DIP = 8
+	ADM = 9
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20651 }
+	startdate = {
+		year = 1703
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1713
+	}
+	name = "Sigurd V"
+	DIP = 9
+	ADM = 8
+	MIL = 5
+	movement = 4
+	fire = 3
+	shock = 6
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20652 }
+	startdate = {
+		year = 1713
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1753
+	}
+	name = "Margerete IV"
+	DIP = 7
+	ADM = 9
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20653 }
+	startdate = {
+		year = 1753
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1780
+	}
+	name = "Eric IV"
+	DIP = 2
+	ADM = 8
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20654 }
+	startdate = {
+		year = 1780
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1782
+	}
+	name = "Sigurd VI"
+	DIP = 4
+	ADM = 4
+	MIL = 6
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20655 }
+	startdate = {
+		year = 1782
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1826
+	}
+	name = "Christian VI"
+	DIP = 3
+	ADM = 7
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

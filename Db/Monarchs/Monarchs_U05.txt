@@ -1,0 +1,285 @@
+historicalmonarch = {
+	id = { type = 6 id = 20821 }
+	startdate = {
+		year = 1419
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1452
+	}
+	name = "Teimuraz II"
+	DIP = 8
+	ADM = 5
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20822 }
+	startdate = {
+		year = 1452
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1489
+	}
+	name = "Teimuraz III"
+	DIP = 7
+	ADM = 5
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20823 }
+	startdate = {
+		year = 1489
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1527
+	}
+	name = "Alexander III"
+	DIP = 2
+	ADM = 5
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20824 }
+	startdate = {
+		year = 1527
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1544
+	}
+	name = "Teimuraz IV"
+	DIP = 8
+	ADM = 5
+	MIL = 8
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20825 }
+	startdate = {
+		year = 1544
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1592
+	}
+	name = "Bagrat III"
+	DIP = 6
+	ADM = 9
+	MIL = 9
+	movement = 6
+	fire = 2
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20826 }
+	startdate = {
+		year = 1592
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1641
+	}
+	name = "Alexander IV"
+	DIP = 7
+	ADM = 6
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20827 }
+	startdate = {
+		year = 1641
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1663
+	}
+	name = "Bagrat IV"
+	DIP = 2
+	ADM = 2
+	MIL = 7
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20828 }
+	startdate = {
+		year = 1663
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1672
+	}
+	name = "Bagrat V"
+	DIP = 9
+	ADM = 2
+	MIL = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20829 }
+	startdate = {
+		year = 1672
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1680
+	}
+	name = "Bagrat VI"
+	DIP = 4
+	ADM = 5
+	MIL = 5
+	movement = 3
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20830 }
+	startdate = {
+		year = 1680
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1696
+	}
+	name = "Irakli VII"
+	DIP = 2
+	ADM = 8
+	MIL = 8
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20831 }
+	startdate = {
+		year = 1696
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1706
+	}
+	name = "Bagrat VII"
+	DIP = 6
+	ADM = 6
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20832 }
+	startdate = {
+		year = 1706
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1728
+	}
+	name = "Bagrat VIII"
+	DIP = 6
+	ADM = 7
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20833 }
+	startdate = {
+		year = 1728
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1736
+	}
+	name = "Bagrat IX"
+	DIP = 3
+	ADM = 6
+	MIL = 6
+	movement = 2
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20834 }
+	startdate = {
+		year = 1736
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1777
+	}
+	name = "Bagrat X"
+	DIP = 6
+	ADM = 5
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20835 }
+	startdate = {
+		year = 1777
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1831
+	}
+	name = "Alexander V"
+	DIP = 7
+	ADM = 6
+	MIL = 7
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}

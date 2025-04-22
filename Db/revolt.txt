@@ -1,0 +1,2086 @@
+ADE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 442 }
+	extra = { 441 440 443 442 }
+	capital = 442
+}
+AFG = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 353 }
+	extra = { 353 352 326 325 324 354 366 367 }
+	capital = 353
+}
+AKK = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 473 }
+	extra = { 474 475 472 471 473 487 486 }
+	capital = 473
+}
+ALB = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 361 }
+	extra = { 362 363 358 359 361 394 820 }
+	capital = 361
+}
+ALD = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 737 }
+	extra = { 734 736 737 738 821 }
+	capital = 737
+}
+ALE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 485 }
+	extra = { 483 474 486 485 484 490 491 492 }
+	capital = 485
+}
+ALI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 471 }
+	extra = { 471 470 468 457 487 473 472 }
+	capital = 471
+}
+ALM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 452 }
+	extra = { 448 447 453 451 449 452 }
+	capital = 452
+}
+ALT = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 465 }
+	extra = { 463 464 465 466 469 }
+	capital = 465
+}
+AMG = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 252 }
+	extra = { 251 252 253 254 308 }
+	capital = 252
+}
+AMI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 287 }
+	extra = { 293 288 285 450 294 287 284 286 }
+	capital = 287
+}
+ANH = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 332 }
+	extra = { 333 310 311 331 347 332 }
+	capital = 332
+}
+ANJ = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 412 }
+	extra = { 413 411 410 417 416 414 412 }
+	capital = 412
+}
+ANN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 440 }
+	extra = { 443 442 441 434 435 436 439 440 }
+	capital = 440
+}
+APA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 253 }
+	extra = { 253 309 256 255 257 254 252 251 }
+	capital = 253
+}
+APU = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 394 }
+	extra = { 394 393 395 361 362 820 359 }
+	capital = 394
+}
+AQU = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 423 }
+	extra = { 424 418 419 420 421 422 426 423 }
+	capital = 423
+}
+ARA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 496 }
+	extra = { 496 494 495 489 747 746 }
+	capital = 496
+}
+ARG = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 430 }
+	extra = { 436 437 429 427 430 435 431 428 }
+	capital = 430
+}
+ARK = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 462 }
+	extra = { 296 295 461 460 463 462 }
+	capital = 462
+}
+ARM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 472 }
+	extra = { 475 471 472 473 470 }
+	capital = 472
+}
+ART = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 379 }
+	extra = { 383 380 377 376 379 378 385 }
+	capital = 379
+}
+ASH = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 367 }
+	extra = { 369 352 366 368 367 353 }
+	capital = 367
+}
+ASS = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 388 }
+	extra = { 387 374 373 1612 404 388 405 }
+	capital = 388
+}
+AST = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 457 }
+	extra = { 471 468 458 455 456 457 }
+	capital = 457
+}
+ASU = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 268 }
+	extra = { 270 274 267 268 269 271 }
+	capital = 268
+}
+ATH = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 360 }
+	extra = { 360 359 820 480 481 }
+	capital = 360
+}
+ATJ = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 445 }
+	extra = { 443 444 445 732 }
+	capital = 445
+}
+AUV = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 420 }
+	extra = { 423 421 408 409 410 419 420 }
+	capital = 420
+}
+AYU = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 431 }
+	extra = { 432 435 430 431 425 428 418 424 }
+	capital = 431
+}
+AYY = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 461 }
+	extra = { 461 450 460 462 295 }
+	capital = 461
+}
+AZT = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 432 }
+	extra = { 433 434 435 432 431 }
+	capital = 432
+}
+BAD = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 373 }
+	extra = { 1612 388 372 347 346 374 373 }
+	capital = 373
+}
+BAE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 454 }
+	extra = { 446 453 458 455 454 }
+	capital = 454
+}
+BAL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 466 }
+	extra = { 463 459 467 468 469 465 466 464 }
+	capital = 466
+}
+BAN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 433 }
+	extra = { 434 433 432 }
+	capital = 433
+}
+BAS = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 468 }
+	extra = { 466 467 458 457 471 470 469 468 }
+	capital = 468
+}
+BAY = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 349 }
+	extra = { 349 348 350 371 372 }
+	capital = 349
+}
+BEA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 425 }
+	extra = { 431 428 427 426 424 425 418 }
+	capital = 425
+}
+BEI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 421 }
+	extra = { 421 423 420 408 422 }
+	capital = 421
+}
+BEN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 438 }
+	extra = { 444 439 438 437 821 733 734 }
+	capital = 438
+}
+BGL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 449 }
+	extra = { 286 279 448 451 450 449 452 }
+	capital = 449
+}
+BOH = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 328 }
+	extra = { 327 330 329 315 328 }
+	capital = 328
+}
+BOS = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 364 }
+	extra = { 365 366 355 363 362 364 }
+	capital = 364
+}
+BOU = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 410 }
+	extra = { 419 418 417 412 411 409 420 410 }
+	capital = 410
+}
+BRA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 312 }
+	extra = { 311 304 302 313 314 329 331 312 }
+	capital = 312
+}
+BRE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 336 }
+	extra = { 335 310 305 306 336 }
+	capital = 336
+}
+BRI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 415 }
+	extra = { 415 414 416 249 413 }
+	capital = 415
+}
+BRZ = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 427 }
+	extra = { 430 428 429 425 426 427 422 821 }
+	capital = 427
+}
+BUK = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 467 }
+	extra = { 466 459 458 467 468 }
+	capital = 467
+}
+BUL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 356 }
+	extra = { 363 355 322 321 358 356 357 }
+	capital = 356
+}
+BUR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 409 }
+	extra = { 410 411 409 386 387 408 420 }
+	capital = 409
+}
+BYZ = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 357 }
+	extra = { 357 477 478 358 356 321 }
+	capital = 357
+}
+CAL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 476 }
+	extra = { 482 477 1609 475 474 483 476 }
+	capital = 476
+}
+CAM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 426 }
+	extra = { 425 427 422 423 424 426 821 }
+	capital = 426
+}
+CAN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 1609 }
+	extra = { 477 476 475 1609 }
+	capital = 1609
+}
+CAT = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 429 }
+	extra = { 437 430 429 427 821 }
+	capital = 429
+}
+CHA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 424 }
+	extra = { 425 426 423 424 418 431 }
+	capital = 424
+}
+CHE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 460 }
+	extra = { 461 451 459 463 462 460 450 }
+	capital = 460
+}
+CHG = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 419 }
+	extra = { 418 410 420 423 419 }
+	capital = 419
+}
+CHI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 408 }
+	extra = { 420 409 387 405 407 422 421 408 }
+	capital = 408
+}
+CHM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 458 }
+	extra = { 467 468 457 455 458 454 453 459 }
+	capital = 458
+}
+CMG = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 376 }
+	extra = { 385 379 377 375 386 376 }
+	capital = 376
+}
+CNW = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 250 }
+	extra = { 250 246 249 243 234 233 }
+	capital = 250
+}
+COI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 272 }
+	extra = { 270 271 446 447 448 272 }
+	capital = 272
+}
+COL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 417 }
+	extra = { 416 412 410 418 417 }
+	capital = 417
+}
+CON = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 231 }
+	extra = { 235 231 233 234 232 }
+	capital = 231
+}
+COR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 398 }
+	extra = { 398 397 406 404 403 402 401 400 399 }
+	capital = 398
+}
+CRD = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 443 }
+	extra = { 442 440 439 443 444 445 }
+	capital = 443
+}
+CRE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 450 }
+	extra = { 287 286 449 451 460 461 295 450 294 }
+	capital = 450
+}
+CRG = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 294 }
+	extra = { 293 287 450 295 297 294 }
+	capital = 294
+}
+CRI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 463 }
+	extra = { 463 464 465 466 459 460 462 296 319 }
+	capital = 463
+}
+CRO = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 366 }
+	extra = { 367 353 354 355 364 365 368 366 }
+	capital = 366
+}
+CUM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 451 }
+	extra = { 449 452 453 459 460 450 451 }
+	capital = 451
+}
+CYP = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 484 }
+	extra = { 484 1610 1611 483 485 491 492 493 494 }
+	capital = 484
+}
+CYR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 741 }
+	extra = { 480 741 740 742 819 820 }
+	capital = 741
+}
+DAH = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 395 }
+	extra = { 395 396 394 819 397 }
+	capital = 395
+}
+DAI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 464 }
+	extra = { 464 463 465 319 296 466 }
+	capital = 464
+}
+DAK = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 286 }
+	extra = { 285 449 450 287 286 279 }
+	capital = 286
+}
+DAM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 459 }
+	extra = { 466 463 460 451 453 458 467 459 }
+	capital = 459
+}
+DAN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 307 }
+	extra = { 307 309 306 305 304 251 }
+	capital = 307
+}
+DAU = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 407 }
+	extra = { 422 406 405 408 407 }
+	capital = 407
+}
+DEL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 453 }
+	extra = { 451 459 458 454 453 446 447 452 }
+	capital = 453
+}
+TAN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 732 }
+	extra = { 732 733 445 }
+	capital = 732
+}
+DUL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 474 }
+	extra = { 483 485 486 473 475 476 474 }
+	capital = 474
+}
+EDE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 486 }
+	extra = { 473 474 486 487 485 490 }
+	capital = 486
+}
+EGY = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 255 }
+	extra = { 309 253 255 257 381 258 256 }
+	capital = 255
+}
+EIR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 416 }
+	extra = { 417 412 416 415 414 }
+	capital = 416
+}
+ENG = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 247 }
+	extra = { 248 249 246 245 247 }
+	capital = 247
+}
+ETH = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 414 }
+	extra = { 414 415 416 412 413 249 }
+	capital = 414
+}
+FAT = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 256 }
+	extra = { 258 255 256 309 253 }
+	capital = 256
+}
+FEZ = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 733 }
+	extra = { 732 733 444 438 734 735 821 }
+	capital = 733
+}
+FLA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 380 }
+	extra = { 382 383 379 378 340 380 339 338 337 }
+	capital = 380
+}
+FPR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 258 }
+	extra = { 256 255 258 381 259 }
+	capital = 258
+}
+FRC = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 259 }
+	extra = { 258 381 259 260 261 263 }
+	capital = 259
+}
+FRI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 337 }
+	extra = { 339 338 337 380 340 335 }
+	capital = 337
+}
+FUC = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 735 }
+	extra = { 733 735 734 736 }
+	capital = 735
+}
+GEL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 338 }
+	extra = { 340 339 337 335 334 338 380 }
+	capital = 338
+}
+GEN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 403 }
+	extra = { 403 404 389 402 398 401 397 }
+	capital = 403
+}
+GEO = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 470 }
+	extra = { 469 468 471 470 472 475 }
+	capital = 470
+}
+GOT = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 308 }
+	extra = { 308 251 252 254 }
+	capital = 308
+}
+GRA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 444 }
+	extra = { 445 443 444 439 438 821 733 734 }
+	capital = 444
+}
+GRE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 359 }
+	extra = { 361 358 359 360 479 478 362 820 481 394 480 }
+	capital = 359
+}
+GUJ = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 1469 }
+	extra = { 254 257 1469 381 341 260 263 342 }
+	capital = 1469
+}
+HAI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 820 }
+	extra = { 360 359 480 820 394 361 362 741 }
+	capital = 820
+}
+HAM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 260 }
+	extra = { 381 1469 260 341 263 259 }
+	capital = 260
+}
+HAN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 310 }
+	extra = { 333 334 335 336 305 311 332 310 }
+	capital = 310
+}
+HAU = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 378 }
+	extra = { 379 380 340 344 377 378 }
+	capital = 378
+}
+HEI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 261 }
+	extra = { 261 262 259 263 }
+	capital = 261
+}
+HEL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 1612 }
+	extra = { 388 373 372 371 1612 389 404 }
+	capital = 1612
+}
+HES = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 333 }
+	extra = { 343 334 310 332 347 346 345 333 }
+	capital = 333
+}
+HLL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 339 }
+	extra = { 340 338 337 339 380 }
+	capital = 339
+}
+HSA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 341 }
+	extra = { 1469 341 342 263 260 }
+	capital = 341
+}
+HUR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 387 }
+	extra = { 408 405 388 374 375 386 409 387 }
+	capital = 387
+}
+HYD = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 386 }
+	extra = { 411 376 375 387 409 386 385 }
+	capital = 386
+}
+ICE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 734 }
+	extra = { 733 444 445 438 735 736 737 821 }
+	capital = 734
+}
+INC = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 263 }
+	extra = { 260 341 259 261 263 262 273 264 342 1469 }
+	capital = 263
+}
+IRA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 489 }
+	extra = { 489 488 508 496 490 531 495 }
+	capital = 489
+}
+IST = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 368 }
+	extra = { 365 370 369 367 366 368 390 391 392 }
+	capital = 368
+}
+JAI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 381 }
+	extra = { 258 255 257 381 260 1469 259 }
+	capital = 381
+}
+JER = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 483 }
+	extra = { 1611 482 476 474 485 483 484 491 492 }
+	capital = 483
+}
+JUT = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 309 }
+	extra = { 251 253 255 256 304 306 305 309 307 }
+	capital = 309
+}
+KAR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 1611 }
+	extra = { 1610 482 1611 483 481 484 }
+	capital = 1611
+}
+KAZ = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 446 }
+	extra = { 271 272 447 453 446 454 }
+	capital = 446
+}
+KHM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 246 }
+	extra = { 243 244 245 247 249 250 246 234 233 }
+	capital = 246
+}
+KIE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 736 }
+	extra = { 736 735 737 738 734 }
+	capital = 736
+}
+KLE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 343 }
+	extra = { 340 334 333 345 344 343 }
+	capital = 343
+}
+KOL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 344 }
+	extra = { 340 343 345 377 378 344 }
+	capital = 344
+}
+KON = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 245 }
+	extra = { 244 241 247 246 245 240 248 }
+	capital = 245
+}
+KOR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 264 }
+	extra = { 263 273 264 265 342 }
+	capital = 264
+}
+KRE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 480 }
+	extra = { 480 359 360 820 741 742 744 745 746 }
+	capital = 480
+}
+KRN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 273 }
+	extra = { 264 263 273 262 1470 266 265 }
+	capital = 273
+}
+KSH = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 301 }
+	extra = { 301 303 300 302 290 }
+	capital = 301
+}
+KUR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 283 }
+	extra = { 289 290 288 284 281 282 283 }
+	capital = 283
+}
+KUS = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 313 }
+	extra = { 313 312 302 303 314 }
+	capital = 313
+}
+KZK = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 248 }
+	extra = { 249 247 248 384 382 383 245 413 }
+	capital = 248
+}
+LAN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 242 }
+	extra = { 243 244 242 241 240 239 232 233 237 }
+	capital = 242
+}
+LAP = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 236 }
+	extra = { 237 236 }
+	capital = 236
+}
+LAT = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 282 }
+	extra = { 282 276 277 280 281 283 289 290 }
+	capital = 282
+}
+LEI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 234 }
+	extra = { 234 235 231 233 243 246 250 }
+	capital = 234
+}
+LEO = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 435 }
+	extra = { 440 434 432 431 430 436 435 }
+	capital = 435
+}
+LGD = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 351 }
+	extra = { 369 350 327 326 352 351 }
+	capital = 351
+}
+LIT = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 288 }
+	extra = { 291 290 284 287 293 292 288 283 }
+	capital = 288
+}
+LIV = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 265 }
+	extra = { 265 276 275 266 273 264 342 254 1469 }
+	capital = 265
+}
+LOR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 375 }
+	extra = { 374 387 386 376 377 345 375 }
+	capital = 375
+}
+LOU = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 266 }
+	extra = { 273 1470 266 267 275 265 }
+	capital = 266
+}
+LUA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 262 }
+	extra = { 269 267 1470 262 261 263 273 }
+	capital = 262
+}
+LUX = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 377 }
+	extra = { 377 378 344 345 375 376 379 }
+	capital = 377
+}
+MAA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 352 }
+	extra = { 352 351 326 353 367 369 }
+	capital = 352
+}
+MAG = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 311 }
+	extra = { 310 305 304 312 331 332 311 }
+	capital = 311
+}
+MAH = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 330 }
+	extra = { 348 327 328 329 331 347 330 }
+	capital = 330
+}
+MAI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 346 }
+	extra = { 374 345 333 347 373 346 }
+	capital = 346
+}
+MAL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 819 }
+	extra = { 395 396 819 739 740 741 }
+	capital = 819
+}
+MAN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 390 }
+	extra = { 391 389 371 390 370 368 392 }
+	capital = 390
+}
+MCH = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 240 }
+	extra = { 238 239 240 241 242 245 237 243 233 232 }
+	capital = 240
+}
+MEA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 233 }
+	extra = { 231 234 232 233 250 246 243 242 240 239 237 }
+	capital = 233
+}
+MEC = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 305 }
+	extra = { 251 311 310 336 306 304 305 307 309 }
+	capital = 305
+}
+MES = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 1470 }
+	extra = { 262 273 266 1470 267 269 }
+	capital = 1470
+}
+MEX = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 267 }
+	extra = { 1470 266 275 274 267 268 269 262 }
+	capital = 267
+}
+MIN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 275 }
+	extra = { 265 266 267 274 275 276 277 }
+	capital = 275
+}
+MKS = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 237 }
+	extra = { 236 237 239 238 243 242 233 232 240 }
+	capital = 237
+}
+MLC = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 269 }
+	extra = { 267 1470 262 269 268 271 }
+	capital = 269
+}
+MLL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 821 }
+	extra = { 821 444 438 437 429 427 426 422 733 734 737 738 }
+	capital = 821
+}
+MLO = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 389 }
+	extra = { 389 1612 371 390 402 403 404 391 }
+	capital = 389
+}
+MLW = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 238 }
+	extra = { 237 239 238 240 }
+	capital = 238
+}
+MOG = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 363 }
+	extra = { 361 362 364 355 356 363 358 }
+	capital = 363
+}
+MOL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 318 }
+	extra = { 323 298 297 296 319 320 322 318 317 }
+	capital = 318
+}
+MOR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 806 }
+	extra = { 733 806 }
+	capital =  806
+}
+MOS = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 270 }
+	extra = { 279 278 274 268 271 272 448 270 }
+	capital = 270
+}
+MSK = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 284 }
+	extra = { 288 284 283 281 280 285 287 }
+	capital = 284
+}
+MST = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 235 }
+	extra = { 231 234 235 }
+	capital = 235
+}
+MTR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 327 }
+	extra = { 348 330 328 315 326 351 350 327 }
+	capital = 327
+}
+MUN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 334 }
+	extra = { 338 335 310 333 343 340 334 }
+	capital = 334
+}
+MYA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 300 }
+	extra = { 303 301 290 291 292 299 300 314 }
+	capital = 300
+}
+MYS = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 303 }
+	extra = { 302 300 301 314 303 313 }
+	capital = 303
+}
+NAF = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 455 }
+	extra = { 454 455 458 457 456 }
+	capital = 455
+}
+NAP = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 393 }
+	extra = { 393 399 394 365 392 362 397 }
+	capital = 393
+}
+NAV = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 428 }
+	extra = { 430 431 428 427 425 }
+	capital = 428
+}
+NIP = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 315 }
+	extra = { 328 329 314 299 316 326 327 315 }
+	capital = 315
+}
+NOG = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 329 }
+	extra = { 331 312 314 315 328 330 329 }
+	capital = 329
+}
+NOR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 280 }
+	extra = { 281 282 277 278 279 285 284 280 }
+	capital = 280
+}
+NRM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 413 }
+	extra = { 414 412 411 384 413 415 249 248 382 383 }
+	capital = 413
+}
+NVG = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 274 }
+	extra = { 274 277 275 267 268 270 278 }
+	capital = 274
+}
+OHI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 382 }
+	extra = { 383 380 382 384 413 248 }
+	capital = 382
+}
+OLD = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 335 }
+	extra = { 336 310 334 338 337 335 306 }
+	capital = 335
+}
+OMA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 358 }
+	extra = { 363 356 358 359 361 357 479 478 481 }
+	capital = 358
+}
+ORI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 456 }
+	extra = { 455 457 456 }
+	capital = 456
+}
+ORL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 411 }
+	extra = { 412 413 384 385 386 409 410 411 }
+	capital = 411
+}
+PAM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 487 }
+	extra = { 471 473 486 487 488 490 530 }
+	capital = 487
+}
+PAR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 402 }
+	extra = { 403 389 391 402 401 398 404 397 }
+	capital = 402
+}
+PEG = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 404 }
+	extra = { 406 405 388 1612 389 404 403 398 401 402 397 }
+	capital = 404
+}
+PER = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 482 }
+	extra = { 477 478 1610 1611 483 476 482 }
+	capital = 482
+}
+PET = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 495 }
+	extra = { 495 496 490 492 493 494 489 746 747 }
+	capital = 495
+}
+PEU = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 738 }
+	extra = { 738 737 739 736 821 }
+	capital = 738
+}
+PFA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 345 }
+	extra = { 377 344 343 333 346 374 375 345 }
+	capital = 345
+}
+PIC = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 383 }
+	extra = { 384 385 379 382 383 248 380 }
+	capital = 383
+}
+PIS = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 400 }
+	extra = { 400 401 392 399 397 398 }
+	capital = 400
+}
+POD = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 292 }
+	extra = { 300 291 288 293 298 299 292 }
+	capital = 292
+}
+POI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 418 }
+	extra = { 424 423 419 410 418 431 425 417 }
+	capital = 418
+}
+POK = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 281 }
+	extra = { 284 280 282 283 281 }
+	capital = 281
+}
+POL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 299 }
+	extra = { 315 314 300 292 298 316 299 }
+	capital = 299
+}
+POM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 302 }
+	extra = { 301 302 304 303 313 312 }
+	capital = 302
+}
+PRM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 478 }
+	extra = { 357 478 477 482 1610 479 358 359 481 }
+	capital = 478
+}
+PRO = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 406 }
+	extra = { 422 407 405 406 404 398 397 }
+	capital = 406
+}
+PRT = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 434 }
+	extra = { 434 441 440 435 432 433 }
+	capital = 434
+}
+PRU = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 290 }
+	extra = { 282 283 289 290 288 291 300 301 }
+	capital = 290
+}
+PSK = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 277 }
+	extra = { 276 275 274 278 280 282 277 }
+	capital = 277
+}
+PUR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 244 }
+	extra = { 242 243 246 245 241 244 }
+	capital = 244
+}
+QAR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 348 }
+	extra = { 349 372 347 330 327 350 348 }
+	capital = 348
+}
+QUE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 320 }
+	extra = { 318 322 321 320 319 }
+	capital = 320
+}
+RAG = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 362 }
+	extra = { 365 364 363 362 361 359 394 393 820 }
+	capital = 362
+}
+ROM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 391 }
+	extra = { 392 401 402 389 390 391 368 370 }
+	capital = 391
+}
+ROY = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 481 }
+	extra = { 360 359 358 478 1610 1611 479 481 }
+	capital = 481
+}
+U06 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 279 }
+	extra = { 280 279 286 278 270 448 449 285 }
+	capital = 279
+}
+RYA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 448 }
+	extra = { 270 448 272 447 452 449 279 }
+	capital = 448
+}
+SAC = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 331 }
+	extra = { 347 332 311 312 329 330 331 }
+	capital = 331
+}
+SAR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 397 }
+	extra = { 397 406 404 403 402 401 400 399 393 396 395 398 739 740 }
+	capital = 397
+}
+SAV = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 405 }
+	extra = { 406 404 388 387 408 407 405 }
+	capital = 405
+}
+SCO = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 239 }
+	extra = { 237 238 239 240 232 233 243 242 }
+	capital = 239
+}
+SEI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 369 }
+	extra = { 370 371 350 351 352 367 368 369 }
+	capital = 369
+}
+SEL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 531 }
+	extra = { 488 489 530 531 }
+	capital = 531
+}
+SER = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 355 }
+	extra = { 364 366 354 322 356 363 355 }
+	capital = 355
+}
+SEV = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 469 }
+	extra = { 465 466 468 470 469 475 }
+	capital = 469
+}
+SHA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 324 }
+	extra = { 353 325 324 317 323 354 }
+	capital = 324
+}
+SHL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 306 }
+	extra = { 251 305 336 309 306 335 307 304 }
+	capital = 306
+}
+SIB = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 317 }
+	extra = { 325 316 298 318 317 324 323 }
+	capital = 317
+}
+SIC = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 396 }
+	extra = { 396 819 395 397 }
+	capital = 396
+}
+SIE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 323 }
+	extra = { 354 324 317 318 322 323 }
+	capital = 323
+}
+SIL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 314 }
+	extra = { 329 312 313 303 300 299 315 314 }
+	capital = 314
+}
+SKA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 251 }
+	extra = { 251 307 309 253 252 306 305 304 308 }
+	capital = 251
+}
+SON = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 296 }
+	extra = { 296 319 318 297 295 462 463 464 }
+	capital = 296
+}
+SLZ = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 350 }
+	extra = { 349 348 327 351 369 371 350 }
+	capital = 350
+}
+SMO = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 285 }
+	extra = { 287 284 280 286 285 279 }
+	capital = 285
+}
+SLO = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 316 }
+	extra = { 315 299 298 317 325 326 316 }
+	capital = 316
+}
+SPR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 385 }
+	extra = { 383 379 376 386 411 384 385 }
+	capital = 385
+}
+STR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 374 }
+	extra = { 345 375 374 387 388 373 346 }
+	capital = 374
+}
+STT = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 304 }
+	extra = { 251 304 309 307 306 305 311 312 302 }
+	capital = 304
+}
+SUD = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 750 }
+	extra = { 750 748 749 747 746 494 495 496 497 }
+	capital = 750
+}
+SUZ = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 271 }
+	extra = { 271 268 269 270 272 446 }
+	capital = 271
+}
+SWA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 399 }
+	extra = { 400 392 399 393 397 398 }
+	capital = 399
+}
+SWE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 254 }
+	extra = { 308 254 252 253 257 1469 342 265 }
+	capital = 254
+}
+SYR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 490 }
+	extra = { 490 491 492 495 488 489 487 485 486 }
+	capital = 490
+}
+DLH = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 447 }
+	extra = { 272 448 447 452 453 446 }
+	capital = 447
+}
+TAU = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 326 }
+	extra = { 351 352 325 353 316 315 327 326 }
+	capital = 326
+}
+TEK = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 1610 }
+	extra = { 1610 482 1611 481 478 484 }
+	capital = 1610
+}
+THE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 742 }
+	extra = { 480 742 741 743 744 }
+	capital = 742
+}
+THU = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 347 }
+	extra = { 346 333 331 330 348 372 373 347 332 }
+	capital = 347
+}
+TIB = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 298 }
+	extra = { 299 316 317 318 297 293 292 298 }
+	capital = 298
+}
+TIM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 743 }
+	extra = { 743 742 744 746 747 }
+	capital = 743
+}
+TOS = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 401 }
+	extra = { 402 391 392 401 400 398 404 403 397 }
+	capital = 401
+}
+TOU = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 422 }
+	extra = { 426 423 421 408 407 406 422 427 821 }
+	capital = 422
+}
+TOX = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 747 }
+	extra = { 743 746 747 494 495 496 }
+	capital = 747
+}
+TRE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 475 }
+	extra = { 470 469 1609 475 476 474 473 472 }
+	capital = 475
+}
+TRI = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 740 }
+	extra = { 739 740 741 819 395 396 397 }
+	capital = 740
+}
+TUN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 739 }
+	extra = { 739 738 740 397 819 }
+	capital = 739
+}
+TVE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 278 }
+	extra = { 280 277 274 270 279 278 }
+	capital = 278
+}
+TYR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 371 }
+	extra = { 1612 372 349 350 369 370 390 389 371 }
+	capital = 371
+}
+U01 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 441 }
+	extra = { 434 440 442 441 }
+	capital = 441
+}
+U02 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 325 }
+	extra = { 325 324 353 326 316 317 }
+	capital = 325
+}
+U03 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 477 }
+	extra = { 478 357 477 482 476 1609 }
+	capital = 477
+}
+U07 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 354 }
+	extra = { 366 353 324 323 322 355 354 }
+	capital = 354
+}
+U08 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 276 }
+	extra = { 265 275 277 282 276 }
+	capital = 276
+}
+U10 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 257 }
+	extra = { 255 253 254 257 1469 381 }
+	capital = 257
+}
+U11 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 436 }
+	extra = { 440 435 436 430 437 439 }
+	capital = 436
+}
+U12 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 392 }
+	extra = { 392 393 399 400 401 391 368 370 390 }
+	capital = 392
+}
+U15 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 437 }
+	extra = { 438 439 436 430 429 437 821 }
+	capital = 437
+}
+U25 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 342 }
+	extra = { 263 342 264 265 341 1469 254 }
+	capital = 342
+}
+U26 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 321 }
+	extra = { 321 357 356 322 320 }
+	capital = 321
+}
+U29 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 365 }
+	extra = { 362 364 365 368 393 366 }
+	capital = 365
+}
+U30 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 479 }
+	extra = { 359 358 479 478 481 }
+	capital = 479
+}
+U31 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 748 }
+	extra = { 748 747 749 750 }
+	capital = 748
+}
+U32 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 749 }
+	extra = { 749 748 750 747 746 494 495 496 497 }
+	capital = 749
+}
+U33 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 497 }
+	extra = { 497 750 749 747 494 495 496 746 }
+	capital = 497
+}
+U34 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 491 }
+	extra = { 490 491 492 484 485 483 }
+	capital = 491
+}
+U35 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 492 }
+	extra = { 483 484 485 492 491 493 495 490 494 }
+	capital = 492
+}
+U36 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 488 }
+	extra = { 488 489 490 530 531 487 }
+	capital = 488
+}
+U37 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 530 }
+	extra = { 530 531 487 488 }
+	capital = 530
+}
+U38 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 384 }
+	extra = { 383 385 411 413 384 248 382 }
+	capital = 384
+}
+U39 = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 319 }
+	extra = { 320 318 319 296 463 464 }
+	capital = 319
+}
+UKR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 295 }
+	extra = { 297 294 295 450 461 462 296 }
+	capital = 295
+}
+ULS = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 232 }
+	extra = { 231 233 232 239 237 240 242 243 }
+	capital = 232
+}
+USA = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 291 }
+	extra = { 300 290 291 288 292 }
+	capital = 291
+}
+UZB = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 297 }
+	extra = { 297 298 294 295 296 318 293 }
+	capital = 297
+}
+WAL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 322 }
+	extra = { 355 354 323 318 320 321 356 322 }
+	capital = 322
+}
+VEN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 370 }
+	extra = { 392 391 390 370 368 369 371 }
+	capital = 370
+}
+VER = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 744 }
+	extra = { 480 744 742 743 745 746 }
+	capital = 744
+}
+VIE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 745 }
+	extra = { 480 744 745 746 }
+	capital = 745
+}
+VIJ = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 746 }
+	extra = { 480 743 744 745 746 747 494 495 496 }
+	capital = 746
+}
+WLS = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 243 }
+	extra = { 242 244 246 243 239 237 240 232 233 234 250 }
+	capital = 243
+}
+VOL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 293 }
+	extra = { 293 288 287 294 297 298 292 }
+	capital = 293
+}
+WUR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 372 }
+	extra = { 373 347 348 349 372 1612 371 }
+	capital = 372
+}
+XHO = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 494 }
+	extra = { 484 494 493 495 746 496 747 492 }
+	capital = 494
+}
+YOR = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 241 }
+	extra = { 240 242 244 241 245 }
+	capital = 241
+}
+ZAN = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 439 }
+	extra = { 443 440 436 437 438 444 439 }
+	capital = 439
+}
+ZAP = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 289 }
+	extra = { 283 290 289 282 }
+	capital = 289
+}
+ZEE = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 340 }
+	extra = { 380 378 344 343 334 338 339 340 337 }
+	capital = 340
+}
+ZIM = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 249 }
+	extra = { 249 250 246 247 248 413 414 415 }
+	capital = 249
+}
+ZUL = {
+	date = { year = 1400 }
+	expirydate = { year = 2000 }
+	minimum = { 493 }
+	extra = { 484 493 492 494 495 }
+	capital = 493
+}

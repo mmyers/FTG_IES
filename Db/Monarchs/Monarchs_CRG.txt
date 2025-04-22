@@ -1,0 +1,342 @@
+historicalmonarch = {
+	id = { type = 6 id = 19401 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1442
+	}
+	name = "Boris III"
+	DIP = 3
+	ADM = 3
+	MIL = 8
+	movement = 6
+	fire = 5
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19402 }
+	startdate = {
+		year = 1442
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1486
+	}
+	name = "Aleksandr VI"
+	DIP = 2
+	ADM = 2
+	MIL = 7
+	movement = 4
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19403 }
+	startdate = {
+		year = 1486
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1533
+	}
+	name = "Boris IV"
+	DIP = 8
+	ADM = 3
+	MIL = 2
+	movement = 4
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19404 }
+	startdate = {
+		year = 1533
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1563
+	}
+	name = "Aleksandr VII"
+	DIP = 4
+	ADM = 2
+	MIL = 2
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19405 }
+	startdate = {
+		year = 1563
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1614
+	}
+	name = "Zygimantas Theosidos"
+	DIP = 4
+	ADM = 3
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19406 }
+	startdate = {
+		year = 1614
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1631
+	}
+	name = "Aleksandr VIII"
+	DIP = 7
+	ADM = 2
+	MIL = 4
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19407 }
+	startdate = {
+		year = 1631
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1641
+	}
+	name = "Boris V"
+	DIP = 8
+	ADM = 3
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 19408 }
+	startdate = {
+		year = 1641
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1650
+	}
+	name = "Boris VI"
+	DIP = 7
+	ADM = 9
+	MIL = 8
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19409 }
+	startdate = {
+		year = 1650
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1657
+	}
+	name = "Aleksandr IX"
+	DIP = 7
+	ADM = 9
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19410 }
+	startdate = {
+		year = 1657
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1691
+	}
+	name = "Aleksandr X"
+	DIP = 5
+	ADM = 4
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19411 }
+	startdate = {
+		year = 1691
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1702
+	}
+	name = "Aleksandr XI"
+	DIP = 6
+	ADM = 2
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19412 }
+	startdate = {
+		year = 1702
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1710
+	}
+	name = "Aleksandr XII"
+	DIP = 2
+	ADM = 2
+	MIL = 3
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 19413 }
+	startdate = {
+		year = 1710
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1753
+	}
+	name = "Boris VII"
+	DIP = 2
+	ADM = 6
+	MIL = 7
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19414 }
+	startdate = {
+		year = 1753
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1791
+	}
+	name = "Boris VIII"
+	DIP = 8
+	ADM = 7
+	MIL = 8
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19415 }
+	startdate = {
+		year = 1791
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1800
+	}
+	name = "Aleksandr XIII"
+	DIP = 2
+	ADM = 4
+	MIL = 6
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19416 }
+	startdate = {
+		year = 1800
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1809
+	}
+	name = "Aleksandr XIV"
+	DIP = 6
+	ADM = 8
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19417 }
+	startdate = {
+		year = 1809
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1817
+	}
+	name = "Boris IX"
+	DIP = 4
+	ADM = 7
+	MIL = 2
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19418 }
+	startdate = {
+		year = 1817
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1827
+	}
+	name = "Aleksandr XV"
+	DIP = 9
+	ADM = 3
+	MIL = 6
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}

@@ -1,0 +1,980 @@
+historicalleader = {
+	id = { type = 6 id = 2736 }
+	category = monarch
+	name = "Charles II"
+	startdate = {
+		year = 1419
+	}
+	deathdate = {
+		year = 1447
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 2735 }
+	category = monarch
+	name = "Charles III"
+	startdate = {
+		year = 1459
+	}
+	deathdate = {
+		year = 1508
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 2734 }
+	category = monarch
+	name = "Charles IV"
+	startdate = {
+		year = 1508
+	}
+	deathdate = {
+		year = 1528
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 2733 }
+	category = monarch
+	name = "Pierre XI"
+	startdate = {
+		year = 1568
+	}
+	deathdate = {
+		year = 1593
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 2732 }
+	category = monarch
+	name = "Bertrand II"
+	startdate = {
+		year = 1628
+	}
+	deathdate = {
+		year = 1663
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 2731 }
+	category = monarch
+	name = "Charles V"
+	startdate = {
+		year = 1665
+	}
+	deathdate = {
+		year = 1674
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 2730 }
+	category = monarch
+	name = "Armand V"
+	startdate = {
+		year = 1682
+	}
+	deathdate = {
+		year = 1709
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 2729 }
+	category = monarch
+	name = "Armand VI"
+	startdate = {
+		year = 1728
+	}
+	deathdate = {
+		year = 1764
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 2728 }
+	category = monarch
+	name = "Pierre XII"
+	startdate = {
+		year = 1764
+	}
+	deathdate = {
+		year = 1777
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 2727 }
+	category = monarch
+	name = "Charles VI"
+	startdate = {
+		year = 1793
+	}
+	deathdate = {
+		year = 1832
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 6
+	fire = 5
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4351 }
+	category = general
+	name = "Albret"
+	startdate = {
+		year = 1413
+	}
+	deathdate = {
+		year = 1435
+	}
+	rank = 5
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4352 }
+	category = general
+	name = "Saint Denis"
+	startdate = {
+		year = 1417
+	}
+	deathdate = {
+		year = 1439
+	}
+	rank = 1
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4353 }
+	category = general
+	name = "Boissieu"
+	startdate = {
+		year = 1509
+	}
+	deathdate = {
+		year = 1533
+	}
+	rank = 11
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4354 }
+	category = general
+	name = "Rochechouart"
+	startdate = {
+		year = 1567
+	}
+	deathdate = {
+		year = 1585
+	}
+	rank = 10
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4355 }
+	category = conquistador
+	name = "Maurepas"
+	startdate = {
+		year = 1522
+	}
+	deathdate = {
+		year = 1546
+	}
+	rank = 10
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4356 }
+	category = conquistador
+	name = "Lussac"
+	startdate = {
+		year = 1578
+	}
+	deathdate = {
+		year = 1601
+	}
+	rank = 8
+	movement = 4
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4357 }
+	category = general
+	name = "Gentil"
+	startdate = {
+		year = 1422
+	}
+	deathdate = {
+		year = 1447
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4358 }
+	category = general
+	name = "Provence"
+	startdate = {
+		year = 1435
+	}
+	deathdate = {
+		year = 1458
+	}
+	rank = 0
+	movement = 6
+	fire = 4
+	shock = 6
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4359 }
+	category = general
+	name = "de Valois"
+	startdate = {
+		year = 1451
+	}
+	deathdate = {
+		year = 1475
+	}
+	rank = 5
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4360 }
+	category = general
+	name = "Crussol"
+	startdate = {
+		year = 1456
+	}
+	deathdate = {
+		year = 1480
+	}
+	rank = 0
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4361 }
+	category = general
+	name = "Dupont"
+	startdate = {
+		year = 1470
+	}
+	deathdate = {
+		year = 1495
+	}
+	rank = 4
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4362 }
+	category = general
+	name = "Ferrand"
+	startdate = {
+		year = 1481
+	}
+	deathdate = {
+		year = 1499
+	}
+	rank = 2
+	movement = 3
+	fire = 5
+	shock = 5
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 4363 }
+	category = general
+	name = "Rochechouart"
+	startdate = {
+		year = 1489
+	}
+	deathdate = {
+		year = 1507
+	}
+	rank = 4
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4364 }
+	category = general
+	name = "Chaumont"
+	startdate = {
+		year = 1500
+	}
+	deathdate = {
+		year = 1525
+	}
+	rank = 0
+	movement = 5
+	fire = 6
+	shock = 6
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 4365 }
+	category = general
+	name = "Maurepas"
+	startdate = {
+		year = 1507
+	}
+	deathdate = {
+		year = 1528
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4366 }
+	category = general
+	name = "de Clermont"
+	startdate = {
+		year = 1514
+	}
+	deathdate = {
+		year = 1536
+	}
+	rank = 0
+	movement = 4
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4367 }
+	category = general
+	name = "Marchand"
+	startdate = {
+		year = 1529
+	}
+	deathdate = {
+		year = 1554
+	}
+	rank = 5
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4368 }
+	category = general
+	name = "de Valois"
+	startdate = {
+		year = 1543
+	}
+	deathdate = {
+		year = 1563
+	}
+	rank = 0
+	movement = 4
+	fire = 6
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4369 }
+	category = general
+	name = "Bernouville"
+	startdate = {
+		year = 1547
+	}
+	deathdate = {
+		year = 1569
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4370 }
+	category = general
+	name = "Ambleteuse"
+	startdate = {
+		year = 1563
+	}
+	deathdate = {
+		year = 1581
+	}
+	rank = 6
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4371 }
+	category = general
+	name = "de Clermont"
+	startdate = {
+		year = 1573
+	}
+	deathdate = {
+		year = 1594
+	}
+	rank = 2
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 4372 }
+	category = general
+	name = "Boissieu"
+	startdate = {
+		year = 1578
+	}
+	deathdate = {
+		year = 1601
+	}
+	rank = 3
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4373 }
+	category = general
+	name = "Charles"
+	startdate = {
+		year = 1586
+	}
+	deathdate = {
+		year = 1611
+	}
+	rank = 2
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4374 }
+	category = general
+	name = "Vergennes"
+	startdate = {
+		year = 1600
+	}
+	deathdate = {
+		year = 1616
+	}
+	rank = 3
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 4375 }
+	category = general
+	name = "Marchand"
+	startdate = {
+		year = 1605
+	}
+	deathdate = {
+		year = 1625
+	}
+	rank = 6
+	movement = 3
+	fire = 2
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4376 }
+	category = general
+	name = "Pellefort"
+	startdate = {
+		year = 1618
+	}
+	deathdate = {
+		year = 1636
+	}
+	rank = 2
+	movement = 3
+	fire = 2
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4377 }
+	category = general
+	name = "Thibaut"
+	startdate = {
+		year = 1628
+	}
+	deathdate = {
+		year = 1649
+	}
+	rank = 3
+	movement = 3
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4378 }
+	category = general
+	name = "Albret"
+	startdate = {
+		year = 1637
+	}
+	deathdate = {
+		year = 1659
+	}
+	rank = 0
+	movement = 5
+	fire = 5
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4379 }
+	category = general
+	name = "Saint Gilles"
+	startdate = {
+		year = 1645
+	}
+	deathdate = {
+		year = 1670
+	}
+	rank = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4380 }
+	category = general
+	name = "Vincennes"
+	startdate = {
+		year = 1659
+	}
+	deathdate = {
+		year = 1678
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4381 }
+	category = general
+	name = "Castelnau"
+	startdate = {
+		year = 1674
+	}
+	deathdate = {
+		year = 1691
+	}
+	rank = 3
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4382 }
+	category = general
+	name = "Rocca Serra"
+	startdate = {
+		year = 1679
+	}
+	deathdate = {
+		year = 1704
+	}
+	rank = 1
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4383 }
+	category = general
+	name = "de Beaujeu"
+	startdate = {
+		year = 1687
+	}
+	deathdate = {
+		year = 1709
+	}
+	rank = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4384 }
+	category = general
+	name = "Savoie"
+	startdate = {
+		year = 1702
+	}
+	deathdate = {
+		year = 1725
+	}
+	rank = 3
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4385 }
+	category = general
+	name = "Marsillac"
+	startdate = {
+		year = 1711
+	}
+	deathdate = {
+		year = 1730
+	}
+	rank = 3
+	movement = 2
+	fire = 5
+	shock = 4
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 4386 }
+	category = general
+	name = "Crevecoeur"
+	startdate = {
+		year = 1718
+	}
+	deathdate = {
+		year = 1734
+	}
+	rank = 0
+	movement = 6
+	fire = 6
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4387 }
+	category = general
+	name = "Maurepas"
+	startdate = {
+		year = 1728
+	}
+	deathdate = {
+		year = 1745
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4388 }
+	category = conquistador
+	name = "Hardouin"
+	startdate = {
+		year = 1736
+	}
+	deathdate = {
+		year = 1761
+	}
+	rank = 9
+	movement = 4
+	fire = 5
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4389 }
+	category = general
+	name = "Maine"
+	startdate = {
+		year = 1745
+	}
+	deathdate = {
+		year = 1768
+	}
+	rank = 3
+	movement = 2
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4390 }
+	category = general
+	name = "Pernod"
+	startdate = {
+		year = 1755
+	}
+	deathdate = {
+		year = 1775
+	}
+	rank = 1
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4391 }
+	category = general
+	name = "Carentan"
+	startdate = {
+		year = 1763
+	}
+	deathdate = {
+		year = 1788
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4392 }
+	category = general
+	name = "Levesques"
+	startdate = {
+		year = 1781
+	}
+	deathdate = {
+		year = 1798
+	}
+	rank = 0
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4393 }
+	category = general
+	name = "Saint Gilles"
+	startdate = {
+		year = 1666
+	}
+	deathdate = {
+		year = 1685
+	}
+	rank = 3
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4394 }
+	category = general
+	name = "Quesnel"
+	startdate = {
+		year = 1683
+	}
+	deathdate = {
+		year = 1707
+	}
+	rank = 4
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4395 }
+	category = general
+	name = "Quesnel"
+	startdate = {
+		year = 1716
+	}
+	deathdate = {
+		year = 1739
+	}
+	rank = 6
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4396 }
+	category = general
+	name = "Hardouin"
+	startdate = {
+		year = 1745
+	}
+	deathdate = {
+		year = 1763
+	}
+	rank = 6
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4397 }
+	category = general
+	name = "Albret"
+	startdate = {
+		year = 1765
+	}
+	deathdate = {
+		year = 1786
+	}
+	rank = 4
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 4398 }
+	category = general
+	name = "Le Presle"
+	startdate = {
+		year = 1668
+	}
+	deathdate = {
+		year = 1686
+	}
+	rank = 2
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4399 }
+	category = general
+	name = "Stainville"
+	startdate = {
+		year = 1687
+	}
+	deathdate = {
+		year = 1708
+	}
+	rank = 3
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 4350 }
+	category = general
+	name = "Crevecoeur"
+	startdate = {
+		year = 1718
+	}
+	deathdate = {
+		year = 1742
+	}
+	rank = 1
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}

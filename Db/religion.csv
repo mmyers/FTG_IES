@@ -1,0 +1,13 @@
+;Techspeed;Stab bonus;Prod. Eff.;Trade. Eff.;Tax Income;Morale;Ann.Col;Ann.Dip;Ann.Miss;x
+Protestantism;4;-500;20;10;0;20;200;100;80;x
+Reformed;3;-200;0;20;10;40;200;100;40;x
+Counterreformed;-2;1000;0;0;-20;40;200;100;200;x
+Catholicism;0;500;0;0;0;0;200;100;120;x
+Orthodox;-1;800;0;0;5;0;200;100;80;x
+Sunni islam;-1;400;0;10;0;40;200;100;120;x
+Shiite islam;-3;300;0;10;-10;100;200;100;160;x
+Paganism;0;0;0;0;0;0;0;0;0;x
+Confucianism;0;0;100;0;100;500;-1000;-1000;-1000;x
+Hinduism;0;0;0;0;0;0;-1000;-1000;-1000;x
+Buddhism;0;0;0;0;0;0;-1000;-1000;-1000;x
+END;;;;;;;;;;

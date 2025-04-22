@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 15721 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1454
+	}
+	name = "François XII"
+	DIP = 9
+	ADM = 9
+	MIL = 3
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15722 }
+	startdate = {
+		year = 1454
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1498
+	}
+	name = "François XIII"
+	DIP = 4
+	ADM = 5
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15723 }
+	startdate = {
+		year = 1498
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1539
+	}
+	name = "Charles III"
+	DIP = 2
+	ADM = 7
+	MIL = 7
+	movement = 5
+	fire = 6
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15724 }
+	startdate = {
+		year = 1539
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1566
+	}
+	name = "Charles IV"
+	DIP = 4
+	ADM = 5
+	MIL = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15725 }
+	startdate = {
+		year = 1566
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1597
+	}
+	name = "François XIV"
+	DIP = 2
+	ADM = 2
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 2
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 15726 }
+	startdate = {
+		year = 1597
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1634
+	}
+	name = "François XV"
+	DIP = 4
+	ADM = 9
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15727 }
+	startdate = {
+		year = 1634
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1645
+	}
+	name = "François XVI"
+	DIP = 2
+	ADM = 2
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15728 }
+	startdate = {
+		year = 1645
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1678
+	}
+	name = "François XVII"
+	DIP = 4
+	ADM = 4
+	MIL = 4
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15729 }
+	startdate = {
+		year = 1678
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1729
+	}
+	name = "François XVIII"
+	DIP = 2
+	ADM = 5
+	MIL = 8
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15730 }
+	startdate = {
+		year = 1729
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1742
+	}
+	name = "François XIX"
+	DIP = 5
+	ADM = 4
+	MIL = 5
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15731 }
+	startdate = {
+		year = 1742
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1772
+	}
+	name = "François XX"
+	DIP = 3
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15732 }
+	startdate = {
+		year = 1772
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1775
+	}
+	name = "François XXI"
+	DIP = 8
+	ADM = 3
+	MIL = 9
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15733 }
+	startdate = {
+		year = 1775
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1778
+	}
+	name = "Charles V"
+	DIP = 3
+	ADM = 7
+	MIL = 4
+	movement = 2
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15734 }
+	startdate = {
+		year = 1778
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1816
+	}
+	name = "François XXII"
+	DIP = 4
+	ADM = 7
+	MIL = 7
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15735 }
+	startdate = {
+		year = 1816
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1817
+	}
+	name = "François XXIII"
+	DIP = 2
+	ADM = 2
+	MIL = 6
+	movement = 2
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15736 }
+	startdate = {
+		year = 1817
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1824
+	}
+	name = "François XXIV"
+	DIP = 6
+	ADM = 8
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

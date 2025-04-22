@@ -1,0 +1,36 @@
+# preferred areas for expansion
+continent = { }
+region = { }
+
+# % of the time we prefer to establish a tradingpost if both are good.
+tradingpost = 0
+
+# The amount of provinces we try to colonize at the same time
+expansion = 0
+
+# Bonus for areas to establish colonies adjacent to previous ones.
+neighbour = 0
+
+# Bonus/Penalty for establish colonies adjacent to other countries.
+enemies = 0
+
+# 100 = max trader rate, lesser means slower focus on sending a trader.
+traders = 0
+
+# 100 = Total monopolist, will refuse trade as much as possible.
+monopoly = 0
+
+# 100 = Total warmonger, 0 = absolute pacifist
+war = 0
+
+# yes = Nation fights to the death, no = Nation will try to get out of wars
+ferocity = no
+
+#if possible we WILL go counter reform
+sreligion = no
+
+#How important is it to gather troops close to base
+base = 1.0
+#How important is it to be as close to target position when gathering troops.
+front = 50.0
+

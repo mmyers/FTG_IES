@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 17641 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1425
+	}
+	name = "Aleksandr I"
+	DIP = 8
+	ADM = 6
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17642 }
+	startdate = {
+		year = 1425
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1433
+	}
+	name = "Aleksandr II"
+	DIP = 9
+	ADM = 2
+	MIL = 7
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17643 }
+	startdate = {
+		year = 1433
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1443
+	}
+	name = "Aleksandr III"
+	DIP = 4
+	ADM = 5
+	MIL = 7
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 17644 }
+	startdate = {
+		year = 1443
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1478
+	}
+	name = "Aleksandr IV"
+	DIP = 3
+	ADM = 4
+	MIL = 3
+	movement = 2
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17645 }
+	startdate = {
+		year = 1478
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1481
+	}
+	name = "Aleksandr V"
+	DIP = 9
+	ADM = 2
+	MIL = 2
+	movement = 6
+	fire = 5
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17646 }
+	startdate = {
+		year = 1481
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1520
+	}
+	name = "Aleksandr VI"
+	DIP = 9
+	ADM = 4
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 17647 }
+	startdate = {
+		year = 1520
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1539
+	}
+	name = "Ivan IV"
+	DIP = 2
+	ADM = 7
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17648 }
+	startdate = {
+		year = 1539
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1546
+	}
+	name = "Dmitry II"
+	DIP = 8
+	ADM = 2
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17649 }
+	startdate = {
+		year = 1546
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1606
+	}
+	name = "Aleksandr VII"
+	DIP = 9
+	ADM = 9
+	MIL = 4
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17650 }
+	startdate = {
+		year = 1606
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1652
+	}
+	name = "Aleksandr VIII"
+	DIP = 9
+	ADM = 9
+	MIL = 9
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17651 }
+	startdate = {
+		year = 1652
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1658
+	}
+	name = "Ivan v"
+	DIP = 9
+	ADM = 8
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17652 }
+	startdate = {
+		year = 1658
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1688
+	}
+	name = "Ivan VI"
+	DIP = 4
+	ADM = 3
+	MIL = 6
+	movement = 6
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17653 }
+	startdate = {
+		year = 1688
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1716
+	}
+	name = "Ivan VII"
+	DIP = 4
+	ADM = 9
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17654 }
+	startdate = {
+		year = 1716
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1758
+	}
+	name = "Aleksandr IX"
+	DIP = 3
+	ADM = 2
+	MIL = 3
+	movement = 3
+	fire = 2
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17655 }
+	startdate = {
+		year = 1758
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1776
+	}
+	name = "Aleksandr X"
+	DIP = 2
+	ADM = 5
+	MIL = 6
+	movement = 6
+	fire = 5
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17656 }
+	startdate = {
+		year = 1776
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1824
+	}
+	name = "Dmitry III"
+	DIP = 2
+	ADM = 8
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

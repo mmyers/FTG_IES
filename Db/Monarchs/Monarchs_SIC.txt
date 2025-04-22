@@ -1,0 +1,342 @@
+historicalmonarch = {
+	id = { type = 6 id = 16321 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1469
+	}
+	name = "Allesandro I"
+	DIP = 7
+	ADM = 3
+	MIL = 8
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16322 }
+	startdate = {
+		year = 1469
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1479
+	}
+	name = "Lorenzo IX"
+	DIP = 8
+	ADM = 2
+	MIL = 7
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16323 }
+	startdate = {
+		year = 1479
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1517
+	}
+	name = "Lorenzo X"
+	DIP = 2
+	ADM = 9
+	MIL = 2
+	movement = 2
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16324 }
+	startdate = {
+		year = 1517
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1551
+	}
+	name = "Battista II"
+	DIP = 5
+	ADM = 2
+	MIL = 2
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 16325 }
+	startdate = {
+		year = 1551
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1567
+	}
+	name = "Battista III"
+	DIP = 8
+	ADM = 4
+	MIL = 5
+	movement = 2
+	fire = 5
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16326 }
+	startdate = {
+		year = 1567
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1604
+	}
+	name = "Lorenzo XI"
+	DIP = 5
+	ADM = 4
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16327 }
+	startdate = {
+		year = 1604
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1627
+	}
+	name = "Lorenzo XII"
+	DIP = 6
+	ADM = 5
+	MIL = 6
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 4
+}
+historicalmonarch = {
+	id = { type = 6 id = 16328 }
+	startdate = {
+		year = 1627
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1657
+	}
+	name = "Frederigo I"
+	DIP = 2
+	ADM = 5
+	MIL = 4
+	movement = 4
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16329 }
+	startdate = {
+		year = 1657
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1660
+	}
+	name = "Lorenzo XIII"
+	DIP = 9
+	ADM = 2
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16330 }
+	startdate = {
+		year = 1660
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1697
+	}
+	name = "Allesandro II"
+	DIP = 4
+	ADM = 6
+	MIL = 4
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16331 }
+	startdate = {
+		year = 1697
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1722
+	}
+	name = "Battista IV"
+	DIP = 2
+	ADM = 3
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16332 }
+	startdate = {
+		year = 1722
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1739
+	}
+	name = "Frederigo II"
+	DIP = 2
+	ADM = 7
+	MIL = 5
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16333 }
+	startdate = {
+		year = 1739
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1749
+	}
+	name = "Lorenzo XIV"
+	DIP = 5
+	ADM = 2
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16334 }
+	startdate = {
+		year = 1749
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1758
+	}
+	name = "Battista V"
+	DIP = 7
+	ADM = 3
+	MIL = 7
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16335 }
+	startdate = {
+		year = 1758
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1791
+	}
+	name = "Frederigo III"
+	DIP = 8
+	ADM = 4
+	MIL = 8
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16336 }
+	startdate = {
+		year = 1791
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1807
+	}
+	name = "Allesandro III"
+	DIP = 5
+	ADM = 9
+	MIL = 7
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16337 }
+	startdate = {
+		year = 1807
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1816
+	}
+	name = "Allesandro IV"
+	DIP = 9
+	ADM = 2
+	MIL = 5
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16338 }
+	startdate = {
+		year = 1816
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1832
+	}
+	name = "Frederigo IV"
+	DIP = 2
+	ADM = 4
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

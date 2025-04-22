@@ -1,0 +1,266 @@
+historicalmonarch = {
+	id = { type = 6 id = 18681 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1437
+	}
+	name = "Giorgi I"
+	DIP = 2
+	ADM = 8
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18682 }
+	startdate = {
+		year = 1437
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1460
+	}
+	name = "Giorgi II"
+	DIP = 3
+	ADM = 2
+	MIL = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18683 }
+	startdate = {
+		year = 1460
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1469
+	}
+	name = "Teimuraz V"
+	DIP = 7
+	ADM = 9
+	MIL = 4
+	movement = 3
+	fire = 2
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18684 }
+	startdate = {
+		year = 1469
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1488
+	}
+	name = "Teimuraz VI"
+	DIP = 8
+	ADM = 8
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18685 }
+	startdate = {
+		year = 1488
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1534
+	}
+	name = "Giorgi III"
+	DIP = 2
+	ADM = 8
+	MIL = 3
+	movement = 6
+	fire = 3
+	shock = 6
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 18686 }
+	startdate = {
+		year = 1534
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1558
+	}
+	name = "Giorgi IV"
+	DIP = 3
+	ADM = 8
+	MIL = 9
+	movement = 3
+	fire = 2
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18687 }
+	startdate = {
+		year = 1558
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1610
+	}
+	name = "Luarsab Argyrus"
+	DIP = 6
+	ADM = 4
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18688 }
+	startdate = {
+		year = 1610
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1623
+	}
+	name = "Giorgi V"
+	DIP = 2
+	ADM = 6
+	MIL = 5
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18689 }
+	startdate = {
+		year = 1623
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1636
+	}
+	name = "Giorgi VI"
+	DIP = 8
+	ADM = 5
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18690 }
+	startdate = {
+		year = 1636
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1676
+	}
+	name = "Giorgi VII"
+	DIP = 9
+	ADM = 8
+	MIL = 4
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18691 }
+	startdate = {
+		year = 1676
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1702
+	}
+	name = "Giorgi VIII"
+	DIP = 8
+	ADM = 5
+	MIL = 5
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 18692 }
+	startdate = {
+		year = 1702
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1744
+	}
+	name = "Teimuraz VII"
+	DIP = 7
+	ADM = 5
+	MIL = 7
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 18693 }
+	startdate = {
+		year = 1744
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1783
+	}
+	name = "Giorgi IX"
+	DIP = 3
+	ADM = 7
+	MIL = 5
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 18694 }
+	startdate = {
+		year = 1783
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1824
+	}
+	name = "Teimuraz VIII"
+	DIP = 9
+	ADM = 2
+	MIL = 2
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 1
+}

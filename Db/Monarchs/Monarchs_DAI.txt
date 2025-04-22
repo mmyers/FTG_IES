@@ -1,0 +1,342 @@
+historicalmonarch = {
+	id = { type = 6 id = 18801 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1429
+	}
+	name = "Siban Arpat"
+	DIP = 9
+	ADM = 2
+	MIL = 2
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18802 }
+	startdate = {
+		year = 1429
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1463
+	}
+	name = "Bezbaylan II"
+	DIP = 9
+	ADM = 4
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18803 }
+	startdate = {
+		year = 1463
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1483
+	}
+	name = "Alibay II"
+	DIP = 2
+	ADM = 6
+	MIL = 2
+	movement = 3
+	fire = 5
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18804 }
+	startdate = {
+		year = 1483
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1488
+	}
+	name = "Skelya I"
+	DIP = 8
+	ADM = 7
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18805 }
+	startdate = {
+		year = 1488
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1498
+	}
+	name = "Tuzli I"
+	DIP = 3
+	ADM = 7
+	MIL = 4
+	movement = 4
+	fire = 2
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18806 }
+	startdate = {
+		year = 1498
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1506
+	}
+	name = "Alibay III"
+	DIP = 8
+	ADM = 3
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18807 }
+	startdate = {
+		year = 1506
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1543
+	}
+	name = "Skelya II"
+	DIP = 3
+	ADM = 4
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18808 }
+	startdate = {
+		year = 1543
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1575
+	}
+	name = "Mamut Sultan I"
+	DIP = 8
+	ADM = 6
+	MIL = 6
+	movement = 5
+	fire = 6
+	shock = 5
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18809 }
+	startdate = {
+		year = 1575
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1615
+	}
+	name = "Skelya III"
+	DIP = 2
+	ADM = 3
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18810 }
+	startdate = {
+		year = 1615
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1651
+	}
+	name = "Tuzli II"
+	DIP = 8
+	ADM = 9
+	MIL = 9
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 18811 }
+	startdate = {
+		year = 1651
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1679
+	}
+	name = "Bezbaylan III"
+	DIP = 9
+	ADM = 7
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18812 }
+	startdate = {
+		year = 1679
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1694
+	}
+	name = "Bezbaylan IV"
+	DIP = 7
+	ADM = 2
+	MIL = 3
+	movement = 5
+	fire = 4
+	shock = 5
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18813 }
+	startdate = {
+		year = 1694
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1721
+	}
+	name = "Mamut Sultan II"
+	DIP = 6
+	ADM = 8
+	MIL = 7
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18814 }
+	startdate = {
+		year = 1721
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1744
+	}
+	name = "Mamut Sultan III"
+	DIP = 9
+	ADM = 7
+	MIL = 7
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18815 }
+	startdate = {
+		year = 1744
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1749
+	}
+	name = "Skelya IV"
+	DIP = 4
+	ADM = 9
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18816 }
+	startdate = {
+		year = 1749
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1781
+	}
+	name = "Alibay IV"
+	DIP = 2
+	ADM = 3
+	MIL = 2
+	movement = 2
+	fire = 6
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18817 }
+	startdate = {
+		year = 1781
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1814
+	}
+	name = "Bezbaylan V"
+	DIP = 5
+	ADM = 6
+	MIL = 8
+	movement = 5
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18818 }
+	startdate = {
+		year = 1814
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1864
+	}
+	name = "Alibay V"
+	DIP = 9
+	ADM = 7
+	MIL = 5
+	movement = 5
+	fire = 4
+	shock = 6
+	siege = 1
+}

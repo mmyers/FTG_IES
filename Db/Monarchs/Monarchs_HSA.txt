@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 20361 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1470
+	}
+	name = "Birger VI"
+	DIP = 7
+	ADM = 9
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20362 }
+	startdate = {
+		year = 1470
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1495
+	}
+	name = "Birger VII"
+	DIP = 5
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20363 }
+	startdate = {
+		year = 1495
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1501
+	}
+	name = "Knut IV"
+	DIP = 8
+	ADM = 2
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20364 }
+	startdate = {
+		year = 1501
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1556
+	}
+	name = "Birger VIII"
+	DIP = 9
+	ADM = 2
+	MIL = 9
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20365 }
+	startdate = {
+		year = 1556
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1589
+	}
+	name = "Magnus VI"
+	DIP = 4
+	ADM = 9
+	MIL = 4
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20366 }
+	startdate = {
+		year = 1589
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1604
+	}
+	name = "Birger IX"
+	DIP = 3
+	ADM = 9
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20367 }
+	startdate = {
+		year = 1604
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1621
+	}
+	name = "Johan V"
+	DIP = 9
+	ADM = 7
+	MIL = 3
+	movement = 3
+	fire = 6
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20368 }
+	startdate = {
+		year = 1621
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1627
+	}
+	name = "Filip IV"
+	DIP = 3
+	ADM = 9
+	MIL = 5
+	movement = 3
+	fire = 6
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20369 }
+	startdate = {
+		year = 1627
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1636
+	}
+	name = "Magnus VII"
+	DIP = 2
+	ADM = 5
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20370 }
+	startdate = {
+		year = 1636
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1677
+	}
+	name = "Birger X"
+	DIP = 6
+	ADM = 5
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20371 }
+	startdate = {
+		year = 1677
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1695
+	}
+	name = "Birger XI"
+	DIP = 2
+	ADM = 2
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20372 }
+	startdate = {
+		year = 1695
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1722
+	}
+	name = "Johan VI"
+	DIP = 8
+	ADM = 6
+	MIL = 9
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20373 }
+	startdate = {
+		year = 1722
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1745
+	}
+	name = "Birger XII"
+	DIP = 3
+	ADM = 6
+	MIL = 9
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20374 }
+	startdate = {
+		year = 1745
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1785
+	}
+	name = "Birger XIII"
+	DIP = 6
+	ADM = 5
+	MIL = 3
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20375 }
+	startdate = {
+		year = 1785
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1805
+	}
+	name = "Birger XIV"
+	DIP = 2
+	ADM = 4
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20376 }
+	startdate = {
+		year = 1805
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1831
+	}
+	name = "Filip V"
+	DIP = 3
+	ADM = 3
+	MIL = 2
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 1
+}

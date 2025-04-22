@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 17481 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1429
+	}
+	name = "Zsigmond III"
+	DIP = 5
+	ADM = 3
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17482 }
+	startdate = {
+		year = 1429
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1471
+	}
+	name = "Báthory VII"
+	DIP = 6
+	ADM = 3
+	MIL = 5
+	movement = 5
+	fire = 4
+	shock = 5
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17483 }
+	startdate = {
+		year = 1471
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1516
+	}
+	name = "Rákóczy I"
+	DIP = 5
+	ADM = 2
+	MIL = 7
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17484 }
+	startdate = {
+		year = 1516
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1532
+	}
+	name = "Rozgonyi Borsa"
+	DIP = 5
+	ADM = 4
+	MIL = 7
+	movement = 5
+	fire = 4
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17485 }
+	startdate = {
+		year = 1532
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1580
+	}
+	name = "Zápolya Zrinyi"
+	DIP = 3
+	ADM = 4
+	MIL = 7
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17486 }
+	startdate = {
+		year = 1580
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1610
+	}
+	name = "László V"
+	DIP = 5
+	ADM = 3
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17487 }
+	startdate = {
+		year = 1610
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1614
+	}
+	name = "Szilagyi IX"
+	DIP = 6
+	ADM = 3
+	MIL = 5
+	movement = 4
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17488 }
+	startdate = {
+		year = 1614
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1649
+	}
+	name = "Báthory VIII"
+	DIP = 2
+	ADM = 5
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17489 }
+	startdate = {
+		year = 1649
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1678
+	}
+	name = "Mátyás II"
+	DIP = 3
+	ADM = 6
+	MIL = 4
+	movement = 6
+	fire = 4
+	shock = 5
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17490 }
+	startdate = {
+		year = 1678
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1691
+	}
+	name = "Zsigmond IV"
+	DIP = 5
+	ADM = 8
+	MIL = 6
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17491 }
+	startdate = {
+		year = 1691
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1711
+	}
+	name = "János VI"
+	DIP = 5
+	ADM = 5
+	MIL = 5
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17492 }
+	startdate = {
+		year = 1711
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1723
+	}
+	name = "Szilagyi X"
+	DIP = 4
+	ADM = 6
+	MIL = 6
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17493 }
+	startdate = {
+		year = 1723
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1735
+	}
+	name = "Mátyás III"
+	DIP = 2
+	ADM = 7
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17494 }
+	startdate = {
+		year = 1735
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1749
+	}
+	name = "Rákóczy I"
+	DIP = 4
+	ADM = 8
+	MIL = 5
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 17495 }
+	startdate = {
+		year = 1749
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1779
+	}
+	name = "Zsigmond V"
+	DIP = 3
+	ADM = 5
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17496 }
+	startdate = {
+		year = 1779
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1826
+	}
+	name = "István IV"
+	DIP = 8
+	ADM = 6
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

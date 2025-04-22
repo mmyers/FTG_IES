@@ -1,0 +1,323 @@
+historicalmonarch = {
+	id = { type = 6 id = 18561 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1441
+	}
+	name = "Ludvik VIII"
+	DIP = 7
+	ADM = 8
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18562 }
+	startdate = {
+		year = 1441
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1487
+	}
+	name = "Ludvik IX"
+	DIP = 9
+	ADM = 4
+	MIL = 2
+	movement = 5
+	fire = 4
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 18563 }
+	startdate = {
+		year = 1487
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1500
+	}
+	name = "Ludvik X"
+	DIP = 5
+	ADM = 4
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18564 }
+	startdate = {
+		year = 1500
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1510
+	}
+	name = "Boleslav VI"
+	DIP = 7
+	ADM = 2
+	MIL = 7
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18565 }
+	startdate = {
+		year = 1510
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1546
+	}
+	name = "Brno I"
+	DIP = 6
+	ADM = 7
+	MIL = 4
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18566 }
+	startdate = {
+		year = 1546
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1557
+	}
+	name = "Brno II"
+	DIP = 2
+	ADM = 5
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18567 }
+	startdate = {
+		year = 1557
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1573
+	}
+	name = "Brno III"
+	DIP = 8
+	ADM = 7
+	MIL = 8
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18568 }
+	startdate = {
+		year = 1573
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1592
+	}
+	name = "Ludvik XI"
+	DIP = 4
+	ADM = 2
+	MIL = 3
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18569 }
+	startdate = {
+		year = 1592
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1639
+	}
+	name = "Brno IV"
+	DIP = 2
+	ADM = 6
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18570 }
+	startdate = {
+		year = 1639
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1691
+	}
+	name = "Ludvik XII"
+	DIP = 8
+	ADM = 7
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18571 }
+	startdate = {
+		year = 1691
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1701
+	}
+	name = "Ludvik XIII"
+	DIP = 8
+	ADM = 7
+	MIL = 8
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18572 }
+	startdate = {
+		year = 1701
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1702
+	}
+	name = "Ludvik XIV"
+	DIP = 6
+	ADM = 8
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18573 }
+	startdate = {
+		year = 1702
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1720
+	}
+	name = "Ludvik XV"
+	DIP = 3
+	ADM = 2
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18574 }
+	startdate = {
+		year = 1720
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1774
+	}
+	name = "Ludvik XVI"
+	DIP = 4
+	ADM = 3
+	MIL = 4
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18575 }
+	startdate = {
+		year = 1774
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1817
+	}
+	name = "Brno V"
+	DIP = 6
+	ADM = 7
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18576 }
+	startdate = {
+		year = 1817
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1819
+	}
+	name = "Ludvik XVII"
+	DIP = 3
+	ADM = 2
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18577 }
+	startdate = {
+		year = 1819
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1866
+	}
+	name = "Boleslav VII"
+	DIP = 2
+	ADM = 7
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

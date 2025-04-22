@@ -1,0 +1,285 @@
+historicalmonarch = {
+	id = { type = 6 id = 15741 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1437
+	}
+	name = "Tommaso VIII"
+	DIP = 4
+	ADM = 4
+	MIL = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15742 }
+	startdate = {
+		year = 1437
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1465
+	}
+	name = "Allesandro V"
+	DIP = 9
+	ADM = 2
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 15743 }
+	startdate = {
+		year = 1465
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1501
+	}
+	name = "Davide II"
+	DIP = 7
+	ADM = 2
+	MIL = 5
+	movement = 3
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15744 }
+	startdate = {
+		year = 1501
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1536
+	}
+	name = "Benedetto"
+	DIP = 6
+	ADM = 9
+	MIL = 6
+	movement = 4
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15745 }
+	startdate = {
+		year = 1536
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1576
+	}
+	name = "Davide III"
+	DIP = 7
+	ADM = 2
+	MIL = 5
+	movement = 5
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15746 }
+	startdate = {
+		year = 1576
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1578
+	}
+	name = "Giano XI"
+	DIP = 2
+	ADM = 7
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15747 }
+	startdate = {
+		year = 1578
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1612
+	}
+	name = "Allesandro VI"
+	DIP = 5
+	ADM = 7
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15748 }
+	startdate = {
+		year = 1612
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1661
+	}
+	name = "Davide IV"
+	DIP = 7
+	ADM = 8
+	MIL = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15749 }
+	startdate = {
+		year = 1661
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1673
+	}
+	name = "Benedetto"
+	DIP = 3
+	ADM = 2
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15750 }
+	startdate = {
+		year = 1673
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1679
+	}
+	name = "Tommaso IX"
+	DIP = 6
+	ADM = 5
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15751 }
+	startdate = {
+		year = 1679
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1684
+	}
+	name = "Allesandro VII"
+	DIP = 7
+	ADM = 5
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15752 }
+	startdate = {
+		year = 1684
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1729
+	}
+	name = "Allesandro VIII"
+	DIP = 2
+	ADM = 4
+	MIL = 8
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15753 }
+	startdate = {
+		year = 1729
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1751
+	}
+	name = "Tommaso X"
+	DIP = 9
+	ADM = 5
+	MIL = 3
+	movement = 6
+	fire = 5
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15754 }
+	startdate = {
+		year = 1751
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1808
+	}
+	name = "Allesandro IX"
+	DIP = 2
+	ADM = 5
+	MIL = 5
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15755 }
+	startdate = {
+		year = 1808
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1861
+	}
+	name = "Giano XII"
+	DIP = 4
+	ADM = 8
+	MIL = 6
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}

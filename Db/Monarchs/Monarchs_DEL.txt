@@ -1,0 +1,342 @@
+historicalmonarch = {
+	 id = { type = 6 id = 40101 }
+	 startdate = {
+		year = 1418
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1436
+	 }
+	 name = "Aktaçi I"
+	 DIP = 6
+	 ADM = 9
+	 MIL = 7
+	 movement = 3
+	 fire = 4
+	 shock = 3
+	 siege = 0
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40102 }
+	 startdate = {
+		year = 1436
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1482
+	 }
+	 name = "Arhaderesi VI"
+	 DIP = 4
+	 ADM = 2
+	 MIL = 4
+	 movement = 3
+	 fire = 3
+	 shock = 2
+	 siege = 0
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40103 }
+	 startdate = {
+		year = 1482
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1508
+	 }
+	 name = "Kalimtay VII"
+	 DIP = 5
+	 ADM = 2
+	 MIL = 4
+	 movement = 3
+	 fire = 3
+	 shock = 3
+	 siege = 1
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40104 }
+	 startdate = {
+		year = 1508
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1523
+	 }
+	 name = "Baygoca III"
+	 DIP = 2
+	 ADM = 7
+	 MIL = 8
+	 movement = 3
+	 fire = 5
+	 shock = 3
+	 siege = 2
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40105 }
+	 startdate = {
+		year = 1523
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1529
+	 }
+	 name = "Arhaderesi VII"
+	 DIP = 3
+	 ADM = 2
+	 MIL = 7
+	 movement = 0
+	 fire = 0
+	 shock = 0
+	 siege = 0
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40106 }
+	 startdate = {
+		year = 1529
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1539
+	 }
+	 name = "Baygoca IV"
+	 DIP = 4
+	 ADM = 2
+	 MIL = 6
+	 movement = 3
+	 fire = 4
+	 shock = 4
+	 siege = 1
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40107 }
+	 startdate = {
+		year = 1539
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1545
+	 }
+	 name = "Arhaderesi VIII"
+	 DIP = 5
+	 ADM = 2
+	 MIL = 2
+	 movement = 4
+	 fire = 4
+	 shock = 4
+	 siege = 1
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40108 }
+	 startdate = {
+		year = 1545
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1561
+	 }
+	 name = "Muniy IV"
+	 DIP = 4
+	 ADM = 7
+	 MIL = 8
+	 movement = 0
+	 fire = 0
+	 shock = 0
+	 siege = 0
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40109 }
+	 startdate = {
+		year = 1561
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1566
+	 }
+	 name = "Saribulat IV"
+	 DIP = 6
+	 ADM = 3
+	 MIL = 6
+	 movement = 5
+	 fire = 4
+	 shock = 5
+	 siege = 1
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40110 }
+	 startdate = {
+		year = 1566
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1570
+	 }
+	 name = "Algazi-Konrat VIII"
+	 DIP = 4
+	 ADM = 2
+	 MIL = 9
+	 movement = 0
+	 fire = 0
+	 shock = 0
+	 siege = 0
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40111 }
+	 startdate = {
+		year = 1570
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1589
+	 }
+	 name = "Baygoca V"
+	 DIP = 4
+	 ADM = 3
+	 MIL = 7
+	 movement = 3
+	 fire = 3
+	 shock = 4
+	 siege = 1
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40112 }
+	 startdate = {
+		year = 1589
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1634
+	 }
+	 name = "Algazi-Konrat IX"
+	 DIP = 6
+	 ADM = 2
+	 MIL = 5
+	 movement = 0
+	 fire = 0
+	 shock = 0
+	 siege = 0
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40113 }
+	 startdate = {
+		year = 1634
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1661
+	 }
+	 name = "Kalimtay VIII"
+	 DIP = 6
+	 ADM = 3
+	 MIL = 8
+	 movement = 3
+	 fire = 4
+	 shock = 3
+	 siege = 1
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40114 }
+	 startdate = {
+		year = 1661
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1691
+	 }
+	 name = "Algazi-Konrat X"
+	 DIP = 5
+	 ADM = 4
+	 MIL = 2
+	 movement = 2
+	 fire = 2
+	 shock = 2
+	 siege = 1
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40115 }
+	 startdate = {
+		year = 1691
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1724
+	 }
+	 name = "Besüy V"
+	 DIP = 6
+	 ADM = 2
+	 MIL = 7
+	 movement = 6
+	 fire = 4
+	 shock = 4
+	 siege = 2
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40116 }
+	 startdate = {
+		year = 1724
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1759
+	 }
+	 name = "Aktaçi II"
+	 DIP = 2
+	 ADM = 2
+	 MIL = 3
+	 movement = 4
+	 fire = 5
+	 shock = 4
+	 siege = 1
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40117 }
+	 startdate = {
+		year = 1759
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1802
+	 }
+	 name = "Aktaçi III"
+	 DIP = 9
+	 ADM = 6
+	 MIL = 9
+	 movement = 0
+	 fire = 0
+	 shock = 0
+	 siege = 0
+}
+historicalmonarch = {
+	 id = { type = 6 id = 40118 }
+	 startdate = {
+		year = 1802
+		month = january
+		day = 2
+	 }
+	 deathdate = {
+		year = 1825
+	 }
+	 name = "Besüy VI"
+	 DIP = 2
+	 ADM = 2
+	 MIL = 5
+	 movement = 4
+	 fire = 2
+	 shock = 3
+	 siege = 1
+}

@@ -1,0 +1,1176 @@
+historicalleader = {
+	id = { type = 6 id = 33603 }
+	category = monarch
+	name = "Demetrios IX"
+	startdate = {
+		year = 1493
+	}
+	deathdate = {
+		year = 1521
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33604 }
+	category = monarch
+	name = "Andronicus IV"
+	startdate = {
+		year = 1536
+	}
+	deathdate = {
+		year = 1565
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33605 }
+	category = monarch
+	name = "Antonio V"
+	startdate = {
+		year = 1576
+	}
+	deathdate = {
+		year = 1592
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 4
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33606 }
+	category = monarch
+	name = "Antonio VI"
+	startdate = {
+		year = 1595
+	}
+	deathdate = {
+		year = 1604
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33607 }
+	category = monarch
+	name = "Antonio VII"
+	startdate = {
+		year = 1604
+	}
+	deathdate = {
+		year = 1610
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33608 }
+	category = monarch
+	name = "Antonio VIII"
+	startdate = {
+		year = 1623
+	}
+	deathdate = {
+		year = 1625
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 2
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33609 }
+	category = monarch
+	name = "Stephanos II"
+	startdate = {
+		year = 1634
+	}
+	deathdate = {
+		year = 1666
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33610 }
+	category = monarch
+	name = "Dragases VI"
+	startdate = {
+		year = 1673
+	}
+	deathdate = {
+		year = 1691
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33611 }
+	category = monarch
+	name = "Antonio IX"
+	startdate = {
+		year = 1693
+	}
+	deathdate = {
+		year = 1724
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 4
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 33612 }
+	category = monarch
+	name = "Andronicus V"
+	startdate = {
+		year = 1755
+	}
+	deathdate = {
+		year = 1765
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33614 }
+	category = monarch
+	name = "Demetrios X"
+	startdate = {
+		year = 1790
+	}
+	deathdate = {
+		year = 1818
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33615 }
+	category = monarch
+	name = "Demetrios XI"
+	startdate = {
+		year = 1818
+	}
+	deathdate = {
+		year = 1834
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 6
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33621 }
+	category = general
+	name = "Damianus"
+	startdate = {
+		year = 1416
+	}
+	deathdate = {
+		year = 1438
+	}
+	rank = 4
+	movement = 3
+	fire = 4
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33622 }
+	category = general
+	name = "Alexander"
+	startdate = {
+		year = 1408
+	}
+	deathdate = {
+		year = 1433
+	}
+	rank = 4
+	movement = 2
+	fire = 4
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33623 }
+	category = general
+	name = "Euphronius"
+	startdate = {
+		year = 1513
+	}
+	deathdate = {
+		year = 1530
+	}
+	rank = 8
+	movement = 3
+	fire = 6
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33624 }
+	category = general
+	name = "Calopodius"
+	startdate = {
+		year = 1569
+	}
+	deathdate = {
+		year = 1585
+	}
+	rank = 12
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33625 }
+	category = conquistador
+	name = "Athanasius"
+	startdate = {
+		year = 1526
+	}
+	deathdate = {
+		year = 1546
+	}
+	rank = 8
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 33626 }
+	category = conquistador
+	name = "Senuthius"
+	startdate = {
+		year = 1587
+	}
+	deathdate = {
+		year = 1603
+	}
+	rank = 10
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33627 }
+	category = general
+	name = "Honoratus"
+	startdate = {
+		year = 1428
+	}
+	deathdate = {
+		year = 1447
+	}
+	rank = 3
+	movement = 6
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33628 }
+	category = general
+	name = "Maximinus"
+	startdate = {
+		year = 1431
+	}
+	deathdate = {
+		year = 1456
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33629 }
+	category = general
+	name = "Comentiolus"
+	startdate = {
+		year = 1448
+	}
+	deathdate = {
+		year = 1471
+	}
+	rank = 3
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33630 }
+	category = general
+	name = "Chilbudius"
+	startdate = {
+		year = 1455
+	}
+	deathdate = {
+		year = 1480
+	}
+	rank = 3
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33631 }
+	category = general
+	name = "Argyrus"
+	startdate = {
+		year = 1468
+	}
+	deathdate = {
+		year = 1484
+	}
+	rank = 0
+	movement = 6
+	fire = 6
+	shock = 4
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 33632 }
+	category = general
+	name = "Callinicus"
+	startdate = {
+		year = 1476
+	}
+	deathdate = {
+		year = 1500
+	}
+	rank = 4
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33633 }
+	category = general
+	name = "Sarapion"
+	startdate = {
+		year = 1492
+	}
+	deathdate = {
+		year = 1511
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33634 }
+	category = general
+	name = "Genethlius"
+	startdate = {
+		year = 1496
+	}
+	deathdate = {
+		year = 1516
+	}
+	rank = 4
+	movement = 4
+	fire = 5
+	shock = 6
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 33635 }
+	category = general
+	name = "Heraclius"
+	startdate = {
+		year = 1505
+	}
+	deathdate = {
+		year = 1529
+	}
+	rank = 6
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33636 }
+	category = general
+	name = "Deuterius"
+	startdate = {
+		year = 1522
+	}
+	deathdate = {
+		year = 1546
+	}
+	rank = 3
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33637 }
+	category = general
+	name = "Christophorus"
+	startdate = {
+		year = 1525
+	}
+	deathdate = {
+		year = 1546
+	}
+	rank = 4
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33638 }
+	category = conquistador
+	name = "Ianuarius"
+	startdate = {
+		year = 1536
+	}
+	deathdate = {
+		year = 1560
+	}
+	rank = 6
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33639 }
+	category = general
+	name = "Symmachus"
+	startdate = {
+		year = 1547
+	}
+	deathdate = {
+		year = 1567
+	}
+	rank = 1
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33640 }
+	category = general
+	name = "Comitas"
+	startdate = {
+		year = 1564
+	}
+	deathdate = {
+		year = 1582
+	}
+	rank = 6
+	movement = 5
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33641 }
+	category = general
+	name = "Beppolenus"
+	startdate = {
+		year = 1564
+	}
+	deathdate = {
+		year = 1585
+	}
+	rank = 5
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33642 }
+	category = general
+	name = "Tribunas"
+	startdate = {
+		year = 1584
+	}
+	deathdate = {
+		year = 1602
+	}
+	rank = 2
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33643 }
+	category = general
+	name = "Simplicius"
+	startdate = {
+		year = 1591
+	}
+	deathdate = {
+		year = 1613
+	}
+	rank = 1
+	movement = 3
+	fire = 4
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33644 }
+	category = general
+	name = "Marcianus"
+	startdate = {
+		year = 1601
+	}
+	deathdate = {
+		year = 1617
+	}
+	rank = 3
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33645 }
+	category = general
+	name = "Aeneas"
+	startdate = {
+		year = 1608
+	}
+	deathdate = {
+		year = 1633
+	}
+	rank = 1
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33646 }
+	category = general
+	name = "Fronto"
+	startdate = {
+		year = 1619
+	}
+	deathdate = {
+		year = 1640
+	}
+	rank = 3
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33647 }
+	category = general
+	name = "Zimisces"
+	startdate = {
+		year = 1633
+	}
+	deathdate = {
+		year = 1656
+	}
+	rank = 0
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33648 }
+	category = general
+	name = "Zenobius"
+	startdate = {
+		year = 1643
+	}
+	deathdate = {
+		year = 1668
+	}
+	rank = 6
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33649 }
+	category = general
+	name = "Iulianus"
+	startdate = {
+		year = 1648
+	}
+	deathdate = {
+		year = 1667
+	}
+	rank = 4
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33650 }
+	category = general
+	name = "Vrbicus"
+	startdate = {
+		year = 1658
+	}
+	deathdate = {
+		year = 1679
+	}
+	rank = 1
+	movement = 4
+	fire = 3
+	shock = 4
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 33651 }
+	category = general
+	name = "Iustinianus"
+	startdate = {
+		year = 1672
+	}
+	deathdate = {
+		year = 1692
+	}
+	rank = 3
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 33652 }
+	category = general
+	name = "Melminius"
+	startdate = {
+		year = 1676
+	}
+	deathdate = {
+		year = 1700
+	}
+	rank = 5
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33653 }
+	category = general
+	name = "Severinus"
+	startdate = {
+		year = 1693
+	}
+	deathdate = {
+		year = 1716
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33654 }
+	category = general
+	name = "Narses"
+	startdate = {
+		year = 1698
+	}
+	deathdate = {
+		year = 1717
+	}
+	rank = 4
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33655 }
+	category = general
+	name = "Theodoretus"
+	startdate = {
+		year = 1711
+	}
+	deathdate = {
+		year = 1735
+	}
+	rank = 6
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33656 }
+	category = general
+	name = "Vrbicus"
+	startdate = {
+		year = 1722
+	}
+	deathdate = {
+		year = 1747
+	}
+	rank = 6
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33657 }
+	category = general
+	name = "Philippicus"
+	startdate = {
+		year = 1734
+	}
+	deathdate = {
+		year = 1751
+	}
+	rank = 4
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33658 }
+	category = general
+	name = "Ducas"
+	startdate = {
+		year = 1743
+	}
+	deathdate = {
+		year = 1767
+	}
+	rank = 1
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33659 }
+	category = general
+	name = "Sisinnius"
+	startdate = {
+		year = 1748
+	}
+	deathdate = {
+		year = 1772
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 33660 }
+	category = general
+	name = "Antoninus"
+	startdate = {
+		year = 1759
+	}
+	deathdate = {
+		year = 1776
+	}
+	rank = 0
+	movement = 4
+	fire = 6
+	shock = 6
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 33661 }
+	category = general
+	name = "Nicephorus"
+	startdate = {
+		year = 1772
+	}
+	deathdate = {
+		year = 1789
+	}
+	rank = 4
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33662 }
+	category = general
+	name = "Elias"
+	startdate = {
+		year = 1784
+	}
+	deathdate = {
+		year = 1802
+	}
+	rank = 4
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33663 }
+	category = general
+	name = "Constantius"
+	startdate = {
+		year = 1787
+	}
+	deathdate = {
+		year = 1808
+	}
+	rank = 2
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33664 }
+	category = general
+	name = "Praetextatus"
+	startdate = {
+		year = 1798
+	}
+	deathdate = {
+		year = 1815
+	}
+	rank = 4
+	movement = 3
+	fire = 5
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33665 }
+	category = general
+	name = "Olybrius"
+	startdate = {
+		year = 1813
+	}
+	deathdate = {
+		year = 1836
+	}
+	rank = 6
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33666 }
+	category = general
+	name = "Marcianus"
+	startdate = {
+		year = 1814
+	}
+	deathdate = {
+		year = 1835
+	}
+	rank = 1
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33667 }
+	category = general
+	name = "Conon"
+	startdate = {
+		year = 1668
+	}
+	deathdate = {
+		year = 1686
+	}
+	rank = 3
+	movement = 3
+	fire = 4
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33668 }
+	category = general
+	name = "Tzittas"
+	startdate = {
+		year = 1694
+	}
+	deathdate = {
+		year = 1713
+	}
+	rank = 3
+	movement = 3
+	fire = 5
+	shock = 5
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 33669 }
+	category = general
+	name = "Boethius"
+	startdate = {
+		year = 1717
+	}
+	deathdate = {
+		year = 1735
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33670 }
+	category = general
+	name = "Aquila"
+	startdate = {
+		year = 1743
+	}
+	deathdate = {
+		year = 1761
+	}
+	rank = 1
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 33671 }
+	category = general
+	name = "Dorotheus"
+	startdate = {
+		year = 1764
+	}
+	deathdate = {
+		year = 1784
+	}
+	rank = 0
+	movement = 5
+	fire = 6
+	shock = 4
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 33672 }
+	category = general
+	name = "Attalus"
+	startdate = {
+		year = 1790
+	}
+	deathdate = {
+		year = 1808
+	}
+	rank = 2
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 33673 }
+	category = general
+	name = "Manuel"
+	startdate = {
+		year = 1800
+	}
+	deathdate = {
+		year = 1819
+	}
+	rank = 3
+	movement = 4
+	fire = 4
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33674 }
+	category = general
+	name = "Germanus"
+	startdate = {
+		year = 1670
+	}
+	deathdate = {
+		year = 1689
+	}
+	rank = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33675 }
+	category = general
+	name = "Synesius"
+	startdate = {
+		year = 1691
+	}
+	deathdate = {
+		year = 1708
+	}
+	rank = 5
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33676 }
+	category = general
+	name = "Perigenes"
+	startdate = {
+		year = 1713
+	}
+	deathdate = {
+		year = 1734
+	}
+	rank = 5
+	movement = 5
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33677 }
+	category = general
+	name = "Tryphon"
+	startdate = {
+		year = 1739
+	}
+	deathdate = {
+		year = 1756
+	}
+	rank = 3
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33678 }
+	category = general
+	name = "Bacchus"
+	startdate = {
+		year = 1761
+	}
+	deathdate = {
+		year = 1781
+	}
+	rank = 2
+	movement = 6
+	fire = 5
+	shock = 6
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33679 }
+	category = general
+	name = "Desiderius"
+	startdate = {
+		year = 1786
+	}
+	deathdate = {
+		year = 1809
+	}
+	rank = 3
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 33680 }
+	category = general
+	name = "Vrbicus"
+	startdate = {
+		year = 1798
+	}
+	deathdate = {
+		year = 1823
+	}
+	rank = 6
+	movement = 4
+	fire = 3
+	shock = 4
+	siege = 0
+}

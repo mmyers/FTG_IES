@@ -1,0 +1,266 @@
+historicalmonarch = {
+	id = { type = 6 id = 19361 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1430
+	}
+	name = "Kestutaitis II"
+	DIP = 7
+	ADM = 6
+	MIL = 9
+	movement = 5
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19362 }
+	startdate = {
+		year = 1430
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1467
+	}
+	name = "Didysis I"
+	DIP = 7
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19363 }
+	startdate = {
+		year = 1467
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1476
+	}
+	name = "Didysis II"
+	DIP = 9
+	ADM = 5
+	MIL = 9
+	movement = 2
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19364 }
+	startdate = {
+		year = 1476
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1513
+	}
+	name = "Kestutaitis III"
+	DIP = 8
+	ADM = 6
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19365 }
+	startdate = {
+		year = 1513
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1547
+	}
+	name = "Didysis III"
+	DIP = 7
+	ADM = 2
+	MIL = 9
+	movement = 3
+	fire = 6
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19366 }
+	startdate = {
+		year = 1547
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1560
+	}
+	name = "Didysis IV"
+	DIP = 6
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19367 }
+	startdate = {
+		year = 1560
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1596
+	}
+	name = "Józef V"
+	DIP = 2
+	ADM = 2
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19368 }
+	startdate = {
+		year = 1596
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1639
+	}
+	name = "Kestutaitis IV"
+	DIP = 6
+	ADM = 7
+	MIL = 2
+	movement = 6
+	fire = 5
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19369 }
+	startdate = {
+		year = 1639
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1646
+	}
+	name = "Didysis V"
+	DIP = 5
+	ADM = 3
+	MIL = 8
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19370 }
+	startdate = {
+		year = 1646
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1655
+	}
+	name = "Ludwike IV"
+	DIP = 7
+	ADM = 5
+	MIL = 4
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 4
+}
+historicalmonarch = {
+	id = { type = 6 id = 19371 }
+	startdate = {
+		year = 1655
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1704
+	}
+	name = "Didysis VI"
+	DIP = 9
+	ADM = 2
+	MIL = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19372 }
+	startdate = {
+		year = 1704
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1751
+	}
+	name = "Didysis VII"
+	DIP = 6
+	ADM = 5
+	MIL = 6
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19373 }
+	startdate = {
+		year = 1751
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1792
+	}
+	name = "Didysis VIII"
+	DIP = 4
+	ADM = 4
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19374 }
+	startdate = {
+		year = 1792
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1836
+	}
+	name = "Ludwike V"
+	DIP = 5
+	ADM = 6
+	MIL = 5
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 1
+}

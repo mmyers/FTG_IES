@@ -1,0 +1,1194 @@
+historicalleader = {
+	id = { type = 6 id = 32602 }
+	category = monarch
+	name = "Dmitry IX"
+	startdate = {
+		year = 1424
+	}
+	deathdate = {
+		year = 1427
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32603 }
+	category = monarch
+	name = "Dmitry X"
+	startdate = {
+		year = 1437
+	}
+	deathdate = {
+		year = 1456
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32604 }
+	category = monarch
+	name = "Henryk V"
+	startdate = {
+		year = 1456
+	}
+	deathdate = {
+		year = 1482
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32606 }
+	category = monarch
+	name = "Henryk VI"
+	startdate = {
+		year = 1494
+	}
+	deathdate = {
+		year = 1513
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32607 }
+	category = monarch
+	name = "Vytautus IX"
+	startdate = {
+		year = 1535
+	}
+	deathdate = {
+		year = 1573
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32608 }
+	category = monarch
+	name = "Mikolaj VII"
+	startdate = {
+		year = 1595
+	}
+	deathdate = {
+		year = 1611
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32610 }
+	category = monarch
+	name = "Boris VIII"
+	startdate = {
+		year = 1643
+	}
+	deathdate = {
+		year = 1649
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32612 }
+	category = monarch
+	name = "Boris IX"
+	startdate = {
+		year = 1656
+	}
+	deathdate = {
+		year = 1660
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 4
+	shock = 6
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32613 }
+	category = monarch
+	name = "Karol III"
+	startdate = {
+		year = 1666
+	}
+	deathdate = {
+		year = 1706
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32615 }
+	category = monarch
+	name = "Karol IV"
+	startdate = {
+		year = 1755
+	}
+	deathdate = {
+		year = 1761
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32617 }
+	category = monarch
+	name = "Karol V"
+	startdate = {
+		year = 1781
+	}
+	deathdate = {
+		year = 1807
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32618 }
+	category = monarch
+	name = "Boris X"
+	startdate = {
+		year = 1807
+	}
+	deathdate = {
+		year = 1814
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32619 }
+	category = monarch
+	name = "Boris XI"
+	startdate = {
+		year = 1825
+	}
+	deathdate = {
+		year = 1853
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32621 }
+	category = general
+	name = "Holstein-Gottorp"
+	startdate = {
+		year = 1418
+	}
+	deathdate = {
+		year = 1442
+	}
+	rank = 0
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32622 }
+	category = general
+	name = "Adachev"
+	startdate = {
+		year = 1413
+	}
+	deathdate = {
+		year = 1435
+	}
+	rank = 3
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32623 }
+	category = general
+	name = "Slitte"
+	startdate = {
+		year = 1514
+	}
+	deathdate = {
+		year = 1533
+	}
+	rank = 3
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32624 }
+	category = general
+	name = "Kafelnikov"
+	startdate = {
+		year = 1571
+	}
+	deathdate = {
+		year = 1593
+	}
+	rank = 7
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32625 }
+	category = conquistador
+	name = "Vnukov"
+	startdate = {
+		year = 1525
+	}
+	deathdate = {
+		year = 1547
+	}
+	rank = 11
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32626 }
+	category = conquistador
+	name = "Kafelnikov"
+	startdate = {
+		year = 1591
+	}
+	deathdate = {
+		year = 1608
+	}
+	rank = 10
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32627 }
+	category = general
+	name = "Radek"
+	startdate = {
+		year = 1433
+	}
+	deathdate = {
+		year = 1453
+	}
+	rank = 6
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32628 }
+	category = general
+	name = "Gomel"
+	startdate = {
+		year = 1442
+	}
+	deathdate = {
+		year = 1463
+	}
+	rank = 0
+	movement = 4
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32629 }
+	category = general
+	name = "Bezukov"
+	startdate = {
+		year = 1453
+	}
+	deathdate = {
+		year = 1476
+	}
+	rank = 2
+	movement = 5
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32630 }
+	category = general
+	name = "Kurbatov"
+	startdate = {
+		year = 1463
+	}
+	deathdate = {
+		year = 1486
+	}
+	rank = 2
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32631 }
+	category = general
+	name = "Kotlas"
+	startdate = {
+		year = 1464
+	}
+	deathdate = {
+		year = 1485
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32632 }
+	category = general
+	name = "Mstislavski"
+	startdate = {
+		year = 1474
+	}
+	deathdate = {
+		year = 1498
+	}
+	rank = 0
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32633 }
+	category = general
+	name = "Kurbatov"
+	startdate = {
+		year = 1488
+	}
+	deathdate = {
+		year = 1509
+	}
+	rank = 0
+	movement = 4
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32634 }
+	category = general
+	name = "Moskwitianine"
+	startdate = {
+		year = 1497
+	}
+	deathdate = {
+		year = 1515
+	}
+	rank = 0
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32635 }
+	category = general
+	name = "Tcherbatov"
+	startdate = {
+		year = 1510
+	}
+	deathdate = {
+		year = 1531
+	}
+	rank = 6
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32636 }
+	category = general
+	name = "Grigorievich"
+	startdate = {
+		year = 1521
+	}
+	deathdate = {
+		year = 1544
+	}
+	rank = 4
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32637 }
+	category = general
+	name = "Trubetskoi"
+	startdate = {
+		year = 1534
+	}
+	deathdate = {
+		year = 1554
+	}
+	rank = 2
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32638 }
+	category = general
+	name = "Vorontsov"
+	startdate = {
+		year = 1538
+	}
+	deathdate = {
+		year = 1557
+	}
+	rank = 4
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32639 }
+	category = general
+	name = "Rasianowsky"
+	startdate = {
+		year = 1547
+	}
+	deathdate = {
+		year = 1567
+	}
+	rank = 5
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32640 }
+	category = general
+	name = "Faddeiev"
+	startdate = {
+		year = 1557
+	}
+	deathdate = {
+		year = 1579
+	}
+	rank = 0
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32641 }
+	category = general
+	name = "Radek"
+	startdate = {
+		year = 1571
+	}
+	deathdate = {
+		year = 1588
+	}
+	rank = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 32642 }
+	category = general
+	name = "Panin"
+	startdate = {
+		year = 1584
+	}
+	deathdate = {
+		year = 1601
+	}
+	rank = 0
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32643 }
+	category = general
+	name = "Adachev"
+	startdate = {
+		year = 1588
+	}
+	deathdate = {
+		year = 1605
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32644 }
+	category = general
+	name = "Prokofievich"
+	startdate = {
+		year = 1602
+	}
+	deathdate = {
+		year = 1627
+	}
+	rank = 1
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32645 }
+	category = general
+	name = "Golovkine"
+	startdate = {
+		year = 1610
+	}
+	deathdate = {
+		year = 1626
+	}
+	rank = 4
+	movement = 5
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32646 }
+	category = general
+	name = "Wladimir"
+	startdate = {
+		year = 1617
+	}
+	deathdate = {
+		year = 1640
+	}
+	rank = 6
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 32647 }
+	category = general
+	name = "Chafirov"
+	startdate = {
+		year = 1633
+	}
+	deathdate = {
+		year = 1651
+	}
+	rank = 3
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32648 }
+	category = general
+	name = "Tatichev"
+	startdate = {
+		year = 1645
+	}
+	deathdate = {
+		year = 1661
+	}
+	rank = 6
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32649 }
+	category = general
+	name = "Yeremenko"
+	startdate = {
+		year = 1649
+	}
+	deathdate = {
+		year = 1667
+	}
+	rank = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32650 }
+	category = general
+	name = "Ipatiev"
+	startdate = {
+		year = 1659
+	}
+	deathdate = {
+		year = 1677
+	}
+	rank = 4
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32651 }
+	category = general
+	name = "Gkjatsk"
+	startdate = {
+		year = 1673
+	}
+	deathdate = {
+		year = 1692
+	}
+	rank = 0
+	movement = 3
+	fire = 6
+	shock = 4
+	siege = 4
+}
+historicalleader = {
+	id = { type = 6 id = 32652 }
+	category = general
+	name = "Bobrov"
+	startdate = {
+		year = 1682
+	}
+	deathdate = {
+		year = 1704
+	}
+	rank = 2
+	movement = 3
+	fire = 2
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32653 }
+	category = general
+	name = "Golytsin"
+	startdate = {
+		year = 1685
+	}
+	deathdate = {
+		year = 1707
+	}
+	rank = 0
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 32654 }
+	category = general
+	name = "Panin"
+	startdate = {
+		year = 1699
+	}
+	deathdate = {
+		year = 1718
+	}
+	rank = 1
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32655 }
+	category = general
+	name = "Ochakov"
+	startdate = {
+		year = 1707
+	}
+	deathdate = {
+		year = 1725
+	}
+	rank = 6
+	movement = 2
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32656 }
+	category = general
+	name = "Pskov"
+	startdate = {
+		year = 1716
+	}
+	deathdate = {
+		year = 1734
+	}
+	rank = 6
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32657 }
+	category = general
+	name = "Basmanov"
+	startdate = {
+		year = 1723
+	}
+	deathdate = {
+		year = 1748
+	}
+	rank = 3
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32658 }
+	category = general
+	name = "Leopoldonov"
+	startdate = {
+		year = 1736
+	}
+	deathdate = {
+		year = 1755
+	}
+	rank = 0
+	movement = 4
+	fire = 6
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32659 }
+	category = general
+	name = "Semenov"
+	startdate = {
+		year = 1746
+	}
+	deathdate = {
+		year = 1768
+	}
+	rank = 0
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32660 }
+	category = general
+	name = "Kotlas"
+	startdate = {
+		year = 1763
+	}
+	deathdate = {
+		year = 1781
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32661 }
+	category = general
+	name = "Vorontsov"
+	startdate = {
+		year = 1771
+	}
+	deathdate = {
+		year = 1790
+	}
+	rank = 3
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 32662 }
+	category = general
+	name = "Mstislavski"
+	startdate = {
+		year = 1781
+	}
+	deathdate = {
+		year = 1798
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32663 }
+	category = general
+	name = "Jukov"
+	startdate = {
+		year = 1793
+	}
+	deathdate = {
+		year = 1817
+	}
+	rank = 1
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 32664 }
+	category = general
+	name = "Sviajsk"
+	startdate = {
+		year = 1801
+	}
+	deathdate = {
+		year = 1822
+	}
+	rank = 8
+	movement = 3
+	fire = 2
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32665 }
+	category = general
+	name = "Bezukov"
+	startdate = {
+		year = 1812
+	}
+	deathdate = {
+		year = 1830
+	}
+	rank = 2
+	movement = 5
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32666 }
+	category = general
+	name = "Grigorievich"
+	startdate = {
+		year = 1818
+	}
+	deathdate = {
+		year = 1837
+	}
+	rank = 4
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32667 }
+	category = general
+	name = "Leopoldonov"
+	startdate = {
+		year = 1666
+	}
+	deathdate = {
+		year = 1688
+	}
+	rank = 2
+	movement = 6
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32668 }
+	category = general
+	name = "Lapunov"
+	startdate = {
+		year = 1693
+	}
+	deathdate = {
+		year = 1716
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32669 }
+	category = general
+	name = "Chuiski"
+	startdate = {
+		year = 1713
+	}
+	deathdate = {
+		year = 1733
+	}
+	rank = 4
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32670 }
+	category = general
+	name = "Glinski"
+	startdate = {
+		year = 1744
+	}
+	deathdate = {
+		year = 1760
+	}
+	rank = 6
+	movement = 2
+	fire = 2
+	shock = 4
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 32671 }
+	category = general
+	name = "Kafelnikov"
+	startdate = {
+		year = 1767
+	}
+	deathdate = {
+		year = 1787
+	}
+	rank = 1
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32672 }
+	category = general
+	name = "Torjok"
+	startdate = {
+		year = 1787
+	}
+	deathdate = {
+		year = 1808
+	}
+	rank = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32673 }
+	category = general
+	name = "Simbirsk"
+	startdate = {
+		year = 1801
+	}
+	deathdate = {
+		year = 1818
+	}
+	rank = 1
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 32674 }
+	category = general
+	name = "Preobajenski"
+	startdate = {
+		year = 1666
+	}
+	deathdate = {
+		year = 1682
+	}
+	rank = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32675 }
+	category = general
+	name = "Abramovich"
+	startdate = {
+		year = 1687
+	}
+	deathdate = {
+		year = 1706
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32676 }
+	category = general
+	name = "Zarutski"
+	startdate = {
+		year = 1717
+	}
+	deathdate = {
+		year = 1735
+	}
+	rank = 6
+	movement = 6
+	fire = 6
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32677 }
+	category = general
+	name = "Kostov"
+	startdate = {
+		year = 1743
+	}
+	deathdate = {
+		year = 1760
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32678 }
+	category = general
+	name = "Briansk"
+	startdate = {
+		year = 1759
+	}
+	deathdate = {
+		year = 1783
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32679 }
+	category = general
+	name = "Tcherbatov"
+	startdate = {
+		year = 1787
+	}
+	deathdate = {
+		year = 1810
+	}
+	rank = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 32680 }
+	category = general
+	name = "Kotchev"
+	startdate = {
+		year = 1800
+	}
+	deathdate = {
+		year = 1816
+	}
+	rank = 4
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}

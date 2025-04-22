@@ -1,0 +1,228 @@
+historicalmonarch = {
+	id = { type = 6 id = 20601 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1470
+	}
+	name = "Burinçi II"
+	DIP = 2
+	ADM = 5
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20602 }
+	startdate = {
+		year = 1470
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1482
+	}
+	name = "Sadir VII"
+	DIP = 4
+	ADM = 2
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20603 }
+	startdate = {
+		year = 1482
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1518
+	}
+	name = "Amansa VII"
+	DIP = 8
+	ADM = 2
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20604 }
+	startdate = {
+		year = 1518
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1543
+	}
+	name = "Bulgak V"
+	DIP = 7
+	ADM = 8
+	MIL = 6
+	movement = 4
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20605 }
+	startdate = {
+		year = 1543
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1573
+	}
+	name = "Mamutbay VI"
+	DIP = 7
+	ADM = 2
+	MIL = 6
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20606 }
+	startdate = {
+		year = 1573
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1599
+	}
+	name = "Mamutbay VII"
+	DIP = 9
+	ADM = 2
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20607 }
+	startdate = {
+		year = 1599
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1625
+	}
+	name = "Tarpançi IX"
+	DIP = 7
+	ADM = 5
+	MIL = 4
+	movement = 3
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20608 }
+	startdate = {
+		year = 1625
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1673
+	}
+	name = "Hohlay I"
+	DIP = 5
+	ADM = 2
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20609 }
+	startdate = {
+		year = 1673
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1716
+	}
+	name = "Hohlay II"
+	DIP = 7
+	ADM = 2
+	MIL = 7
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20610 }
+	startdate = {
+		year = 1716
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1763
+	}
+	name = "Hohlay III"
+	DIP = 6
+	ADM = 3
+	MIL = 3
+	movement = 3
+	fire = 4
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20611 }
+	startdate = {
+		year = 1763
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1812
+	}
+	name = "Tarpançi X"
+	DIP = 3
+	ADM = 6
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20612 }
+	startdate = {
+		year = 1812
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1833
+	}
+	name = "Burinçi III"
+	DIP = 5
+	ADM = 9
+	MIL = 9
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}

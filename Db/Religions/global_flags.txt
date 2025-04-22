@@ -1,0 +1,1710 @@
+#Global flags
+
+#Each flag only modifies mentioned settings. flag_start is mandatory and initialize settings at the beginning of the game.
+
+#enable_religion = { }            List of enabled religions
+#disable_religion_ai = { }        List of religions AI will not try to convert to (even if allowed) and revert to default in the same subgroup if possible.
+#casusbelli = { }                 List of religions that have a permanent casus belli against some other religions.
+#religious_restricts = { }        List of religions that cannot have relations (dynastic, vassalization and annexation).
+#religious_enemies = { }          List of religions that are enemies for AI decisions.
+#tolerance = { }                  In the information window, tolerance slider displayed or not, under which name (can be group or subgroup) and with default tolerance value or, if not displayed, with automatic same value as specified religion.
+#defender = yes/no                Enable/Disable defender of the faith rules for religions that can have a defender (default is no if not specified in start).
+#predominance_tolerance = yes/no  Enable/Disable tolerance rules for predominant religions.
+#enable_tot = yes/no              Enable/Disable ToT rules for involved countries (default is no if not specified in start).
+
+#-----------------------------------------------------------------------------------------------
+
+flag_start = {
+	enable_religion = {
+		catholic
+		hussite
+		orthodox
+		sunni
+		shiite
+		buddhism
+		confucianism
+		hinduism
+		pagan
+		shinto
+		sikh
+	}
+	casusbelli = {
+		sunni = {
+			shiite
+		}
+		shiite = {
+			sunni
+		}
+	}
+	religious_restricts = {
+		catholic = {
+			hussite
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		hussite = {
+			catholic
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		orthodox = {
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		sunni = {
+			catholic
+			hussite
+			shiite
+			pagan
+		}
+		shiite = {
+			catholic
+			hussite
+			orthodox
+			sunni
+			pagan
+		}
+		buddhism = {
+			catholic
+			hussite
+			orthodox
+			pagan
+		}
+		confucianism = {
+			catholic
+			hussite
+			orthodox
+			pagan
+		}
+		hinduism = {
+			catholic
+			hussite
+			orthodox
+			pagan
+		}
+		shinto = {
+			catholic
+			hussite
+			orthodox
+			pagan
+		}
+		sikh = {
+			catholic
+			hussite
+			orthodox
+			pagan
+		}
+		pagan = {
+			catholic
+			hussite
+			orthodox
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+		}
+	}
+	religious_enemies = {
+		catholic = {
+			hussite
+			sunni
+			shiite
+		}
+		hussite = {
+			catholic
+			sunni
+			shiite
+		}
+		orthodox = {
+			sunni
+			shiite
+		}
+		sunni = {
+			catholic
+			orthodox
+			shiite
+			hussite
+		}
+		shiite = {
+			catholic
+			orthodox
+			sunni
+			hussite
+		}
+		pagan = {
+			pagan
+		}
+	}
+	tolerance = {
+		catholic = {
+			catholic = { display = yes name = catholic default = 10 }
+			hussite = { display = no }
+			orthodox = { display = yes name = orthodox default = -3 }
+			sunni = { display = yes name = muslim default = -5 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		hussite = {
+			catholic = { display = yes name = catholic default = -2 }
+			hussite = { display = yes name = hussite default = 10 }
+			orthodox = { display = yes name = orthodox default = -3 }
+			sunni = { display = yes name = muslim default = -5 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		orthodox = {
+			catholic = { display = yes name = catholic default = -4 }
+			hussite = { display = no }
+			orthodox = { display = yes name = orthodox default = 10 }
+			sunni = { display = yes name = muslim default = -4 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		sunni = {
+			catholic = { display = yes name = catholic default = -3 }
+			hussite = { display = no value = catholic }
+			orthodox = { display = yes name = orthodox default = -1 }
+			sunni = { display = yes name = sunni default = 10 }
+			shiite = { display = yes name = shiite default = -6 }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		shiite = {
+			catholic = { display = yes name = catholic default = -3 }
+			hussite = { display = no value = catholic }
+			orthodox = { display = yes name = orthodox default = -1 }
+			sunni = { display = yes name = sunni default = -6 }
+			shiite = { display = yes name = shiite default = 10 }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		buddhism = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		confucianism = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		hinduism = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		shinto = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		pagan = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = yes name = pagan default = 0 }
+		}
+		sikh = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = yes name = sikh default = 10 }
+			pagan = { display = no }
+		}
+	}
+	defender = yes
+	predominance_tolerance = no
+}
+
+#-----------------------------------------------------------------------------------------------
+
+flag_0 = { #Treaty of Tordesillas
+	enable_tot = yes
+}
+
+flag_1 = { #Protestantism
+	enable_religion = {
+		catholic
+		hussite
+		protestant
+		orthodox
+		sunni
+		shiite
+		buddhism
+		confucianism
+		hinduism
+		shinto
+		sikh
+		pagan
+	}
+	religious_restricts = {
+		catholic = {
+			protestant
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		hussite = {
+			catholic
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		protestant = {
+			catholic
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		orthodox = {
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		sunni = {
+			catholic
+			hussite
+			protestant
+			shiite
+			pagan
+		}
+		shiite = {
+			catholic
+			hussite
+			protestant
+			orthodox
+			sunni
+			pagan
+		}
+		buddhism = {
+			catholic
+			hussite
+			protestant
+			orthodox
+			pagan
+		}
+		confucianism = {
+			catholic
+			hussite
+			protestant
+			orthodox
+			pagan
+		}
+		hinduism = {
+			catholic
+			hussite
+			protestant
+			orthodox
+			pagan
+		}
+		shinto = {
+			catholic
+			hussite
+			protestant
+			orthodox
+			pagan
+		}
+		sikh = {
+			catholic
+			hussite
+			protestant
+			orthodox
+			pagan
+		}
+		pagan = {
+			catholic
+			hussite
+			protestant
+			orthodox
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+		}
+	}
+	religious_enemies = {
+		catholic = {
+			hussite
+			protestant
+			sunni
+			shiite
+		}
+		hussite = {
+			catholic
+			sunni
+			shiite
+		}
+		protestant = {
+			catholic
+			sunni
+			shiite
+		}
+		orthodox = {
+			sunni
+			shiite
+		}
+		sunni = {
+			catholic
+			hussite
+			protestant
+			orthodox
+			shiite
+		}
+		shiite = {
+			catholic
+			hussite
+			protestant
+			orthodox
+			sunni
+		}
+		pagan = {
+			pagan
+		}
+	}
+	tolerance = {
+		catholic = {
+			catholic = { display = yes name = catholic default = 10 }
+			protestant = { display = yes name = protestant default = -5 }
+			hussite = { display = no value = protestant }
+			orthodox = { display = yes name = orthodox default = 2 }
+			sunni = { display = yes name = muslim default = -7 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		protestant = {
+			catholic = { display = yes name = catholic default = 0 }
+			protestant = { display = yes name = protestant default = 5 }
+			hussite = { display = yes name = hussite default = 1 }
+			orthodox = { display = yes name = orthodox default = 0 }
+			sunni = { display = yes name = muslim default = -6 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		hussite = {
+			catholic = { display = yes name = catholic default = -2 }
+			protestant = { display = yes name = protestant default = 3 }
+			hussite = { display = yes name = hussite default = 5 }
+			orthodox = { display = yes name = orthodox default = 0 }
+			sunni = { display = yes name = muslim default = -6 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		orthodox = {
+			catholic = { display = yes name = catholic default = -2 }
+			hussite = { display = no value = protestant }
+			protestant = { display = yes name = protestant default = -2 }
+			orthodox = { display = yes name = orthodox default = 10 }
+			sunni = { display = yes name = muslim default = -6 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		sunni = {
+			catholic = { display = yes name = catholic default = -2 }
+			hussite = { display = no value = protestant }
+			protestant = { display = yes name = protestant default = -2 }
+			orthodox = { display = yes name = orthodox default = 0 }
+			sunni = { display = yes name = sunni default = 10 }
+			shiite = { display = yes name = shiite default = -6 }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		shiite = {
+			catholic = { display = yes name = catholic default = -2 }
+			hussite = { display = no value = protestant }
+			protestant = { display = yes name = protestant default = -2 }
+			orthodox = { display = yes name = orthodox default = 0 }
+			sunni = { display = yes name = sunni default = -6 }
+			shiite = { display = yes name = shiite default = 10 }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		buddhism = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		confucianism = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		hinduism = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		shinto = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		pagan = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = yes name = pagan default = 0 }
+		}
+		sikh = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = yes name = sikh default = 10 }
+			pagan = { display = no }
+		}
+	}
+}
+
+flag_2 = { #Reformation
+	enable_religion = {
+		catholic
+		hussite
+		protestant
+		reformed
+		orthodox
+		sunni
+		shiite
+		buddhism
+		confucianism
+		hinduism
+		shinto
+		sikh
+		pagan
+	}
+	religious_restricts = {
+		catholic = {
+			hussite
+			protestant
+			reformed
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		hussite = {
+			catholic
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		protestant = {
+			catholic
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		reformed = {
+			catholic
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		orthodox = {
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		sunni = {
+			catholic
+			hussite
+			protestant
+			reformed
+			shiite
+			pagan
+		}
+		shiite = {
+			catholic
+			hussite
+			protestant
+			reformed
+			orthodox
+			sunni
+			pagan
+		}
+		buddhism = {
+			catholic
+			hussite
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		confucianism = {
+			catholic
+			hussite
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		hinduism = {
+			catholic
+			hussite
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		shinto = {
+			catholic
+			hussite
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		sikh = {
+			catholic
+			hussite
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		pagan = {
+			catholic
+			hussite
+			protestant
+			reformed
+			orthodox
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+		}
+	}
+	religious_enemies = {
+		catholic = {
+			hussite
+			protestant
+			reformed
+			sunni
+			shiite
+		}
+		hussite = {
+			catholic
+			sunni
+			shiite
+		}
+		protestant = {
+			catholic
+			sunni
+			shiite
+		}
+		reformed = {
+			catholic
+			sunni
+			shiite
+		}
+		orthodox = {
+			shiite
+		}
+		sunni = {
+			catholic
+			hussite
+			protestant
+			reformed
+			shiite
+		}
+		shiite = {
+			catholic
+			hussite
+			protestant
+			reformed
+			orthodox
+			sunni
+		}
+		pagan = {
+			pagan
+		}
+	}
+	tolerance = {
+		catholic = {
+			catholic = { display = yes name = catholic default = 10 }
+			protestant = { display = yes name = protestant default = -3 }
+			hussite = { display = no value = protestant }
+			reformed = { display = yes name = reformed default = -3 }
+			orthodox = { display = yes name = orthodox default = 2 }
+			sunni = { display = yes name = muslim default = -6 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		hussite = {
+			catholic = { display = yes name = catholic default = -3 }
+			hussite = { display = yes name = hussite default = 5 }
+			protestant = { display = yes name = protestant default = 2 }
+			reformed = { display = yes name = reformed default = 2 }
+			orthodox = { display = yes name = orthodox default = 0 }
+			sunni = { display = yes name = muslim default = -6 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		protestant = {
+			catholic = { display = yes name = catholic default = -2 }
+			hussite = { display = yes name = hussite default = 2 }
+			protestant = { display = yes name = protestant default = 7 }
+			reformed = { display = yes name = reformed default = -1 }
+			orthodox = { display = yes name = orthodox default = 0 }
+			sunni = { display = yes name = muslim default = -6 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		reformed = {
+			catholic = { display = yes name = catholic default = -2 }
+			hussite = { display = yes name = hussite default = 2 }
+			protestant = { display = yes name = protestant default = -1 }
+			reformed = { display = yes name = reformed default = 7 }
+			orthodox = { display = yes name = orthodox default = 0 }
+			sunni = { display = yes name = muslim default = -6 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		orthodox = {
+			catholic = { display = yes name = catholic default = 0 }
+			protestant = { display = yes name = protestant default = -3 }
+			hussite = { display = no value = protestant }
+			reformed = { display = yes name = reformed default = -3 }
+			orthodox = { display = yes name = orthodox default = 10 }
+			sunni = { display = yes name = muslim default = -4 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		sunni = {
+			catholic = { display = yes name = catholic default = -2 }
+			protestant = { display = yes name = protestant default = -2 }
+			hussite = { display = no value = protestant }
+			reformed = { display = no value = protestant }
+			orthodox = { display = yes name = orthodox default = 0 }
+			sunni = { display = yes name = sunni default = 10 }
+			shiite = { display = yes name = shiite default = -6 }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		shiite = {
+			catholic = { display = yes name = catholic default = -2 }
+			protestant = { display = yes name = protestant default = -2 }
+			hussite = { display = no value = protestant }
+			reformed = { display = no value = protestant }
+			orthodox = { display = yes name = orthodox default = 0 }
+			sunni = { display = yes name = sunni default = -6 }
+			shiite = { display = yes name = shiite default = 10 }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		buddhism = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			reformed = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		confucianism = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			reformed = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		hinduism = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			reformed = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		shinto = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			reformed = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		pagan = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			reformed = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = yes name = pagan default = 0 }
+		}
+		sikh = {
+			catholic = { display = yes name = christian default = 0 }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			reformed = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = yes name = sikh default = 10 }
+			pagan = { display = no }
+		}
+	}
+}
+
+flag_3 = { #Council of Trent
+	enable_religion = {
+		catholic
+		hussite
+		counterreform
+		protestant
+		reformed
+		orthodox
+		sunni
+		shiite
+		buddhism
+		confucianism
+		hinduism
+		shinto
+		sikh
+		pagan
+	}
+	casusbelli = {
+		counterreform = {
+			hussite
+			protestant
+			reformed
+		}
+		hussite = {
+			counterreform
+		}
+		protestant = {
+			counterreform
+		}
+		reformed = {
+			counterreform
+		}
+		sunni = {
+			shiite
+		}
+		shiite = {
+			sunni
+		}
+	}
+	religious_restricts = {
+		catholic = {
+			hussite
+			protestant
+			reformed
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		counterreform = {
+			hussite
+			protestant
+			reformed
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		hussite = {
+			catholic
+			counterreform
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		protestant = {
+			catholic
+			counterreform
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		reformed = {
+			catholic
+			counterreform
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		orthodox = {
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		sunni = {
+			catholic
+			counterreform
+			hussite
+			protestant
+			reformed
+			shiite
+			pagan
+		}
+		shiite = {
+			catholic
+			counterreform
+			hussite
+			protestant
+			reformed
+			orthodox
+			sunni
+			pagan
+		}
+		buddhism = {
+			catholic
+			counterreform
+			hussite
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		confucianism = {
+			catholic
+			counterreform
+			hussite
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		hinduism = {
+			catholic
+			counterreform
+			hussite
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		shinto = {
+			catholic
+			counterreform
+			hussite
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		sikh = {
+			catholic
+			counterreform
+			hussite
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		pagan = {
+			catholic
+			counterreform
+			hussite
+			protestant
+			reformed
+			orthodox
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+		}
+	}
+	religious_enemies = {
+		catholic = {
+			hussite
+			protestant
+			reformed
+			sunni
+			shiite
+		}
+		counterreform = {
+			hussite
+			protestant
+			reformed
+			sunni
+			shiite
+		}
+		hussite = {
+			catholic
+			counterreform
+			sunni
+			shiite
+		}
+		protestant = {
+			catholic
+			counterreform
+			sunni
+			shiite
+		}
+		reformed = {
+			catholic
+			counterreform
+			sunni
+			shiite
+		}
+		orthodox = {
+			sunni
+			shiite
+		}
+		sunni = {
+			catholic
+			counterreform
+			hussite
+			protestant
+			reformed
+			orthodox
+			shiite
+		}
+		shiite = {
+			catholic
+			counterreform
+			hussite
+			protestant
+			reformed
+			orthodox
+			sunni
+		}
+		pagan = {
+			pagan
+		}
+	}
+	tolerance = {
+		catholic = {
+			catholic = { display = yes name = catholic default = 10 }
+			counterreform = { display = no value = catholic }
+			protestant = { display = yes name = protestant default = -3 }
+			hussite = { display = no value = protestant }
+			reformed = { display = yes name = reformed default = -3 }
+			orthodox = { display = yes name = orthodox default = 2 }
+			sunni = { display = yes name = muslim default = -6 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		counterreform = {
+			catholic = { display = yes name = catholic default = 10 }
+			counterreform = { display = no value = catholic }
+			protestant = { display = yes name = protestant default = -5 }
+			hussite = { display = no value = protestant }
+			reformed = { display = yes name = reformed default = -5 }
+			orthodox = { display = yes name = orthodox default = 3 }
+			sunni = { display = yes name = muslim default = -3 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		hussite = {
+			catholic = { display = yes name = catholic default = -3 }
+			counterreform = { display = no value = catholic }
+			hussite = { display = yes name = hussite default = 5 }
+			protestant = { display = yes name = protestant default = 2 }
+			reformed = { display = yes name = reformed default = 2 }
+			orthodox = { display = yes name = orthodox default = 0 }
+			sunni = { display = yes name = muslim default = -6 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		protestant = {
+			catholic = { display = yes name = catholic default = -2 }
+			counterreform = { display = no value = catholic }
+			hussite = { display = no value = protestant }
+			protestant = { display = yes name = protestant default = 6 }
+			reformed = { display = yes name = reformed default = 0 }
+			orthodox = { display = yes name = orthodox default = 0 }
+			sunni = { display = yes name = muslim default = -6 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		reformed = {
+			catholic = { display = yes name = catholic default = -2 }
+			counterreform = { display = no value = catholic }
+			hussite = { display = no value = protestant }
+			protestant = { display = yes name = protestant default = 0 }
+			reformed = { display = yes name = reformed default = 6 }
+			orthodox = { display = yes name = orthodox default = 0 }
+			sunni = { display = yes name = muslim default = -6 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		orthodox = {
+			catholic = { display = yes name = catholic default = 0 }
+			counterreform = { display = no value = catholic }
+			protestant = { display = yes name = protestant default = -3 }
+			hussite = { display = no value = protestant }
+			reformed = { display = yes name = reformed default = -3 }
+			orthodox = { display = yes name = orthodox default = 10 }
+			sunni = { display = yes name = muslim default = -4 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		sunni = {
+			catholic = { display = yes name = catholic default = -2 }
+			counterreform = { display = no value = catholic }
+			protestant = { display = yes name = protestant default = -2 }
+			hussite = { display = no value = protestant }
+			reformed = { display = no value = protestant }
+			orthodox = { display = yes name = orthodox default = 0 }
+			sunni = { display = yes name = sunni default = 10 }
+			shiite = { display = yes name = shiite default = -6 }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		shiite = {
+			catholic = { display = yes name = catholic default = -2 }
+			counterreform = { display = no value = catholic }
+			protestant = { display = yes name = protestant default = -2 }
+			hussite = { display = no value = protestant }
+			reformed = { display = no value = protestant }
+			orthodox = { display = yes name = orthodox default = 0 }
+			sunni = { display = yes name = sunni default = -6 }
+			shiite = { display = yes name = shiite default = 10 }
+			buddhism = { display = no }
+			confucianism = { display = no }
+			hinduism = { display = no }
+			shinto = { display = no }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		buddhism = {
+			catholic = { display = yes name = christian default = 0 }
+			counterreform = { display = no value = catholic }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			reformed = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		confucianism = {
+			catholic = { display = yes name = christian default = 0 }
+			counterreform = { display = no value = catholic }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			reformed = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		hinduism = {
+			catholic = { display = yes name = christian default = 0 }
+			counterreform = { display = no value = catholic }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			reformed = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		shinto = {
+			catholic = { display = yes name = christian default = 0 }
+			counterreform = { display = no value = catholic }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			reformed = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = no }
+		}
+		pagan = {
+			catholic = { display = yes name = christian default = 0 }
+			counterreform = { display = no value = catholic }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			reformed = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = no }
+			pagan = { display = yes name = pagan default = 0 }
+		}
+		sikh = {
+			catholic = { display = yes name = christian default = 0 }
+			counterreform = { display = no value = catholic }
+			hussite = { display = no value = catholic }
+			protestant = { display = no value = catholic }
+			reformed = { display = no value = catholic }
+			orthodox = { display = no value = catholic }
+			sunni = { display = yes name = muslim default = 0 }
+			shiite = { display = no value = sunni }
+			buddhism = { display = yes name = buddhism default = 0 }
+			confucianism = { display = yes name = confucianism default = 0 }
+			hinduism = { display = yes name = hinduism default = 0 }
+			shinto = { display = yes name = shinto default = 0 }
+			sikh = { display = yes name = sikh default = 10 }
+			pagan = { display = no }
+		}
+	}
+}
+
+flag_4 = { #Predominance tolerance
+	predominance_tolerance = yes
+}
+
+flag_5 = { #Edict of Tolerance
+	enable_tot = no
+	disable_religion_ai = {
+		counterreform
+		hussite
+	}
+	casusbelli = {
+		sunni = {
+			shiite
+		}
+		shiite = {
+			sunni
+		}
+	}
+	religious_restricts = {
+		catholic = {
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		counterreform = {
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		protestant = {
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		reformed = {
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		orthodox = {
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+			pagan
+		}
+		sunni = {
+			catholic
+			counterreform
+			protestant
+			reformed
+			shiite
+			pagan
+		}
+		shiite = {
+			catholic
+			counterreform
+			protestant
+			reformed
+			orthodox
+			sunni
+			pagan
+		}
+		buddhism = {
+			catholic
+			counterreform
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		confucianism = {
+			catholic
+			counterreform
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		hinduism = {
+			catholic
+			counterreform
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		shinto = {
+			catholic
+			counterreform
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		sikh = {
+			catholic
+			counterreform
+			protestant
+			reformed
+			orthodox
+			pagan
+		}
+		pagan = {
+			catholic
+			counterreform
+			protestant
+			reformed
+			orthodox
+			sunni
+			shiite
+			buddhism
+			confucianism
+			hinduism
+			shinto
+			sikh
+		}
+	}
+	religious_enemies = {
+		catholic = {
+			sunni
+			shiite
+		}
+		counterreform = {
+			sunni
+			shiite
+		}
+		protestant = {
+			sunni
+			shiite
+		}
+		reformed = {
+			sunni
+			shiite
+		}
+		orthodox = {
+			sunni
+			shiite
+		}
+		sunni = {
+			catholic
+			counterreform
+			protestant
+			reformed
+			orthodox
+			shiite
+		}
+		shiite = {
+			catholic
+			counterreform
+			protestant
+			reformed
+			orthodox
+			sunni
+		}
+		pagan = {
+			pagan
+		}
+	}
+	defender = no
+}
+
+flag_6 = { #More tolerance
+	religious_enemies = {
+		sunni = {
+			shiite
+		}
+		shiite = {
+			sunni
+		}
+		pagan = {
+			pagan
+		}
+	}
+}
+
+#-----------------------------------------------------------------------------------------------

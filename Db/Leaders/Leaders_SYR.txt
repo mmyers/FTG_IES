@@ -1,0 +1,1212 @@
+historicalleader = {
+	id = { type = 6 id = 39202 }
+	category = monarch
+	name = "Hussein II"
+	startdate = {
+		year = 1426
+	}
+	deathdate = {
+		year = 1453
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 5
+	shock = 6
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39203 }
+	category = monarch
+	name = "Mirza I"
+	startdate = {
+		year = 1468
+	}
+	deathdate = {
+		year = 1474
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39204 }
+	category = monarch
+	name = "Hussein III"
+	startdate = {
+		year = 1481
+	}
+	deathdate = {
+		year = 1505
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 39205 }
+	category = monarch
+	name = "Sa'id VI"
+	startdate = {
+		year = 1518
+	}
+	deathdate = {
+		year = 1544
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39206 }
+	category = monarch
+	name = "Sa'id VII"
+	startdate = {
+		year = 1544
+	}
+	deathdate = {
+		year = 1575
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39207 }
+	category = monarch
+	name = "Hussein IV"
+	startdate = {
+		year = 1584
+	}
+	deathdate = {
+		year = 1590
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39208 }
+	category = monarch
+	name = "Hamza VI"
+	startdate = {
+		year = 1591
+	}
+	deathdate = {
+		year = 1593
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 3
+	shock = 2
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 39211 }
+	category = monarch
+	name = "Hussein V"
+	startdate = {
+		year = 1609
+	}
+	deathdate = {
+		year = 1615
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 6
+	fire = 6
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39212 }
+	category = monarch
+	name = "Hamza VII"
+	startdate = {
+		year = 1619
+	}
+	deathdate = {
+		year = 1655
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 6
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39214 }
+	category = monarch
+	name = "Hussein VI"
+	startdate = {
+		year = 1679
+	}
+	deathdate = {
+		year = 1707
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 2
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39215 }
+	category = monarch
+	name = "Salim II"
+	startdate = {
+		year = 1722
+	}
+	deathdate = {
+		year = 1744
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39216 }
+	category = monarch
+	name = "Ibrahim II"
+	startdate = {
+		year = 1744
+	}
+	deathdate = {
+		year = 1772
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39217 }
+	category = monarch
+	name = "Ibrahim III"
+	startdate = {
+		year = 1785
+	}
+	deathdate = {
+		year = 1813
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39218 }
+	category = monarch
+	name = "Amin VII"
+	startdate = {
+		year = 1820
+	}
+	deathdate = {
+		year = 1863
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39231 }
+	category = general
+	name = "Al-Rashid"
+	startdate = {
+		year = 1415
+	}
+	deathdate = {
+		year = 1437
+	}
+	rank = 1
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39232 }
+	category = general
+	name = "Moktar"
+	startdate = {
+		year = 1418
+	}
+	deathdate = {
+		year = 1440
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39233 }
+	category = general
+	name = "Suwaida"
+	startdate = {
+		year = 1509
+	}
+	deathdate = {
+		year = 1531
+	}
+	rank = 8
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39234 }
+	category = general
+	name = "Nasiryah"
+	startdate = {
+		year = 1573
+	}
+	deathdate = {
+		year = 1591
+	}
+	rank = 7
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39235 }
+	category = conquistador
+	name = "Marbat"
+	startdate = {
+		year = 1527
+	}
+	deathdate = {
+		year = 1547
+	}
+	rank = 9
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39236 }
+	category = conquistador
+	name = "Jafar"
+	startdate = {
+		year = 1582
+	}
+	deathdate = {
+		year = 1602
+	}
+	rank = 12
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39237 }
+	category = general
+	name = "Al-Din"
+	startdate = {
+		year = 1429
+	}
+	deathdate = {
+		year = 1452
+	}
+	rank = 6
+	movement = 2
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39238 }
+	category = general
+	name = "Tifni"
+	startdate = {
+		year = 1441
+	}
+	deathdate = {
+		year = 1459
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39239 }
+	category = general
+	name = "Al-Din"
+	startdate = {
+		year = 1448
+	}
+	deathdate = {
+		year = 1466
+	}
+	rank = 3
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39240 }
+	category = general
+	name = "Saada"
+	startdate = {
+		year = 1455
+	}
+	deathdate = {
+		year = 1476
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39241 }
+	category = general
+	name = "Derna"
+	startdate = {
+		year = 1466
+	}
+	deathdate = {
+		year = 1491
+	}
+	rank = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39242 }
+	category = general
+	name = "Sharif"
+	startdate = {
+		year = 1479
+	}
+	deathdate = {
+		year = 1500
+	}
+	rank = 6
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39243 }
+	category = general
+	name = "Biskra"
+	startdate = {
+		year = 1492
+	}
+	deathdate = {
+		year = 1510
+	}
+	rank = 2
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39244 }
+	category = conquistador
+	name = "Al-Rashid"
+	startdate = {
+		year = 1503
+	}
+	deathdate = {
+		year = 1521
+	}
+	rank = 4
+	movement = 3
+	fire = 5
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39245 }
+	category = general
+	name = "Nasiryah"
+	startdate = {
+		year = 1509
+	}
+	deathdate = {
+		year = 1528
+	}
+	rank = 2
+	movement = 5
+	fire = 5
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39246 }
+	category = general
+	name = "Al-Din"
+	startdate = {
+		year = 1513
+	}
+	deathdate = {
+		year = 1538
+	}
+	rank = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39247 }
+	category = general
+	name = "Queseima"
+	startdate = {
+		year = 1529
+	}
+	deathdate = {
+		year = 1548
+	}
+	rank = 2
+	movement = 5
+	fire = 4
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39248 }
+	category = general
+	name = "Nadjaf"
+	startdate = {
+		year = 1538
+	}
+	deathdate = {
+		year = 1562
+	}
+	rank = 4
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39249 }
+	category = general
+	name = "Fayoum"
+	startdate = {
+		year = 1551
+	}
+	deathdate = {
+		year = 1570
+	}
+	rank = 0
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39250 }
+	category = general
+	name = "Tuggurt"
+	startdate = {
+		year = 1558
+	}
+	deathdate = {
+		year = 1581
+	}
+	rank = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39251 }
+	category = general
+	name = "Nadjaf"
+	startdate = {
+		year = 1564
+	}
+	deathdate = {
+		year = 1588
+	}
+	rank = 4
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39252 }
+	category = general
+	name = "Idriss"
+	startdate = {
+		year = 1583
+	}
+	deathdate = {
+		year = 1603
+	}
+	rank = 1
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39253 }
+	category = general
+	name = "Derna"
+	startdate = {
+		year = 1593
+	}
+	deathdate = {
+		year = 1611
+	}
+	rank = 2
+	movement = 2
+	fire = 4
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39254 }
+	category = general
+	name = "Auzu"
+	startdate = {
+		year = 1597
+	}
+	deathdate = {
+		year = 1621
+	}
+	rank = 6
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39255 }
+	category = general
+	name = "Dammam"
+	startdate = {
+		year = 1611
+	}
+	deathdate = {
+		year = 1629
+	}
+	rank = 2
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39256 }
+	category = general
+	name = "Jafar"
+	startdate = {
+		year = 1622
+	}
+	deathdate = {
+		year = 1641
+	}
+	rank = 1
+	movement = 4
+	fire = 6
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39257 }
+	category = general
+	name = "Azzer"
+	startdate = {
+		year = 1625
+	}
+	deathdate = {
+		year = 1646
+	}
+	rank = 2
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 39258 }
+	category = general
+	name = "Anaba"
+	startdate = {
+		year = 1637
+	}
+	deathdate = {
+		year = 1656
+	}
+	rank = 3
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 39259 }
+	category = general
+	name = "Batna"
+	startdate = {
+		year = 1650
+	}
+	deathdate = {
+		year = 1670
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39260 }
+	category = general
+	name = "Manamah"
+	startdate = {
+		year = 1662
+	}
+	deathdate = {
+		year = 1686
+	}
+	rank = 1
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 39261 }
+	category = general
+	name = "Queseima"
+	startdate = {
+		year = 1669
+	}
+	deathdate = {
+		year = 1686
+	}
+	rank = 2
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39262 }
+	category = general
+	name = "Jem"
+	startdate = {
+		year = 1672
+	}
+	deathdate = {
+		year = 1697
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39263 }
+	category = general
+	name = "Tebessa"
+	startdate = {
+		year = 1688
+	}
+	deathdate = {
+		year = 1711
+	}
+	rank = 6
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39264 }
+	category = general
+	name = "Dakhla"
+	startdate = {
+		year = 1696
+	}
+	deathdate = {
+		year = 1721
+	}
+	rank = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39265 }
+	category = general
+	name = "Ennedi"
+	startdate = {
+		year = 1709
+	}
+	deathdate = {
+		year = 1728
+	}
+	rank = 4
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39266 }
+	category = general
+	name = "Tifni"
+	startdate = {
+		year = 1723
+	}
+	deathdate = {
+		year = 1741
+	}
+	rank = 1
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39267 }
+	category = general
+	name = "Dammam"
+	startdate = {
+		year = 1733
+	}
+	deathdate = {
+		year = 1750
+	}
+	rank = 1
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39268 }
+	category = general
+	name = "Messaud"
+	startdate = {
+		year = 1741
+	}
+	deathdate = {
+		year = 1766
+	}
+	rank = 0
+	movement = 6
+	fire = 5
+	shock = 6
+	siege = 4
+}
+historicalleader = {
+	id = { type = 6 id = 39269 }
+	category = general
+	name = "Mukalla"
+	startdate = {
+		year = 1754
+	}
+	deathdate = {
+		year = 1773
+	}
+	rank = 3
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39270 }
+	category = general
+	name = "Mafra"
+	startdate = {
+		year = 1757
+	}
+	deathdate = {
+		year = 1777
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39271 }
+	category = general
+	name = "Suwaida"
+	startdate = {
+		year = 1775
+	}
+	deathdate = {
+		year = 1792
+	}
+	rank = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39272 }
+	category = general
+	name = "Ennedi"
+	startdate = {
+		year = 1784
+	}
+	deathdate = {
+		year = 1801
+	}
+	rank = 6
+	movement = 2
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39273 }
+	category = conquistador
+	name = "Saada"
+	startdate = {
+		year = 1790
+	}
+	deathdate = {
+		year = 1813
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39274 }
+	category = general
+	name = "Suwaida"
+	startdate = {
+		year = 1799
+	}
+	deathdate = {
+		year = 1819
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39275 }
+	category = general
+	name = "Dammam"
+	startdate = {
+		year = 1810
+	}
+	deathdate = {
+		year = 1826
+	}
+	rank = 1
+	movement = 5
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39276 }
+	category = general
+	name = "Mafra"
+	startdate = {
+		year = 1818
+	}
+	deathdate = {
+		year = 1841
+	}
+	rank = 6
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39277 }
+	category = general
+	name = "Suwaida"
+	startdate = {
+		year = 1662
+	}
+	deathdate = {
+		year = 1683
+	}
+	rank = 5
+	movement = 5
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39278 }
+	category = general
+	name = "Sana"
+	startdate = {
+		year = 1686
+	}
+	deathdate = {
+		year = 1710
+	}
+	rank = 1
+	movement = 5
+	fire = 4
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 39279 }
+	category = general
+	name = "Suwaida"
+	startdate = {
+		year = 1713
+	}
+	deathdate = {
+		year = 1730
+	}
+	rank = 5
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39280 }
+	category = general
+	name = "Safi"
+	startdate = {
+		year = 1735
+	}
+	deathdate = {
+		year = 1759
+	}
+	rank = 6
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 39281 }
+	category = general
+	name = "Queseima"
+	startdate = {
+		year = 1762
+	}
+	deathdate = {
+		year = 1783
+	}
+	rank = 3
+	movement = 4
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39282 }
+	category = general
+	name = "Dammam"
+	startdate = {
+		year = 1792
+	}
+	deathdate = {
+		year = 1808
+	}
+	rank = 1
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39283 }
+	category = general
+	name = "Saada"
+	startdate = {
+		year = 1794
+	}
+	deathdate = {
+		year = 1819
+	}
+	rank = 1
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39284 }
+	category = general
+	name = "Nadjaf"
+	startdate = {
+		year = 1658
+	}
+	deathdate = {
+		year = 1683
+	}
+	rank = 6
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39285 }
+	category = general
+	name = "Husein"
+	startdate = {
+		year = 1691
+	}
+	deathdate = {
+		year = 1710
+	}
+	rank = 4
+	movement = 3
+	fire = 3
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39286 }
+	category = general
+	name = "Zuwara"
+	startdate = {
+		year = 1718
+	}
+	deathdate = {
+		year = 1740
+	}
+	rank = 1
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39287 }
+	category = general
+	name = "Ennedi"
+	startdate = {
+		year = 1742
+	}
+	deathdate = {
+		year = 1760
+	}
+	rank = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39288 }
+	category = general
+	name = "Saada"
+	startdate = {
+		year = 1767
+	}
+	deathdate = {
+		year = 1788
+	}
+	rank = 0
+	movement = 4
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39289 }
+	category = general
+	name = "Batna"
+	startdate = {
+		year = 1785
+	}
+	deathdate = {
+		year = 1808
+	}
+	rank = 6
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 39290 }
+	category = general
+	name = "Al-Din"
+	startdate = {
+		year = 1801
+	}
+	deathdate = {
+		year = 1817
+	}
+	rank = 3
+	movement = 6
+	fire = 6
+	shock = 5
+	siege = 0
+}

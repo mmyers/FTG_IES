@@ -1,0 +1,209 @@
+historicalmonarch = {
+	id = { type = 6 id = 18881 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1453
+	}
+	name = "Albrecht VIII"
+	DIP = 2
+	ADM = 7
+	MIL = 4
+	movement = 4
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18882 }
+	startdate = {
+		year = 1453
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1493
+	}
+	name = "Johann IV"
+	DIP = 6
+	ADM = 9
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18883 }
+	startdate = {
+		year = 1493
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1529
+	}
+	name = "Albrecht IX"
+	DIP = 2
+	ADM = 6
+	MIL = 8
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18884 }
+	startdate = {
+		year = 1529
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1549
+	}
+	name = "Johann V"
+	DIP = 4
+	ADM = 2
+	MIL = 2
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18885 }
+	startdate = {
+		year = 1549
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1585
+	}
+	name = "Johann VI"
+	DIP = 4
+	ADM = 2
+	MIL = 5
+	movement = 6
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18886 }
+	startdate = {
+		year = 1585
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1631
+	}
+	name = "Johann VII"
+	DIP = 5
+	ADM = 4
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18887 }
+	startdate = {
+		year = 1631
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1658
+	}
+	name = "Bernhard I"
+	DIP = 7
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18888 }
+	startdate = {
+		year = 1658
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1692
+	}
+	name = "Albrecht X"
+	DIP = 9
+	ADM = 2
+	MIL = 8
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18889 }
+	startdate = {
+		year = 1692
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1724
+	}
+	name = "Bernhard II"
+	DIP = 2
+	ADM = 7
+	MIL = 2
+	movement = 3
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18890 }
+	startdate = {
+		year = 1724
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1770
+	}
+	name = "Johann VIII"
+	DIP = 2
+	ADM = 2
+	MIL = 9
+	movement = 3
+	fire = 4
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18891 }
+	startdate = {
+		year = 1770
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1827
+	}
+	name = "Bernhard III"
+	DIP = 2
+	ADM = 8
+	MIL = 2
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 0
+}

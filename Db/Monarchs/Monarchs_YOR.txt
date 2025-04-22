@@ -1,0 +1,286 @@
+historicalmonarch = {
+	id = { type = 6 id = 16701 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1422
+	}
+	name = "Charles VI"
+	DIP = 6
+	ADM = 6
+	MIL = 4
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16702 }
+	startdate = {
+		year = 1422
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1461
+	}
+	name = "Richard I"
+	DIP = 8
+	ADM = 7
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16703 }
+	startdate = {
+		year = 1461
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1485
+	}
+	name = "Richard II"
+	DIP = 5
+	ADM = 2
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16704 }
+	startdate = {
+		year = 1485
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1530
+	}
+	name = "Henry VI"
+	DIP = 2
+	ADM = 2
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16705 }
+	startdate = {
+		year = 1530
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1555
+	}
+	name = "Henry VII"
+	DIP = 9
+	ADM = 7
+	MIL = 7
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16706 }
+	startdate = {
+		year = 1555
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1565
+	}
+	name = "Charles VII"
+	DIP = 3
+	ADM = 9
+	MIL = 8
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 16707 }
+	startdate = {
+		year = 1565
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1595
+	}
+	name = "Edgar Fox"
+	DIP = 9
+	ADM = 7
+	MIL = 9
+	movement = 3
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16708 }
+	startdate = {
+		year = 1595
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1598
+	}
+	name = "Richard III"
+	DIP = 2
+	ADM = 9
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16709 }
+	startdate = {
+		year = 1598
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1626
+	}
+	name = "Richard IV"
+	DIP = 7
+	ADM = 2
+	MIL = 6
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16710 }
+	startdate = {
+		year = 1626
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1675
+	}
+	name = "Henry VIII"
+	DIP = 4
+	ADM = 3
+	MIL = 3
+	movement = 4
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16711 }
+	startdate = {
+		year = 1675
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1678
+	}
+	name = "Richard V"
+	DIP = 5
+	ADM = 5
+	MIL = 7
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 16712 }
+	startdate = {
+		year = 1678
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1720
+	}
+	name = "George Seymour"
+	DIP = 8
+	ADM = 9
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16713 }
+	startdate = {
+		year = 1720
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1756
+	}
+	name = "John XI the Great"
+	DIP = 9
+	ADM = 9
+	MIL = 8
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+	remark = "From Sweden. AKA: Johan, Senior Programmer at Paradox"
+}
+historicalmonarch = {
+	id = { type = 6 id = 16714 }
+	startdate = {
+		year = 1756
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1802
+	}
+	name = "John XII"
+	DIP = 5
+	ADM = 5
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16715 }
+	startdate = {
+		year = 1802
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1843
+	}
+	name = "John XIII"
+	DIP = 8
+	ADM = 2
+	MIL = 4
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}

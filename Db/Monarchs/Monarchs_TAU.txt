@@ -1,0 +1,247 @@
+historicalmonarch = {
+	id = { type = 6 id = 18581 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1453
+	}
+	name = "Zatec Macatec"
+	DIP = 6
+	ADM = 4
+	MIL = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18582 }
+	startdate = {
+		year = 1453
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1514
+	}
+	name = "Pardubice II"
+	DIP = 2
+	ADM = 8
+	MIL = 2
+	movement = 2
+	fire = 5
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18583 }
+	startdate = {
+		year = 1514
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1524
+	}
+	name = "Pardubice III"
+	DIP = 9
+	ADM = 3
+	MIL = 7
+	movement = 3
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18584 }
+	startdate = {
+		year = 1524
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1538
+	}
+	name = "Lablonec VI"
+	DIP = 3
+	ADM = 5
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18585 }
+	startdate = {
+		year = 1538
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1553
+	}
+	name = "Pardubice IV"
+	DIP = 4
+	ADM = 5
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18586 }
+	startdate = {
+		year = 1553
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1593
+	}
+	name = "Lablonec VII"
+	DIP = 8
+	ADM = 8
+	MIL = 8
+	movement = 5
+	fire = 6
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18587 }
+	startdate = {
+		year = 1593
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1625
+	}
+	name = "Pardubice V"
+	DIP = 2
+	ADM = 7
+	MIL = 9
+	movement = 4
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18588 }
+	startdate = {
+		year = 1625
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1665
+	}
+	name = "Pardubice VI"
+	DIP = 8
+	ADM = 3
+	MIL = 6
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18589 }
+	startdate = {
+		year = 1665
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1711
+	}
+	name = "Ludvik III"
+	DIP = 5
+	ADM = 4
+	MIL = 2
+	movement = 2
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 18590 }
+	startdate = {
+		year = 1711
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1749
+	}
+	name = "Pardubice VII"
+	DIP = 8
+	ADM = 6
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18591 }
+	startdate = {
+		year = 1749
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1800
+	}
+	name = "Pardubice VIII"
+	DIP = 8
+	ADM = 8
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18592 }
+	startdate = {
+		year = 1800
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1819
+	}
+	name = "Pardubice IX"
+	DIP = 5
+	ADM = 6
+	MIL = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18593 }
+	startdate = {
+		year = 1819
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1864
+	}
+	name = "Ludvik IV"
+	DIP = 4
+	ADM = 6
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

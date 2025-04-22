@@ -1,0 +1,247 @@
+historicalmonarch = {
+	id = { type = 6 id = 16221 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1456
+	}
+	name = "Ferrante VI"
+	DIP = 5
+	ADM = 3
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16222 }
+	startdate = {
+		year = 1456
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1494
+	}
+	name = "Giovanno IV"
+	DIP = 6
+	ADM = 6
+	MIL = 9
+	movement = 5
+	fire = 2
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16223 }
+	startdate = {
+		year = 1494
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1505
+	}
+	name = "Agostino I"
+	DIP = 2
+	ADM = 5
+	MIL = 9
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16224 }
+	startdate = {
+		year = 1505
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1508
+	}
+	name = "Benedetto III"
+	DIP = 9
+	ADM = 8
+	MIL = 6
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16225 }
+	startdate = {
+		year = 1508
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1549
+	}
+	name = "Giovanno V"
+	DIP = 2
+	ADM = 4
+	MIL = 3
+	movement = 4
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16226 }
+	startdate = {
+		year = 1549
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1586
+	}
+	name = "Ferrante VII"
+	DIP = 5
+	ADM = 8
+	MIL = 2
+	movement = 4
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16227 }
+	startdate = {
+		year = 1586
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1623
+	}
+	name = "Nicolò Corleone"
+	DIP = 2
+	ADM = 2
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16228 }
+	startdate = {
+		year = 1623
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1649
+	}
+	name = "Benedetto IV"
+	DIP = 2
+	ADM = 6
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16229 }
+	startdate = {
+		year = 1649
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1662
+	}
+	name = "Giovanno VI"
+	DIP = 4
+	ADM = 2
+	MIL = 3
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16230 }
+	startdate = {
+		year = 1662
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1714
+	}
+	name = "Ferrante VIII"
+	DIP = 2
+	ADM = 8
+	MIL = 2
+	movement = 4
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16231 }
+	startdate = {
+		year = 1714
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1754
+	}
+	name = "Agostino II"
+	DIP = 7
+	ADM = 9
+	MIL = 2
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16232 }
+	startdate = {
+		year = 1754
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1800
+	}
+	name = "Ferrante IX"
+	DIP = 4
+	ADM = 7
+	MIL = 8
+	movement = 5
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16233 }
+	startdate = {
+		year = 1800
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1829
+	}
+	name = "Agostino III"
+	DIP = 6
+	ADM = 4
+	MIL = 9
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}

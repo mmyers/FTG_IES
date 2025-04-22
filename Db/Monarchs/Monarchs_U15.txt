@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 15201 }
+	startdate = {
+		year = 1397
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1431
+	}
+	name = "Felipe V"
+	DIP = 3
+	ADM = 5
+	MIL = 5
+	movement = 6
+	fire = 6
+	shock = 3
+	siege = 4
+}
+historicalmonarch = {
+	id = { type = 6 id = 15202 }
+	startdate = {
+		year = 1431
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1471
+	}
+	name = "Felipe VI"
+	DIP = 4
+	ADM = 6
+	MIL = 4
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 15203 }
+	startdate = {
+		year = 1471
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1490
+	}
+	name = "Enrique Sancho"
+	DIP = 2
+	ADM = 5
+	MIL = 8
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15204 }
+	startdate = {
+		year = 1490
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1515
+	}
+	name = "Carlos I"
+	DIP = 5
+	ADM = 6
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15205 }
+	startdate = {
+		year = 1515
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1521
+	}
+	name = "Carlos II"
+	DIP = 4
+	ADM = 9
+	MIL = 4
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15206 }
+	startdate = {
+		year = 1521
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1531
+	}
+	name = "Fernando VIII"
+	DIP = 9
+	ADM = 3
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15207 }
+	startdate = {
+		year = 1531
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1575
+	}
+	name = "Felipe VII"
+	DIP = 9
+	ADM = 2
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15208 }
+	startdate = {
+		year = 1575
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1590
+	}
+	name = "Ferdinand I"
+	DIP = 6
+	ADM = 4
+	MIL = 6
+	movement = 2
+	fire = 1
+	shock = 1
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15209 }
+	startdate = {
+		year = 1590
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1605
+	}
+	name = "Carlos III"
+	DIP = 2
+	ADM = 5
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15210 }
+	startdate = {
+		year = 1605
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1622
+	}
+	name = "Juan VI"
+	DIP = 8
+	ADM = 2
+	MIL = 7
+	movement = 5
+	fire = 4
+	shock = 2
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 15211 }
+	startdate = {
+		year = 1622
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1652
+	}
+	name = "Carlos IV"
+	DIP = 5
+	ADM = 7
+	MIL = 5
+	movement = 4
+	fire = 4
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15212 }
+	startdate = {
+		year = 1652
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1692
+	}
+	name = "Fernando IX"
+	DIP = 4
+	ADM = 9
+	MIL = 2
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15213 }
+	startdate = {
+		year = 1692
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1735
+	}
+	name = "Ferdinand II"
+	DIP = 2
+	ADM = 9
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15214 }
+	startdate = {
+		year = 1735
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1736
+	}
+	name = "Fernando X"
+	DIP = 8
+	ADM = 6
+	MIL = 2
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15215 }
+	startdate = {
+		year = 1736
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1776
+	}
+	name = "Carlos V"
+	DIP = 8
+	ADM = 9
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15216 }
+	startdate = {
+		year = 1776
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1820
+	}
+	name = "Ferdinand III"
+	DIP = 2
+	ADM = 2
+	MIL = 6
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}

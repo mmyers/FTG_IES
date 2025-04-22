@@ -1,0 +1,86 @@
+#
+# EU2 - Religious Events
+#
+#		written by Johan Andersson
+#
+
+
+
+#########################################################################
+#  Reformation
+#########################################################################
+event = { 
+
+	id = 101
+	name = "EVENTNAME101"
+	desc = "EVENTHIST101"
+	style = 1
+	date = { year = 1518 }
+	offset = 700
+	action_a = {
+			name = "OK"
+			command = { type = flag which = 1 }
+		}
+
+	}
+
+
+
+#########################################################################
+#  John Calvin
+#########################################################################
+event = { 
+
+	id = 102
+	name = "EVENTNAME102"
+	desc = "EVENTHIST102"
+	style = 1
+	date = { year = 1521 }
+	offset = 700
+	action_a = {
+			name = "OK"
+			command = { type = flag which = 2 }
+		}
+
+	}
+
+
+
+
+#########################################################################
+#  Council of Trent
+#########################################################################
+event = { 
+
+	id = 103
+	name = "EVENTNAME103"
+	desc = "EVENTHIST103"
+	style = 1
+	date = { year = 1570 }
+	offset = 5000
+	action_a = {
+			name = "OK"
+			command = { type = flag which = 3 }
+		}
+
+	}
+
+
+
+#########################################################################
+#  Edict of Tolerance
+#########################################################################
+event = { 
+
+	id = 104
+	name = "EVENTNAME104"
+	desc = "EVENTHIST104"
+	style = 1
+	date = { year = 1650 }
+	offset = 3000
+	action_a = {
+			name = "OK"
+			command = { type = flag which = 4 }
+		}
+
+	}

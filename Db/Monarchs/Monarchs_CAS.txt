@@ -1,0 +1,361 @@
+historicalmonarch = {
+	id = { type = 6 id = 20941 }
+	startdate = {
+		year = 1419
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1456
+	}
+	name = "Fernando V"
+	DIP = 6
+	ADM = 5
+	MIL = 8
+	movement = 4
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20942 }
+	startdate = {
+		year = 1456
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1478
+	}
+	name = "Fernando VI"
+	DIP = 3
+	ADM = 2
+	MIL = 2
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20943 }
+	startdate = {
+		year = 1478
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1511
+	}
+	name = "Fernando VII"
+	DIP = 7
+	ADM = 9
+	MIL = 4
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20944 }
+	startdate = {
+		year = 1511
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1543
+	}
+	name = "Fernando VIII"
+	DIP = 7
+	ADM = 8
+	MIL = 8
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20945 }
+	startdate = {
+		year = 1543
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1588
+	}
+	name = "Carlos II"
+	DIP = 2
+	ADM = 7
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20946 }
+	startdate = {
+		year = 1588
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1590
+	}
+	name = "Ferdinand I"
+	DIP = 2
+	ADM = 3
+	MIL = 3
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20947 }
+	startdate = {
+		year = 1590
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1591
+	}
+	name = "Carlos III"
+	DIP = 5
+	ADM = 2
+	MIL = 9
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20948 }
+	startdate = {
+		year = 1591
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1633
+	}
+	name = "Pere V"
+	DIP = 5
+	ADM = 8
+	MIL = 5
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20949 }
+	startdate = {
+		year = 1633
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1635
+	}
+	name = "Ferdinand II"
+	DIP = 9
+	ADM = 5
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20950 }
+	startdate = {
+		year = 1635
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1646
+	}
+	name = "Juan I"
+	DIP = 2
+	ADM = 2
+	MIL = 7
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20951 }
+	startdate = {
+		year = 1646
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1662
+	}
+	name = "Fernando IX"
+	DIP = 2
+	ADM = 9
+	MIL = 2
+	movement = 2
+	fire = 4
+	shock = 6
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20952 }
+	startdate = {
+		year = 1662
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1666
+	}
+	name = "Pere VI"
+	DIP = 2
+	ADM = 6
+	MIL = 9
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20953 }
+	startdate = {
+		year = 1666
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1672
+	}
+	name = "Juan II"
+	DIP = 8
+	ADM = 5
+	MIL = 3
+	movement = 4
+	fire = 4
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20954 }
+	startdate = {
+		year = 1672
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1718
+	}
+	name = "Fernando X"
+	DIP = 5
+	ADM = 4
+	MIL = 8
+	movement = 2
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20955 }
+	startdate = {
+		year = 1718
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1726
+	}
+	name = "Fernando XI"
+	DIP = 2
+	ADM = 2
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20956 }
+	startdate = {
+		year = 1726
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1764
+	}
+	name = "Fernando XII"
+	DIP = 8
+	ADM = 5
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20957 }
+	startdate = {
+		year = 1764
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1766
+	}
+	name = "Ferdinand III"
+	DIP = 8
+	ADM = 6
+	MIL = 7
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20958 }
+	startdate = {
+		year = 1766
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1792
+	}
+	name = "Carlos IV"
+	DIP = 4
+	ADM = 2
+	MIL = 7
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20959 }
+	startdate = {
+		year = 1792
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1830
+	}
+	name = "Fernando XIII"
+	DIP = 9
+	ADM = 6
+	MIL = 9
+	movement = 3
+	fire = 4
+	shock = 2
+	siege = 0
+}

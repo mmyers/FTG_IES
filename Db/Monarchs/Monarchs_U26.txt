@@ -1,0 +1,247 @@
+historicalmonarch = {
+	id = { type = 6 id = 17541 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1435
+	}
+	name = "Stepan IV"
+	DIP = 4
+	ADM = 2
+	MIL = 8
+	movement = 4
+	fire = 5
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 17542 }
+	startdate = {
+		year = 1425
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1464
+	}
+	name = "Ivanis II"
+	DIP = 3
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17543 }
+	startdate = {
+		year = 1464
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1517
+	}
+	name = "Lazar I"
+	DIP = 4
+	ADM = 2
+	MIL = 4
+	movement = 6
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17544 }
+	startdate = {
+		year = 1517
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1555
+	}
+	name = "Gingic X"
+	DIP = 6
+	ADM = 4
+	MIL = 6
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 17545 }
+	startdate = {
+		year = 1555
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1591
+	}
+	name = "Valdislav III"
+	DIP = 5
+	ADM = 3
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17546 }
+	startdate = {
+		year = 1591
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1628
+	}
+	name = "Ivanis III"
+	DIP = 2
+	ADM = 4
+	MIL = 3
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 4
+}
+historicalmonarch = {
+	id = { type = 6 id = 17547 }
+	startdate = {
+		year = 1628
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1665
+	}
+	name = "Gingic XI"
+	DIP = 6
+	ADM = 5
+	MIL = 9
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17548 }
+	startdate = {
+		year = 1665
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1700
+	}
+	name = "Jovan III"
+	DIP = 3
+	ADM = 5
+	MIL = 4
+	movement = 5
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17549 }
+	startdate = {
+		year = 1700
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1716
+	}
+	name = "Valdislav IV"
+	DIP = 5
+	ADM = 8
+	MIL = 4
+	movement = 4
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17550 }
+	startdate = {
+		year = 1716
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1765
+	}
+	name = "Gingic XII"
+	DIP = 2
+	ADM = 2
+	MIL = 3
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17551 }
+	startdate = {
+		year = 1765
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1777
+	}
+	name = "Tomas Lenkovic"
+	DIP = 6
+	ADM = 2
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17552 }
+	startdate = {
+		year = 1777
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1795
+	}
+	name = "Gingic XIII"
+	DIP = 4
+	ADM = 6
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17553 }
+	startdate = {
+		year = 1795
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1831
+	}
+	name = "Stepan V"
+	DIP = 2
+	ADM = 7
+	MIL = 2
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}

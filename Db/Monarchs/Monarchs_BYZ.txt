@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 16861 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1429
+	}
+	name = "Jannus"
+	DIP = 4
+	ADM = 9
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16862 }
+	startdate = {
+		year = 1429
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1442
+	}
+	name = "Demetrios IV"
+	DIP = 2
+	ADM = 2
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16863 }
+	startdate = {
+		year = 1442
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1459
+	}
+	name = "Demetrios V"
+	DIP = 9
+	ADM = 7
+	MIL = 2
+	movement = 2
+	fire = 4
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 16864 }
+	startdate = {
+		year = 1459
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1499
+	}
+	name = "Alexius XII"
+	DIP = 7
+	ADM = 4
+	MIL = 4
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16865 }
+	startdate = {
+		year = 1499
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1539
+	}
+	name = "Alexius XIII"
+	DIP = 4
+	ADM = 9
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16866 }
+	startdate = {
+		year = 1539
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1546
+	}
+	name = "Andronicus"
+	DIP = 2
+	ADM = 3
+	MIL = 2
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16867 }
+	startdate = {
+		year = 1546
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1581
+	}
+	name = "Alexius XIV"
+	DIP = 5
+	ADM = 3
+	MIL = 9
+	movement = 3
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16868 }
+	startdate = {
+		year = 1581
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1626
+	}
+	name = "Nerio"
+	DIP = 2
+	ADM = 2
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16869 }
+	startdate = {
+		year = 1626
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1633
+	}
+	name = "Konstantinos I"
+	DIP = 7
+	ADM = 9
+	MIL = 5
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16870 }
+	startdate = {
+		year = 1633
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1679
+	}
+	name = "Konstantinos II"
+	DIP = 2
+	ADM = 5
+	MIL = 8
+	movement = 3
+	fire = 3
+	shock = 5
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 16871 }
+	startdate = {
+		year = 1679
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1705
+	}
+	name = "Nerio Diogenes"
+	DIP = 6
+	ADM = 6
+	MIL = 7
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16872 }
+	startdate = {
+		year = 1705
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1707
+	}
+	name = "Demetrios VI"
+	DIP = 2
+	ADM = 5
+	MIL = 5
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16873 }
+	startdate = {
+		year = 1707
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1743
+	}
+	name = "Alexius XV"
+	DIP = 9
+	ADM = 2
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16874 }
+	startdate = {
+		year = 1743
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1748
+	}
+	name = "Alexius XVI"
+	DIP = 9
+	ADM = 5
+	MIL = 7
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 16875 }
+	startdate = {
+		year = 1748
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1792
+	}
+	name = "Manuel"
+	DIP = 8
+	ADM = 2
+	MIL = 9
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16876 }
+	startdate = {
+		year = 1792
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1837
+	}
+	name = "Jannus"
+	DIP = 2
+	ADM = 7
+	MIL = 6
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 2
+}

@@ -1,0 +1,8055 @@
+#Countries
+
+#Countries must be uniquely named. Tag must be a combination of three caracters from A to Z.
+
+#picture = "<path>"       Picture displayed on the Country Selection Screen (default is "gfx\scenarios\picture.bmp" if not specified).
+#color = <name>           Color used for the display on the political map.
+#techgroup                For techspeed. Types are: latin, orthodox, muslim, china or exotic (default is exotic if not specified).
+#leader_language = <tag>  Entry in the leader names DB file for random name of the leaders.
+#new_colony = <tag>       Entry in new_colony section of the specific countries DB file for the beginning of the name of the new cities if the province is not specified in the colony names DB file (colony name is the default city name in provinces DB file if not specified).
+#gfx = { }                Tag for army and navy sprites and random names in corresponding DB file for the display on the map.
+#policy = { }             Default policy settings for revolter and if not specified in the country definition file (default values are average if not specified).
+#elector = X             Number of votes for the HRE Emperor election (default is 0 and not involved if not specified).
+#history = { }            Future use...
+
+#-----------------------------------------------------------------------------------------------
+
+MER = { #Mercenaries - reserved
+}
+
+MUS = { #RNGC - reserved
+}
+
+NAT = { #Natives - reserved
+	leader_language = NAT
+}
+
+REB = { #Rebels - reserved
+	leader_language = REB
+	gfx = {
+		army = REB
+	}
+}
+
+PIR = { #Pirates - reserved
+	gfx = {
+		navy = MIN
+	}
+}
+
+ENG = { #X
+	picture = "gfx\scenarios\picture_ENG.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = ENG
+	new_colony = ENG
+	gfx = {
+		army = ENG
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+FRA = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = LightGreen
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+HAB = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = DarkOrange
+	techgroup = latin
+	leader_language = MIN
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+HOL = { #X
+	picture = "gfx\scenarios\picture_HOL.bmp"
+	color = DarkBlue
+	techgroup = latin
+	leader_language = HOL
+	new_colony = ENG
+	gfx = {
+		army = HOL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+POR = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = DarkBlue
+	techgroup = latin
+	leader_language = POR
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+PRU = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = White
+	techgroup = latin
+	leader_language = POL
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+RUS = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SPA = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = MIN
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SWE = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = SWE
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+TUR = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = TUR
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+VEN = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = VEN
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MIN = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = White
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+POL = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = POL
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ADE = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = POR
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ALD = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ARA = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightRed
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+AST = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = CAM
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BAD = { #X
+	picture = "gfx\scenarios\picture_HAB.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = WUR
+	new_colony = ENG
+	gfx = {
+		army = HAB
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+BAY = { #X
+	picture = "gfx\scenarios\picture_HAB.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = BAY
+	new_colony = ENG
+	gfx = {
+		army = HAB
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+KLE = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+BOH = { #X
+	picture = "gfx\scenarios\picture_USA.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = BOH
+	new_colony = ENG
+	gfx = {
+		army = USA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+KNI = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = MIN
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 0
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 0
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CRI = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = CAM
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CYR = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+DAN = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = DarkBlue
+	techgroup = latin
+	leader_language = DAN
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 0
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 0
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+GEN = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+HAN = { #X
+	picture = "gfx\scenarios\picture_PRU.bmp"
+	color = LightGreen
+	techgroup = latin
+	leader_language = HAN
+	new_colony = ENG
+	gfx = {
+		army = PRU
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+HSA = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = SWE
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+HEL = { #X
+	picture = "gfx\scenarios\picture_HOL.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = HOL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+HEI = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = NOR
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+HES = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = HES
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+HUN = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = HUN
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+HYD = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+IRA = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+KAZ = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = CAM
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+KOL = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+LAT = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = LIT
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+LOR = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = White
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+MAM = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MOR = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MLO = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = DarkGray
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+MOL = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightYellow
+	techgroup = latin
+	leader_language = MOL
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MYS = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = POL
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+OHI = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+OMA = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = White
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+PAP = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = MIN
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 0
+		centralization = 0
+		innovative = 0
+		mercantilism = 10
+		offensive = 10
+		land = 10
+		quality = 10
+		serfdom = 0
+	}
+	elector = 0
+	history = { }
+}
+
+PAR = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+PER = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightBrown
+	techgroup = latin
+	leader_language = TUR
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+PFA = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+SAC = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+SAV = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+SCO = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = SCO
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SIB = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = HUN
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+STE = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = CAM
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SUD = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+THU = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightYellow
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+TOS = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+TRI = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightBrown
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+TUN = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkGray
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+WAL = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = WAL
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+WUR = { #X
+	picture = "gfx\scenarios\picture_HAB.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = WUR
+	new_colony = ENG
+	gfx = {
+		army = HAB
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+CHI = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+NIP = { #X
+	picture = "gfx\scenarios\picture_USA.bmp"
+	color = LightYellow
+	techgroup = latin
+	leader_language = BOH
+	new_colony = ENG
+	gfx = {
+		army = USA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+MOG = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = SER
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+AZT = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = DarkGray
+	techgroup = latin
+	leader_language = SPA
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+INC = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = LightYellow
+	techgroup = latin
+	leader_language = SWE
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+USA = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = POL
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+UKR = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+COR = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 0
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 0
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+EIR = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SIC = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = DarkBrown
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CAT = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = SPA
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ROY = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+FPR = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = NOR
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SPR = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = LightBrown
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BAN = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = DarkBlue
+	techgroup = latin
+	leader_language = POR
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MAH = { #X
+	picture = "gfx\scenarios\picture_USA.bmp"
+	color = DarkBrown
+	techgroup = latin
+	leader_language = BOH
+	new_colony = ENG
+	gfx = {
+		army = USA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+NAP = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+KAL = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = U08
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ITA = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = White
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+NAV = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = DarkBlue
+	techgroup = latin
+	leader_language = SPA
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+GEO = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = DarkOrange
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BRA = { #X
+	picture = "gfx\scenarios\picture_PRU.bmp"
+	color = LightGreen
+	techgroup = latin
+	leader_language = BRA
+	new_colony = ENG
+	gfx = {
+		army = PRU
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+SHL = { #X
+	picture = "gfx\scenarios\picture_PRU.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = PRU
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+SAR = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 0
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 0
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+PSK = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ARG = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = SPA
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BRI = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BUR = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = DarkBrown
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+NOR = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+PRO = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+KUR = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = LIT
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+GRA = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MEC = { #X
+	picture = "gfx\scenarios\picture_PRU.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = PRU
+	new_colony = ENG
+	gfx = {
+		army = PRU
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+BRE = { #X
+	picture = "gfx\scenarios\picture_PRU.bmp"
+	color = DarkBlue
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = PRU
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+POM = { #X
+	picture = "gfx\scenarios\picture_PRU.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = PRU
+	new_colony = ENG
+	gfx = {
+		army = PRU
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+GEL = { #X
+	picture = "gfx\scenarios\picture_HOL.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = HOL
+	new_colony = ENG
+	gfx = {
+		army = HOL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+FRI = { #X
+	picture = "gfx\scenarios\picture_HOL.bmp"
+	color = LightRed
+	techgroup = latin
+	leader_language = HOL
+	new_colony = ENG
+	gfx = {
+		army = HOL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+FLA = { #X
+	picture = "gfx\scenarios\picture_HOL.bmp"
+	color = DarkGray
+	techgroup = latin
+	leader_language = HOL
+	new_colony = ENG
+	gfx = {
+		army = HOL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+MAG = { #X
+	picture = "gfx\scenarios\picture_PRU.bmp"
+	color = White
+	techgroup = latin
+	leader_language = BRA
+	new_colony = ENG
+	gfx = {
+		army = PRU
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+OLD = { #X
+	picture = "gfx\scenarios\picture_PRU.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = PRU
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+MAI = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+MUN = { #X
+	picture = "gfx\scenarios\picture_PRU.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = PRU
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+WLS = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = EIR
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ORL = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = DarkGray
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+AQU = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BOU = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+LUX = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+HAU = { #X
+	picture = "gfx\scenarios\picture_HOL.bmp"
+	color = DarkBrown
+	techgroup = latin
+	leader_language = HOL
+	new_colony = ENG
+	gfx = {
+		army = HOL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+AUV = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CAS = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = SPA
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+NVG = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = DarkBlue
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+RYA = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+LIT = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = LIT
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+TVE = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = DarkGrey
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+PRM = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = DarkBrown
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+NOG = { #X
+	picture = "gfx\scenarios\picture_USA.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = BOH
+	new_colony = ENG
+	gfx = {
+		army = USA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+MOS = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = DarkOrange
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+UZB = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = DarkBlue
+	techgroup = latin
+	leader_language = MOL
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+KZK = { #X
+	picture = "gfx\scenarios\picture_ENG.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = ENG
+	new_colony = ENG
+	gfx = {
+		army = ENG
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+AFG = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightRed
+	techgroup = latin
+	leader_language = HUN
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SUZ = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = DarkGray
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MAN = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = DarkOrange
+	techgroup = latin
+	leader_language = VEN
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+PIS = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+SIE = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightRed
+	techgroup = latin
+	leader_language = HUN
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BYZ = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = LightYellow
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+RAG = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = SER
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+GRE = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = DarkBlue
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SER = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightBrown
+	techgroup = latin
+	leader_language = SER
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BUL = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = BUL
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BOS = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = SER
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ALB = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ARM = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+AMI = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+TRE = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = DarkBrown
+	techgroup = latin
+	leader_language = TUR
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+TIM = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+AKK = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = TUR
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+QAR = { #X
+	picture = "gfx\scenarios\picture_HAB.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = BAY
+	new_colony = ENG
+	gfx = {
+		army = HAB
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+CYP = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = White
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 0
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 0
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CAL = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = White
+	techgroup = latin
+	leader_language = TUR
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BAL = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = TUR
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+HUR = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+CHE = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CRE = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+APA = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = SWE
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+DAK = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SHA = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = HUN
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+DEL = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = CAM
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+QUE = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = White
+	techgroup = latin
+	leader_language = BUL
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+HAI = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = LightYellow
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 0
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 0
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MEX = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ZAP = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = LIT
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MAA = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = HUN
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+COL = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+LAP = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = SCO
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BRZ = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = DarkGray
+	techgroup = latin
+	leader_language = SPA
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CHM = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = White
+	techgroup = latin
+	leader_language = CAM
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ETH = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = LightBrown
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+KON = { #X
+	picture = "gfx\scenarios\picture_ENG.bmp"
+	color = LightGreen
+	techgroup = latin
+	leader_language = ENG
+	new_colony = ENG
+	gfx = {
+		army = ENG
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SON = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = MOL
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BEN = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ZIM = { #X
+	picture = "gfx\scenarios\picture_ENG.bmp"
+	color = White
+	techgroup = latin
+	leader_language = ENG
+	new_colony = ENG
+	gfx = {
+		army = ENG
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ZAN = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = SPA
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MAL = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 0
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 0
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+DAH = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = LightGreen
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ASH = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightBrown
+	techgroup = latin
+	leader_language = CRO
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+KOR = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = White
+	techgroup = latin
+	leader_language = SWE
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MCH = { #X
+	picture = "gfx\scenarios\picture_ENG.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = ENG
+	new_colony = ENG
+	gfx = {
+		army = ENG
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+TIB = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = DarkGray
+	techgroup = latin
+	leader_language = POL
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BGL = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+VIJ = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+KSH = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = DarkBlue
+	techgroup = latin
+	leader_language = POL
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ASS = { #X
+	picture = "gfx\scenarios\picture_HOL.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = HOL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+AYU = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = LightYellow
+	techgroup = latin
+	leader_language = SPA
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+DAI = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = CAM
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ANN = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = SPA
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+VIE = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkBlue
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+LUA = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MYA = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = DarkOrange
+	techgroup = latin
+	leader_language = POL
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+TAU = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = HUN
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ARK = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+KHM = { #X
+	picture = "gfx\scenarios\picture_ENG.bmp"
+	color = LightYellow
+	techgroup = latin
+	leader_language = ENG
+	new_colony = ENG
+	gfx = {
+		army = ENG
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CAM = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ATJ = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+FUC = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+PUR = { #X
+	picture = "gfx\scenarios\picture_ENG.bmp"
+	color = DarkBrown
+	techgroup = latin
+	leader_language = ENG
+	new_colony = ENG
+	gfx = {
+		army = ENG
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+FEZ = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ATH = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+KAR = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = TUR
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+DUL = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = TUR
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CAN = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = TUR
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+TEK = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = TUR
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CRO = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightGreen
+	techgroup = latin
+	leader_language = CRO
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+JER = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+XHO = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ZUL = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = White
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MLW = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = White
+	techgroup = latin
+	leader_language = SCO
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+GUJ = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = SWE
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+JAI = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = LightRed
+	techgroup = latin
+	leader_language = NOR
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CHA = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+PEG = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+FIN = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = SWE
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+STR = { #X
+	picture = "gfx\scenarios\picture_HAB.bmp"
+	color = LightYellow
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = HAB
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+SLZ = { #X
+	picture = "gfx\scenarios\picture_HAB.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = HAB
+	new_colony = ENG
+	gfx = {
+		army = HAB
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+DLH = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ORI = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MLC = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MTR = { #X
+	picture = "gfx\scenarios\picture_USA.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = BOH
+	new_colony = ENG
+	gfx = {
+		army = USA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+BEI = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = White
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MKS = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = SCO
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CHG = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = LightRed
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ABB = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkBlue
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ALE = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ALM = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ALT = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = CAM
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ANH = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightBrown
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+ANJ = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = DarkBrown
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+APU = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+AMG = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = SWE
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ART = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+ASU = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+AYY = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BAE = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = CAM
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 0
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 0
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BAS = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = CAM
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BEA = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+BUK = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = CAM
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CMG = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CRG = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = White
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+COI = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CON = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = EIR
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CRD = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = White
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CNW = { #X
+	picture = "gfx\scenarios\picture_ENG.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = ENG
+	new_colony = ENG
+	gfx = {
+		army = ENG
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+CUM = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = LightRed
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+DAM = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = CAM
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+DAU = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+EDE = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightRed
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+EGY = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = NOR
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+FAT = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = NOR
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+FRC = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = White
+	techgroup = latin
+	leader_language = NOR
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+GER = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = HEI
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+GOT = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = DAN
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 0
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 0
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+HAM = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = SWE
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+HLL = { #X
+	picture = "gfx\scenarios\picture_HOL.bmp"
+	color = LightGreen
+	techgroup = latin
+	leader_language = HOL
+	new_colony = ENG
+	gfx = {
+		army = HOL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+ICE = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+IST = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = CRO
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+JUT = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = LightYellow
+	techgroup = latin
+	leader_language = DAN
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+KIE = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = White
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+KRE = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = LightBrown
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+KUS = { #X
+	picture = "gfx\scenarios\picture_PRU.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = BRA
+	new_colony = ENG
+	gfx = {
+		army = PRU
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+KRN = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = SWE
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+LAN = { #X
+	picture = "gfx\scenarios\picture_ENG.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = ENG
+	new_colony = ENG
+	gfx = {
+		army = ENG
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+LGD = { #X
+	picture = "gfx\scenarios\picture_HAB.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = HAB
+	new_colony = ENG
+	gfx = {
+		army = HAB
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+LEI = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = White
+	techgroup = latin
+	leader_language = EIR
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+LEO = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = LightRed
+	techgroup = latin
+	leader_language = SPA
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+LIV = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = SWE
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+LOU = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = SWE
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MLL = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = SPA
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MEA = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = EIR
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MES = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = White
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MSK = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+MST = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = DarkGray
+	techgroup = latin
+	leader_language = EIR
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+NRM = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+NAF = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = CAM
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+PAM = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightYellow
+	techgroup = latin
+	leader_language = TUR
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+PEU = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+PET = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+PIC = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+POD = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = LightRed
+	techgroup = latin
+	leader_language = POL
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+POI = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = DarkOrange
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+POK = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = LightBrown
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+PRT = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = POR
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ROM = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SEL = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SEV = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SIL = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = POL
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+SKA = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = LightGreen
+	techgroup = latin
+	leader_language = DAN
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SLO = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = HUN
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SMO = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = DarkBrown
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SEI = { #X
+	picture = "gfx\scenarios\picture_HAB.bmp"
+	color = White
+	techgroup = latin
+	leader_language = HAB
+	new_colony = ENG
+	gfx = {
+		army = HAB
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+STT = { #X
+	picture = "gfx\scenarios\picture_PRU.bmp"
+	color = DarkBrown
+	techgroup = latin
+	leader_language = PRU
+	new_colony = ENG
+	gfx = {
+		army = PRU
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+SWA = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+SYR = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkBlue
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+TAN = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkOrange
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+THE = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+TOU = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+TOX = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+TYR = { #X
+	picture = "gfx\scenarios\picture_HAB.bmp"
+	color = LightOrange
+	techgroup = latin
+	leader_language = HAB
+	new_colony = ENG
+	gfx = {
+		army = HAB
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+ULS = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = EIR
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+VAL = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = SPA
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+VER = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightGreen
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+VOL = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = DarkBrown
+	techgroup = latin
+	leader_language = LIT
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+YOR = { #X
+	picture = "gfx\scenarios\picture_ENG.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = ENG
+	new_colony = ENG
+	gfx = {
+		army = ENG
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+ZEE = { #X
+	picture = "gfx\scenarios\picture_HOL.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = HOL
+	new_colony = ENG
+	gfx = {
+		army = HOL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 1
+	history = { }
+}
+
+ALI = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = CAM
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U00 = { #Greece
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = LightBrown
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U01 = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = POR
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U02 = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = White
+	techgroup = latin
+	leader_language = HUN
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U03 = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = TUR
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U04 = { #X
+	picture = "gfx\scenarios\picture_HAB.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = HAB
+	new_colony = ENG
+	gfx = {
+		army = HAB
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U05 = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U06 = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U07 = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightGreen
+	techgroup = latin
+	leader_language = HUN
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U08 = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = DarkOrange
+	techgroup = latin
+	leader_language = LIT
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U09 = { #X
+	picture = "gfx\scenarios\picture_RUS.bmp"
+	color = DarkBlue
+	techgroup = latin
+	leader_language = RUS
+	new_colony = ENG
+	gfx = {
+		army = RUS
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U10 = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = Red
+	techgroup = latin
+	leader_language = SWE
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U11 = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = SPA
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U12 = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = LightBrown
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U13 = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U14 = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = MOL
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U15 = { #X
+	picture = "gfx\scenarios\picture_SPA.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = SPA
+	new_colony = ENG
+	gfx = {
+		army = SPA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U16 = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = DarkGray
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U17 = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = SER
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U18 = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U19 = { #X
+	picture = "gfx\scenarios\picture_USA.bmp"
+	color = DarkBrown
+	techgroup = latin
+	leader_language = BOH
+	new_colony = ENG
+	gfx = {
+		army = USA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U20 = { #X
+	picture = "gfx\scenarios\picture_PRU.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = PRU
+	new_colony = ENG
+	gfx = {
+		army = PRU
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U21 = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = U21
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U22 = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = Purple
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U23 = { #X
+	picture = "gfx\scenarios\picture_ENG.bmp"
+	color = DarkGray
+	techgroup = latin
+	leader_language = ENG
+	new_colony = ENG
+	gfx = {
+		army = ENG
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U24 = { #X
+	picture = "gfx\scenarios\picture_POR.bmp"
+	color = LightYellow
+	techgroup = latin
+	leader_language = ITA
+	new_colony = ENG
+	gfx = {
+		army = POR
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U25 = { #X
+	picture = "gfx\scenarios\picture_SWE.bmp"
+	color = LightGray
+	techgroup = latin
+	leader_language = SWE
+	new_colony = ENG
+	gfx = {
+		army = SWE
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U26 = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = DarkGreen
+	techgroup = latin
+	leader_language = BUL
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U27 = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = Gray
+	techgroup = latin
+	leader_language = LIT
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U28 = { #X
+	picture = "gfx\scenarios\picture_POL.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = POL
+	new_colony = ENG
+	gfx = {
+		army = POL
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U29 = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = DarkOrange
+	techgroup = latin
+	leader_language = CRO
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U30 = { #X
+	picture = "gfx\scenarios\picture_VEN.bmp"
+	color = LightBrown
+	techgroup = latin
+	leader_language = GRE
+	new_colony = ENG
+	gfx = {
+		army = VEN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U31 = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Yellow
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U32 = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkRed
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U33 = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = LightBlue
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U34 = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Blue
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U35 = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = DarkYellow
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U36 = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U37 = { #X
+	picture = "gfx\scenarios\picture_TUR.bmp"
+	color = White
+	techgroup = latin
+	leader_language = MUS
+	new_colony = ENG
+	gfx = {
+		army = TUR
+		navy = MUS
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U38 = { #X
+	picture = "gfx\scenarios\picture_FRA.bmp"
+	color = White
+	techgroup = latin
+	leader_language = FRA
+	new_colony = ENG
+	gfx = {
+		army = FRA
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+
+U39 = { #X
+	picture = "gfx\scenarios\picture_MIN.bmp"
+	color = Green
+	techgroup = latin
+	leader_language = MOL
+	new_colony = ENG
+	gfx = {
+		army = MIN
+		navy = MIN
+	}
+	policy = {
+		aristocracy = 10
+		centralization = 5
+		innovative = 5
+		mercantilism = 5
+		offensive = 5
+		land = 10
+		quality = 5
+		serfdom = 5
+	}
+	elector = 0
+	history = { }
+}
+

@@ -1,0 +1,285 @@
+historicalmonarch = {
+	id = { type = 6 id = 19421 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1433
+	}
+	name = "Krzysztof IV"
+	DIP = 9
+	ADM = 2
+	MIL = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19422 }
+	startdate = {
+		year = 1433
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1467
+	}
+	name = "Pyotr VIII"
+	DIP = 5
+	ADM = 2
+	MIL = 7
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19423 }
+	startdate = {
+		year = 1467
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1477
+	}
+	name = "Henryk II"
+	DIP = 5
+	ADM = 6
+	MIL = 9
+	movement = 4
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19424 }
+	startdate = {
+		year = 1477
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1529
+	}
+	name = "Pyotr IX"
+	DIP = 8
+	ADM = 9
+	MIL = 9
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19425 }
+	startdate = {
+		year = 1529
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1564
+	}
+	name = "Andrei X"
+	DIP = 2
+	ADM = 4
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 19426 }
+	startdate = {
+		year = 1564
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1596
+	}
+	name = "Andrei XI"
+	DIP = 6
+	ADM = 7
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19427 }
+	startdate = {
+		year = 1596
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1641
+	}
+	name = "Henryk III"
+	DIP = 6
+	ADM = 9
+	MIL = 4
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19428 }
+	startdate = {
+		year = 1641
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1668
+	}
+	name = "Pyotr X"
+	DIP = 4
+	ADM = 2
+	MIL = 4
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19429 }
+	startdate = {
+		year = 1668
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1679
+	}
+	name = "Pyotr XI"
+	DIP = 6
+	ADM = 4
+	MIL = 2
+	movement = 4
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19430 }
+	startdate = {
+		year = 1679
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1711
+	}
+	name = "Pyotr XII"
+	DIP = 2
+	ADM = 5
+	MIL = 8
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19431 }
+	startdate = {
+		year = 1711
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1748
+	}
+	name = "Henryk IV"
+	DIP = 3
+	ADM = 3
+	MIL = 3
+	movement = 5
+	fire = 5
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19432 }
+	startdate = {
+		year = 1748
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1791
+	}
+	name = "Krzysztof V"
+	DIP = 9
+	ADM = 4
+	MIL = 5
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19433 }
+	startdate = {
+		year = 1791
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1805
+	}
+	name = "Pyotr XIII"
+	DIP = 3
+	ADM = 5
+	MIL = 2
+	movement = 2
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19434 }
+	startdate = {
+		year = 1805
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1812
+	}
+	name = "Krzysztof VI"
+	DIP = 7
+	ADM = 6
+	MIL = 7
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19435 }
+	startdate = {
+		year = 1812
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1864
+	}
+	name = "Henryk V"
+	DIP = 6
+	ADM = 3
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

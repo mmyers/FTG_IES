@@ -1,0 +1,342 @@
+historicalmonarch = {
+	id = { type = 6 id = 21061 }
+	startdate = {
+		year = 1419
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1447
+	}
+	name = "Gingic VII"
+	DIP = 8
+	ADM = 6
+	MIL = 2
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21062 }
+	startdate = {
+		year = 1447
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1464
+	}
+	name = "Ivanis IV"
+	DIP = 9
+	ADM = 9
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21063 }
+	startdate = {
+		year = 1464
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1488
+	}
+	name = "Stepan VII"
+	DIP = 5
+	ADM = 8
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21064 }
+	startdate = {
+		year = 1488
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1506
+	}
+	name = "Stepan VIII"
+	DIP = 7
+	ADM = 6
+	MIL = 5
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21065 }
+	startdate = {
+		year = 1506
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1517
+	}
+	name = "Gingic VIII"
+	DIP = 5
+	ADM = 9
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21066 }
+	startdate = {
+		year = 1517
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1548
+	}
+	name = "Lazar II"
+	DIP = 8
+	ADM = 3
+	MIL = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21067 }
+	startdate = {
+		year = 1548
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1584
+	}
+	name = "Stepan IX"
+	DIP = 9
+	ADM = 5
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21068 }
+	startdate = {
+		year = 1584
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1602
+	}
+	name = "Gingic IX"
+	DIP = 6
+	ADM = 6
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21069 }
+	startdate = {
+		year = 1602
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1619
+	}
+	name = "Lazar III"
+	DIP = 5
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21070 }
+	startdate = {
+		year = 1619
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1640
+	}
+	name = "Lazar IV"
+	DIP = 6
+	ADM = 4
+	MIL = 2
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21071 }
+	startdate = {
+		year = 1640
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1675
+	}
+	name = "Milos I"
+	DIP = 6
+	ADM = 7
+	MIL = 3
+	movement = 2
+	fire = 5
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21072 }
+	startdate = {
+		year = 1675
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1720
+	}
+	name = "Stepan X"
+	DIP = 9
+	ADM = 2
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21073 }
+	startdate = {
+		year = 1720
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1733
+	}
+	name = "Stepan XI"
+	DIP = 2
+	ADM = 4
+	MIL = 8
+	movement = 3
+	fire = 1
+	shock = 1
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21074 }
+	startdate = {
+		year = 1733
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1773
+	}
+	name = "Ivanis V"
+	DIP = 7
+	ADM = 9
+	MIL = 7
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21075 }
+	startdate = {
+		year = 1773
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1786
+	}
+	name = "Milos II"
+	DIP = 7
+	ADM = 5
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21076 }
+	startdate = {
+		year = 1786
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1814
+	}
+	name = "Stepan XII"
+	DIP = 9
+	ADM = 9
+	MIL = 5
+	movement = 2
+	fire = 3
+	shock = 6
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21077 }
+	startdate = {
+		year = 1814
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1818
+	}
+	name = "Lazar V"
+	DIP = 2
+	ADM = 4
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21078 }
+	startdate = {
+		year = 1818
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1821
+	}
+	name = "Ivanis VI"
+	DIP = 2
+	ADM = 5
+	MIL = 2
+	movement = 4
+	fire = 6
+	shock = 6
+	siege = 3
+}

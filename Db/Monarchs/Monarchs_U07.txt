@@ -1,0 +1,323 @@
+historicalmonarch = {
+	id = { type = 6 id = 17401 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1431
+	}
+	name = "István VI"
+	DIP = 7
+	ADM = 5
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17402 }
+	startdate = {
+		year = 1431
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1440
+	}
+	name = "Lajos Hunyadi"
+	DIP = 3
+	ADM = 2
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17403 }
+	startdate = {
+		year = 1440
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1488
+	}
+	name = "János III"
+	DIP = 2
+	ADM = 5
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17404 }
+	startdate = {
+		year = 1488
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1504
+	}
+	name = "Báthory IV"
+	DIP = 5
+	ADM = 4
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17405 }
+	startdate = {
+		year = 1504
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1514
+	}
+	name = "Zsigmond I"
+	DIP = 7
+	ADM = 6
+	MIL = 2
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17406 }
+	startdate = {
+		year = 1514
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1560
+	}
+	name = "László Rozgonyi"
+	DIP = 2
+	ADM = 3
+	MIL = 3
+	movement = 5
+	fire = 5
+	shock = 6
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17407 }
+	startdate = {
+		year = 1560
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1566
+	}
+	name = "Zsigmond II"
+	DIP = 7
+	ADM = 9
+	MIL = 5
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17408 }
+	startdate = {
+		year = 1566
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1605
+	}
+	name = "István VII"
+	DIP = 7
+	ADM = 2
+	MIL = 8
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17409 }
+	startdate = {
+		year = 1605
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1611
+	}
+	name = "Zsigmond III"
+	DIP = 6
+	ADM = 2
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17410 }
+	startdate = {
+		year = 1611
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1642
+	}
+	name = "János IV"
+	DIP = 5
+	ADM = 3
+	MIL = 2
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 17411 }
+	startdate = {
+		year = 1642
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1661
+	}
+	name = "Báthory V"
+	DIP = 2
+	ADM = 4
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17412 }
+	startdate = {
+		year = 1661
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1681
+	}
+	name = "János V"
+	DIP = 2
+	ADM = 2
+	MIL = 7
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17413 }
+	startdate = {
+		year = 1681
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1719
+	}
+	name = "György VII"
+	DIP = 3
+	ADM = 2
+	MIL = 9
+	movement = 4
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17414 }
+	startdate = {
+		year = 1719
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1750
+	}
+	name = "György VIII"
+	DIP = 9
+	ADM = 5
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17415 }
+	startdate = {
+		year = 1750
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1802
+	}
+	name = "Mátyás I"
+	DIP = 3
+	ADM = 5
+	MIL = 2
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 17416 }
+	startdate = {
+		year = 1802
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1810
+	}
+	name = "Báthory VI"
+	DIP = 4
+	ADM = 8
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17417 }
+	startdate = {
+		year = 1810
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1827
+	}
+	name = "Báthory VII"
+	DIP = 3
+	ADM = 5
+	MIL = 5
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}

@@ -1,0 +1,285 @@
+historicalmonarch = {
+	id = { type = 6 id = 20401 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1425
+	}
+	name = "Valdemar III"
+	DIP = 6
+	ADM = 6
+	MIL = 3
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 20402 }
+	startdate = {
+		year = 1425
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1465
+	}
+	name = "Gustav VIII"
+	DIP = 6
+	ADM = 5
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20403 }
+	startdate = {
+		year = 1465
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1478
+	}
+	name = "Olof III"
+	DIP = 9
+	ADM = 7
+	MIL = 3
+	movement = 6
+	fire = 6
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20404 }
+	startdate = {
+		year = 1478
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1528
+	}
+	name = "Olof IV"
+	DIP = 7
+	ADM = 5
+	MIL = 5
+	movement = 5
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20405 }
+	startdate = {
+		year = 1528
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1530
+	}
+	name = "Sten V"
+	DIP = 7
+	ADM = 7
+	MIL = 2
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20406 }
+	startdate = {
+		year = 1530
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1566
+	}
+	name = "Gustav IX"
+	DIP = 6
+	ADM = 2
+	MIL = 5
+	movement = 6
+	fire = 5
+	shock = 6
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 20407 }
+	startdate = {
+		year = 1566
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1586
+	}
+	name = "Johan VI"
+	DIP = 3
+	ADM = 3
+	MIL = 6
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 20408 }
+	startdate = {
+		year = 1586
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1624
+	}
+	name = "Valdemar IV"
+	DIP = 5
+	ADM = 2
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20409 }
+	startdate = {
+		year = 1624
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1657
+	}
+	name = "Sten VI"
+	DIP = 8
+	ADM = 2
+	MIL = 4
+	movement = 4
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20410 }
+	startdate = {
+		year = 1657
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1701
+	}
+	name = "Gustav X"
+	DIP = 6
+	ADM = 5
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20411 }
+	startdate = {
+		year = 1701
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1707
+	}
+	name = "Birger I"
+	DIP = 4
+	ADM = 9
+	MIL = 6
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 20412 }
+	startdate = {
+		year = 1707
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1746
+	}
+	name = "Sverker III"
+	DIP = 2
+	ADM = 8
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 20413 }
+	startdate = {
+		year = 1746
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1756
+	}
+	name = "Magnus VIII"
+	DIP = 2
+	ADM = 9
+	MIL = 7
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 20414 }
+	startdate = {
+		year = 1756
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1800
+	}
+	name = "Birger II"
+	DIP = 2
+	ADM = 2
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20415 }
+	startdate = {
+		year = 1800
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1834
+	}
+	name = "Johan VII"
+	DIP = 7
+	ADM = 5
+	MIL = 3
+	movement = 3
+	fire = 5
+	shock = 4
+	siege = 1
+}

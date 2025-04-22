@@ -1,0 +1,267 @@
+historicalmonarch = {
+	id = { type = 6 id = 18441 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1425
+	}
+	name = "Franz IV"
+	DIP = 2
+	ADM = 8
+	MIL = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18442 }
+	startdate = {
+		year = 1425
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1468
+	}
+	name = "Rudolf XII"
+	DIP = 2
+	ADM = 4
+	MIL = 9
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18443 }
+	startdate = {
+		year = 1468
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1499
+	}
+	name = "Johann I"
+	DIP = 9
+	ADM = 3
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18444 }
+	startdate = {
+		year = 1499
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1529
+	}
+	name = "Joachim Nestor I"
+	DIP = 9
+	ADM = 5
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18445 }
+	startdate = {
+		year = 1529
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1537
+	}
+	name = "Johann II"
+	DIP = 2
+	ADM = 8
+	MIL = 8
+	movement = 6
+	fire = 5
+	shock = 6
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 18446 }
+	startdate = {
+		year = 1537
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1567
+	}
+	name = "Rudolf XIII"
+	DIP = 2
+	ADM = 8
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18447 }
+	startdate = {
+		year = 1567
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1579
+	}
+	name = "Joachim Droguet II"
+	DIP = 2
+	ADM = 9
+	MIL = 8
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 1
+	remark = "Originally from Normandie"
+}
+historicalmonarch = {
+	id = { type = 6 id = 18448 }
+	startdate = {
+		year = 1579
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1627
+	}
+	name = "Dietrich VI"
+	DIP = 5
+	ADM = 3
+	MIL = 9
+	movement = 3
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18449 }
+	startdate = {
+		year = 1627
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1657
+	}
+	name = "Franz V"
+	DIP = 2
+	ADM = 9
+	MIL = 6
+	movement = 6
+	fire = 6
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18450 }
+	startdate = {
+		year = 1657
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1672
+	}
+	name = "Rudolf XIV"
+	DIP = 6
+	ADM = 2
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18451 }
+	startdate = {
+		year = 1672
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1719
+	}
+	name = "Johann III"
+	DIP = 6
+	ADM = 2
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18452 }
+	startdate = {
+		year = 1719
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1768
+	}
+	name = "Joachim Stanzert III"
+	DIP = 7
+	ADM = 4
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18453 }
+	startdate = {
+		year = 1768
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1810
+	}
+	name = "Rudolf XV"
+	DIP = 5
+	ADM = 4
+	MIL = 2
+	movement = 2
+	fire = 5
+	shock = 5
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 18454 }
+	startdate = {
+		year = 1810
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1867
+	}
+	name = "Rudolf XVI"
+	DIP = 4
+	ADM = 8
+	MIL = 4
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 1
+}

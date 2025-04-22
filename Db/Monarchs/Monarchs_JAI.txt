@@ -1,0 +1,247 @@
+historicalmonarch = {
+	id = { type = 6 id = 20381 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1464
+	}
+	name = "Ivar VI"
+	DIP = 4
+	ADM = 8
+	MIL = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20382 }
+	startdate = {
+		year = 1464
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1515
+	}
+	name = "Eirik I"
+	DIP = 2
+	ADM = 7
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20383 }
+	startdate = {
+		year = 1515
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1549
+	}
+	name = "Eindridi VI"
+	DIP = 7
+	ADM = 2
+	MIL = 8
+	movement = 4
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20384 }
+	startdate = {
+		year = 1549
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1554
+	}
+	name = "Sigurd III"
+	DIP = 2
+	ADM = 6
+	MIL = 7
+	movement = 5
+	fire = 2
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20385 }
+	startdate = {
+		year = 1554
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1595
+	}
+	name = "Sigurd IV"
+	DIP = 7
+	ADM = 9
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20386 }
+	startdate = {
+		year = 1595
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1626
+	}
+	name = "Eindridi VII"
+	DIP = 7
+	ADM = 3
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20387 }
+	startdate = {
+		year = 1626
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1651
+	}
+	name = "Eirik II"
+	DIP = 7
+	ADM = 3
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20388 }
+	startdate = {
+		year = 1651
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1661
+	}
+	name = "Erlend II"
+	DIP = 7
+	ADM = 4
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20389 }
+	startdate = {
+		year = 1661
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1671
+	}
+	name = "Eirik III"
+	DIP = 2
+	ADM = 2
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20390 }
+	startdate = {
+		year = 1671
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1698
+	}
+	name = "Sigurd V"
+	DIP = 3
+	ADM = 6
+	MIL = 9
+	movement = 4
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20391 }
+	startdate = {
+		year = 1698
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1752
+	}
+	name = "Sigurd VI"
+	DIP = 8
+	ADM = 2
+	MIL = 2
+	movement = 5
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20392 }
+	startdate = {
+		year = 1752
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1790
+	}
+	name = "Halfdan II"
+	DIP = 4
+	ADM = 9
+	MIL = 2
+	movement = 5
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20393 }
+	startdate = {
+		year = 1790
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1825
+	}
+	name = "Sigurd VII"
+	DIP = 9
+	ADM = 6
+	MIL = 8
+	movement = 6
+	fire = 6
+	shock = 4
+	siege = 1
+}

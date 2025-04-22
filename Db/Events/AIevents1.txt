@@ -1,0 +1,1760 @@
+#EVENT 25901-25910 #Colonization activators
+event = {
+	id = 25901
+	trigger = {
+		ai = yes
+		countrysize = 4
+		NOT = {
+			domestic = { type = ARISTOCRACY value = 5 }
+			domestic = { type = LAND value = 5 }
+			flag = colonize
+		}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = ai which = "colonize.ai" }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = MERCANTILISM value = -4 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+		command = { type = colonists value = 6 }
+		command = { type = cash value = 1000 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = conquistador which = -1 }
+		command = { type = setflag which = colonize }
+	}
+}
+event = {
+	id = 25902
+	trigger = {
+		ai = yes
+		countrysize = 9
+		NOT = {
+			domestic = { type = ARISTOCRACY value = 5 }
+			domestic = { type = LAND value = 5 }
+			flag = colonize
+		}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = ai which = "colonize.ai" }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = MERCANTILISM value = -4 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+		command = { type = colonists value = 6 }
+		command = { type = cash value = 1000 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = conquistador which = -1 }
+		command = { type = setflag which = colonize }
+	}
+}
+event = {
+	id = 25903
+	trigger = {
+		ai = yes
+		countrysize = 4
+		NOT = {
+			domestic = { type = ARISTOCRACY value = 4 }
+			domestic = { type = LAND value = 4 }
+			flag = colonize
+		}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = ai which = "colonize.ai" }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = MERCANTILISM value = -4 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+		command = { type = colonists value = 6 }
+		command = { type = cash value = 1000 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = conquistador which = -1 }
+		command = { type = setflag which = colonize }
+	}
+}
+event = {
+	id = 25904
+	trigger = {
+		ai = yes
+		countrysize = 9
+		NOT = {
+			domestic = { type = ARISTOCRACY value = 4 }
+			domestic = { type = LAND value = 4 }
+			flag = colonize
+		}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = ai which = "colonize.ai" }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = MERCANTILISM value = -4 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+		command = { type = colonists value = 6 }
+		command = { type = cash value = 1000 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = conquistador which = -1 }
+		command = { type = setflag which = colonize }
+	}
+}
+event = {
+	id = 25905
+	trigger = {
+		ai = yes
+		countrysize = 4
+		NOT = {
+			domestic = { type = ARISTOCRACY value = 3 }
+			domestic = { type = LAND value = 3 }
+			flag = colonize
+		}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = ai which = "colonize.ai" }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = MERCANTILISM value = -4 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+		command = { type = colonists value = 6 }
+		command = { type = cash value = 1000 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = conquistador which = -1 }
+		command = { type = setflag which = colonize }
+	}
+}
+event = {
+	id = 25906
+	trigger = {
+		ai = yes
+		countrysize = 9
+		NOT = {
+			domestic = { type = ARISTOCRACY value = 3 }
+			domestic = { type = LAND value = 3 }
+			flag = colonize
+		}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = ai which = "colonize.ai" }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = MERCANTILISM value = -4 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+		command = { type = colonists value = 6 }
+		command = { type = cash value = 1000 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = conquistador which = -1 }
+		command = { type = setflag which = colonize }
+	}
+}
+event = {
+	id = 25907
+	trigger = {
+		ai = yes
+		countrysize = 4
+		NOT = {
+			domestic = { type = ARISTOCRACY value = 2 }
+			domestic = { type = LAND value = 2 }
+			flag = colonize
+		}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = ai which = "colonize.ai" }
+		command = { type = domestic which = ARISTOCRACY value = -1 }
+		command = { type = domestic which = LAND value = -1 }
+		command = { type = domestic which = MERCANTILISM value = -4 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+		command = { type = colonists value = 6 }
+		command = { type = cash value = 1000 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = conquistador which = -1 }
+		command = { type = setflag which = colonize }
+	}
+}
+event = {
+	id = 25908
+	trigger = {
+		ai = yes
+		countrysize = 9
+		NOT = {
+			domestic = { type = ARISTOCRACY value = 2 }
+			domestic = { type = LAND value = 2 }
+			flag = colonize
+		}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = ai which = "colonize.ai" }
+		command = { type = domestic which = ARISTOCRACY value = -1 }
+		command = { type = domestic which = LAND value = -1 }
+		command = { type = domestic which = MERCANTILISM value = -4 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+		command = { type = colonists value = 6 }
+		command = { type = cash value = 1000 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = conquistador which = -1 }
+		command = { type = setflag which = colonize }
+	}
+}
+event = {
+	id = 25909
+	trigger = {
+		ai = yes
+		countrysize = 4
+		NOT = {
+			domestic = { type = ARISTOCRACY value = 1 }
+			domestic = { type = LAND value = 1 }
+			flag = colonize
+		}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = ai which = "colonize.ai" }
+		command = { type = domestic which = MERCANTILISM value = -4 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+		command = { type = colonists value = 6 }
+		command = { type = cash value = 1000 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = conquistador which = -1 }
+		command = { type = setflag which = colonize }
+	}
+}
+event = {
+	id = 25910
+	trigger = {
+		ai = yes
+		countrysize = 9
+		NOT = {
+			domestic = { type = ARISTOCRACY value = 1 }
+			domestic = { type = LAND value = 1 }
+			flag = colonize
+		}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = ai which = "colonize.ai" }
+		command = { type = domestic which = MERCANTILISM value = -4 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+		command = { type = colonists value = 6 }
+		command = { type = cash value = 1000 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = explorer which = -1 }
+		command = { type = conquistador which = -1 }
+		command = { type = setflag which = colonize }
+	}
+}
+
+#EVENT 25911-25920 #Aristocracy DP settings
+event = {
+	id = 25911
+	trigger = {
+		ai = yes
+		domestic = { type = ARISTOCRACY value = 1 }
+		NOT = { domestic = { type = ARISTOCRACY value = 3 }}
+		year = 1500
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = ARISTOCRACY value = -1 }
+	}
+}
+event = {
+	id = 25912
+	trigger = {
+		ai = yes
+		domestic = { type = ARISTOCRACY value = 3 }
+		NOT = { domestic = { type = ARISTOCRACY value = 10 }}
+		NOT = { year = 1500 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = ARISTOCRACY value = 1 }
+	}
+}
+event = {
+	id = 25913
+	trigger = {
+		ai = yes
+		domestic = { type = ARISTOCRACY value = 1 }
+		NOT = { domestic = { type = ARISTOCRACY value = 5 }}
+		year = 1580
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = ARISTOCRACY value = -1 }
+	}
+}
+event = {
+	id = 25914
+	trigger = {
+		ai = yes
+		domestic = { type = ARISTOCRACY value = 5 }
+		NOT = { domestic = { type = ARISTOCRACY value = 10 }}
+		NOT = { year = 1580 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = ARISTOCRACY value = 1 }
+	}
+}
+event = {
+	id = 25915
+	trigger = {
+		ai = yes
+		domestic = { type = ARISTOCRACY value = 1 }
+		NOT = { domestic = { type = ARISTOCRACY value = 7 }}
+		year = 1660
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = ARISTOCRACY value = -1 }
+	}
+}
+event = {
+	id = 25916
+	trigger = {
+		ai = yes
+		domestic = { type = ARISTOCRACY value = 7 }
+		NOT = { domestic = { type = ARISTOCRACY value = 10 }}
+		NOT = { year = 1660 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = ARISTOCRACY value = 1 }
+	}
+}
+event = {
+	id = 25917
+	trigger = {
+		ai = yes
+		domestic = { type = ARISTOCRACY value = 1 }
+		NOT = { domestic = { type = ARISTOCRACY value = 9 }}
+		year = 1740
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = ARISTOCRACY value = -1 }
+	}
+}
+event = {
+	id = 25918
+	trigger = {
+		ai = yes
+		domestic = { type = ARISTOCRACY value = 9 }
+		NOT = { domestic = { type = ARISTOCRACY value = 10 }}
+		NOT = { year = 1740 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = ARISTOCRACY value = 1 }
+	}
+}
+event = {
+	id = 25919
+	trigger = {
+		ai = yes
+		domestic = { type = ARISTOCRACY value = 1 }
+		NOT = { domestic = { type = ARISTOCRACY value = 3 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = ARISTOCRACY value = -1 }
+	}
+}
+event = {
+	id = 25920
+	trigger = {
+		ai = yes
+		domestic = { type = ARISTOCRACY value = 8 }
+		NOT = { domestic = { type = ARISTOCRACY value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = ARISTOCRACY value = 1 }
+	}
+}
+
+#EVENT 25921-25930 #Centralization DP settings
+event = {
+	id = 25921
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = CENTRALIZATION value = 2 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = CENTRALIZATION value = 1 }
+	}
+}
+event = {
+	id = 25922
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = CENTRALIZATION value = 4 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = CENTRALIZATION value = 1 }
+	}
+}
+event = {
+	id = 25923
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = CENTRALIZATION value = 6 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = CENTRALIZATION value = 1 }
+	}
+}
+event = {
+	id = 25924
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = CENTRALIZATION value = 8 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = CENTRALIZATION value = 1 }
+	}
+}
+event = {
+	id = 25925
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = CENTRALIZATION value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = CENTRALIZATION value = 1 }
+	}
+}
+event = {
+	id = 25926
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = CENTRALIZATION value = 2 }}
+		year = 1620
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = CENTRALIZATION value = 1 }
+	}
+}
+event = {
+	id = 25927
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = CENTRALIZATION value = 4 }}
+		year = 1620
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = CENTRALIZATION value = 1 }
+	}
+}
+event = {
+	id = 25928
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = CENTRALIZATION value = 6 }}
+		year = 1620
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = CENTRALIZATION value = 1 }
+	}
+}
+event = {
+	id = 25929
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = CENTRALIZATION value = 8 }}
+		year = 1620
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = CENTRALIZATION value = 1 }
+	}
+}
+event = {
+	id = 25930
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = CENTRALIZATION value = 10 }}
+		year = 1620
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = CENTRALIZATION value = 1 }
+	}
+}
+
+#EVENT 25931-25940 #Innovative DP settings
+event = {
+	id = 25931
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = INNOVATIVE value = 8 }}
+		NOT = { countrysize = 4 }
+		domestic = { type = LAND value = 2 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = INNOVATIVE value = 1 }
+	}
+}
+event = {
+	id = 25932
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = INNOVATIVE value = 8 }}
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		domestic = { type = LAND value = 4 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = INNOVATIVE value = 1 }
+	}
+}
+event = {
+	id = 25933
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = INNOVATIVE value = 8 }}
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		domestic = { type = LAND value = 6 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = INNOVATIVE value = 1 }
+	}
+}
+event = {
+	id = 25934
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = INNOVATIVE value = 8 }}
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		domestic = { type = LAND value = 8 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = INNOVATIVE value = 1 }
+	}
+}
+event = {
+	id = 25935
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = INNOVATIVE value = 8 }}
+		countrysize = 80
+		domestic = { type = LAND value = 10 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = INNOVATIVE value = 1 }
+	}
+}
+event = {
+	id = 25936
+	trigger = {
+		ai = yes
+		domestic = { type = INNOVATIVE value = 3 }
+		NOT = { countrysize = 4 }
+		NOT = { domestic = { type = LAND value = 2 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+	}
+}
+event = {
+	id = 25937
+	trigger = {
+		ai = yes
+		domestic = { type = INNOVATIVE value = 3 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		NOT = { domestic = { type = LAND value = 4 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+	}
+}
+event = {
+	id = 25938
+	trigger = {
+		ai = yes
+		domestic = { type = INNOVATIVE value = 3 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		NOT = { domestic = { type = LAND value = 6 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+	}
+}
+event = {
+	id = 25939
+	trigger = {
+		ai = yes
+		domestic = { type = INNOVATIVE value = 3 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		NOT = { domestic = { type = LAND value = 8 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+	}
+}
+event = {
+	id = 25940
+	trigger = {
+		ai = yes
+		domestic = { type = INNOVATIVE value = 3 }
+		countrysize = 80
+		NOT = { domestic = { type = LAND value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = INNOVATIVE value = -1 }
+	}
+}
+
+#EVENT 25941-25950 #Mercantilism DP settings
+event = {
+	id = 25941
+	trigger = {
+		ai = yes
+		domestic = { type = MERCANTILISM value = 1 }
+		NOT = { domestic = { type = LAND value = 2 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = MERCANTILISM value = -1 }
+	}
+}
+event = {
+	id = 25942
+	trigger = {
+		ai = yes
+		domestic = { type = MERCANTILISM value = 3 }
+		NOT = { domestic = { type = LAND value = 4 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = MERCANTILISM value = -1 }
+	}
+}
+event = {
+	id = 25943
+	trigger = {
+		ai = yes
+		domestic = { type = MERCANTILISM value = 5 }
+		NOT = { domestic = { type = LAND value = 6 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = MERCANTILISM value = -1 }
+	}
+}
+event = {
+	id = 25944
+	trigger = {
+		ai = yes
+		domestic = { type = MERCANTILISM value = 7 }
+		NOT = { domestic = { type = LAND value = 8 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = MERCANTILISM value = -1 }
+	}
+}
+event = {
+	id = 25945
+	trigger = {
+		ai = yes
+		domestic = { type = MERCANTILISM value = 9 }
+		NOT = { domestic = { type = LAND value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = MERCANTILISM value = -1 }
+	}
+}
+event = {
+	id = 25946
+	trigger = {
+		ai = yes
+		domestic = { type = MERCANTILISM value = 1 }
+		year = 1800
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = MERCANTILISM value = -1 }
+	}
+}
+event = {
+	id = 25947
+	trigger = {
+		ai = yes
+		domestic = { type = MERCANTILISM value = 3 }
+		year = 1700
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = MERCANTILISM value = -1 }
+	}
+}
+event = {
+	id = 25948
+	trigger = {
+		ai = yes
+		domestic = { type = MERCANTILISM value = 5 }
+		year = 1600
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = MERCANTILISM value = -1 }
+	}
+}
+event = {
+	id = 25949
+	trigger = {
+		ai = yes
+		domestic = { type = MERCANTILISM value = 7 }
+		year = 1500
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = MERCANTILISM value = -1 }
+	}
+}
+event = {
+	id = 25950
+	trigger = {
+		ai = yes
+		domestic = { type = MERCANTILISM value = 9 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = MERCANTILISM value = -1 }
+	}
+}
+
+#EVENT 25951-25960 #Offensive DP settings
+event = {
+	id = 25951
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = OFFENSIVE value = 9 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = OFFENSIVE value = 1 }
+	}
+}
+event = {
+	id = 25952
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = OFFENSIVE value = 9 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = OFFENSIVE value = 1 }
+	}
+}
+event = {
+	id = 25953
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = OFFENSIVE value = 9 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = OFFENSIVE value = 1 }
+	}
+}
+event = {
+	id = 25954
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = OFFENSIVE value = 9 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = OFFENSIVE value = 1 }
+	}
+}
+event = {
+	id = 25955
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = OFFENSIVE value = 9 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = OFFENSIVE value = 1 }
+	}
+}
+event = {
+	id = 25956
+	trigger = {
+		ai = yes
+		domestic = { type = OFFENSIVE value = 9 }
+		NOT = { domestic = { type = OFFENSIVE value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = OFFENSIVE value = -1 }
+	}
+}
+event = {
+	id = 25957
+	trigger = {
+		ai = yes
+		domestic = { type = OFFENSIVE value = 9 }
+		NOT = { domestic = { type = OFFENSIVE value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = OFFENSIVE value = -1 }
+	}
+}
+event = {
+	id = 25958
+	trigger = {
+		ai = yes
+		domestic = { type = OFFENSIVE value = 9 }
+		NOT = { domestic = { type = OFFENSIVE value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = OFFENSIVE value = -1 }
+	}
+}
+event = {
+	id = 25959
+	trigger = {
+		ai = yes
+		domestic = { type = OFFENSIVE value = 9 }
+		NOT = { domestic = { type = OFFENSIVE value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = OFFENSIVE value = -1 }
+	}
+}
+event = {
+	id = 25960
+	trigger = {
+		ai = yes
+		domestic = { type = OFFENSIVE value = 9 }
+		NOT = { domestic = { type = OFFENSIVE value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = OFFENSIVE value = -1 }
+	}
+}
+
+#EVENT 25961-25970 #Land DP settings
+event = {
+	id = 25961
+	trigger = {
+		ai = yes
+		domestic = { type = LAND value = 1 }
+		NOT = { domestic = { type = LAND value = 5 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = LAND value = -1 }
+	}
+}
+event = {
+	id = 25962
+	trigger = {
+		ai = yes
+		domestic = { type = LAND value = 1 }
+		NOT = { domestic = { type = LAND value = 5 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = LAND value = -1 }
+	}
+}
+event = {
+	id = 25963
+	trigger = {
+		ai = yes
+		domestic = { type = LAND value = 1 }
+		NOT = { domestic = { type = LAND value = 5 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = LAND value = -1 }
+	}
+}
+event = {
+	id = 25964
+	trigger = {
+		ai = yes
+		domestic = { type = LAND value = 1 }
+		NOT = { domestic = { type = LAND value = 5 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = LAND value = -1 }
+	}
+}
+event = {
+	id = 25965
+	trigger = {
+		ai = yes
+		domestic = { type = LAND value = 1 }
+		NOT = { domestic = { type = LAND value = 5 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = LAND value = -1 }
+	}
+}
+event = {
+	id = 25966
+	trigger = {
+		ai = yes
+		domestic = { type = LAND value = 5 }
+		NOT = { domestic = { type = LAND value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = LAND value = 1 }
+	}
+}
+event = {
+	id = 25967
+	trigger = {
+		ai = yes
+		domestic = { type = LAND value = 5 }
+		NOT = { domestic = { type = LAND value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = LAND value = 1 }
+	}
+}
+event = {
+	id = 25968
+	trigger = {
+		ai = yes
+		domestic = { type = LAND value = 5 }
+		NOT = { domestic = { type = LAND value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = LAND value = 1 }
+	}
+}
+event = {
+	id = 25969
+	trigger = {
+		ai = yes
+		domestic = { type = LAND value = 5 }
+		NOT = { domestic = { type = LAND value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = LAND value = 1 }
+	}
+}
+event = {
+	id = 25970
+	trigger = {
+		ai = yes
+		domestic = { type = LAND value = 5 }
+		NOT = { domestic = { type = LAND value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = LAND value = 1 }
+	}
+}
+
+#EVENT 25971-25980 #Quality DP settings
+event = {
+	id = 25971
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = QUALITY value = 9 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = QUALITY value = 1 }
+	}
+}
+event = {
+	id = 25972
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = QUALITY value = 9 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = QUALITY value = 1 }
+	}
+}
+event = {
+	id = 25973
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = QUALITY value = 9 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = QUALITY value = 1 }
+	}
+}
+event = {
+	id = 25974
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = QUALITY value = 9 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = QUALITY value = 1 }
+	}
+}
+event = {
+	id = 25975
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = QUALITY value = 9 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = QUALITY value = 1 }
+	}
+}
+event = {
+	id = 25976
+	trigger = {
+		ai = yes
+		domestic = { type = QUALITY value = 9 }
+		NOT = { domestic = { type = QUALITY value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = QUALITY value = -1 }
+	}
+}
+event = {
+	id = 25977
+	trigger = {
+		ai = yes
+		domestic = { type = QUALITY value = 9 }
+		NOT = { domestic = { type = QUALITY value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = QUALITY value = -1 }
+	}
+}
+event = {
+	id = 25978
+	trigger = {
+		ai = yes
+		domestic = { type = QUALITY value = 9 }
+		NOT = { domestic = { type = QUALITY value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = QUALITY value = -1 }
+	}
+}
+event = {
+	id = 25979
+	trigger = {
+		ai = yes
+		domestic = { type = QUALITY value = 9 }
+		NOT = { domestic = { type = QUALITY value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = QUALITY value = -1 }
+	}
+}
+event = {
+	id = 25980
+	trigger = {
+		ai = yes
+		domestic = { type = QUALITY value = 9 }
+		NOT = { domestic = { type = QUALITY value = 10 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = QUALITY value = -1 }
+	}
+}
+
+#EVENT 25981-25990 #Serfdom DP settings
+event = {
+	id = 25981
+	trigger = {
+		ai = yes
+		domestic = { type = SERFDOM value = 7 }
+		domestic = { type = INNOVATIVE value = 3 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = SERFDOM value = -1 }
+	}
+}
+event = {
+	id = 25982
+	trigger = {
+		ai = yes
+		domestic = { type = SERFDOM value = 6 }
+		domestic = { type = INNOVATIVE value = 4 }
+		year = 1500
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = SERFDOM value = -1 }
+	}
+}
+event = {
+	id = 25983
+	trigger = {
+		ai = yes
+		domestic = { type = SERFDOM value = 5 }
+		domestic = { type = INNOVATIVE value = 5 }
+		year = 1580
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = SERFDOM value = -1 }
+	}
+}
+event = {
+	id = 25984
+	trigger = {
+		ai = yes
+		domestic = { type = SERFDOM value = 4 }
+		domestic = { type = INNOVATIVE value = 6 }
+		year = 1660
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = SERFDOM value = -1 }
+	}
+}
+event = {
+	id = 25985
+	trigger = {
+		ai = yes
+		domestic = { type = SERFDOM value = 3 }
+		domestic = { type = INNOVATIVE value = 7 }
+		year = 1740
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = SERFDOM value = -1 }
+	}
+}
+event = {
+	id = 25986
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = SERFDOM value = 10 }}
+		NOT = { domestic = { type = INNOVATIVE value = 7 }}
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = SERFDOM value = 1 }
+	}
+}
+event = {
+	id = 25987
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = SERFDOM value = 10 }}
+		NOT = { domestic = { type = INNOVATIVE value = 6 }}
+		NOT = { year = 1500 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = SERFDOM value = 1 }
+	}
+}
+event = {
+	id = 25988
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = SERFDOM value = 10 }}
+		NOT = { domestic = { type = INNOVATIVE value = 5 }}
+		NOT = { year = 1580 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = SERFDOM value = 1 }
+	}
+}
+event = {
+	id = 25989
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = SERFDOM value = 10 }}
+		NOT = { domestic = { type = INNOVATIVE value = 4 }}
+		NOT = { year = 1660 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = SERFDOM value = 1 }
+	}
+}
+event = {
+	id = 25990
+	trigger = {
+		ai = yes
+		NOT = { domestic = { type = SERFDOM value = 10 }}
+		NOT = { domestic = { type = INNOVATIVE value = 3 }}
+		NOT = { year = 1740 }
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+		command = { type = domestic which = SERFDOM value = 1 }
+	}
+}
+#Extra BB reduction
+event = {
+	id = 25991
+	trigger = {
+		ai = yes
+		badboy = 15
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+	}
+}
+event = {
+	id = 25992
+	trigger = {
+		ai = yes
+		badboy = 20
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+	}
+}
+event = {
+	id = 25993
+	trigger = {
+		ai = yes
+		badboy = 25
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+	}
+}
+event = {
+	id = 25994
+	trigger = {
+		ai = yes
+		badboy = 30
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+	}
+}
+event = {
+	id = 25995
+	trigger = {
+		ai = yes
+		badboy = 35
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+	}
+}
+event = {
+	id = 25996
+	trigger = {
+		ai = yes
+		badboy = 40
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+	}
+}
+event = {
+	id = 25997
+	trigger = {
+		ai = yes
+		badboy = 45
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+	}
+}
+event = {
+	id = 25998
+	trigger = {
+		ai = yes
+		badboy = 50
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+	}
+}
+event = {
+	id = 25999
+	trigger = {
+		ai = yes
+		badboy = 55
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+	}
+}
+event = {
+	id = 26000
+	trigger = {
+		ai = yes
+		badboy = 60
+	}
+	random = yes
+	name = "AI_EVENT"
+	desc = "-"
+	action_a = {
+		name = "-"
+		command = { type = badboy value = -10 }
+	}
+}

@@ -1,0 +1,323 @@
+historicalmonarch = {
+	id = { type = 6 id = 15281 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1420
+	}
+	name = "Sebastião IV"
+	DIP = 2
+	ADM = 6
+	MIL = 9
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 15282 }
+	startdate = {
+		year = 1420
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1452
+	}
+	name = "Duarte VIII"
+	DIP = 7
+	ADM = 4
+	MIL = 3
+	movement = 3
+	fire = 2
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15283 }
+	startdate = {
+		year = 1452
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1474
+	}
+	name = "Filipe III"
+	DIP = 9
+	ADM = 2
+	MIL = 4
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15284 }
+	startdate = {
+		year = 1474
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1507
+	}
+	name = "Pedro Correlano"
+	DIP = 2
+	ADM = 8
+	MIL = 9
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15285 }
+	startdate = {
+		year = 1507
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1513
+	}
+	name = "José I"
+	DIP = 8
+	ADM = 8
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15286 }
+	startdate = {
+		year = 1513
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1539
+	}
+	name = "José II"
+	DIP = 5
+	ADM = 5
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15287 }
+	startdate = {
+		year = 1539
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1555
+	}
+	name = "Manuel II"
+	DIP = 7
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15288 }
+	startdate = {
+		year = 1555
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1558
+	}
+	name = "João III"
+	DIP = 9
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15289 }
+	startdate = {
+		year = 1558
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1607
+	}
+	name = "Afonso Alegre I"
+	DIP = 9
+	ADM = 3
+	MIL = 5
+	movement = 2
+	fire = 4
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 15290 }
+	startdate = {
+		year = 1607
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1624
+	}
+	name = "Sebastião V"
+	DIP = 9
+	ADM = 9
+	MIL = 2
+	movement = 3
+	fire = 4
+	shock = 5
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 15291 }
+	startdate = {
+		year = 1624
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1678
+	}
+	name = "Sebastião VI"
+	DIP = 3
+	ADM = 7
+	MIL = 7
+	movement = 4
+	fire = 2
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15292 }
+	startdate = {
+		year = 1678
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1719
+	}
+	name = "Duarte IX"
+	DIP = 2
+	ADM = 4
+	MIL = 3
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15293 }
+	startdate = {
+		year = 1719
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1752
+	}
+	name = "Afonso Alegre II"
+	DIP = 9
+	ADM = 8
+	MIL = 2
+	movement = 5
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15294 }
+	startdate = {
+		year = 1752
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1757
+	}
+	name = "Manuel III"
+	DIP = 5
+	ADM = 8
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15295 }
+	startdate = {
+		year = 1757
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1767
+	}
+	name = "João IV"
+	DIP = 8
+	ADM = 8
+	MIL = 8
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15296 }
+	startdate = {
+		year = 1767
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1792
+	}
+	name = "Sebastião VII"
+	DIP = 9
+	ADM = 5
+	MIL = 7
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 15297 }
+	startdate = {
+		year = 1792
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1829
+	}
+	name = "Duarte X"
+	DIP = 3
+	ADM = 5
+	MIL = 4
+	movement = 6
+	fire = 3
+	shock = 3
+	siege = 2
+}

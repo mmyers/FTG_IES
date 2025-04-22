@@ -1,0 +1,190 @@
+historicalmonarch = {
+	id = { type = 6 id = 18361 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1442
+	}
+	name = "Otto I"
+	DIP = 9
+	ADM = 2
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18362 }
+	startdate = {
+		year = 1442
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1489
+	}
+	name = "August VI"
+	DIP = 9
+	ADM = 6
+	MIL = 5
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18363 }
+	startdate = {
+		year = 1489
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1532
+	}
+	name = "Maximilian der Grosse"
+	DIP = 7
+	ADM = 2
+	MIL = 8
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18364 }
+	startdate = {
+		year = 1532
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1576
+	}
+	name = "Otto II"
+	DIP = 8
+	ADM = 8
+	MIL = 3
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 18365 }
+	startdate = {
+		year = 1576
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1614
+	}
+	name = "Friedrich VI"
+	DIP = 2
+	ADM = 2
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18366 }
+	startdate = {
+		year = 1614
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1661
+	}
+	name = "Karl X"
+	DIP = 2
+	ADM = 6
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18367 }
+	startdate = {
+		year = 1661
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1705
+	}
+	name = "August VII"
+	DIP = 7
+	ADM = 7
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18368 }
+	startdate = {
+		year = 1705
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1750
+	}
+	name = "Otto III"
+	DIP = 3
+	ADM = 6
+	MIL = 5
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18369 }
+	startdate = {
+		year = 1750
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1803
+	}
+	name = "August VIII"
+	DIP = 7
+	ADM = 3
+	MIL = 5
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18370 }
+	startdate = {
+		year = 1803
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1841
+	}
+	name = "Otto IV"
+	DIP = 3
+	ADM = 5
+	MIL = 4
+	movement = 3
+	fire = 4
+	shock = 2
+	siege = 1
+}

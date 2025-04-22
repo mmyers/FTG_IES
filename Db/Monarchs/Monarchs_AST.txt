@@ -1,0 +1,285 @@
+historicalmonarch = {
+	id = { type = 6 id = 20001 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1431
+	}
+	name = "Seiteli I"
+	DIP = 4
+	ADM = 8
+	MIL = 5
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20002 }
+	startdate = {
+		year = 1431
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1447
+	}
+	name = "Borlak-Tama VI"
+	DIP = 9
+	ADM = 5
+	MIL = 3
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20003 }
+	startdate = {
+		year = 1447
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1505
+	}
+	name = "Karaca III"
+	DIP = 6
+	ADM = 2
+	MIL = 9
+	movement = 4
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20004 }
+	startdate = {
+		year = 1505
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1543
+	}
+	name = "Seiteli II"
+	DIP = 7
+	ADM = 3
+	MIL = 6
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20005 }
+	startdate = {
+		year = 1543
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1552
+	}
+	name = "Borlak-Tama VII"
+	DIP = 4
+	ADM = 6
+	MIL = 5
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20006 }
+	startdate = {
+		year = 1552
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1584
+	}
+	name = "Seiteli III"
+	DIP = 6
+	ADM = 9
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20007 }
+	startdate = {
+		year = 1584
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1607
+	}
+	name = "Borlak-Tama VIII"
+	DIP = 4
+	ADM = 3
+	MIL = 6
+	movement = 4
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20008 }
+	startdate = {
+		year = 1607
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1633
+	}
+	name = "Armansk V"
+	DIP = 7
+	ADM = 2
+	MIL = 5
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20009 }
+	startdate = {
+		year = 1633
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1679
+	}
+	name = "Botas VII"
+	DIP = 9
+	ADM = 7
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20010 }
+	startdate = {
+		year = 1679
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1723
+	}
+	name = "Karaca IV"
+	DIP = 3
+	ADM = 4
+	MIL = 4
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20011 }
+	startdate = {
+		year = 1723
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1736
+	}
+	name = "Siban IV"
+	DIP = 2
+	ADM = 5
+	MIL = 2
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20012 }
+	startdate = {
+		year = 1736
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1759
+	}
+	name = "Karaca V"
+	DIP = 6
+	ADM = 2
+	MIL = 8
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20013 }
+	startdate = {
+		year = 1759
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1799
+	}
+	name = "Borlak-Tama IX"
+	DIP = 2
+	ADM = 2
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20014 }
+	startdate = {
+		year = 1799
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1807
+	}
+	name = "Siban V"
+	DIP = 7
+	ADM = 4
+	MIL = 4
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20015 }
+	startdate = {
+		year = 1807
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1845
+	}
+	name = "Eskene III"
+	DIP = 2
+	ADM = 8
+	MIL = 7
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}

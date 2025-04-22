@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 17861 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1421
+	}
+	name = "Aleksey V"
+	DIP = 6
+	ADM = 6
+	MIL = 9
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17862 }
+	startdate = {
+		year = 1421
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1436
+	}
+	name = "Aleksey VI"
+	DIP = 5
+	ADM = 2
+	MIL = 2
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17863 }
+	startdate = {
+		year = 1436
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1476
+	}
+	name = "Andrei I"
+	DIP = 5
+	ADM = 2
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17864 }
+	startdate = {
+		year = 1476
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1525
+	}
+	name = "Boris XII"
+	DIP = 8
+	ADM = 9
+	MIL = 3
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17865 }
+	startdate = {
+		year = 1525
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1571
+	}
+	name = "Andrei II"
+	DIP = 3
+	ADM = 5
+	MIL = 7
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17866 }
+	startdate = {
+		year = 1571
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1581
+	}
+	name = "Andrei III"
+	DIP = 2
+	ADM = 4
+	MIL = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17867 }
+	startdate = {
+		year = 1581
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1602
+	}
+	name = "Boris XIII"
+	DIP = 8
+	ADM = 4
+	MIL = 9
+	movement = 3
+	fire = 5
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17868 }
+	startdate = {
+		year = 1602
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1649
+	}
+	name = "Dmitry IV"
+	DIP = 6
+	ADM = 3
+	MIL = 5
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17869 }
+	startdate = {
+		year = 1649
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1684
+	}
+	name = "Dmitry V"
+	DIP = 2
+	ADM = 8
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17870 }
+	startdate = {
+		year = 1684
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1688
+	}
+	name = "Aleksey VII"
+	DIP = 5
+	ADM = 5
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17871 }
+	startdate = {
+		year = 1688
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1734
+	}
+	name = "Aleksey VIII"
+	DIP = 2
+	ADM = 2
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17872 }
+	startdate = {
+		year = 1734
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1756
+	}
+	name = "Dmitry VI"
+	DIP = 7
+	ADM = 4
+	MIL = 5
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17873 }
+	startdate = {
+		year = 1756
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1759
+	}
+	name = "Aleksey IX"
+	DIP = 5
+	ADM = 5
+	MIL = 3
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17874 }
+	startdate = {
+		year = 1759
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1761
+	}
+	name = "Aleksey X"
+	DIP = 2
+	ADM = 6
+	MIL = 4
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17875 }
+	startdate = {
+		year = 1761
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1793
+	}
+	name = "Andrei IV"
+	DIP = 2
+	ADM = 2
+	MIL = 7
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17876 }
+	startdate = {
+		year = 1793
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1846
+	}
+	name = "Boris XIV"
+	DIP = 5
+	ADM = 3
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}

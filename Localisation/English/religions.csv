@@ -1,0 +1,73 @@
+#-----------------------------------------------------------------------------------------------;;x
+#Religions;x
+#-----------------------------------------------------------------------------------------------;x
+#;x
+RELIGION_ABRAHAMIC;Abrahamic;x
+#;x
+RELIGION_CHRISTIAN;Christian;x
+RELIGION_CHALCEDONIAN;Chalcedonian;x
+RELIGION_LATIN;Latin Christian;x
+RELIGION_ORIENTAL;Eastern Christian;x
+RELIGION_HERETIC;Heretic;x
+RELIGION_CATHOLIC;Catholic;x
+RELIGION_COUNTERREFORM;Counter-Reform Catholic;x
+RELIGION_HUSSITE;Hussite;x
+RELIGION_LOLLARD;Lollard;x
+RELIGION_MIAPHYSITE;Miaphysite;x
+RELIGION_ORTHODOX;Orthodox;x
+RELIGION_PROTESTANT;Protestant;x
+RELIGION_REFORMED;Reformed;x
+#;x
+RELIGION_JEWISH;Jewish;x
+#;x
+RELIGION_MUSLIM;Muslim;x
+RELIGION_SHIITE;Shi'a;x
+RELIGION_SUNNI;Sunni;x
+RELIGION_EASTERN_SUNNI;Sunni;x
+RELIGION_EASTERN_SHIA;Shi'a;x
+#;x
+RELIGION_EASTERN;Eastern;x
+RELIGION_DHARMIC;Dharmic;x
+RELIGION_SRAMANIC;Sramanic;x
+RELIGION_BUDDHISM;Buddhist;x
+RELIGION_JAIN;Jain;x
+RELIGION_CONFUCIANISM;Kaigonism;x
+RELIGION_HINDUISM;Hindu;x
+RELIGION_SHINTO;Shinto;x
+RELIGION_SIKH;Sikh;x
+#;x
+RELIGION_PAGAN;Pagan;x
+RELIGION_ATLANTEAN;Atlantean;x
+RELIGION_NORSE;Norse;x
+#;x
+#-----------------------------------------------------------------------------------------------;x
+#ROLLOVER of Event Commands - Global flags;x
+#;x
+EE_FLAG_0;Enable Treaty of Tordesillas rules.\n;x
+EE_FLAG_1;Enable Protestant religion.\n;x
+EE_FLAG_2;Enable Reformed religion.\n;x
+EE_FLAG_3;Enable Counter-Reform Catholicism.\n;x
+EE_FLAG_4;Reduce Christian intolerance towards other great religions.\n;x
+EE_FLAG_5;Disable Treaty of Tordesillas.\nReduce the effect of religion.\n;x
+EE_FLAG_6;Reduce religious conflicts between Christians and Muslims.\n;x
+EE_FLAG_7;Enable Industrial Revolution events.\n;x
+#;x
+#-----------------------------------------------------------------------------------------------;x
+#ROLLOVER of Religion Information Window - Global flags;x
+#;x
+RELWFLAG_0;§Y¤ §WTreaty of Tordesillas enabled\n;x
+RELWFLAG_1;§Y¤ §WProtestant religion enabled\n;x
+RELWFLAG_2;§Y¤ §WReformed religion enabled\n;x
+RELWFLAG_3;§Y¤ §WCounter-Reform Catholicism enabled\n;x
+RELWFLAG_4;§Y¤ §WChristian intolerance towards other great religions reduced\n;x
+RELWFLAG_5;§Y¤ §WTreaty of Tordesillas disabled and effect of religion reduced\n;x
+RELWFLAG_6;§Y¤ §WReligious conflicts between Christians and Muslims reduced\n;x
+RELWFLAG_7;§Y¤ §WIndustrial Revolution enabled\n;x
+#;x
+#-----------------------------------------------------------------------------------------------;x
+#MAIN MAP BAR - NUMBER OF MERCHANTS (coastalprovince_bonus = yes);x
+#;x
+YEARLYMER_REL;+%.2f Jewish, Protestant or Reformed National Coastal Provinces\n;x
+#;x
+#-----------------------------------------------------------------------------------------------;x
+#EOF;x

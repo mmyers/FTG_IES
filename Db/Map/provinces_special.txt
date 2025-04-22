@@ -1,0 +1,93 @@
+#Provinces - Specific information
+
+#map_center = <provid>  Default center of the map
+#control_seazone = { }  Increased chance for interception in adjacent sea zone.
+#religious_cb = { }     Permanent CB for all countries of the specified religion or religious subgroup against the owner if not in the owner list.
+#tot = { }              List of provinces for each country involved in ToT. See global flags.
+#hre = { }              List of provinces for the Holy Roman Empire.
+
+#-----------------------------------------------------------------------------------------------
+
+map_center = 399 #Roma
+
+#-----------------------------------------------------------------------------------------------
+
+control_seazone = {
+	445 #Gibraltar
+	732 #Tangiers
+	357 #Thrace
+	307 #Sjælland
+	251 #Skåne
+}
+
+#-----------------------------------------------------------------------------------------------
+
+religious_cb = {
+	#religion = {
+	#	province = 399 #Roma
+	#	type = catholic
+	#	owner = { PAP }
+	#}
+}
+
+tot = {
+}
+
+hre = {
+	302 #Hinterpommern
+	304 #Vorpommern
+	305 #Mecklemburg
+	306 #Holstein
+	310 #Hannover
+	311 #Magdeburg
+	312 #Brandenburg
+	313 #Küstrin
+	314 #Silesia
+	315 #Moravia
+	327 #Ostmarch
+	328 #Bohemia
+	329 #Erz
+	330 #Sudeten
+	331 #Sachsen
+	332 #Anhalt
+	333 #Hessen
+	334 #Münster
+	335 #Oldenburg
+	336 #Bremen
+	337 #Friesen
+	338 #Geldre
+	339 #Holland
+	340 #Zeeland
+	343 #Kleves
+	344 #Köln
+	345 #Pfalz
+	346 #Mainz
+	347 #Würzburg
+	348 #Ansbach
+	349 #Bayern
+	350 #Salzburg
+	351 #Austria
+	369 #Steiermark
+	371 #Tirol
+	372 #Württemberg
+	373 #Baden
+	374 #Alsace
+	375 #Lorraine
+	377 #Luxembourg
+	378 #Brabant
+	379 #Artois
+	380 #Flandern
+	387 #Franche Comté
+	388 #Bern
+	389 #Lombardia
+	400 #Siena
+	401 #Firenze
+	402 #Emilia
+	403 #Liguria
+	404 #Piemonte
+	405 #Savoie
+	406 #Provence
+	1612 #Schwyz
+}
+
+#-----------------------------------------------------------------------------------------------

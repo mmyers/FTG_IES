@@ -1,0 +1,247 @@
+historicalmonarch = {
+	id = { type = 6 id = 21141 }
+	startdate = {
+		year = 1419
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1443
+	}
+	name = "Bacach VI"
+	DIP = 5
+	ADM = 4
+	MIL = 2
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21142 }
+	startdate = {
+		year = 1443
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1470
+	}
+	name = "Toirdhealbhach IV"
+	DIP = 4
+	ADM = 6
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21143 }
+	startdate = {
+		year = 1470
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1496
+	}
+	name = "Bacach VII"
+	DIP = 9
+	ADM = 5
+	MIL = 3
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21144 }
+	startdate = {
+		year = 1496
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1529
+	}
+	name = "Toirdhealbhach V"
+	DIP = 2
+	ADM = 9
+	MIL = 7
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21145 }
+	startdate = {
+		year = 1529
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1566
+	}
+	name = "Aodha III"
+	DIP = 2
+	ADM = 5
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21146 }
+	startdate = {
+		year = 1566
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1603
+	}
+	name = "Eóghan III"
+	DIP = 7
+	ADM = 5
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21147 }
+	startdate = {
+		year = 1603
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1627
+	}
+	name = "Néill I"
+	DIP = 5
+	ADM = 6
+	MIL = 8
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21148 }
+	startdate = {
+		year = 1627
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1660
+	}
+	name = "Bacach VIII"
+	DIP = 6
+	ADM = 2
+	MIL = 7
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21149 }
+	startdate = {
+		year = 1660
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1680
+	}
+	name = "Eóghan IV"
+	DIP = 3
+	ADM = 6
+	MIL = 6
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21150 }
+	startdate = {
+		year = 1680
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1730
+	}
+	name = "Eóghan V"
+	DIP = 2
+	ADM = 5
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21151 }
+	startdate = {
+		year = 1730
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1756
+	}
+	name = "Domhnall VII"
+	DIP = 2
+	ADM = 2
+	MIL = 2
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21152 }
+	startdate = {
+		year = 1756
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1770
+	}
+	name = "Toirdhealbhach VI"
+	DIP = 5
+	ADM = 2
+	MIL = 6
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 21153 }
+	startdate = {
+		year = 1770
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1829
+	}
+	name = "Eóghan VI"
+	DIP = 6
+	ADM = 3
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

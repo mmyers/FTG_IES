@@ -1,0 +1,361 @@
+historicalmonarch = {
+	id = { type = 6 id = 20701 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1441
+	}
+	name = "Carak VIII"
+	DIP = 4
+	ADM = 4
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20702 }
+	startdate = {
+		year = 1441
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1467
+	}
+	name = "Tarhanlar V"
+	DIP = 2
+	ADM = 9
+	MIL = 4
+	movement = 6
+	fire = 5
+	shock = 6
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 20703 }
+	startdate = {
+		year = 1467
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1502
+	}
+	name = "Isun V"
+	DIP = 8
+	ADM = 2
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20704 }
+	startdate = {
+		year = 1502
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1524
+	}
+	name = "Mamutbay VI"
+	DIP = 3
+	ADM = 2
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20705 }
+	startdate = {
+		year = 1524
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1550
+	}
+	name = "Carak IX"
+	DIP = 6
+	ADM = 4
+	MIL = 5
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20706 }
+	startdate = {
+		year = 1550
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1566
+	}
+	name = "Isun VI"
+	DIP = 5
+	ADM = 5
+	MIL = 4
+	movement = 5
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20707 }
+	startdate = {
+		year = 1566
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1572
+	}
+	name = "Mamutbay VII"
+	DIP = 5
+	ADM = 2
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20708 }
+	startdate = {
+		year = 1572
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1629
+	}
+	name = "Besterek VII"
+	DIP = 2
+	ADM = 2
+	MIL = 4
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20709 }
+	startdate = {
+		year = 1629
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1631
+	}
+	name = "Isun VII"
+	DIP = 2
+	ADM = 5
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20710 }
+	startdate = {
+		year = 1631
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1650
+	}
+	name = "Arhaderesi VI"
+	DIP = 4
+	ADM = 4
+	MIL = 9
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20711 }
+	startdate = {
+		year = 1650
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1682
+	}
+	name = "Tarhanlar VI"
+	DIP = 7
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20712 }
+	startdate = {
+		year = 1682
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1699
+	}
+	name = "Arhaderesi VII"
+	DIP = 6
+	ADM = 3
+	MIL = 5
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 20713 }
+	startdate = {
+		year = 1699
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1752
+	}
+	name = "Tarhanlar VII"
+	DIP = 2
+	ADM = 9
+	MIL = 5
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20714 }
+	startdate = {
+		year = 1752
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1777
+	}
+	name = "Aksakal-Merkit I"
+	DIP = 2
+	ADM = 4
+	MIL = 5
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 20715 }
+	startdate = {
+		year = 1777
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1779
+	}
+	name = "Kizil Çongar VI"
+	DIP = 2
+	ADM = 6
+	MIL = 4
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20716 }
+	startdate = {
+		year = 1779
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1783
+	}
+	name = "Tarhanlar VIII"
+	DIP = 5
+	ADM = 6
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20717 }
+	startdate = {
+		year = 1783
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1793
+	}
+	name = "Dulat IX"
+	DIP = 6
+	ADM = 2
+	MIL = 7
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20718 }
+	startdate = {
+		year = 1793
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1808
+	}
+	name = "Arhaderesi VIII"
+	DIP = 5
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 20719 }
+	startdate = {
+		year = 1808
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1835
+	}
+	name = "Kizil Çongar VII"
+	DIP = 8
+	ADM = 8
+	MIL = 6
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 0
+}

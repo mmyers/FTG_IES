@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 21981 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1461
+	}
+	name = "Muhammad IV"
+	DIP = 8
+	ADM = 6
+	MIL = 2
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21982 }
+	startdate = {
+		year = 1461
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1516
+	}
+	name = "Musa IV"
+	DIP = 2
+	ADM = 4
+	MIL = 6
+	movement = 4
+	fire = 5
+	shock = 6
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 21983 }
+	startdate = {
+		year = 1516
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1521
+	}
+	name = "Muhammad V"
+	DIP = 3
+	ADM = 4
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21984 }
+	startdate = {
+		year = 1521
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1535
+	}
+	name = "Asad VI"
+	DIP = 7
+	ADM = 2
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21985 }
+	startdate = {
+		year = 1535
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1570
+	}
+	name = "Salim II"
+	DIP = 9
+	ADM = 5
+	MIL = 4
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21986 }
+	startdate = {
+		year = 1570
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1576
+	}
+	name = "Muhammad VI"
+	DIP = 2
+	ADM = 8
+	MIL = 2
+	movement = 5
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21987 }
+	startdate = {
+		year = 1576
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1624
+	}
+	name = "Muhammad VII"
+	DIP = 3
+	ADM = 9
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21988 }
+	startdate = {
+		year = 1624
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1641
+	}
+	name = "Hussein I"
+	DIP = 9
+	ADM = 3
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21989 }
+	startdate = {
+		year = 1641
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1651
+	}
+	name = "Salah III"
+	DIP = 5
+	ADM = 4
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21990 }
+	startdate = {
+		year = 1651
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1694
+	}
+	name = "Mirza V"
+	DIP = 5
+	ADM = 5
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21991 }
+	startdate = {
+		year = 1694
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1724
+	}
+	name = "Muhammad VIII"
+	DIP = 3
+	ADM = 5
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21992 }
+	startdate = {
+		year = 1724
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1765
+	}
+	name = "Musa V"
+	DIP = 5
+	ADM = 4
+	MIL = 3
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21993 }
+	startdate = {
+		year = 1765
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1778
+	}
+	name = "Musa VI"
+	DIP = 5
+	ADM = 7
+	MIL = 5
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21994 }
+	startdate = {
+		year = 1778
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1799
+	}
+	name = "Muhammad IX"
+	DIP = 9
+	ADM = 8
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21995 }
+	startdate = {
+		year = 1799
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1816
+	}
+	name = "Asad VII"
+	DIP = 2
+	ADM = 7
+	MIL = 6
+	movement = 3
+	fire = 4
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21996 }
+	startdate = {
+		year = 1816
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1827
+	}
+	name = "Hassan I"
+	DIP = 4
+	ADM = 5
+	MIL = 7
+	movement = 6
+	fire = 4
+	shock = 6
+	siege = 1
+}

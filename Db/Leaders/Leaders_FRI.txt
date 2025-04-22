@@ -1,0 +1,944 @@
+historicalleader = {
+	id = { type = 6 id = 19939 }
+	category = monarch
+	name = "Hendrik VI"
+	startdate = {
+		year = 1450
+	}
+	deathdate = {
+		year = 1457
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19940 }
+	category = monarch
+	name = "Reinald II"
+	startdate = {
+		year = 1474
+	}
+	deathdate = {
+		year = 1504
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19941 }
+	category = monarch
+	name = "Hendrik VII"
+	startdate = {
+		year = 1571
+	}
+	deathdate = {
+		year = 1600
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19942 }
+	category = monarch
+	name = "Hendrik VIII"
+	startdate = {
+		year = 1600
+	}
+	deathdate = {
+		year = 1625
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19943 }
+	category = monarch
+	name = "Hendrik IX"
+	startdate = {
+		year = 1632
+	}
+	deathdate = {
+		year = 1634
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19944 }
+	category = monarch
+	name = "Adolf V"
+	startdate = {
+		year = 1647
+	}
+	deathdate = {
+		year = 1671
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19945 }
+	category = monarch
+	name = "Frederik IV"
+	startdate = {
+		year = 1732
+	}
+	deathdate = {
+		year = 1740
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 4
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19946 }
+	category = monarch
+	name = "Johan VI"
+	startdate = {
+		year = 1798
+	}
+	deathdate = {
+		year = 1824
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19631 }
+	category = general
+	name = "Willem"
+	startdate = {
+		year = 1415
+	}
+	deathdate = {
+		year = 1435
+	}
+	rank = 3
+	movement = 5
+	fire = 2
+	shock = 4
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 19632 }
+	category = general
+	name = "Utrecht"
+	startdate = {
+		year = 1414
+	}
+	deathdate = {
+		year = 1438
+	}
+	rank = 4
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19633 }
+	category = general
+	name = "Deodati"
+	startdate = {
+		year = 1508
+	}
+	deathdate = {
+		year = 1525
+	}
+	rank = 12
+	movement = 5
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19634 }
+	category = general
+	name = "Helder"
+	startdate = {
+		year = 1568
+	}
+	deathdate = {
+		year = 1588
+	}
+	rank = 12
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19635 }
+	category = conquistador
+	name = "Olderzaal"
+	startdate = {
+		year = 1522
+	}
+	deathdate = {
+		year = 1545
+	}
+	rank = 12
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19636 }
+	category = conquistador
+	name = "Volendam"
+	startdate = {
+		year = 1586
+	}
+	deathdate = {
+		year = 1603
+	}
+	rank = 8
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19637 }
+	category = general
+	name = "Geerit"
+	startdate = {
+		year = 1426
+	}
+	deathdate = {
+		year = 1445
+	}
+	rank = 2
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19638 }
+	category = general
+	name = "Drenthe"
+	startdate = {
+		year = 1440
+	}
+	deathdate = {
+		year = 1461
+	}
+	rank = 3
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19639 }
+	category = general
+	name = "Kampen"
+	startdate = {
+		year = 1448
+	}
+	deathdate = {
+		year = 1467
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19640 }
+	category = general
+	name = "Texel"
+	startdate = {
+		year = 1456
+	}
+	deathdate = {
+		year = 1474
+	}
+	rank = 5
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19641 }
+	category = general
+	name = "Zandwort"
+	startdate = {
+		year = 1473
+	}
+	deathdate = {
+		year = 1492
+	}
+	rank = 4
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19642 }
+	category = general
+	name = "Sluis"
+	startdate = {
+		year = 1482
+	}
+	deathdate = {
+		year = 1499
+	}
+	rank = 3
+	movement = 2
+	fire = 4
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 19643 }
+	category = general
+	name = "Zandwort"
+	startdate = {
+		year = 1488
+	}
+	deathdate = {
+		year = 1513
+	}
+	rank = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 19644 }
+	category = general
+	name = "Bolsward"
+	startdate = {
+		year = 1500
+	}
+	deathdate = {
+		year = 1523
+	}
+	rank = 2
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 19645 }
+	category = general
+	name = "Enkhuizen"
+	startdate = {
+		year = 1507
+	}
+	deathdate = {
+		year = 1525
+	}
+	rank = 0
+	movement = 4
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19646 }
+	category = general
+	name = "Goes"
+	startdate = {
+		year = 1522
+	}
+	deathdate = {
+		year = 1546
+	}
+	rank = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19647 }
+	category = general
+	name = "Ameland"
+	startdate = {
+		year = 1532
+	}
+	deathdate = {
+		year = 1552
+	}
+	rank = 3
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19648 }
+	category = general
+	name = "Oldenbarneveld"
+	startdate = {
+		year = 1536
+	}
+	deathdate = {
+		year = 1560
+	}
+	rank = 5
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19649 }
+	category = general
+	name = "Jansz"
+	startdate = {
+		year = 1553
+	}
+	deathdate = {
+		year = 1572
+	}
+	rank = 2
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19650 }
+	category = general
+	name = "Overijssel"
+	startdate = {
+		year = 1556
+	}
+	deathdate = {
+		year = 1574
+	}
+	rank = 0
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19651 }
+	category = general
+	name = "Venray"
+	startdate = {
+		year = 1572
+	}
+	deathdate = {
+		year = 1589
+	}
+	rank = 3
+	movement = 4
+	fire = 5
+	shock = 6
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19652 }
+	category = general
+	name = "Smuts"
+	startdate = {
+		year = 1579
+	}
+	deathdate = {
+		year = 1598
+	}
+	rank = 0
+	movement = 4
+	fire = 5
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19653 }
+	category = conquistador
+	name = "Volendam"
+	startdate = {
+		year = 1584
+	}
+	deathdate = {
+		year = 1608
+	}
+	rank = 9
+	movement = 4
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19654 }
+	category = general
+	name = "Dokkum"
+	startdate = {
+		year = 1597
+	}
+	deathdate = {
+		year = 1622
+	}
+	rank = 0
+	movement = 2
+	fire = 4
+	shock = 4
+	siege = 4
+}
+historicalleader = {
+	id = { type = 6 id = 19655 }
+	category = general
+	name = "Heineken"
+	startdate = {
+		year = 1612
+	}
+	deathdate = {
+		year = 1630
+	}
+	rank = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19656 }
+	category = general
+	name = "Hendryck"
+	startdate = {
+		year = 1617
+	}
+	deathdate = {
+		year = 1637
+	}
+	rank = 2
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 19657 }
+	category = general
+	name = "Van der Does"
+	startdate = {
+		year = 1627
+	}
+	deathdate = {
+		year = 1646
+	}
+	rank = 4
+	movement = 3
+	fire = 4
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19658 }
+	category = general
+	name = "Venloo"
+	startdate = {
+		year = 1636
+	}
+	deathdate = {
+		year = 1659
+	}
+	rank = 5
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19659 }
+	category = general
+	name = "Jansz"
+	startdate = {
+		year = 1653
+	}
+	deathdate = {
+		year = 1672
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19660 }
+	category = general
+	name = "Van Den Dorp"
+	startdate = {
+		year = 1658
+	}
+	deathdate = {
+		year = 1678
+	}
+	rank = 0
+	movement = 4
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19661 }
+	category = general
+	name = "Utrecht"
+	startdate = {
+		year = 1664
+	}
+	deathdate = {
+		year = 1685
+	}
+	rank = 8
+	movement = 3
+	fire = 3
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19662 }
+	category = general
+	name = "Zoetermeer"
+	startdate = {
+		year = 1683
+	}
+	deathdate = {
+		year = 1708
+	}
+	rank = 6
+	movement = 5
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19663 }
+	category = general
+	name = "Vroom"
+	startdate = {
+		year = 1689
+	}
+	deathdate = {
+		year = 1709
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19664 }
+	category = general
+	name = "Botha"
+	startdate = {
+		year = 1703
+	}
+	deathdate = {
+		year = 1726
+	}
+	rank = 0
+	movement = 4
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19665 }
+	category = general
+	name = "Valkenswaard"
+	startdate = {
+		year = 1714
+	}
+	deathdate = {
+		year = 1735
+	}
+	rank = 2
+	movement = 2
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19666 }
+	category = general
+	name = "Venloo"
+	startdate = {
+		year = 1722
+	}
+	deathdate = {
+		year = 1745
+	}
+	rank = 2
+	movement = 4
+	fire = 2
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 19667 }
+	category = general
+	name = "Ameland"
+	startdate = {
+		year = 1726
+	}
+	deathdate = {
+		year = 1749
+	}
+	rank = 1
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19668 }
+	category = general
+	name = "Valkenswaard"
+	startdate = {
+		year = 1741
+	}
+	deathdate = {
+		year = 1759
+	}
+	rank = 2
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 19669 }
+	category = general
+	name = "Oldenbarneveld"
+	startdate = {
+		year = 1746
+	}
+	deathdate = {
+		year = 1769
+	}
+	rank = 3
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19670 }
+	category = general
+	name = "Kortenaer"
+	startdate = {
+		year = 1759
+	}
+	deathdate = {
+		year = 1775
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19671 }
+	category = general
+	name = "Jansz"
+	startdate = {
+		year = 1770
+	}
+	deathdate = {
+		year = 1786
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19672 }
+	category = general
+	name = "Breda"
+	startdate = {
+		year = 1776
+	}
+	deathdate = {
+		year = 1797
+	}
+	rank = 4
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19673 }
+	category = general
+	name = "Schiedam"
+	startdate = {
+		year = 1667
+	}
+	deathdate = {
+		year = 1688
+	}
+	rank = 4
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19674 }
+	category = general
+	name = "Meppel"
+	startdate = {
+		year = 1687
+	}
+	deathdate = {
+		year = 1711
+	}
+	rank = 2
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19675 }
+	category = general
+	name = "Waalwijck"
+	startdate = {
+		year = 1716
+	}
+	deathdate = {
+		year = 1735
+	}
+	rank = 2
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19676 }
+	category = general
+	name = "Vroom"
+	startdate = {
+		year = 1739
+	}
+	deathdate = {
+		year = 1757
+	}
+	rank = 0
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 19677 }
+	category = general
+	name = "Elst"
+	startdate = {
+		year = 1763
+	}
+	deathdate = {
+		year = 1787
+	}
+	rank = 1
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 19678 }
+	category = general
+	name = "Veendam"
+	startdate = {
+		year = 1666
+	}
+	deathdate = {
+		year = 1687
+	}
+	rank = 4
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19679 }
+	category = general
+	name = "Van Hessling"
+	startdate = {
+		year = 1687
+	}
+	deathdate = {
+		year = 1708
+	}
+	rank = 0
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 19630 }
+	category = general
+	name = "Goes"
+	startdate = {
+		year = 1717
+	}
+	deathdate = {
+		year = 1736
+	}
+	rank = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}

@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 17061 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1421
+	}
+	name = "Hamza I"
+	DIP = 2
+	ADM = 9
+	MIL = 4
+	movement = 5
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17062 }
+	startdate = {
+		year = 1421
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1466
+	}
+	name = "Hamza II"
+	DIP = 5
+	ADM = 7
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17063 }
+	startdate = {
+		year = 1466
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1492
+	}
+	name = "Hamza III"
+	DIP = 5
+	ADM = 9
+	MIL = 2
+	movement = 4
+	fire = 2
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17064 }
+	startdate = {
+		year = 1492
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1515
+	}
+	name = "Hamza IV"
+	DIP = 3
+	ADM = 3
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17065 }
+	startdate = {
+		year = 1515
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1562
+	}
+	name = "Hamza V"
+	DIP = 7
+	ADM = 2
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17066 }
+	startdate = {
+		year = 1562
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1572
+	}
+	name = "`Uthman III"
+	DIP = 6
+	ADM = 9
+	MIL = 9
+	movement = 6
+	fire = 4
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17067 }
+	startdate = {
+		year = 1572
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1576
+	}
+	name = "Hamza VI"
+	DIP = 9
+	ADM = 9
+	MIL = 6
+	movement = 3
+	fire = 4
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17068 }
+	startdate = {
+		year = 1576
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1618
+	}
+	name = "Hamza VII"
+	DIP = 4
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17069 }
+	startdate = {
+		year = 1618
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1634
+	}
+	name = "Hamza VIII"
+	DIP = 9
+	ADM = 6
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17070 }
+	startdate = {
+		year = 1634
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1662
+	}
+	name = "Hamza IX"
+	DIP = 7
+	ADM = 9
+	MIL = 6
+	movement = 5
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17071 }
+	startdate = {
+		year = 1662
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1699
+	}
+	name = "`Uthman IV"
+	DIP = 6
+	ADM = 3
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17072 }
+	startdate = {
+		year = 1699
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1720
+	}
+	name = "`Uthman V"
+	DIP = 9
+	ADM = 9
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17073 }
+	startdate = {
+		year = 1720
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1757
+	}
+	name = "Hamza X"
+	DIP = 6
+	ADM = 4
+	MIL = 3
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17074 }
+	startdate = {
+		year = 1757
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1801
+	}
+	name = "Sâhîb II"
+	DIP = 3
+	ADM = 7
+	MIL = 2
+	movement = 6
+	fire = 5
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17075 }
+	startdate = {
+		year = 1801
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1818
+	}
+	name = "Hamza XI"
+	DIP = 4
+	ADM = 9
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17076 }
+	startdate = {
+		year = 1818
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1870
+	}
+	name = "Hamza XII"
+	DIP = 3
+	ADM = 2
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

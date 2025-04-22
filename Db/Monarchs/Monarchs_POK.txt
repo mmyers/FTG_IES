@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 19321 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1444
+	}
+	name = "Vytautus IV"
+	DIP = 7
+	ADM = 4
+	MIL = 9
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 19322 }
+	startdate = {
+		year = 1444
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1478
+	}
+	name = "Stary I"
+	DIP = 2
+	ADM = 9
+	MIL = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19323 }
+	startdate = {
+		year = 1478
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1503
+	}
+	name = "Stary II"
+	DIP = 2
+	ADM = 2
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19324 }
+	startdate = {
+		year = 1503
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1518
+	}
+	name = "Stary III"
+	DIP = 3
+	ADM = 5
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19325 }
+	startdate = {
+		year = 1518
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1567
+	}
+	name = "Stary IV"
+	DIP = 8
+	ADM = 9
+	MIL = 2
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19326 }
+	startdate = {
+		year = 1567
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1582
+	}
+	name = "Stary V"
+	DIP = 6
+	ADM = 9
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19327 }
+	startdate = {
+		year = 1582
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1583
+	}
+	name = "Stary VI"
+	DIP = 4
+	ADM = 2
+	MIL = 2
+	movement = 5
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19328 }
+	startdate = {
+		year = 1583
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1621
+	}
+	name = "Stary VII"
+	DIP = 6
+	ADM = 4
+	MIL = 8
+	movement = 5
+	fire = 2
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 19329 }
+	startdate = {
+		year = 1621
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1624
+	}
+	name = "Stary VIII"
+	DIP = 3
+	ADM = 6
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19330 }
+	startdate = {
+		year = 1624
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1626
+	}
+	name = "Stary IX"
+	DIP = 7
+	ADM = 8
+	MIL = 6
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19331 }
+	startdate = {
+		year = 1626
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1674
+	}
+	name = "Stary X"
+	DIP = 4
+	ADM = 6
+	MIL = 9
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19332 }
+	startdate = {
+		year = 1674
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1700
+	}
+	name = "Vytautus V"
+	DIP = 5
+	ADM = 4
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19333 }
+	startdate = {
+		year = 1700
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1751
+	}
+	name = "Ladislovas Grodzicki"
+	DIP = 6
+	ADM = 4
+	MIL = 5
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19334 }
+	startdate = {
+		year = 1751
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1759
+	}
+	name = "Vytautus VI"
+	DIP = 7
+	ADM = 6
+	MIL = 7
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 19335 }
+	startdate = {
+		year = 1759
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1773
+	}
+	name = "Vytautus VII"
+	DIP = 5
+	ADM = 9
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19336 }
+	startdate = {
+		year = 1773
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1832
+	}
+	name = "Vytautus VIII"
+	DIP = 2
+	ADM = 9
+	MIL = 6
+	movement = 2
+	fire = 4
+	shock = 2
+	siege = 0
+}

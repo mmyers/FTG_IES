@@ -1,0 +1,266 @@
+historicalmonarch = {
+	id = { type = 6 id = 16881 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1442
+	}
+	name = "Konstantinos I"
+	DIP = 2
+	ADM = 6
+	MIL = 7
+	movement = 6
+	fire = 6
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16882 }
+	startdate = {
+		year = 1442
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1486
+	}
+	name = "Nerio"
+	DIP = 2
+	ADM = 9
+	MIL = 6
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16883 }
+	startdate = {
+		year = 1486
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1536
+	}
+	name = "Ioannes VII"
+	DIP = 2
+	ADM = 9
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16884 }
+	startdate = {
+		year = 1536
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1560
+	}
+	name = "Alexius"
+	DIP = 5
+	ADM = 6
+	MIL = 2
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16885 }
+	startdate = {
+		year = 1560
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1568
+	}
+	name = "Jannus"
+	DIP = 2
+	ADM = 7
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 16886 }
+	startdate = {
+		year = 1568
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1590
+	}
+	name = "Konstantinos II"
+	DIP = 2
+	ADM = 9
+	MIL = 5
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 16887 }
+	startdate = {
+		year = 1590
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1627
+	}
+	name = "Demetrios"
+	DIP = 5
+	ADM = 3
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16888 }
+	startdate = {
+		year = 1627
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1651
+	}
+	name = "Konstantinos III"
+	DIP = 2
+	ADM = 5
+	MIL = 2
+	movement = 4
+	fire = 2
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16889 }
+	startdate = {
+		year = 1651
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1668
+	}
+	name = "Stephanos VI"
+	DIP = 4
+	ADM = 9
+	MIL = 5
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 16890 }
+	startdate = {
+		year = 1668
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1676
+	}
+	name = "Nerio Vataces"
+	DIP = 9
+	ADM = 5
+	MIL = 2
+	movement = 4
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16891 }
+	startdate = {
+		year = 1676
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1698
+	}
+	name = "Stephanos VII"
+	DIP = 7
+	ADM = 9
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16892 }
+	startdate = {
+		year = 1698
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1735
+	}
+	name = "Dragases"
+	DIP = 2
+	ADM = 2
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16893 }
+	startdate = {
+		year = 1735
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1791
+	}
+	name = "Stephanos VIII"
+	DIP = 3
+	ADM = 9
+	MIL = 3
+	movement = 5
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16894 }
+	startdate = {
+		year = 1791
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1834
+	}
+	name = "Manuel"
+	DIP = 7
+	ADM = 2
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

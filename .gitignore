@@ -1,0 +1,4 @@
+Logs/
+Scenarios/Save Games/*
+!Scenarios/Save Games/
+config.ftg

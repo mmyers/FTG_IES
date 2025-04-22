@@ -1,0 +1,323 @@
+historicalmonarch = {
+	id = { type = 6 id = 15701 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1459
+	}
+	name = "Benedetto V"
+	DIP = 2
+	ADM = 8
+	MIL = 5
+	movement = 5
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15702 }
+	startdate = {
+		year = 1459
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1480
+	}
+	name = "Leonardo I"
+	DIP = 2
+	ADM = 6
+	MIL = 4
+	movement = 4
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15703 }
+	startdate = {
+		year = 1480
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1491
+	}
+	name = "Benedetto VI"
+	DIP = 8
+	ADM = 2
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15704 }
+	startdate = {
+		year = 1491
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1496
+	}
+	name = "Cristoforo IV"
+	DIP = 3
+	ADM = 6
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15705 }
+	startdate = {
+		year = 1496
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1513
+	}
+	name = "Agostino II"
+	DIP = 9
+	ADM = 6
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 5
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 15706 }
+	startdate = {
+		year = 1513
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1534
+	}
+	name = "Benedetto VII"
+	DIP = 6
+	ADM = 5
+	MIL = 4
+	movement = 5
+	fire = 6
+	shock = 6
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 15707 }
+	startdate = {
+		year = 1534
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1568
+	}
+	name = "Nicolò I"
+	DIP = 9
+	ADM = 9
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15708 }
+	startdate = {
+		year = 1568
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1606
+	}
+	name = "Nicolò II"
+	DIP = 2
+	ADM = 3
+	MIL = 6
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15709 }
+	startdate = {
+		year = 1606
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1648
+	}
+	name = "Nicolò III"
+	DIP = 5
+	ADM = 2
+	MIL = 4
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15710 }
+	startdate = {
+		year = 1648
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1662
+	}
+	name = "Leonardo II"
+	DIP = 3
+	ADM = 7
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15711 }
+	startdate = {
+		year = 1662
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1708
+	}
+	name = "Agostino III"
+	DIP = 7
+	ADM = 2
+	MIL = 9
+	movement = 5
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15712 }
+	startdate = {
+		year = 1708
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1715
+	}
+	name = "Benedetto VIII"
+	DIP = 9
+	ADM = 2
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15713 }
+	startdate = {
+		year = 1715
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1721
+	}
+	name = "Cristoforo V"
+	DIP = 5
+	ADM = 4
+	MIL = 5
+	movement = 4
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15714 }
+	startdate = {
+		year = 1721
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1752
+	}
+	name = "Benedetto IX"
+	DIP = 5
+	ADM = 3
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15715 }
+	startdate = {
+		year = 1752
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1759
+	}
+	name = "Cristoforo VI"
+	DIP = 7
+	ADM = 5
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15716 }
+	startdate = {
+		year = 1759
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1813
+	}
+	name = "Benedetto X"
+	DIP = 4
+	ADM = 9
+	MIL = 4
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 15717 }
+	startdate = {
+		year = 1813
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1852
+	}
+	name = "Benedetto XI"
+	DIP = 2
+	ADM = 4
+	MIL = 4
+	movement = 2
+	fire = 3
+	shock = 4
+	siege = 0
+}

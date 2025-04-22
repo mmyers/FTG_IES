@@ -1,0 +1,1478 @@
+########################################################
+#            Reminders to adjust DP sliders            #
+#                    Idea by Korath                    #
+#             This file was made by Kaigon             #
+########################################################
+event = { 
+	id = 24950
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1419 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1420 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+		command = { type = sleepevent which = 24964 }
+		command = { type = sleepevent which = 24963 }
+		command = { type = sleepevent which = 24962 }
+		command = { type = sleepevent which = 24961 }
+		command = { type = sleepevent which = 24960 }
+		command = { type = sleepevent which = 24959 }
+		command = { type = sleepevent which = 24958 }
+		command = { type = sleepevent which = 24957 }
+		command = { type = sleepevent which = 24956 }
+		command = { type = sleepevent which = 24955 }
+		command = { type = sleepevent which = 24954 }
+		command = { type = sleepevent which = 24953 }
+		command = { type = sleepevent which = 24952 }
+		command = { type = sleepevent which = 24951 }
+	}
+}
+
+event = { 
+	id = 24951
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1429 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1430 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+		command = { type = sleepevent which = 24964 }
+		command = { type = sleepevent which = 24963 }
+		command = { type = sleepevent which = 24962 }
+		command = { type = sleepevent which = 24961 }
+		command = { type = sleepevent which = 24960 }
+		command = { type = sleepevent which = 24959 }
+		command = { type = sleepevent which = 24958 }
+		command = { type = sleepevent which = 24957 }
+		command = { type = sleepevent which = 24956 }
+		command = { type = sleepevent which = 24955 }
+		command = { type = sleepevent which = 24954 }
+		command = { type = sleepevent which = 24953 }
+		command = { type = sleepevent which = 24952 }
+	}
+}
+
+event = { 
+	id = 24952
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1439 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1440 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+		command = { type = sleepevent which = 24964 }
+		command = { type = sleepevent which = 24963 }
+		command = { type = sleepevent which = 24962 }
+		command = { type = sleepevent which = 24961 }
+		command = { type = sleepevent which = 24960 }
+		command = { type = sleepevent which = 24959 }
+		command = { type = sleepevent which = 24958 }
+		command = { type = sleepevent which = 24957 }
+		command = { type = sleepevent which = 24956 }
+		command = { type = sleepevent which = 24955 }
+		command = { type = sleepevent which = 24954 }
+		command = { type = sleepevent which = 24953 }
+	}
+}
+
+event = { 
+	id = 24953
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1449 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1450 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+		command = { type = sleepevent which = 24964 }
+		command = { type = sleepevent which = 24963 }
+		command = { type = sleepevent which = 24962 }
+		command = { type = sleepevent which = 24961 }
+		command = { type = sleepevent which = 24960 }
+		command = { type = sleepevent which = 24959 }
+		command = { type = sleepevent which = 24958 }
+		command = { type = sleepevent which = 24957 }
+		command = { type = sleepevent which = 24956 }
+		command = { type = sleepevent which = 24955 }
+		command = { type = sleepevent which = 24954 }
+	}
+}
+
+event = { 
+	id = 24954
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1459 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1460 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+		command = { type = sleepevent which = 24964 }
+		command = { type = sleepevent which = 24963 }
+		command = { type = sleepevent which = 24962 }
+		command = { type = sleepevent which = 24961 }
+		command = { type = sleepevent which = 24960 }
+		command = { type = sleepevent which = 24959 }
+		command = { type = sleepevent which = 24958 }
+		command = { type = sleepevent which = 24957 }
+		command = { type = sleepevent which = 24956 }
+		command = { type = sleepevent which = 24955 }
+	}
+}
+
+event = { 
+	id = 24955
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1469 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1470 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+		command = { type = sleepevent which = 24964 }
+		command = { type = sleepevent which = 24963 }
+		command = { type = sleepevent which = 24962 }
+		command = { type = sleepevent which = 24961 }
+		command = { type = sleepevent which = 24960 }
+		command = { type = sleepevent which = 24959 }
+		command = { type = sleepevent which = 24958 }
+		command = { type = sleepevent which = 24957 }
+		command = { type = sleepevent which = 24956 }
+	}
+}
+
+event = { 
+	id = 24956
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1479 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1480 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+		command = { type = sleepevent which = 24964 }
+		command = { type = sleepevent which = 24963 }
+		command = { type = sleepevent which = 24962 }
+		command = { type = sleepevent which = 24961 }
+		command = { type = sleepevent which = 24960 }
+		command = { type = sleepevent which = 24959 }
+		command = { type = sleepevent which = 24958 }
+		command = { type = sleepevent which = 24957 }
+	}
+}
+
+event = { 
+	id = 24957
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1489 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1490 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+		command = { type = sleepevent which = 24964 }
+		command = { type = sleepevent which = 24963 }
+		command = { type = sleepevent which = 24962 }
+		command = { type = sleepevent which = 24961 }
+		command = { type = sleepevent which = 24960 }
+		command = { type = sleepevent which = 24959 }
+		command = { type = sleepevent which = 24958 }
+	}
+}
+
+event = { 
+	id = 24958
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1499 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1500 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+		command = { type = sleepevent which = 24964 }
+		command = { type = sleepevent which = 24963 }
+		command = { type = sleepevent which = 24962 }
+		command = { type = sleepevent which = 24961 }
+		command = { type = sleepevent which = 24960 }
+		command = { type = sleepevent which = 24959 }
+	}
+}
+
+event = { 
+	id = 24959
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1509 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1510 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+		command = { type = sleepevent which = 24964 }
+		command = { type = sleepevent which = 24963 }
+		command = { type = sleepevent which = 24962 }
+		command = { type = sleepevent which = 24961 }
+		command = { type = sleepevent which = 24960 }
+	}
+}
+
+event = { 
+	id = 24960
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1519 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1520 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+		command = { type = sleepevent which = 24964 }
+		command = { type = sleepevent which = 24963 }
+		command = { type = sleepevent which = 24962 }
+		command = { type = sleepevent which = 24961 }
+	}
+}
+
+event = { 
+	id = 24961
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1529 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1530 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+		command = { type = sleepevent which = 24964 }
+		command = { type = sleepevent which = 24963 }
+		command = { type = sleepevent which = 24962 }
+	}
+}
+
+event = { 
+	id = 24962
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1539 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1540 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+		command = { type = sleepevent which = 24964 }
+		command = { type = sleepevent which = 24963 }
+	}
+}
+
+event = { 
+	id = 24963
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1549 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1550 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+		command = { type = sleepevent which = 24964 }
+	}
+}
+
+event = { 
+	id = 24964
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1559 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1560 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+		command = { type = sleepevent which = 24965 }
+	}
+}
+
+event = { 
+	id = 24965
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1569 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1570 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+		command = { type = sleepevent which = 24966 }
+	}
+}
+
+event = { 
+	id = 24966
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1579 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1580 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+		command = { type = sleepevent which = 24967 }
+	}
+}
+
+event = { 
+	id = 24967
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1589 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1590 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+		command = { type = sleepevent which = 24968 }
+	}
+}
+
+event = { 
+	id = 24968
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1599 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1600 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+		command = { type = sleepevent which = 24969 }
+	}
+}
+
+event = { 
+	id = 24969
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1609 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1610 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+		command = { type = sleepevent which = 24970 }
+	}
+}
+
+event = { 
+	id = 24970
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1619 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1620 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+		command = { type = sleepevent which = 24971 }
+	}
+}
+
+event = { 
+	id = 24971
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1629 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1630 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+		command = { type = sleepevent which = 24972 }
+	}
+}
+
+event = { 
+	id = 24972
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1639 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1640 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+		command = { type = sleepevent which = 24973 }
+	}
+}
+
+event = { 
+	id = 24973
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1649 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1650 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+		command = { type = sleepevent which = 24974 }
+	}
+}
+
+event = { 
+	id = 24974
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1659 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1660 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+		command = { type = sleepevent which = 24975 }
+	}
+}
+
+event = { 
+	id = 24975
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1669 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1670 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+		command = { type = sleepevent which = 24976 }
+	}
+}
+
+event = { 
+	id = 24976
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1679 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1680 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+		command = { type = sleepevent which = 24977 }
+	}
+}
+
+event = { 
+	id = 24977
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1689 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1690 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+		command = { type = sleepevent which = 24978 }
+	}
+}
+
+event = { 
+	id = 24978
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1699 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1700 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+		command = { type = sleepevent which = 24979 }
+	}
+}
+
+event = { 
+	id = 24979
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1709 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1710 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+		command = { type = sleepevent which = 24980 }
+	}
+}
+
+event = { 
+	id = 24980
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1719 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1720 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+		command = { type = sleepevent which = 24981 }
+	}
+}
+
+event = { 
+	id = 24981
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1729 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1730 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+		command = { type = sleepevent which = 24982 }
+	}
+}
+
+event = { 
+	id = 24982
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1739 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1740 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+		command = { type = sleepevent which = 24983 }
+	}
+}
+
+event = { 
+	id = 24983
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1749 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1750 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+		command = { type = sleepevent which = 24984 }
+	}
+}
+
+event = { 
+	id = 24984
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1759 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1760 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+		command = { type = sleepevent which = 24985 }
+	}
+}
+
+event = { 
+	id = 24985
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1769 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1770 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+		command = { type = sleepevent which = 24986 }
+	}
+}
+
+event = { 
+	id = 24986
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1779 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1780 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+		command = { type = sleepevent which = 24987 }
+	}
+}
+
+event = { 
+	id = 24987
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1789 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1790 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+		command = { type = sleepevent which = 24988 }
+	}
+}
+
+event = { 
+	id = 24988
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1799 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1800 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+		command = { type = sleepevent which = 24989 }
+	}
+}
+
+event = { 
+	id = 24989
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1809 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1810 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT72B"
+		command = { type = sleepevent which = 24990 }
+	}
+}
+
+event = { 
+	id = 24990
+	name = "EVENTNAME72"
+	desc = "EVENTHIST72"
+	date = { day = 1 month = february year = 1819 }
+	offset = 0
+	deathdate = { day = 1 month = february year = 1820 }
+	action_a = {
+		name = "OK"
+		command = { }
+	}
+}
+

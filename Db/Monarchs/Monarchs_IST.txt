@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 15921 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1430
+	}
+	name = "Lodovico II"
+	DIP = 7
+	ADM = 3
+	MIL = 5
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15922 }
+	startdate = {
+		year = 1430
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1454
+	}
+	name = "Raffaele III"
+	DIP = 2
+	ADM = 2
+	MIL = 7
+	movement = 5
+	fire = 6
+	shock = 5
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 15923 }
+	startdate = {
+		year = 1454
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1479
+	}
+	name = "Lodovico III"
+	DIP = 3
+	ADM = 9
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15924 }
+	startdate = {
+		year = 1479
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1522
+	}
+	name = "Frederigo III"
+	DIP = 6
+	ADM = 3
+	MIL = 9
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15925 }
+	startdate = {
+		year = 1522
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1530
+	}
+	name = "Prospero V"
+	DIP = 5
+	ADM = 3
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15926 }
+	startdate = {
+		year = 1530
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1539
+	}
+	name = "Prospero VI"
+	DIP = 2
+	ADM = 8
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15927 }
+	startdate = {
+		year = 1539
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1573
+	}
+	name = "Giano VI"
+	DIP = 4
+	ADM = 9
+	MIL = 4
+	movement = 6
+	fire = 2
+	shock = 5
+	siege = 4
+}
+historicalmonarch = {
+	id = { type = 6 id = 15928 }
+	startdate = {
+		year = 1573
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1597
+	}
+	name = "Raffaele IV"
+	DIP = 7
+	ADM = 7
+	MIL = 4
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15929 }
+	startdate = {
+		year = 1597
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1640
+	}
+	name = "Raffaele V"
+	DIP = 9
+	ADM = 2
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15930 }
+	startdate = {
+		year = 1640
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1645
+	}
+	name = "Frederigo IV"
+	DIP = 6
+	ADM = 3
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15931 }
+	startdate = {
+		year = 1645
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1684
+	}
+	name = "Frederigo V"
+	DIP = 7
+	ADM = 8
+	MIL = 9
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15932 }
+	startdate = {
+		year = 1684
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1708
+	}
+	name = "Raffaele VI"
+	DIP = 4
+	ADM = 2
+	MIL = 9
+	movement = 4
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15933 }
+	startdate = {
+		year = 1708
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1745
+	}
+	name = "Prospero VII"
+	DIP = 2
+	ADM = 7
+	MIL = 2
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 15934 }
+	startdate = {
+		year = 1745
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1781
+	}
+	name = "Giano VII"
+	DIP = 3
+	ADM = 5
+	MIL = 3
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15935 }
+	startdate = {
+		year = 1781
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1796
+	}
+	name = "Raffaele VII"
+	DIP = 7
+	ADM = 6
+	MIL = 2
+	movement = 2
+	fire = 4
+	shock = 5
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 15936 }
+	startdate = {
+		year = 1796
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1847
+	}
+	name = "Frederigo VI"
+	DIP = 2
+	ADM = 2
+	MIL = 2
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}

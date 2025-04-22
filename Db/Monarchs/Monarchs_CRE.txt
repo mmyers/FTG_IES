@@ -1,0 +1,285 @@
+historicalmonarch = {
+	id = { type = 6 id = 17781 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1425
+	}
+	name = "Mikhail III"
+	DIP = 5
+	ADM = 6
+	MIL = 9
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17782 }
+	startdate = {
+		year = 1425
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1472
+	}
+	name = "Ivan II"
+	DIP = 3
+	ADM = 4
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17783 }
+	startdate = {
+		year = 1472
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1485
+	}
+	name = "Ivan III"
+	DIP = 9
+	ADM = 3
+	MIL = 9
+	movement = 6
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17784 }
+	startdate = {
+		year = 1485
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1502
+	}
+	name = "Mikhail IV"
+	DIP = 3
+	ADM = 7
+	MIL = 3
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17785 }
+	startdate = {
+		year = 1502
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1554
+	}
+	name = "Ivan IV"
+	DIP = 8
+	ADM = 4
+	MIL = 9
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17786 }
+	startdate = {
+		year = 1554
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1589
+	}
+	name = "Mikhail V"
+	DIP = 7
+	ADM = 2
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17787 }
+	startdate = {
+		year = 1589
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1636
+	}
+	name = "Vasily I"
+	DIP = 6
+	ADM = 5
+	MIL = 8
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 17788 }
+	startdate = {
+		year = 1636
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1638
+	}
+	name = "Mikhail VI"
+	DIP = 9
+	ADM = 4
+	MIL = 9
+	movement = 4
+	fire = 5
+	shock = 5
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 17789 }
+	startdate = {
+		year = 1638
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1648
+	}
+	name = "Ivan V"
+	DIP = 8
+	ADM = 7
+	MIL = 2
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17790 }
+	startdate = {
+		year = 1648
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1694
+	}
+	name = "Mikhail VII"
+	DIP = 3
+	ADM = 5
+	MIL = 2
+	movement = 5
+	fire = 3
+	shock = 2
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 17791 }
+	startdate = {
+		year = 1694
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1741
+	}
+	name = "Ivan VI"
+	DIP = 9
+	ADM = 7
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17792 }
+	startdate = {
+		year = 1741
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1787
+	}
+	name = "Vasily II"
+	DIP = 2
+	ADM = 9
+	MIL = 9
+	movement = 4
+	fire = 2
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17793 }
+	startdate = {
+		year = 1787
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1791
+	}
+	name = "Ivan VII"
+	DIP = 8
+	ADM = 9
+	MIL = 3
+	movement = 3
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17794 }
+	startdate = {
+		year = 1791
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1800
+	}
+	name = "Ivan VIII"
+	DIP = 9
+	ADM = 7
+	MIL = 8
+	movement = 5
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17795 }
+	startdate = {
+		year = 1800
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1824
+	}
+	name = "Vasily III"
+	DIP = 6
+	ADM = 9
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

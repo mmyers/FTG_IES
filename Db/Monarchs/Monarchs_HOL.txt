@@ -1,0 +1,247 @@
+historicalmonarch = {
+	id = { type = 6 id = 21241 }
+	startdate = {
+		year = 1419
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1472
+	}
+	name = "Johan VIII"
+	DIP = 3
+	ADM = 5
+	MIL = 9
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21242 }
+	startdate = {
+		year = 1472
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1532
+	}
+	name = "Hendrik VII"
+	DIP = 7
+	ADM = 2
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21243 }
+	startdate = {
+		year = 1532
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1557
+	}
+	name = "Johan IX"
+	DIP = 7
+	ADM = 2
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21244 }
+	startdate = {
+		year = 1557
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1559
+	}
+	name = "Hendrik VIII"
+	DIP = 8
+	ADM = 3
+	MIL = 9
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21245 }
+	startdate = {
+		year = 1559
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1591
+	}
+	name = "Johan X"
+	DIP = 8
+	ADM = 8
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21246 }
+	startdate = {
+		year = 1591
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1632
+	}
+	name = "Johan XI"
+	DIP = 2
+	ADM = 4
+	MIL = 8
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21247 }
+	startdate = {
+		year = 1632
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1646
+	}
+	name = "Karel V"
+	DIP = 2
+	ADM = 4
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21248 }
+	startdate = {
+		year = 1646
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1663
+	}
+	name = "Frederik I"
+	DIP = 3
+	ADM = 9
+	MIL = 2
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21249 }
+	startdate = {
+		year = 1663
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1682
+	}
+	name = "Ernst VI"
+	DIP = 4
+	ADM = 5
+	MIL = 6
+	movement = 5
+	fire = 6
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21250 }
+	startdate = {
+		year = 1682
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1735
+	}
+	name = "Johan XII"
+	DIP = 4
+	ADM = 4
+	MIL = 2
+	movement = 4
+	fire = 5
+	shock = 5
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 21251 }
+	startdate = {
+		year = 1735
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1769
+	}
+	name = "Johan XIII"
+	DIP = 2
+	ADM = 6
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 21252 }
+	startdate = {
+		year = 1769
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1816
+	}
+	name = "Johan XIV"
+	DIP = 5
+	ADM = 2
+	MIL = 9
+	movement = 4
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 21253 }
+	startdate = {
+		year = 1816
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1830
+	}
+	name = "Hendrik IX"
+	DIP = 4
+	ADM = 4
+	MIL = 2
+	movement = 5
+	fire = 3
+	shock = 2
+	siege = 1
+}

@@ -1,0 +1,944 @@
+historicalleader = {
+	id = { type = 6 id = 2190 }
+	category = monarch
+	name = "James I"
+	startdate = {
+		year = 1419
+	}
+	deathdate = {
+		year = 1427
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 2189 }
+	category = monarch
+	name = "Edgar III"
+	startdate = {
+		year = 1495
+	}
+	deathdate = {
+		year = 1505
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 2188 }
+	category = monarch
+	name = "Henry VI"
+	startdate = {
+		year = 1505
+	}
+	deathdate = {
+		year = 1511
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 2187 }
+	category = monarch
+	name = "Charles XI"
+	startdate = {
+		year = 1575
+	}
+	deathdate = {
+		year = 1579
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 2186 }
+	category = monarch
+	name = "James II"
+	startdate = {
+		year = 1585
+	}
+	deathdate = {
+		year = 1613
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 2185 }
+	category = monarch
+	name = "William II"
+	startdate = {
+		year = 1677
+	}
+	deathdate = {
+		year = 1706
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 2184 }
+	category = monarch
+	name = "Charles XII"
+	startdate = {
+		year = 1708
+	}
+	deathdate = {
+		year = 1750
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 2183 }
+	category = monarch
+	name = "Henry VII"
+	startdate = {
+		year = 1774
+	}
+	deathdate = {
+		year = 1776
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 7051 }
+	category = general
+	name = "MacLeod"
+	startdate = {
+		year = 1408
+	}
+	deathdate = {
+		year = 1433
+	}
+	rank = 2
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7052 }
+	category = general
+	name = "MacIntyre"
+	startdate = {
+		year = 1411
+	}
+	deathdate = {
+		year = 1436
+	}
+	rank = 5
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7053 }
+	category = general
+	name = "Drummond"
+	startdate = {
+		year = 1512
+	}
+	deathdate = {
+		year = 1531
+	}
+	rank = 11
+	movement = 2
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7054 }
+	category = general
+	name = "Mackenzie"
+	startdate = {
+		year = 1569
+	}
+	deathdate = {
+		year = 1592
+	}
+	rank = 12
+	movement = 4
+	fire = 5
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7055 }
+	category = conquistador
+	name = "Dundale"
+	startdate = {
+		year = 1521
+	}
+	deathdate = {
+		year = 1543
+	}
+	rank = 3
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7056 }
+	category = conquistador
+	name = "Dundale"
+	startdate = {
+		year = 1587
+	}
+	deathdate = {
+		year = 1610
+	}
+	rank = 3
+	movement = 5
+	fire = 6
+	shock = 6
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7057 }
+	category = general
+	name = "Arran"
+	startdate = {
+		year = 1433
+	}
+	deathdate = {
+		year = 1456
+	}
+	rank = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7058 }
+	category = general
+	name = "Drummond"
+	startdate = {
+		year = 1437
+	}
+	deathdate = {
+		year = 1462
+	}
+	rank = 3
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7059 }
+	category = general
+	name = "Drummond"
+	startdate = {
+		year = 1445
+	}
+	deathdate = {
+		year = 1464
+	}
+	rank = 6
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7060 }
+	category = general
+	name = "MacGill"
+	startdate = {
+		year = 1460
+	}
+	deathdate = {
+		year = 1480
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7061 }
+	category = general
+	name = "MacLeod"
+	startdate = {
+		year = 1475
+	}
+	deathdate = {
+		year = 1491
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7062 }
+	category = general
+	name = "Arran"
+	startdate = {
+		year = 1475
+	}
+	deathdate = {
+		year = 1494
+	}
+	rank = 3
+	movement = 4
+	fire = 2
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 7063 }
+	category = general
+	name = "MacLeod"
+	startdate = {
+		year = 1485
+	}
+	deathdate = {
+		year = 1507
+	}
+	rank = 0
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7064 }
+	category = general
+	name = "Inverness"
+	startdate = {
+		year = 1500
+	}
+	deathdate = {
+		year = 1523
+	}
+	rank = 5
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 7065 }
+	category = general
+	name = "MacDonald"
+	startdate = {
+		year = 1509
+	}
+	deathdate = {
+		year = 1529
+	}
+	rank = 5
+	movement = 3
+	fire = 3
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7066 }
+	category = general
+	name = "Drummond"
+	startdate = {
+		year = 1517
+	}
+	deathdate = {
+		year = 1537
+	}
+	rank = 0
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7067 }
+	category = general
+	name = "Arran"
+	startdate = {
+		year = 1524
+	}
+	deathdate = {
+		year = 1549
+	}
+	rank = 4
+	movement = 4
+	fire = 2
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7068 }
+	category = general
+	name = "MacDonald"
+	startdate = {
+		year = 1541
+	}
+	deathdate = {
+		year = 1557
+	}
+	rank = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 7069 }
+	category = general
+	name = "Campbell"
+	startdate = {
+		year = 1553
+	}
+	deathdate = {
+		year = 1575
+	}
+	rank = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 7070 }
+	category = general
+	name = "Douglas"
+	startdate = {
+		year = 1563
+	}
+	deathdate = {
+		year = 1579
+	}
+	rank = 1
+	movement = 4
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 7071 }
+	category = general
+	name = "MacLeod"
+	startdate = {
+		year = 1568
+	}
+	deathdate = {
+		year = 1584
+	}
+	rank = 2
+	movement = 3
+	fire = 2
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7072 }
+	category = general
+	name = "Mackenzie"
+	startdate = {
+		year = 1582
+	}
+	deathdate = {
+		year = 1605
+	}
+	rank = 2
+	movement = 5
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 7073 }
+	category = general
+	name = "MacTavish"
+	startdate = {
+		year = 1593
+	}
+	deathdate = {
+		year = 1618
+	}
+	rank = 1
+	movement = 5
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 7074 }
+	category = conquistador
+	name = "MacDonald"
+	startdate = {
+		year = 1604
+	}
+	deathdate = {
+		year = 1621
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7075 }
+	category = conquistador
+	name = "MacTavish"
+	startdate = {
+		year = 1610
+	}
+	deathdate = {
+		year = 1626
+	}
+	rank = 11
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7076 }
+	category = general
+	name = "MacIntyre"
+	startdate = {
+		year = 1623
+	}
+	deathdate = {
+		year = 1645
+	}
+	rank = 2
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 7077 }
+	category = general
+	name = "MacDonald"
+	startdate = {
+		year = 1625
+	}
+	deathdate = {
+		year = 1648
+	}
+	rank = 0
+	movement = 4
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7078 }
+	category = general
+	name = "MacDonald"
+	startdate = {
+		year = 1642
+	}
+	deathdate = {
+		year = 1661
+	}
+	rank = 1
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 7079 }
+	category = general
+	name = "MacIntyre"
+	startdate = {
+		year = 1648
+	}
+	deathdate = {
+		year = 1666
+	}
+	rank = 0
+	movement = 5
+	fire = 6
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 7080 }
+	category = general
+	name = "MacGill"
+	startdate = {
+		year = 1665
+	}
+	deathdate = {
+		year = 1682
+	}
+	rank = 2
+	movement = 4
+	fire = 6
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 7081 }
+	category = general
+	name = "Inverness"
+	startdate = {
+		year = 1668
+	}
+	deathdate = {
+		year = 1684
+	}
+	rank = 0
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7082 }
+	category = general
+	name = "Douglas"
+	startdate = {
+		year = 1672
+	}
+	deathdate = {
+		year = 1697
+	}
+	rank = 3
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7083 }
+	category = general
+	name = "Mackenzie"
+	startdate = {
+		year = 1693
+	}
+	deathdate = {
+		year = 1710
+	}
+	rank = 6
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 7084 }
+	category = general
+	name = "MacIntyre"
+	startdate = {
+		year = 1696
+	}
+	deathdate = {
+		year = 1721
+	}
+	rank = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7085 }
+	category = general
+	name = "Dundale"
+	startdate = {
+		year = 1711
+	}
+	deathdate = {
+		year = 1734
+	}
+	rank = 0
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 7086 }
+	category = general
+	name = "MacDonald"
+	startdate = {
+		year = 1718
+	}
+	deathdate = {
+		year = 1739
+	}
+	rank = 5
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7087 }
+	category = general
+	name = "Campbell"
+	startdate = {
+		year = 1731
+	}
+	deathdate = {
+		year = 1749
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7088 }
+	category = general
+	name = "Douglas"
+	startdate = {
+		year = 1737
+	}
+	deathdate = {
+		year = 1756
+	}
+	rank = 0
+	movement = 3
+	fire = 4
+	shock = 6
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7089 }
+	category = general
+	name = "Campbell"
+	startdate = {
+		year = 1749
+	}
+	deathdate = {
+		year = 1768
+	}
+	rank = 1
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7090 }
+	category = general
+	name = "Arran"
+	startdate = {
+		year = 1754
+	}
+	deathdate = {
+		year = 1778
+	}
+	rank = 4
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 7091 }
+	category = general
+	name = "MacLeod"
+	startdate = {
+		year = 1772
+	}
+	deathdate = {
+		year = 1796
+	}
+	rank = 1
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 7092 }
+	category = general
+	name = "Inverness"
+	startdate = {
+		year = 1778
+	}
+	deathdate = {
+		year = 1797
+	}
+	rank = 1
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7093 }
+	category = general
+	name = "Inverness"
+	startdate = {
+		year = 1662
+	}
+	deathdate = {
+		year = 1685
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7094 }
+	category = general
+	name = "Arran"
+	startdate = {
+		year = 1691
+	}
+	deathdate = {
+		year = 1709
+	}
+	rank = 4
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 7095 }
+	category = general
+	name = "MacTavish"
+	startdate = {
+		year = 1717
+	}
+	deathdate = {
+		year = 1739
+	}
+	rank = 2
+	movement = 2
+	fire = 6
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 7096 }
+	category = general
+	name = "Mackenzie"
+	startdate = {
+		year = 1745
+	}
+	deathdate = {
+		year = 1762
+	}
+	rank = 2
+	movement = 3
+	fire = 5
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7097 }
+	category = general
+	name = "Arran"
+	startdate = {
+		year = 1765
+	}
+	deathdate = {
+		year = 1781
+	}
+	rank = 0
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7098 }
+	category = general
+	name = "Campbell"
+	startdate = {
+		year = 1669
+	}
+	deathdate = {
+		year = 1692
+	}
+	rank = 6
+	movement = 4
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7099 }
+	category = general
+	name = "MacLeod"
+	startdate = {
+		year = 1693
+	}
+	deathdate = {
+		year = 1714
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 7050 }
+	category = general
+	name = "MacDonald"
+	startdate = {
+		year = 1715
+	}
+	deathdate = {
+		year = 1736
+	}
+	rank = 0
+	movement = 6
+	fire = 5
+	shock = 4
+	siege = 0
+}

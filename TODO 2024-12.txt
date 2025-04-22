@@ -1,0 +1,12 @@
+# MichaelM TODO before IES is ready for FTG 1.3
+
+- Missing gfx for some countries
+  + could be remedied in countries.txt to point to any existing (unused) gfx
+- Missing/wrong names for cultures
+  + could be remedied by search/replace in Scenarios/Nations Base.inc coupled with new cultures in cultures.txt, using Config/text.csv as a guide for what cultures represent what.
+  = ok for now - put localization from text.csv into localisation/cultures.csv and set culture graphics in cultures.txt to MIN or MUS as needed
+- Missing/wrong religious flags and religion localization
+  = used vanilla localisation/religions.csv with minor modifications
+- Very slow loading
+  + probably Options_knowneurope.inc
+    + could use knownprovinces = { europe } to speed loading time, but what provinces outside Europe might be needed?

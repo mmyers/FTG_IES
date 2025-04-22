@@ -1,0 +1,266 @@
+historicalmonarch = {
+	id = { type = 6 id = 17561 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1443
+	}
+	name = "Petru I"
+	DIP = 7
+	ADM = 2
+	MIL = 5
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 17562 }
+	startdate = {
+		year = 1443
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1482
+	}
+	name = "Ilias VII"
+	DIP = 3
+	ADM = 6
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17563 }
+	startdate = {
+		year = 1482
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1526
+	}
+	name = "Eustratie IX"
+	DIP = 6
+	ADM = 2
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17564 }
+	startdate = {
+		year = 1526
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1535
+	}
+	name = "Ilias VIII"
+	DIP = 7
+	ADM = 8
+	MIL = 2
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17565 }
+	startdate = {
+		year = 1535
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1572
+	}
+	name = "Dan V"
+	DIP = 7
+	ADM = 9
+	MIL = 2
+	movement = 4
+	fire = 2
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17566 }
+	startdate = {
+		year = 1572
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1579
+	}
+	name = "Mircea Bacau"
+	DIP = 2
+	ADM = 9
+	MIL = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17567 }
+	startdate = {
+		year = 1579
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1588
+	}
+	name = "Petru II"
+	DIP = 3
+	ADM = 8
+	MIL = 6
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17568 }
+	startdate = {
+		year = 1588
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1623
+	}
+	name = "Ilias IX"
+	DIP = 2
+	ADM = 5
+	MIL = 4
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17569 }
+	startdate = {
+		year = 1623
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1644
+	}
+	name = "Eustratie X"
+	DIP = 6
+	ADM = 6
+	MIL = 9
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 17570 }
+	startdate = {
+		year = 1644
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1696
+	}
+	name = "Dan VI"
+	DIP = 5
+	ADM = 2
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17571 }
+	startdate = {
+		year = 1696
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1747
+	}
+	name = "Eustratie XI"
+	DIP = 9
+	ADM = 5
+	MIL = 2
+	movement = 5
+	fire = 6
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17572 }
+	startdate = {
+		year = 1747
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1767
+	}
+	name = "Petru III"
+	DIP = 2
+	ADM = 2
+	MIL = 6
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17573 }
+	startdate = {
+		year = 1767
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1799
+	}
+	name = "Ilias X"
+	DIP = 2
+	ADM = 3
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17574 }
+	startdate = {
+		year = 1799
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1829
+	}
+	name = "Petru IV"
+	DIP = 3
+	ADM = 3
+	MIL = 6
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 1
+}

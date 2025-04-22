@@ -1,0 +1,266 @@
+historicalmonarch = {
+	id = { type = 6 id = 18761 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1421
+	}
+	name = "Akseyh II"
+	DIP = 8
+	ADM = 3
+	MIL = 6
+	movement = 3
+	fire = 6
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18762 }
+	startdate = {
+		year = 1421
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1438
+	}
+	name = "Akseyh III"
+	DIP = 8
+	ADM = 4
+	MIL = 9
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18763 }
+	startdate = {
+		year = 1438
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1446
+	}
+	name = "Aktaci I"
+	DIP = 4
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18764 }
+	startdate = {
+		year = 1446
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1477
+	}
+	name = "Kocukeli I"
+	DIP = 8
+	ADM = 7
+	MIL = 6
+	movement = 4
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18765 }
+	startdate = {
+		year = 1477
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1525
+	}
+	name = "Dorte II"
+	DIP = 3
+	ADM = 9
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18766 }
+	startdate = {
+		year = 1525
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1567
+	}
+	name = "Aktaci II"
+	DIP = 7
+	ADM = 5
+	MIL = 8
+	movement = 6
+	fire = 4
+	shock = 5
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 18767 }
+	startdate = {
+		year = 1567
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1598
+	}
+	name = "Aktaci III"
+	DIP = 6
+	ADM = 2
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18768 }
+	startdate = {
+		year = 1598
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1635
+	}
+	name = "Çuça"
+	DIP = 2
+	ADM = 4
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18769 }
+	startdate = {
+		year = 1635
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1665
+	}
+	name = "Alma V"
+	DIP = 2
+	ADM = 2
+	MIL = 2
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18770 }
+	startdate = {
+		year = 1665
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1699
+	}
+	name = "Alma VI"
+	DIP = 6
+	ADM = 4
+	MIL = 2
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 18771 }
+	startdate = {
+		year = 1699
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1745
+	}
+	name = "Alma VII"
+	DIP = 9
+	ADM = 2
+	MIL = 6
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18772 }
+	startdate = {
+		year = 1745
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1766
+	}
+	name = "Alma VIII"
+	DIP = 5
+	ADM = 6
+	MIL = 5
+	movement = 6
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18773 }
+	startdate = {
+		year = 1766
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1817
+	}
+	name = "Kamisli V"
+	DIP = 8
+	ADM = 2
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18774 }
+	startdate = {
+		year = 1817
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1832
+	}
+	name = "Kamisli VI"
+	DIP = 2
+	ADM = 5
+	MIL = 3
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}

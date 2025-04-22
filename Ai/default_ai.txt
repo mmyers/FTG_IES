@@ -1,0 +1,78 @@
+# preferred areas for expansion
+continent = { africa asia europe }
+
+# % of the time we prefer to establish a tradingpost if both are good.
+tradingpost = 80
+
+# The amount of provinces we try to colonize at the same time
+expansion = 10
+
+# Bonus for areas to establish colonies adjacent to previous ones.
+neighbour = 50
+
+# Bonus/Penalty for establish colonies adjacent to other countries.
+enemies = 0
+
+# 100 = max trader rate, lesser means slower focus on sending a trader.
+traders = 100
+
+# 100 = Total monopolist, will refuse trade as much as possible.
+monopoly = 50
+
+# 100 = Total warmonger, 0 = absolute pacifist
+war = 100
+
+# yes = Nation fights to the death, no = Nation will try to get out of wars
+ferocity = No
+
+combat = {
+ ADE AFG AKK ALB ALD ALE ALI ALM ALT AMG AMI ANH ANJ ANN APA APU AQU ARA ARG ARK ARM ART ASH ASS AST ASU ATH ATJ AUV AYU
+ AYY AZT BAD BAE BAL BAN BAS BAY BEA BEI BEN BGL BOH BOS BOU BRA BRE BRI BRZ BUK BUL BUR BYZ CAL CAM CAN CAT CHA CHE CHG
+ CHI CHM CMG CNW COI COL CON COR CRD CRE CRG CRI CRO CUM CYP CYR DAH DAI DAK DAM DAN DAU DEL DLH DUL EDE EGY EIR ENG ETH
+ FAT FEZ FLA FPR FRC FRI FUC GEL GEN GEO GOT GRA GRE GUJ HAI HAM HAN HAU HEI HEL HES HLL HSA HUR HYD ICE INC IRA IST JAI
+ JER JUT KAR KAZ KHM KIE KLE KOL KON KOR KRE KRN KSH KUR KUS KZK LAN LAP LAT LEI LEO LGD LIT LIV LOR LOU LUA LUX MAA MAG
+ MAH MAI MAL MAN MCH MEA MEC MES MEX MIN MKS MLC MLL MLO MLW MOG MOL MOR MOS MSK MST MTR MUN MYA MYS NAF NAP NAV NIP NOG
+ NOR NRM NVG OHI OLD OMA ORI ORL PAM PAR PEG PER PET PEU PFA PIC PIS POD POI POK POL POM PRM PRO PRT PRU PSK PUR QAR QUE
+ RAG ROM ROY RUS RYA SAC SAR SAV SCO SEI SEL SER SEV SHA SHL SIB SIC SIE SIL SKA SLO SLZ SMO SON SPR STR STT SUD SUZ SWA
+ SWE TAN TAU TEK THE THU TIB TIM TOS TOU TOX TRE TRI TUN TVE TYR U01 U02 U03 U07 U08 U10 U11 U12 U15 U25 U26 U29 U30 U31
+ U32 U33 U33 U34 U35 U36 U37 U38 U39 UKR ULS USA UZB WAL VEN VER VIE VIJ WLS VOL WUR XHO YOR ZAN ZAP ZEE ZIM ZUL }
+
+#if possible we WILL go counter reform
+sreligion = yes
+
+#How important is it to gather troops close to base
+base = 2.0
+#How important is it to be as close to target position when gathering troops.
+front = 14.0
+
+#Evaluation factors for conquer plans 
+conquer = 
+{
+	# multiply enemy province value
+	enemy = 1.0
+	# multiplying supply factor
+	supply = 2.0
+	# factor for distance to not owner provinces
+	distance = 2.0
+	# factor for owned provines
+	owner = 4.0
+	# Multiplier for provinces not in supply.
+	notsupply = 2.0
+	# Multiplying the base constant for conquer.
+	base = 10.0
+}
+
+# Modifiers for garrison plans 
+garrison = 
+{
+	# low values keep troops stationed in low or no fortress provinces, high values keep troops near the largest fortress you have
+	fortress = 4.0
+	# low values don't acknowledge the strategic value of a province in deciding where to garrison, high values do
+	strategic = 2.0
+	# low values don't care if a province is big or small, high values do
+	size = 1.0
+	# low values don't care if a province has a good supply amount, high values do
+	supply = 5.0
+	# low values don't care if a province is occupied by you, high values do
+	war = 5.0
+}

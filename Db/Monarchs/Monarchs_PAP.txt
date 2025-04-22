@@ -1,0 +1,64 @@
+historicalmonarch = {
+	id = { type = 6 id = 1377 }
+	startdate = {
+		year = 1418
+	}
+	deathdate = {
+		year = 1420
+		month = january
+		day = 1
+	}
+	name = "Kaigon"
+	DIP = 9
+	ADM = 9
+	MIL = 9
+}
+historicalmonarch = {
+	id = { type = 6 id = 1378 }
+	startdate = {
+		year = 1420
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1520
+		month = january
+		day = 1
+	}
+	name = "Incompetent I"
+	DIP = 1
+	ADM = 1
+	MIL = 9
+}
+historicalmonarch = {
+	id = { type = 6 id = 1379 }
+	startdate = {
+		year = 1520
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1620
+		month = january
+		day = 1
+	}
+	name = "Incompetent II"
+	DIP = 1
+	ADM = 1
+	MIL = 9
+}
+historicalmonarch = {
+	id = { type = 6 id = 1380 }
+	startdate = {
+		year = 1620
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1820
+	}
+	name = "Incompetent III"
+	DIP = 1
+	ADM = 1
+	MIL = 9
+}

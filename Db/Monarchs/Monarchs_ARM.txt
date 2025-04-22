@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 18601 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1420
+	}
+	name = "Irakli I"
+	DIP = 3
+	ADM = 4
+	MIL = 2
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18602 }
+	startdate = {
+		year = 1420
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1425
+	}
+	name = "Bagrat II"
+	DIP = 3
+	ADM = 4
+	MIL = 7
+	movement = 4
+	fire = 3
+	shock = 5
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 18603 }
+	startdate = {
+		year = 1425
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1455
+	}
+	name = "Irakli II"
+	DIP = 9
+	ADM = 9
+	MIL = 3
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18604 }
+	startdate = {
+		year = 1455
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1503
+	}
+	name = "Simon III"
+	DIP = 2
+	ADM = 9
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18605 }
+	startdate = {
+		year = 1503
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1524
+	}
+	name = "Alexander VI"
+	DIP = 3
+	ADM = 7
+	MIL = 4
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18606 }
+	startdate = {
+		year = 1524
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1540
+	}
+	name = "Irakli III"
+	DIP = 4
+	ADM = 4
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18607 }
+	startdate = {
+		year = 1540
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1576
+	}
+	name = "Bagrat III"
+	DIP = 4
+	ADM = 5
+	MIL = 7
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18608 }
+	startdate = {
+		year = 1576
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1612
+	}
+	name = "Alexander VII"
+	DIP = 9
+	ADM = 7
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18609 }
+	startdate = {
+		year = 1612
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1615
+	}
+	name = "Bagrat IV"
+	DIP = 8
+	ADM = 9
+	MIL = 8
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18610 }
+	startdate = {
+		year = 1615
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1660
+	}
+	name = "Alexander VIII"
+	DIP = 3
+	ADM = 9
+	MIL = 4
+	movement = 2
+	fire = 2
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18611 }
+	startdate = {
+		year = 1660
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1689
+	}
+	name = "Simon IV"
+	DIP = 7
+	ADM = 9
+	MIL = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18612 }
+	startdate = {
+		year = 1689
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1713
+	}
+	name = "Bagrat V"
+	DIP = 5
+	ADM = 8
+	MIL = 6
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18613 }
+	startdate = {
+		year = 1713
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1760
+	}
+	name = "Alexander IX"
+	DIP = 6
+	ADM = 5
+	MIL = 7
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18614 }
+	startdate = {
+		year = 1760
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1787
+	}
+	name = "Bagrat VI"
+	DIP = 2
+	ADM = 2
+	MIL = 6
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 18615 }
+	startdate = {
+		year = 1787
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1803
+	}
+	name = "Irakli IV"
+	DIP = 2
+	ADM = 5
+	MIL = 4
+	movement = 5
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 18616 }
+	startdate = {
+		year = 1803
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1857
+	}
+	name = "Bagrat VII"
+	DIP = 2
+	ADM = 4
+	MIL = 5
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 1
+}

@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 19181 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1427
+	}
+	name = "Leden VI"
+	DIP = 5
+	ADM = 8
+	MIL = 2
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19182 }
+	startdate = {
+		year = 1427
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1443
+	}
+	name = "Leden VII"
+	DIP = 8
+	ADM = 5
+	MIL = 5
+	movement = 5
+	fire = 5
+	shock = 6
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19183 }
+	startdate = {
+		year = 1443
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1470
+	}
+	name = "Adolf II"
+	DIP = 5
+	ADM = 3
+	MIL = 6
+	movement = 2
+	fire = 2
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19184 }
+	startdate = {
+		year = 1470
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1484
+	}
+	name = "Leden VIII"
+	DIP = 3
+	ADM = 9
+	MIL = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 19185 }
+	startdate = {
+		year = 1484
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1520
+	}
+	name = "Willem X"
+	DIP = 5
+	ADM = 3
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19186 }
+	startdate = {
+		year = 1520
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1542
+	}
+	name = "Willem XI"
+	DIP = 2
+	ADM = 3
+	MIL = 3
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19187 }
+	startdate = {
+		year = 1542
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1587
+	}
+	name = "Leden IX"
+	DIP = 5
+	ADM = 7
+	MIL = 5
+	movement = 3
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19188 }
+	startdate = {
+		year = 1587
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1636
+	}
+	name = "Johan Texel"
+	DIP = 4
+	ADM = 8
+	MIL = 4
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19189 }
+	startdate = {
+		year = 1636
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1651
+	}
+	name = "Arnold VII"
+	DIP = 6
+	ADM = 6
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19190 }
+	startdate = {
+		year = 1651
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1702
+	}
+	name = "Adolf III"
+	DIP = 9
+	ADM = 2
+	MIL = 7
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 19191 }
+	startdate = {
+		year = 1702
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1733
+	}
+	name = "Hendrik"
+	DIP = 5
+	ADM = 8
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19192 }
+	startdate = {
+		year = 1733
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1760
+	}
+	name = "Leden X"
+	DIP = 8
+	ADM = 5
+	MIL = 9
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19193 }
+	startdate = {
+		year = 1760
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1766
+	}
+	name = "Adolf IV"
+	DIP = 8
+	ADM = 5
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19194 }
+	startdate = {
+		year = 1766
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1804
+	}
+	name = "Willem XII"
+	DIP = 2
+	ADM = 4
+	MIL = 8
+	movement = 4
+	fire = 3
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 19195 }
+	startdate = {
+		year = 1804
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1819
+	}
+	name = "Reinald Fliesingen"
+	DIP = 2
+	ADM = 2
+	MIL = 2
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19196 }
+	startdate = {
+		year = 1819
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1821
+	}
+	name = "Karel de Witt"
+	DIP = 9
+	ADM = 3
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

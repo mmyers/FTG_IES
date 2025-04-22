@@ -1,0 +1,304 @@
+historicalmonarch = {
+	id = { type = 6 id = 17601 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1434
+	}
+	name = "Aleksandr VII"
+	DIP = 3
+	ADM = 7
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17602 }
+	startdate = {
+		year = 1434
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1453
+	}
+	name = "Aleksey II"
+	DIP = 8
+	ADM = 9
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17603 }
+	startdate = {
+		year = 1453
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1481
+	}
+	name = "Aleksandr VIII"
+	DIP = 5
+	ADM = 3
+	MIL = 8
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17604 }
+	startdate = {
+		year = 1481
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1533
+	}
+	name = "Aleksandr IX"
+	DIP = 3
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17605 }
+	startdate = {
+		year = 1533
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1571
+	}
+	name = "Aleksandr X"
+	DIP = 2
+	ADM = 9
+	MIL = 8
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 17606 }
+	startdate = {
+		year = 1571
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1578
+	}
+	name = "Aleksey III"
+	DIP = 5
+	ADM = 3
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17607 }
+	startdate = {
+		year = 1578
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1583
+	}
+	name = "Aleksandr XI"
+	DIP = 7
+	ADM = 5
+	MIL = 8
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17608 }
+	startdate = {
+		year = 1583
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1608
+	}
+	name = "Aleksandr XII"
+	DIP = 8
+	ADM = 5
+	MIL = 2
+	movement = 4
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17609 }
+	startdate = {
+		year = 1608
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1652
+	}
+	name = "Aleksandr XIII"
+	DIP = 8
+	ADM = 2
+	MIL = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17610 }
+	startdate = {
+		year = 1652
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1688
+	}
+	name = "Aleksandr XIV"
+	DIP = 8
+	ADM = 2
+	MIL = 3
+	movement = 5
+	fire = 5
+	shock = 3
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 17611 }
+	startdate = {
+		year = 1688
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1720
+	}
+	name = "Aleksandr XV"
+	DIP = 8
+	ADM = 9
+	MIL = 2
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17612 }
+	startdate = {
+		year = 1720
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1732
+	}
+	name = "Aleksandr XVI"
+	DIP = 5
+	ADM = 5
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17613 }
+	startdate = {
+		year = 1732
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1741
+	}
+	name = "Aleksey IV"
+	DIP = 5
+	ADM = 4
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17614 }
+	startdate = {
+		year = 1741
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1766
+	}
+	name = "Aleksandr XVII"
+	DIP = 5
+	ADM = 9
+	MIL = 2
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 17615 }
+	startdate = {
+		year = 1766
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1795
+	}
+	name = "Aleksey V"
+	DIP = 9
+	ADM = 4
+	MIL = 6
+	movement = 5
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 17616 }
+	startdate = {
+		year = 1795
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1825
+	}
+	name = "Aleksandr XVIII"
+	DIP = 2
+	ADM = 8
+	MIL = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}

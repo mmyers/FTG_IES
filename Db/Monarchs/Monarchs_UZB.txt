@@ -1,0 +1,342 @@
+historicalmonarch = {
+	id = { type = 6 id = 19521 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1421
+	}
+	name = "Karol VI"
+	DIP = 2
+	ADM = 2
+	MIL = 4
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19522 }
+	startdate = {
+		year = 1421
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1458
+	}
+	name = "Ludwike I"
+	DIP = 4
+	ADM = 9
+	MIL = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 19523 }
+	startdate = {
+		year = 1458
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1465
+	}
+	name = "Karol VII"
+	DIP = 8
+	ADM = 7
+	MIL = 6
+	movement = 5
+	fire = 5
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19524 }
+	startdate = {
+		year = 1465
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1489
+	}
+	name = "Kestutaitis XI"
+	DIP = 5
+	ADM = 4
+	MIL = 7
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19525 }
+	startdate = {
+		year = 1489
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1530
+	}
+	name = "Ludwike II"
+	DIP = 6
+	ADM = 4
+	MIL = 6
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19526 }
+	startdate = {
+		year = 1530
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1574
+	}
+	name = "Kestutaitis XII"
+	DIP = 2
+	ADM = 7
+	MIL = 4
+	movement = 4
+	fire = 5
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19527 }
+	startdate = {
+		year = 1574
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1608
+	}
+	name = "Karol VIII"
+	DIP = 3
+	ADM = 6
+	MIL = 6
+	movement = 4
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19528 }
+	startdate = {
+		year = 1608
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1654
+	}
+	name = "Karol IX"
+	DIP = 9
+	ADM = 6
+	MIL = 7
+	movement = 5
+	fire = 6
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19529 }
+	startdate = {
+		year = 1654
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1696
+	}
+	name = "Andrei VIII"
+	DIP = 2
+	ADM = 3
+	MIL = 6
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19530 }
+	startdate = {
+		year = 1696
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1719
+	}
+	name = "Kestutaitis XIII"
+	DIP = 3
+	ADM = 2
+	MIL = 6
+	movement = 6
+	fire = 5
+	shock = 6
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 19531 }
+	startdate = {
+		year = 1719
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1723
+	}
+	name = "Karol X"
+	DIP = 8
+	ADM = 4
+	MIL = 5
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19532 }
+	startdate = {
+		year = 1723
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1731
+	}
+	name = "Kestutaitis XIV"
+	DIP = 6
+	ADM = 9
+	MIL = 2
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19533 }
+	startdate = {
+		year = 1731
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1741
+	}
+	name = "Kestutaitis XV"
+	DIP = 8
+	ADM = 7
+	MIL = 9
+	movement = 5
+	fire = 4
+	shock = 3
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 19534 }
+	startdate = {
+		year = 1741
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1760
+	}
+	name = "Andrei IX"
+	DIP = 2
+	ADM = 6
+	MIL = 5
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 19535 }
+	startdate = {
+		year = 1760
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1764
+	}
+	name = "Andrei X"
+	DIP = 6
+	ADM = 8
+	MIL = 4
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 19536 }
+	startdate = {
+		year = 1764
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1816
+	}
+	name = "Karol XI"
+	DIP = 2
+	ADM = 3
+	MIL = 2
+	movement = 6
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19537 }
+	startdate = {
+		year = 1816
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1819
+	}
+	name = "Kestutaitis XVI"
+	DIP = 7
+	ADM = 7
+	MIL = 2
+	movement = 2
+	fire = 6
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 19538 }
+	startdate = {
+		year = 1819
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1860
+	}
+	name = "Karol XII"
+	DIP = 2
+	ADM = 2
+	MIL = 9
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 1
+}

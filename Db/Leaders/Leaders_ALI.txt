@@ -1,0 +1,944 @@
+historicalleader = {
+	id = { type = 6 id = 1197 }
+	category = monarch
+	name = "Uzunca"
+	startdate = {
+		year = 1437
+	}
+	deathdate = {
+		year = 1472
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 5
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 1198 }
+	category = monarch
+	name = "Tavdair I"
+	startdate = {
+		year = 1483
+	}
+	deathdate = {
+		year = 1519
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 6
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 1199 }
+	category = monarch
+	name = "Burçi IV"
+	startdate = {
+		year = 1527
+	}
+	deathdate = {
+		year = 1553
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 1200 }
+	category = monarch
+	name = "Tavdair II"
+	startdate = {
+		year = 1578
+	}
+	deathdate = {
+		year = 1608
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 1201 }
+	category = monarch
+	name = "Menlerçik II"
+	startdate = {
+		year = 1608
+	}
+	deathdate = {
+		year = 1612
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 5
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 1202 }
+	category = monarch
+	name = "Tavdair III"
+	startdate = {
+		year = 1618
+	}
+	deathdate = {
+		year = 1637
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 1203 }
+	category = monarch
+	name = "Menlerçik IV"
+	startdate = {
+		year = 1675
+	}
+	deathdate = {
+		year = 1698
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 1204 }
+	category = monarch
+	name = "Nogayçi-Ahmat VI"
+	startdate = {
+		year = 1787
+	}
+	deathdate = {
+		year = 1793
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12151 }
+	category = general
+	name = "Akkoca"
+	startdate = {
+		year = 1417
+	}
+	deathdate = {
+		year = 1433
+	}
+	rank = 4
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 12152 }
+	category = general
+	name = "Terekli-Abas"
+	startdate = {
+		year = 1415
+	}
+	deathdate = {
+		year = 1436
+	}
+	rank = 0
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12153 }
+	category = general
+	name = "Kizil Karpe"
+	startdate = {
+		year = 1513
+	}
+	deathdate = {
+		year = 1533
+	}
+	rank = 9
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12154 }
+	category = general
+	name = "Fotisala"
+	startdate = {
+		year = 1571
+	}
+	deathdate = {
+		year = 1590
+	}
+	rank = 4
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12155 }
+	category = conquistador
+	name = "Demerci"
+	startdate = {
+		year = 1521
+	}
+	deathdate = {
+		year = 1541
+	}
+	rank = 10
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12156 }
+	category = conquistador
+	name = "Golümbey"
+	startdate = {
+		year = 1587
+	}
+	deathdate = {
+		year = 1608
+	}
+	rank = 11
+	movement = 5
+	fire = 6
+	shock = 6
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12157 }
+	category = general
+	name = "Bulatçi"
+	startdate = {
+		year = 1431
+	}
+	deathdate = {
+		year = 1447
+	}
+	rank = 2
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12158 }
+	category = general
+	name = "Caga Kusum"
+	startdate = {
+		year = 1439
+	}
+	deathdate = {
+		year = 1460
+	}
+	rank = 4
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12159 }
+	category = general
+	name = "Belbek"
+	startdate = {
+		year = 1450
+	}
+	deathdate = {
+		year = 1467
+	}
+	rank = 1
+	movement = 5
+	fire = 4
+	shock = 5
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 12160 }
+	category = general
+	name = "Alat"
+	startdate = {
+		year = 1460
+	}
+	deathdate = {
+		year = 1479
+	}
+	rank = 2
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12161 }
+	category = general
+	name = "Patihatka"
+	startdate = {
+		year = 1469
+	}
+	deathdate = {
+		year = 1492
+	}
+	rank = 4
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12162 }
+	category = general
+	name = "Eski Kirim"
+	startdate = {
+		year = 1478
+	}
+	deathdate = {
+		year = 1498
+	}
+	rank = 4
+	movement = 4
+	fire = 4
+	shock = 6
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 12163 }
+	category = general
+	name = "Mamasay"
+	startdate = {
+		year = 1491
+	}
+	deathdate = {
+		year = 1510
+	}
+	rank = 4
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12164 }
+	category = general
+	name = "Eskenderi"
+	startdate = {
+		year = 1504
+	}
+	deathdate = {
+		year = 1520
+	}
+	rank = 3
+	movement = 4
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 12165 }
+	category = general
+	name = "Cemrek"
+	startdate = {
+		year = 1507
+	}
+	deathdate = {
+		year = 1524
+	}
+	rank = 1
+	movement = 3
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 12166 }
+	category = general
+	name = "Cangara-Kemeltsi"
+	startdate = {
+		year = 1517
+	}
+	deathdate = {
+		year = 1534
+	}
+	rank = 0
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12167 }
+	category = general
+	name = "Bogay"
+	startdate = {
+		year = 1534
+	}
+	deathdate = {
+		year = 1552
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 4
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 12168 }
+	category = general
+	name = "Bosalak"
+	startdate = {
+		year = 1540
+	}
+	deathdate = {
+		year = 1565
+	}
+	rank = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 12169 }
+	category = general
+	name = "Kerleut"
+	startdate = {
+		year = 1547
+	}
+	deathdate = {
+		year = 1566
+	}
+	rank = 3
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12170 }
+	category = general
+	name = "Yapunca"
+	startdate = {
+		year = 1555
+	}
+	deathdate = {
+		year = 1576
+	}
+	rank = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12171 }
+	category = general
+	name = "Kuruuzen"
+	startdate = {
+		year = 1571
+	}
+	deathdate = {
+		year = 1591
+	}
+	rank = 4
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12172 }
+	category = general
+	name = "Kizil Çongar"
+	startdate = {
+		year = 1580
+	}
+	deathdate = {
+		year = 1600
+	}
+	rank = 2
+	movement = 4
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12173 }
+	category = general
+	name = "Abakli Tama"
+	startdate = {
+		year = 1590
+	}
+	deathdate = {
+		year = 1613
+	}
+	rank = 4
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 12174 }
+	category = general
+	name = "Kiyat-Aktaci"
+	startdate = {
+		year = 1596
+	}
+	deathdate = {
+		year = 1615
+	}
+	rank = 6
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12175 }
+	category = general
+	name = "Bolekaci"
+	startdate = {
+		year = 1615
+	}
+	deathdate = {
+		year = 1632
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 6
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 12176 }
+	category = general
+	name = "Cerkuyu"
+	startdate = {
+		year = 1620
+	}
+	deathdate = {
+		year = 1640
+	}
+	rank = 6
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 12177 }
+	category = general
+	name = "Cerkuyu"
+	startdate = {
+		year = 1630
+	}
+	deathdate = {
+		year = 1646
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12178 }
+	category = conquistador
+	name = "Kiybak"
+	startdate = {
+		year = 1639
+	}
+	deathdate = {
+		year = 1656
+	}
+	rank = 7
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12179 }
+	category = general
+	name = "Kadiköy"
+	startdate = {
+		year = 1653
+	}
+	deathdate = {
+		year = 1669
+	}
+	rank = 2
+	movement = 4
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12180 }
+	category = general
+	name = "Misen"
+	startdate = {
+		year = 1661
+	}
+	deathdate = {
+		year = 1680
+	}
+	rank = 1
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12181 }
+	category = general
+	name = "Uppa"
+	startdate = {
+		year = 1667
+	}
+	deathdate = {
+		year = 1684
+	}
+	rank = 2
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 12182 }
+	category = general
+	name = "Beskurtka"
+	startdate = {
+		year = 1673
+	}
+	deathdate = {
+		year = 1698
+	}
+	rank = 4
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12183 }
+	category = general
+	name = "Çegeraci"
+	startdate = {
+		year = 1683
+	}
+	deathdate = {
+		year = 1707
+	}
+	rank = 3
+	movement = 2
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 12184 }
+	category = general
+	name = "Appalcanköy"
+	startdate = {
+		year = 1694
+	}
+	deathdate = {
+		year = 1716
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12185 }
+	category = general
+	name = "Tanageldi"
+	startdate = {
+		year = 1713
+	}
+	deathdate = {
+		year = 1732
+	}
+	rank = 4
+	movement = 6
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 12186 }
+	category = general
+	name = "Yarilgaç"
+	startdate = {
+		year = 1724
+	}
+	deathdate = {
+		year = 1741
+	}
+	rank = 2
+	movement = 4
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12187 }
+	category = general
+	name = "Savatka"
+	startdate = {
+		year = 1730
+	}
+	deathdate = {
+		year = 1752
+	}
+	rank = 0
+	movement = 6
+	fire = 6
+	shock = 6
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 12188 }
+	category = general
+	name = "Cankisek"
+	startdate = {
+		year = 1740
+	}
+	deathdate = {
+		year = 1757
+	}
+	rank = 4
+	movement = 5
+	fire = 3
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12189 }
+	category = general
+	name = "Çegene"
+	startdate = {
+		year = 1746
+	}
+	deathdate = {
+		year = 1769
+	}
+	rank = 0
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 12190 }
+	category = general
+	name = "Bekkazi"
+	startdate = {
+		year = 1758
+	}
+	deathdate = {
+		year = 1777
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 12191 }
+	category = general
+	name = "Acikeç"
+	startdate = {
+		year = 1769
+	}
+	deathdate = {
+		year = 1788
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12192 }
+	category = general
+	name = "Arginçik"
+	startdate = {
+		year = 1771
+	}
+	deathdate = {
+		year = 1796
+	}
+	rank = 2
+	movement = 4
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 12193 }
+	category = general
+	name = "Tubenköy"
+	startdate = {
+		year = 1661
+	}
+	deathdate = {
+		year = 1682
+	}
+	rank = 3
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 12194 }
+	category = general
+	name = "Togunçi"
+	startdate = {
+		year = 1694
+	}
+	deathdate = {
+		year = 1711
+	}
+	rank = 0
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 12195 }
+	category = general
+	name = "Taymaz"
+	startdate = {
+		year = 1717
+	}
+	deathdate = {
+		year = 1739
+	}
+	rank = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12196 }
+	category = general
+	name = "Bolgartsina"
+	startdate = {
+		year = 1736
+	}
+	deathdate = {
+		year = 1757
+	}
+	rank = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12197 }
+	category = general
+	name = "Siban"
+	startdate = {
+		year = 1764
+	}
+	deathdate = {
+		year = 1783
+	}
+	rank = 0
+	movement = 2
+	fire = 5
+	shock = 4
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 12198 }
+	category = general
+	name = "Koktas"
+	startdate = {
+		year = 1667
+	}
+	deathdate = {
+		year = 1683
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12199 }
+	category = general
+	name = "Yenisaray"
+	startdate = {
+		year = 1693
+	}
+	deathdate = {
+		year = 1716
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 12150 }
+	category = general
+	name = "Armansk"
+	startdate = {
+		year = 1719
+	}
+	deathdate = {
+		year = 1737
+	}
+	rank = 1
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}

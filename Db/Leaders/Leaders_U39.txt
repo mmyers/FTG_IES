@@ -1,0 +1,1016 @@
+historicalleader = {
+	id = { type = 6 id = 1005 }
+	category = monarch
+	name = "Constantin Mamaia"
+	startdate = {
+		year = 1446
+	}
+	deathdate = {
+		year = 1476
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 1006 }
+	category = monarch
+	name = "Grigore X"
+	startdate = {
+		year = 1512
+	}
+	deathdate = {
+		year = 1519
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 1007 }
+	category = monarch
+	name = "Jeremia Craiova"
+	startdate = {
+		year = 1523
+	}
+	deathdate = {
+		year = 1551
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 1008 }
+	category = monarch
+	name = "Stefan IV"
+	startdate = {
+		year = 1565
+	}
+	deathdate = {
+		year = 1594
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 1009 }
+	category = monarch
+	name = "Matei Birlad"
+	startdate = {
+		year = 1599
+	}
+	deathdate = {
+		year = 1602
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 1010 }
+	category = monarch
+	name = "Ilias VI"
+	startdate = {
+		year = 1608
+	}
+	deathdate = {
+		year = 1641
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 6
+	fire = 6
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 1011 }
+	category = monarch
+	name = "Ilias VII"
+	startdate = {
+		year = 1656
+	}
+	deathdate = {
+		year = 1661
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 6
+	fire = 2
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 1012 }
+	category = monarch
+	name = "Grigore XI"
+	startdate = {
+		year = 1661
+	}
+	deathdate = {
+		year = 1666
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 1013 }
+	category = monarch
+	name = "Grigore XII"
+	startdate = {
+		year = 1666
+	}
+	deathdate = {
+		year = 1674
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 6
+	fire = 5
+	shock = 6
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 1014 }
+	category = monarch
+	name = "Ilias VIII"
+	startdate = {
+		year = 1689
+	}
+	deathdate = {
+		year = 1713
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 1015 }
+	category = monarch
+	name = "Grigore XIII"
+	startdate = {
+		year = 1753
+	}
+	deathdate = {
+		year = 1780
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 1016 }
+	category = monarch
+	name = "Grigore XIV"
+	startdate = {
+		year = 1792
+	}
+	deathdate = {
+		year = 1817
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8551 }
+	category = general
+	name = "Braila"
+	startdate = {
+		year = 1417
+	}
+	deathdate = {
+		year = 1438
+	}
+	rank = 3
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8552 }
+	category = general
+	name = "Bacau"
+	startdate = {
+		year = 1413
+	}
+	deathdate = {
+		year = 1431
+	}
+	rank = 1
+	movement = 6
+	fire = 2
+	shock = 6
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8553 }
+	category = general
+	name = "Cernauti"
+	startdate = {
+		year = 1508
+	}
+	deathdate = {
+		year = 1528
+	}
+	rank = 9
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8554 }
+	category = general
+	name = "Tulcea"
+	startdate = {
+		year = 1570
+	}
+	deathdate = {
+		year = 1586
+	}
+	rank = 12
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8555 }
+	category = conquistador
+	name = "Vlad"
+	startdate = {
+		year = 1527
+	}
+	deathdate = {
+		year = 1547
+	}
+	rank = 8
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8556 }
+	category = conquistador
+	name = "Mamaia"
+	startdate = {
+		year = 1586
+	}
+	deathdate = {
+		year = 1605
+	}
+	rank = 8
+	movement = 4
+	fire = 6
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8557 }
+	category = general
+	name = "Craiova"
+	startdate = {
+		year = 1425
+	}
+	deathdate = {
+		year = 1446
+	}
+	rank = 4
+	movement = 5
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8558 }
+	category = general
+	name = "Slatina"
+	startdate = {
+		year = 1441
+	}
+	deathdate = {
+		year = 1460
+	}
+	rank = 2
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8559 }
+	category = general
+	name = "Vlad"
+	startdate = {
+		year = 1447
+	}
+	deathdate = {
+		year = 1468
+	}
+	rank = 0
+	movement = 4
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 8560 }
+	category = general
+	name = "Tiraspol"
+	startdate = {
+		year = 1463
+	}
+	deathdate = {
+		year = 1486
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8561 }
+	category = general
+	name = "Calafat"
+	startdate = {
+		year = 1467
+	}
+	deathdate = {
+		year = 1485
+	}
+	rank = 6
+	movement = 4
+	fire = 2
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8562 }
+	category = general
+	name = "Slatina"
+	startdate = {
+		year = 1474
+	}
+	deathdate = {
+		year = 1496
+	}
+	rank = 1
+	movement = 4
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 8563 }
+	category = general
+	name = "Cernauti"
+	startdate = {
+		year = 1493
+	}
+	deathdate = {
+		year = 1515
+	}
+	rank = 3
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8564 }
+	category = general
+	name = "Galati"
+	startdate = {
+		year = 1496
+	}
+	deathdate = {
+		year = 1517
+	}
+	rank = 6
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 8565 }
+	category = general
+	name = "Slatina"
+	startdate = {
+		year = 1511
+	}
+	deathdate = {
+		year = 1533
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 8566 }
+	category = conquistador
+	name = "Mamaia"
+	startdate = {
+		year = 1521
+	}
+	deathdate = {
+		year = 1544
+	}
+	rank = 12
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8567 }
+	category = general
+	name = "Focsani"
+	startdate = {
+		year = 1528
+	}
+	deathdate = {
+		year = 1549
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8568 }
+	category = general
+	name = "Slatina"
+	startdate = {
+		year = 1538
+	}
+	deathdate = {
+		year = 1559
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8569 }
+	category = general
+	name = "Galati"
+	startdate = {
+		year = 1551
+	}
+	deathdate = {
+		year = 1576
+	}
+	rank = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8570 }
+	category = general
+	name = "Vlad"
+	startdate = {
+		year = 1559
+	}
+	deathdate = {
+		year = 1581
+	}
+	rank = 4
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 8571 }
+	category = general
+	name = "Braila"
+	startdate = {
+		year = 1573
+	}
+	deathdate = {
+		year = 1595
+	}
+	rank = 4
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8572 }
+	category = general
+	name = "Galati"
+	startdate = {
+		year = 1581
+	}
+	deathdate = {
+		year = 1600
+	}
+	rank = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8573 }
+	category = general
+	name = "Bacau"
+	startdate = {
+		year = 1591
+	}
+	deathdate = {
+		year = 1616
+	}
+	rank = 9
+	movement = 3
+	fire = 2
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8574 }
+	category = general
+	name = "Calafat"
+	startdate = {
+		year = 1600
+	}
+	deathdate = {
+		year = 1616
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 8575 }
+	category = general
+	name = "Craiova"
+	startdate = {
+		year = 1610
+	}
+	deathdate = {
+		year = 1629
+	}
+	rank = 2
+	movement = 5
+	fire = 2
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 8576 }
+	category = general
+	name = "Calaris"
+	startdate = {
+		year = 1620
+	}
+	deathdate = {
+		year = 1640
+	}
+	rank = 3
+	movement = 3
+	fire = 4
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 8577 }
+	category = general
+	name = "Craiova"
+	startdate = {
+		year = 1631
+	}
+	deathdate = {
+		year = 1654
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8578 }
+	category = general
+	name = "Calaris"
+	startdate = {
+		year = 1637
+	}
+	deathdate = {
+		year = 1654
+	}
+	rank = 6
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 8579 }
+	category = general
+	name = "Cernauti"
+	startdate = {
+		year = 1649
+	}
+	deathdate = {
+		year = 1671
+	}
+	rank = 6
+	movement = 5
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8580 }
+	category = general
+	name = "Calaris"
+	startdate = {
+		year = 1660
+	}
+	deathdate = {
+		year = 1683
+	}
+	rank = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8581 }
+	category = general
+	name = "Böszau"
+	startdate = {
+		year = 1665
+	}
+	deathdate = {
+		year = 1684
+	}
+	rank = 3
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8582 }
+	category = general
+	name = "Sulina"
+	startdate = {
+		year = 1673
+	}
+	deathdate = {
+		year = 1696
+	}
+	rank = 4
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8583 }
+	category = general
+	name = "Böszau"
+	startdate = {
+		year = 1687
+	}
+	deathdate = {
+		year = 1707
+	}
+	rank = 3
+	movement = 4
+	fire = 5
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 8584 }
+	category = general
+	name = "Tiraspol"
+	startdate = {
+		year = 1699
+	}
+	deathdate = {
+		year = 1721
+	}
+	rank = 0
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 8585 }
+	category = general
+	name = "Böszau"
+	startdate = {
+		year = 1709
+	}
+	deathdate = {
+		year = 1725
+	}
+	rank = 3
+	movement = 2
+	fire = 4
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 8586 }
+	category = general
+	name = "Galati"
+	startdate = {
+		year = 1721
+	}
+	deathdate = {
+		year = 1743
+	}
+	rank = 2
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8587 }
+	category = general
+	name = "Tulcea"
+	startdate = {
+		year = 1722
+	}
+	deathdate = {
+		year = 1746
+	}
+	rank = 1
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 8588 }
+	category = general
+	name = "Focsani"
+	startdate = {
+		year = 1738
+	}
+	deathdate = {
+		year = 1758
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8589 }
+	category = general
+	name = "Craiova"
+	startdate = {
+		year = 1753
+	}
+	deathdate = {
+		year = 1774
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8590 }
+	category = general
+	name = "Bacau"
+	startdate = {
+		year = 1760
+	}
+	deathdate = {
+		year = 1784
+	}
+	rank = 2
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8591 }
+	category = general
+	name = "Calaris"
+	startdate = {
+		year = 1766
+	}
+	deathdate = {
+		year = 1787
+	}
+	rank = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8592 }
+	category = general
+	name = "Craiova"
+	startdate = {
+		year = 1784
+	}
+	deathdate = {
+		year = 1800
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8593 }
+	category = general
+	name = "Tulcea"
+	startdate = {
+		year = 1665
+	}
+	deathdate = {
+		year = 1683
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8594 }
+	category = general
+	name = "Kichinau"
+	startdate = {
+		year = 1695
+	}
+	deathdate = {
+		year = 1712
+	}
+	rank = 3
+	movement = 5
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 8595 }
+	category = general
+	name = "Birlad"
+	startdate = {
+		year = 1710
+	}
+	deathdate = {
+		year = 1733
+	}
+	rank = 4
+	movement = 4
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8596 }
+	category = general
+	name = "Craiova"
+	startdate = {
+		year = 1737
+	}
+	deathdate = {
+		year = 1756
+	}
+	rank = 2
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 8597 }
+	category = general
+	name = "Calaris"
+	startdate = {
+		year = 1768
+	}
+	deathdate = {
+		year = 1792
+	}
+	rank = 0
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8598 }
+	category = general
+	name = "Braila"
+	startdate = {
+		year = 1667
+	}
+	deathdate = {
+		year = 1685
+	}
+	rank = 4
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8599 }
+	category = general
+	name = "Cernauti"
+	startdate = {
+		year = 1685
+	}
+	deathdate = {
+		year = 1709
+	}
+	rank = 1
+	movement = 4
+	fire = 4
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 8550 }
+	category = general
+	name = "Braila"
+	startdate = {
+		year = 1720
+	}
+	deathdate = {
+		year = 1736
+	}
+	rank = 2
+	movement = 3
+	fire = 2
+	shock = 4
+	siege = 0
+}

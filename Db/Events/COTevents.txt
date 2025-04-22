@@ -1,0 +1,7748 @@
+event = {
+	id = 25601
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 231 }
+	}
+}
+event = {
+	id = 25602
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 232 }
+	}
+}
+event = {
+	id = 25603
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 233 }
+	}
+}
+event = {
+	id = 25604
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 234 }
+	}
+}
+event = {
+	id = 25605
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 235 }
+	}
+}
+event = {
+	id = 25606
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 236 }
+	}
+}
+event = {
+	id = 25607
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 237 }
+	}
+}
+event = {
+	id = 25608
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 238 }
+	}
+}
+event = {
+	id = 25609
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 239 }
+	}
+}
+event = {
+	id = 25610
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 240 }
+	}
+}
+event = {
+	id = 25611
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 241 }
+	}
+}
+event = {
+	id = 25612
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 242 }
+	}
+}
+event = {
+	id = 25613
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 243 }
+	}
+}
+event = {
+	id = 25614
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 244 }
+	}
+}
+event = {
+	id = 25615
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 245 }
+	}
+}
+event = {
+	id = 25616
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 246 }
+	}
+}
+event = {
+	id = 25617
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 247 }
+	}
+}
+event = {
+	id = 25618
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 248 }
+	}
+}
+event = {
+	id = 25619
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 249 }
+	}
+}
+event = {
+	id = 25620
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 250 }
+	}
+}
+event = {
+	id = 25621
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 251 }
+	}
+}
+event = {
+	id = 25622
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 252 }
+	}
+}
+event = {
+	id = 25623
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 253 }
+	}
+}
+event = {
+	id = 25624
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 254 }
+	}
+}
+event = {
+	id = 25625
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 255 }
+	}
+}
+event = {
+	id = 25626
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 256 }
+	}
+}
+event = {
+	id = 25627
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 257 }
+	}
+}
+event = {
+	id = 25628
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 258 }
+	}
+}
+event = {
+	id = 25629
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 259 }
+	}
+}
+event = {
+	id = 25630
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 260 }
+	}
+}
+event = {
+	id = 25631
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 261 }
+	}
+}
+event = {
+	id = 25632
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 262 }
+	}
+}
+event = {
+	id = 25633
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 263 }
+	}
+}
+event = {
+	id = 25634
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 264 }
+	}
+}
+event = {
+	id = 25635
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 265 }
+	}
+}
+event = {
+	id = 25636
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 266 }
+	}
+}
+event = {
+	id = 25637
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 267 }
+	}
+}
+event = {
+	id = 25638
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 268 }
+	}
+}
+event = {
+	id = 25639
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 269 }
+	}
+}
+event = {
+	id = 25640
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 270 }
+	}
+}
+event = {
+	id = 25641
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 271 }
+	}
+}
+event = {
+	id = 25642
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 272 }
+	}
+}
+event = {
+	id = 25643
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 273 }
+	}
+}
+event = {
+	id = 25644
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 274 }
+	}
+}
+event = {
+	id = 25645
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 275 }
+	}
+}
+event = {
+	id = 25646
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 276 }
+	}
+}
+event = {
+	id = 25647
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 277 }
+	}
+}
+event = {
+	id = 25648
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 278 }
+	}
+}
+event = {
+	id = 25649
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 279 }
+	}
+}
+event = {
+	id = 25650
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 280 }
+	}
+}
+event = {
+	id = 25651
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 281 }
+	}
+}
+event = {
+	id = 25652
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 282 }
+	}
+}
+event = {
+	id = 25653
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 283 }
+	}
+}
+event = {
+	id = 25654
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 284 }
+	}
+}
+event = {
+	id = 25655
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 285 }
+	}
+}
+event = {
+	id = 25656
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 286 }
+	}
+}
+event = {
+	id = 25657
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 287 }
+	}
+}
+event = {
+	id = 25658
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 288 }
+	}
+}
+event = {
+	id = 25659
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 289 }
+	}
+}
+event = {
+	id = 25660
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 290 }
+	}
+}
+event = {
+	id = 25661
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 291 }
+	}
+}
+event = {
+	id = 25662
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 292 }
+	}
+}
+event = {
+	id = 25663
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 293 }
+	}
+}
+event = {
+	id = 25664
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 294 }
+	}
+}
+event = {
+	id = 25665
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 295 }
+	}
+}
+event = {
+	id = 25666
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 296 }
+	}
+}
+event = {
+	id = 25667
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 297 }
+	}
+}
+event = {
+	id = 25668
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 298 }
+	}
+}
+event = {
+	id = 25669
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 299 }
+	}
+}
+event = {
+	id = 25670
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 300 }
+	}
+}
+event = {
+	id = 25671
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 301 }
+	}
+}
+event = {
+	id = 25672
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 302 }
+	}
+}
+event = {
+	id = 25673
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 303 }
+	}
+}
+event = {
+	id = 25674
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 304 }
+	}
+}
+event = {
+	id = 25675
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 305 }
+	}
+}
+event = {
+	id = 25676
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 306 }
+	}
+}
+event = {
+	id = 25677
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 307 }
+	}
+}
+event = {
+	id = 25678
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 308 }
+	}
+}
+event = {
+	id = 25679
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 309 }
+	}
+}
+event = {
+	id = 25680
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 310 }
+	}
+}
+event = {
+	id = 25681
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 311 }
+	}
+}
+event = {
+	id = 25682
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 312 }
+	}
+}
+event = {
+	id = 25683
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 313 }
+	}
+}
+event = {
+	id = 25684
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 314 }
+	}
+}
+event = {
+	id = 25685
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 315 }
+	}
+}
+event = {
+	id = 25686
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 316 }
+	}
+}
+event = {
+	id = 25687
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 317 }
+	}
+}
+event = {
+	id = 25688
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 318 }
+	}
+}
+event = {
+	id = 25689
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 319 }
+	}
+}
+event = {
+	id = 25690
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 320 }
+	}
+}
+event = {
+	id = 25691
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 321 }
+	}
+}
+event = {
+	id = 25692
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 322 }
+	}
+}
+event = {
+	id = 25693
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 323 }
+	}
+}
+event = {
+	id = 25694
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 324 }
+	}
+}
+event = {
+	id = 25695
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 325 }
+	}
+}
+event = {
+	id = 25696
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 326 }
+	}
+}
+event = {
+	id = 25697
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 327 }
+	}
+}
+event = {
+	id = 25698
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 328 }
+	}
+}
+event = {
+	id = 25699
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 329 }
+	}
+}
+event = {
+	id = 25700
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 330 }
+	}
+}
+event = {
+	id = 25701
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 331 }
+	}
+}
+event = {
+	id = 25702
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 332 }
+	}
+}
+event = {
+	id = 25703
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 333 }
+	}
+}
+event = {
+	id = 25704
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 334 }
+	}
+}
+event = {
+	id = 25705
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 335 }
+	}
+}
+event = {
+	id = 25706
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 336 }
+	}
+}
+event = {
+	id = 25707
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 337 }
+	}
+}
+event = {
+	id = 25708
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 338 }
+	}
+}
+event = {
+	id = 25709
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 339 }
+	}
+}
+event = {
+	id = 25710
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 340 }
+	}
+}
+event = {
+	id = 25711
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 341 }
+	}
+}
+event = {
+	id = 25712
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 342 }
+	}
+}
+event = {
+	id = 25713
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 343 }
+	}
+}
+event = {
+	id = 25714
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 344 }
+	}
+}
+event = {
+	id = 25715
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 345 }
+	}
+}
+event = {
+	id = 25716
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 346 }
+	}
+}
+event = {
+	id = 25717
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 347 }
+	}
+}
+event = {
+	id = 25718
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 348 }
+	}
+}
+event = {
+	id = 25719
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 349 }
+	}
+}
+event = {
+	id = 25720
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 350 }
+	}
+}
+event = {
+	id = 25721
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 351 }
+	}
+}
+event = {
+	id = 25722
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 352 }
+	}
+}
+event = {
+	id = 25723
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 353 }
+	}
+}
+event = {
+	id = 25724
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 354 }
+	}
+}
+event = {
+	id = 25725
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 355 }
+	}
+}
+event = {
+	id = 25726
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 356 }
+	}
+}
+event = {
+	id = 25727
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 357 }
+	}
+}
+event = {
+	id = 25728
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 358 }
+	}
+}
+event = {
+	id = 25729
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 359 }
+	}
+}
+event = {
+	id = 25730
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 360 }
+	}
+}
+event = {
+	id = 25731
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 361 }
+	}
+}
+event = {
+	id = 25732
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 362 }
+	}
+}
+event = {
+	id = 25733
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 363 }
+	}
+}
+event = {
+	id = 25734
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 364 }
+	}
+}
+event = {
+	id = 25735
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 365 }
+	}
+}
+event = {
+	id = 25736
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 366 }
+	}
+}
+event = {
+	id = 25737
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 367 }
+	}
+}
+event = {
+	id = 25738
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 368 }
+	}
+}
+event = {
+	id = 25739
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 369 }
+	}
+}
+event = {
+	id = 25740
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 370 }
+	}
+}
+event = {
+	id = 25741
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 371 }
+	}
+}
+event = {
+	id = 25742
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 372 }
+	}
+}
+event = {
+	id = 25743
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 373 }
+	}
+}
+event = {
+	id = 25744
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 374 }
+	}
+}
+event = {
+	id = 25745
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 375 }
+	}
+}
+event = {
+	id = 25746
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 376 }
+	}
+}
+event = {
+	id = 25747
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 377 }
+	}
+}
+event = {
+	id = 25748
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 378 }
+	}
+}
+event = {
+	id = 25749
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 379 }
+	}
+}
+event = {
+	id = 25750
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 380 }
+	}
+}
+event = {
+	id = 25751
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 381 }
+	}
+}
+event = {
+	id = 25752
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 382 }
+	}
+}
+event = {
+	id = 25753
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 383 }
+	}
+}
+event = {
+	id = 25754
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 384 }
+	}
+}
+event = {
+	id = 25755
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 385 }
+	}
+}
+event = {
+	id = 25756
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 386 }
+	}
+}
+event = {
+	id = 25757
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 387 }
+	}
+}
+event = {
+	id = 25758
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 388 }
+	}
+}
+event = {
+	id = 25759
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 389 }
+	}
+}
+event = {
+	id = 25760
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 390 }
+	}
+}
+event = {
+	id = 25761
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 391 }
+	}
+}
+event = {
+	id = 25762
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 392 }
+	}
+}
+event = {
+	id = 25763
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 393 }
+	}
+}
+event = {
+	id = 25764
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 394 }
+	}
+}
+event = {
+	id = 25765
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 395 }
+	}
+}
+event = {
+	id = 25766
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 396 }
+	}
+}
+event = {
+	id = 25767
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 397 }
+	}
+}
+event = {
+	id = 25768
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 398 }
+	}
+}
+event = {
+	id = 25769
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 399 }
+	}
+}
+event = {
+	id = 25770
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 400 }
+	}
+}
+event = {
+	id = 25771
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 401 }
+	}
+}
+event = {
+	id = 25772
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 402 }
+	}
+}
+event = {
+	id = 25773
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 403 }
+	}
+}
+event = {
+	id = 25774
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 404 }
+	}
+}
+event = {
+	id = 25775
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 405 }
+	}
+}
+event = {
+	id = 25776
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 406 }
+	}
+}
+event = {
+	id = 25777
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 407 }
+	}
+}
+event = {
+	id = 25778
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 408 }
+	}
+}
+event = {
+	id = 25779
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 409 }
+	}
+}
+event = {
+	id = 25780
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 410 }
+	}
+}
+event = {
+	id = 25781
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 411 }
+	}
+}
+event = {
+	id = 25782
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 412 }
+	}
+}
+event = {
+	id = 25783
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 413 }
+	}
+}
+event = {
+	id = 25784
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 414 }
+	}
+}
+event = {
+	id = 25785
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 415 }
+	}
+}
+event = {
+	id = 25786
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 416 }
+	}
+}
+event = {
+	id = 25787
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 417 }
+	}
+}
+event = {
+	id = 25788
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 418 }
+	}
+}
+event = {
+	id = 25789
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 419 }
+	}
+}
+event = {
+	id = 25790
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 420 }
+	}
+}
+event = {
+	id = 25791
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 421 }
+	}
+}
+event = {
+	id = 25792
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 422 }
+	}
+}
+event = {
+	id = 25793
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 423 }
+	}
+}
+event = {
+	id = 25794
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 424 }
+	}
+}
+event = {
+	id = 25795
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 425 }
+	}
+}
+event = {
+	id = 25796
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 426 }
+	}
+}
+event = {
+	id = 25797
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 427 }
+	}
+}
+event = {
+	id = 25798
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 428 }
+	}
+}
+event = {
+	id = 25799
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 429 }
+	}
+}
+event = {
+	id = 25800
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 430 }
+	}
+}
+event = {
+	id = 25801
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 431 }
+	}
+}
+event = {
+	id = 25802
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 432 }
+	}
+}
+event = {
+	id = 25803
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 433 }
+	}
+}
+event = {
+	id = 25804
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 434 }
+	}
+}
+event = {
+	id = 25805
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 435 }
+	}
+}
+event = {
+	id = 25806
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 436 }
+	}
+}
+event = {
+	id = 25807
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 437 }
+	}
+}
+event = {
+	id = 25808
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 438 }
+	}
+}
+event = {
+	id = 25809
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 439 }
+	}
+}
+event = {
+	id = 25810
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 440 }
+	}
+}
+event = {
+	id = 25811
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 441 }
+	}
+}
+event = {
+	id = 25812
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 442 }
+	}
+}
+event = {
+	id = 25813
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 443 }
+	}
+}
+event = {
+	id = 25814
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 444 }
+	}
+}
+event = {
+	id = 25815
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 445 }
+	}
+}
+event = {
+	id = 25816
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 446 }
+	}
+}
+event = {
+	id = 25817
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 447 }
+	}
+}
+event = {
+	id = 25818
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 448 }
+	}
+}
+event = {
+	id = 25819
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 449 }
+	}
+}
+event = {
+	id = 25820
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 450 }
+	}
+}
+event = {
+	id = 25821
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 451 }
+	}
+}
+event = {
+	id = 25822
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 452 }
+	}
+}
+event = {
+	id = 25823
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 453 }
+	}
+}
+event = {
+	id = 25824
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 454 }
+	}
+}
+event = {
+	id = 25825
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 455 }
+	}
+}
+event = {
+	id = 25826
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 456 }
+	}
+}
+event = {
+	id = 25827
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 457 }
+	}
+}
+event = {
+	id = 25828
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 458 }
+	}
+}
+event = {
+	id = 25829
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 459 }
+	}
+}
+event = {
+	id = 25830
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 460 }
+	}
+}
+event = {
+	id = 25831
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 461 }
+	}
+}
+event = {
+	id = 25832
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 462 }
+	}
+}
+event = {
+	id = 25833
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 463 }
+	}
+}
+event = {
+	id = 25834
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 464 }
+	}
+}
+event = {
+	id = 25835
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 465 }
+	}
+}
+event = {
+	id = 25836
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 466 }
+	}
+}
+event = {
+	id = 25837
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 467 }
+	}
+}
+event = {
+	id = 25838
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 468 }
+	}
+}
+event = {
+	id = 25839
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 469 }
+	}
+}
+event = {
+	id = 25840
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 470 }
+	}
+}
+event = {
+	id = 25841
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 471 }
+	}
+}
+event = {
+	id = 25842
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 472 }
+	}
+}
+event = {
+	id = 25843
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 473 }
+	}
+}
+event = {
+	id = 25844
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 474 }
+	}
+}
+event = {
+	id = 25845
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 475 }
+	}
+}
+event = {
+	id = 25846
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 476 }
+	}
+}
+event = {
+	id = 25847
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 477 }
+	}
+}
+event = {
+	id = 25848
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 478 }
+	}
+}
+event = {
+	id = 25849
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 479 }
+	}
+}
+event = {
+	id = 25850
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 480 }
+	}
+}
+event = {
+	id = 25851
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 481 }
+	}
+}
+event = {
+	id = 25852
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 482 }
+	}
+}
+event = {
+	id = 25853
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 483 }
+	}
+}
+event = {
+	id = 25854
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 484 }
+	}
+}
+event = {
+	id = 25855
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 485 }
+	}
+}
+event = {
+	id = 25856
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 486 }
+	}
+}
+event = {
+	id = 25857
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 487 }
+	}
+}
+event = {
+	id = 25858
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 488 }
+	}
+}
+event = {
+	id = 25859
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 489 }
+	}
+}
+event = {
+	id = 25860
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 490 }
+	}
+}
+event = {
+	id = 25861
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 491 }
+	}
+}
+event = {
+	id = 25862
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 492 }
+	}
+}
+event = {
+	id = 25863
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 493 }
+	}
+}
+event = {
+	id = 25864
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 494 }
+	}
+}
+event = {
+	id = 25865
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 495 }
+	}
+}
+event = {
+	id = 25866
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 496 }
+	}
+}
+event = {
+	id = 25867
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 497 }
+	}
+}
+event = {
+	id = 25868
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 530 }
+	}
+}
+event = {
+	id = 25869
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 531 }
+	}
+}
+event = {
+	id = 25870
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 732 }
+	}
+}
+event = {
+	id = 25871
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 733 }
+	}
+}
+event = {
+	id = 25872
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 734 }
+	}
+}
+event = {
+	id = 25873
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 735 }
+	}
+}
+event = {
+	id = 25874
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 736 }
+	}
+}
+event = {
+	id = 25875
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 737 }
+	}
+}
+event = {
+	id = 25876
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 738 }
+	}
+}
+event = {
+	id = 25877
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 739 }
+	}
+}
+event = {
+	id = 25878
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 740 }
+	}
+}
+event = {
+	id = 25879
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 741 }
+	}
+}
+event = {
+	id = 25880
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 742 }
+	}
+}
+event = {
+	id = 25881
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 743 }
+	}
+}
+event = {
+	id = 25882
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 744 }
+	}
+}
+event = {
+	id = 25883
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 745 }
+	}
+}
+event = {
+	id = 25884
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 746 }
+	}
+}
+event = {
+	id = 25885
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 747 }
+	}
+}
+event = {
+	id = 25886
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 748 }
+	}
+}
+event = {
+	id = 25887
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 749 }
+	}
+}
+event = {
+	id = 25888
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 750 }
+	}
+}
+event = {
+	id = 25889
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 806 }
+	}
+}
+event = {
+	id = 25890
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 819 }
+	}
+}
+event = {
+	id = 25891
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 820 }
+	}
+}
+event = {
+	id = 25892
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 821 }
+	}
+}
+event = {
+	id = 25893
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 1469 }
+	}
+}
+event = {
+	id = 25894
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 1470 }
+	}
+}
+event = {
+	id = 25895
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 1609 }
+	}
+}
+event = {
+	id = 25896
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 1610 }
+	}
+}
+event = {
+	id = 25897
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 1611 }
+	}
+}
+event = {
+	id = 25898
+	country = PAP
+	random = no
+	name = "AI_EVENT"
+	desc = "AI_EVENT"
+	date = { year = 1400 }
+	offset = 1
+	deathdate = { year = 2000 }
+	action_a = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_b = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_c = {
+		name = "AI_EVENT"
+		command = { }
+	}
+	action_d = {
+		name = "AI_EVENT"
+		command = { type = cot which = 1612 }
+	}
+}

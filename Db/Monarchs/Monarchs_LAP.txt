@@ -1,0 +1,361 @@
+historicalmonarch = {
+	id = { type = 6 id = 16541 }
+	startdate = {
+		year = 1418
+		month = january
+		day = 1
+	}
+	deathdate = {
+		year = 1447
+	}
+	name = "Henry VII"
+	DIP = 8
+	ADM = 5
+	MIL = 6
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 16542 }
+	startdate = {
+		year = 1447
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1490
+	}
+	name = "Henry VIII"
+	DIP = 3
+	ADM = 9
+	MIL = 4
+	movement = 3
+	fire = 3
+	shock = 6
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16543 }
+	startdate = {
+		year = 1490
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1532
+	}
+	name = "William I"
+	DIP = 9
+	ADM = 3
+	MIL = 2
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 16544 }
+	startdate = {
+		year = 1532
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1560
+	}
+	name = "Edgar III"
+	DIP = 7
+	ADM = 5
+	MIL = 8
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16545 }
+	startdate = {
+		year = 1560
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1601
+	}
+	name = "Charles XII"
+	DIP = 7
+	ADM = 8
+	MIL = 3
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16546 }
+	startdate = {
+		year = 1601
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1631
+	}
+	name = "Edgar IV"
+	DIP = 2
+	ADM = 4
+	MIL = 4
+	movement = 2
+	fire = 5
+	shock = 3
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 16547 }
+	startdate = {
+		year = 1631
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1657
+	}
+	name = "Charles XIII"
+	DIP = 5
+	ADM = 2
+	MIL = 2
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 16548 }
+	startdate = {
+		year = 1657
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1659
+	}
+	name = "James Douglas I"
+	DIP = 9
+	ADM = 9
+	MIL = 2
+	movement = 3
+	fire = 6
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16549 }
+	startdate = {
+		year = 1659
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1667
+	}
+	name = "Edgar V"
+	DIP = 2
+	ADM = 7
+	MIL = 5
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16550 }
+	startdate = {
+		year = 1667
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1704
+	}
+	name = "Charles XIV"
+	DIP = 9
+	ADM = 4
+	MIL = 4
+	movement = 4
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16551 }
+	startdate = {
+		year = 1704
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1723
+	}
+	name = "Edgar VI"
+	DIP = 6
+	ADM = 4
+	MIL = 3
+	movement = 3
+	fire = 4
+	shock = 4
+	siege = 2
+}
+historicalmonarch = {
+	id = { type = 6 id = 16552 }
+	startdate = {
+		year = 1723
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1733
+	}
+	name = "Henry IX"
+	DIP = 3
+	ADM = 7
+	MIL = 2
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 3
+}
+historicalmonarch = {
+	id = { type = 6 id = 16553 }
+	startdate = {
+		year = 1733
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1744
+	}
+	name = "Edgar VII"
+	DIP = 7
+	ADM = 2
+	MIL = 6
+	movement = 5
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16554 }
+	startdate = {
+		year = 1744
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1747
+	}
+	name = "Edgar VIII"
+	DIP = 4
+	ADM = 4
+	MIL = 7
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16555 }
+	startdate = {
+		year = 1747
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1754
+	}
+	name = "Charles XV"
+	DIP = 2
+	ADM = 9
+	MIL = 5
+	movement = 4
+	fire = 2
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16556 }
+	startdate = {
+		year = 1754
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1772
+	}
+	name = "William II"
+	DIP = 9
+	ADM = 7
+	MIL = 5
+	movement = 5
+	fire = 5
+	shock = 4
+	siege = 0
+}
+historicalmonarch = {
+	id = { type = 6 id = 16557 }
+	startdate = {
+		year = 1772
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1787
+	}
+	name = "Charles XVI"
+	DIP = 9
+	ADM = 4
+	MIL = 3
+	movement = 6
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16558 }
+	startdate = {
+		year = 1787
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1789
+	}
+	name = "William III"
+	DIP = 3
+	ADM = 5
+	MIL = 8
+	movement = 4
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalmonarch = {
+	id = { type = 6 id = 16559 }
+	startdate = {
+		year = 1789
+		month = january
+		day = 2
+	}
+	deathdate = {
+		year = 1837
+	}
+	name = "Henry X"
+	DIP = 5
+	ADM = 2
+	MIL = 2
+	movement = 0
+	fire = 0
+	shock = 0
+	siege = 0
+}

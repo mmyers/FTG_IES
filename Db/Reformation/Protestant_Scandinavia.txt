@@ -1,0 +1,379 @@
+# Numbering scheme: First a fixed number 717 specifying a range. Then a four
+# digit number for the province. Finally a two digit number for the different
+# events for that province.
+
+# Main action events to change provinces to protestant during the Reformation
+# These won't happen by themselves, they are intended to (perhaps) be
+# triggered by the helper events.
+
+event = {
+    id = 717025100
+    random = no
+    province = 251
+    name = "Skåne converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 251 value = protestant }
+    }
+}
+
+event = {
+    id = 717025200
+    random = no
+    province = 252
+    name = "Småland converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 252 value = protestant }
+    }
+}
+
+event = {
+    id = 717025300
+    random = no
+    province = 253
+    name = "Västergötland converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 253 value = protestant }
+    }
+}
+
+event = {
+    id = 717025400
+    random = no
+    province = 254
+    name = "Svealand converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 254 value = protestant }
+    }
+}
+
+event = {
+    id = 717025500
+    random = no
+    province = 255
+    name = "Østlandet converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 255 value = protestant }
+    }
+}
+
+event = {
+    id = 717025600
+    random = no
+    province = 256
+    name = "Bergenshus converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 256 value = protestant }
+    }
+}
+
+event = {
+    id = 717025700
+    random = no
+    province = 257
+    name = "Bergslagen converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 257 value = protestant }
+    }
+}
+
+event = {
+    id = 717025800
+    random = no
+    province = 258
+    name = "Trøndelag converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 258 value = protestant }
+    }
+}
+
+event = {
+    id = 717025900
+    random = no
+    province = 259
+    name = "Narvik converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 259 value = protestant }
+    }
+}
+
+event = {
+    id = 717026000
+    random = no
+    province = 260
+    name = "Lappland converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 260 value = protestant }
+    }
+}
+
+event = {
+    id = 717026100
+    random = no
+    province = 261
+    name = "Finnmark converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 261 value = protestant }
+    }
+}
+
+event = {
+    id = 717026200
+    random = no
+    province = 262
+    name = "Kola converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 262 value = protestant }
+    }
+}
+
+event = {
+    id = 717026300
+    random = no
+    province = 263
+    name = "Österbotten converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 263 value = protestant }
+    }
+}
+
+event = {
+    id = 717026400
+    random = no
+    province = 264
+    name = "Tavastland converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 264 value = protestant }
+    }
+}
+
+event = {
+    id = 717026500
+    random = no
+    province = 265
+    name = "Nyland converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 265 value = protestant }
+    }
+}
+
+event = {
+    id = 717026600
+    random = no
+    province = 266
+    name = "Kexholm converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 266 value = protestant }
+    }
+}
+
+event = {
+    id = 717026700
+    random = no
+    province = 267
+    name = "Olonets converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 267 value = protestant }
+    }
+}
+
+event = {
+    id = 717026900
+    random = no
+    province = 269
+    name = "Arkhangelsk converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 269 value = protestant }
+    }
+}
+
+event = {
+    id = 717027300
+    random = no
+    province = 273
+    name = "Savolaks converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 273 value = protestant }
+    }
+}
+
+event = {
+    id = 717027500
+    random = no
+    province = 275
+    name = "Ingermanland converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 275 value = protestant }
+    }
+}
+
+event = {
+    id = 717030700
+    random = no
+    province = 307
+    name = "Sjælland converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 307 value = protestant }
+    }
+}
+
+event = {
+    id = 717030800
+    random = no
+    province = 308
+    name = "Gotland converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 308 value = protestant }
+    }
+}
+
+event = {
+    id = 717030900
+    random = no
+    province = 309
+    name = "Jylland converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 309 value = protestant }
+    }
+}
+
+event = {
+    id = 717034100
+    random = no
+    province = 341
+    name = "Västerbotten converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 341 value = protestant }
+    }
+}
+
+event = {
+    id = 717034200
+    random = no
+    province = 342
+    name = "Finland converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 342 value = protestant }
+    }
+}
+
+event = {
+    id = 717038100
+    random = no
+    province = 381
+    name = "Jämtland converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 381 value = protestant }
+    }
+}
+
+event = {
+    id = 717146600
+    random = no
+    province = 1466
+    name = "Iceland converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 1466 value = protestant }
+    }
+}
+
+event = {
+    id = 717146900
+    random = no
+    province = 1469
+    name = "Gästrikland converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 1469 value = protestant }
+    }
+}
+
+event = {
+    id = 717147000
+    random = no
+    province = 1470
+    name = "Karelia converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 1470 value = protestant }
+    }
+}
+
+event = {
+    id = 717153700
+    random = no
+    province = 1537
+    name = "Vestbygden converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 1537 value = protestant }
+    }
+}
+
+event = {
+    id = 717153800
+    random = no
+    province = 1538
+    name = "Eiriksfjord converted to protestantism"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the evangelic-lutheran faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 1538 value = protestant }
+    }
+}

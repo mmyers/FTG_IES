@@ -1,0 +1,4172 @@
+event = {
+	id = 25301
+	trigger = {
+		NOT = { core = { province = 231 data = -1 }}
+	}
+	province = 231
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 231 }
+	}
+}
+event = {
+	id = 25302
+	trigger = {
+		NOT = { core = { province = 232 data = -1 }}
+	}
+	province = 232
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 232 }
+	}
+}
+event = {
+	id = 25303
+	trigger = {
+		NOT = { core = { province = 233 data = -1 }}
+	}
+	province = 233
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 233 }
+	}
+}
+event = {
+	id = 25304
+	trigger = {
+		NOT = { core = { province = 234 data = -1 }}
+	}
+	province = 234
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 234 }
+	}
+}
+event = {
+	id = 25305
+	trigger = {
+		NOT = { core = { province = 235 data = -1 }}
+	}
+	province = 235
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 235 }
+	}
+}
+event = {
+	id = 25306
+	trigger = {
+		NOT = { core = { province = 236 data = -1 }}
+	}
+	province = 236
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 236 }
+	}
+}
+event = {
+	id = 25307
+	trigger = {
+		NOT = { core = { province = 237 data = -1 }}
+	}
+	province = 237
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 237 }
+	}
+}
+event = {
+	id = 25308
+	trigger = {
+		NOT = { core = { province = 238 data = -1 }}
+	}
+	province = 238
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 238 }
+	}
+}
+event = {
+	id = 25309
+	trigger = {
+		NOT = { core = { province = 239 data = -1 }}
+	}
+	province = 239
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 239 }
+	}
+}
+event = {
+	id = 25310
+	trigger = {
+		NOT = { core = { province = 240 data = -1 }}
+	}
+	province = 240
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 240 }
+	}
+}
+event = {
+	id = 25311
+	trigger = {
+		NOT = { core = { province = 241 data = -1 }}
+	}
+	province = 241
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 241 }
+	}
+}
+event = {
+	id = 25312
+	trigger = {
+		NOT = { core = { province = 242 data = -1 }}
+	}
+	province = 242
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 242 }
+	}
+}
+event = {
+	id = 25313
+	trigger = {
+		NOT = { core = { province = 243 data = -1 }}
+	}
+	province = 243
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 243 }
+	}
+}
+event = {
+	id = 25314
+	trigger = {
+		NOT = { core = { province = 244 data = -1 }}
+	}
+	province = 244
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 244 }
+	}
+}
+event = {
+	id = 25315
+	trigger = {
+		NOT = { core = { province = 245 data = -1 }}
+	}
+	province = 245
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 245 }
+	}
+}
+event = {
+	id = 25316
+	trigger = {
+		NOT = { core = { province = 246 data = -1 }}
+	}
+	province = 246
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 246 }
+	}
+}
+event = {
+	id = 25317
+	trigger = {
+		NOT = { core = { province = 247 data = -1 }}
+	}
+	province = 247
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 247 }
+	}
+}
+event = {
+	id = 25318
+	trigger = {
+		NOT = { core = { province = 248 data = -1 }}
+	}
+	province = 248
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 248 }
+	}
+}
+event = {
+	id = 25319
+	trigger = {
+		NOT = { core = { province = 249 data = -1 }}
+	}
+	province = 249
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 249 }
+	}
+}
+event = {
+	id = 25320
+	trigger = {
+		NOT = { core = { province = 250 data = -1 }}
+	}
+	province = 250
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 250 }
+	}
+}
+event = {
+	id = 25321
+	trigger = {
+		NOT = { core = { province = 251 data = -1 }}
+	}
+	province = 251
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 251 }
+	}
+}
+event = {
+	id = 25322
+	trigger = {
+		NOT = { core = { province = 252 data = -1 }}
+	}
+	province = 252
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 252 }
+	}
+}
+event = {
+	id = 25323
+	trigger = {
+		NOT = { core = { province = 253 data = -1 }}
+	}
+	province = 253
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 253 }
+	}
+}
+event = {
+	id = 25324
+	trigger = {
+		NOT = { core = { province = 254 data = -1 }}
+	}
+	province = 254
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 254 }
+	}
+}
+event = {
+	id = 25325
+	trigger = {
+		NOT = { core = { province = 255 data = -1 }}
+	}
+	province = 255
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 255 }
+	}
+}
+event = {
+	id = 25326
+	trigger = {
+		NOT = { core = { province = 256 data = -1 }}
+	}
+	province = 256
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 256 }
+	}
+}
+event = {
+	id = 25327
+	trigger = {
+		NOT = { core = { province = 257 data = -1 }}
+	}
+	province = 257
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 257 }
+	}
+}
+event = {
+	id = 25328
+	trigger = {
+		NOT = { core = { province = 258 data = -1 }}
+	}
+	province = 258
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 258 }
+	}
+}
+event = {
+	id = 25329
+	trigger = {
+		NOT = { core = { province = 259 data = -1 }}
+	}
+	province = 259
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 259 }
+	}
+}
+event = {
+	id = 25330
+	trigger = {
+		NOT = { core = { province = 260 data = -1 }}
+	}
+	province = 260
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 260 }
+	}
+}
+event = {
+	id = 25331
+	trigger = {
+		NOT = { core = { province = 261 data = -1 }}
+	}
+	province = 261
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 261 }
+	}
+}
+event = {
+	id = 25332
+	trigger = {
+		NOT = { core = { province = 262 data = -1 }}
+	}
+	province = 262
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 262 }
+	}
+}
+event = {
+	id = 25333
+	trigger = {
+		NOT = { core = { province = 263 data = -1 }}
+	}
+	province = 263
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 263 }
+	}
+}
+event = {
+	id = 25334
+	trigger = {
+		NOT = { core = { province = 264 data = -1 }}
+	}
+	province = 264
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 264 }
+	}
+}
+event = {
+	id = 25335
+	trigger = {
+		NOT = { core = { province = 265 data = -1 }}
+	}
+	province = 265
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 265 }
+	}
+}
+event = {
+	id = 25336
+	trigger = {
+		NOT = { core = { province = 266 data = -1 }}
+	}
+	province = 266
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 266 }
+	}
+}
+event = {
+	id = 25337
+	trigger = {
+		NOT = { core = { province = 267 data = -1 }}
+	}
+	province = 267
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 267 }
+	}
+}
+event = {
+	id = 25338
+	trigger = {
+		NOT = { core = { province = 268 data = -1 }}
+	}
+	province = 268
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 268 }
+	}
+}
+event = {
+	id = 25339
+	trigger = {
+		NOT = { core = { province = 269 data = -1 }}
+	}
+	province = 269
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 269 }
+	}
+}
+event = {
+	id = 25340
+	trigger = {
+		NOT = { core = { province = 270 data = -1 }}
+	}
+	province = 270
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 270 }
+	}
+}
+event = {
+	id = 25341
+	trigger = {
+		NOT = { core = { province = 271 data = -1 }}
+	}
+	province = 271
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 271 }
+	}
+}
+event = {
+	id = 25342
+	trigger = {
+		NOT = { core = { province = 272 data = -1 }}
+	}
+	province = 272
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 272 }
+	}
+}
+event = {
+	id = 25343
+	trigger = {
+		NOT = { core = { province = 273 data = -1 }}
+	}
+	province = 273
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 273 }
+	}
+}
+event = {
+	id = 25344
+	trigger = {
+		NOT = { core = { province = 274 data = -1 }}
+	}
+	province = 274
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 274 }
+	}
+}
+event = {
+	id = 25345
+	trigger = {
+		NOT = { core = { province = 275 data = -1 }}
+	}
+	province = 275
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 275 }
+	}
+}
+event = {
+	id = 25346
+	trigger = {
+		NOT = { core = { province = 276 data = -1 }}
+	}
+	province = 276
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 276 }
+	}
+}
+event = {
+	id = 25347
+	trigger = {
+		NOT = { core = { province = 277 data = -1 }}
+	}
+	province = 277
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 277 }
+	}
+}
+event = {
+	id = 25348
+	trigger = {
+		NOT = { core = { province = 278 data = -1 }}
+	}
+	province = 278
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 278 }
+	}
+}
+event = {
+	id = 25349
+	trigger = {
+		NOT = { core = { province = 279 data = -1 }}
+	}
+	province = 279
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 279 }
+	}
+}
+event = {
+	id = 25350
+	trigger = {
+		NOT = { core = { province = 280 data = -1 }}
+	}
+	province = 280
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 280 }
+	}
+}
+event = {
+	id = 25351
+	trigger = {
+		NOT = { core = { province = 281 data = -1 }}
+	}
+	province = 281
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 281 }
+	}
+}
+event = {
+	id = 25352
+	trigger = {
+		NOT = { core = { province = 282 data = -1 }}
+	}
+	province = 282
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 282 }
+	}
+}
+event = {
+	id = 25353
+	trigger = {
+		NOT = { core = { province = 283 data = -1 }}
+	}
+	province = 283
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 283 }
+	}
+}
+event = {
+	id = 25354
+	trigger = {
+		NOT = { core = { province = 284 data = -1 }}
+	}
+	province = 284
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 284 }
+	}
+}
+event = {
+	id = 25355
+	trigger = {
+		NOT = { core = { province = 285 data = -1 }}
+	}
+	province = 285
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 285 }
+	}
+}
+event = {
+	id = 25356
+	trigger = {
+		NOT = { core = { province = 286 data = -1 }}
+	}
+	province = 286
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 286 }
+	}
+}
+event = {
+	id = 25357
+	trigger = {
+		NOT = { core = { province = 287 data = -1 }}
+	}
+	province = 287
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 287 }
+	}
+}
+event = {
+	id = 25358
+	trigger = {
+		NOT = { core = { province = 288 data = -1 }}
+	}
+	province = 288
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 288 }
+	}
+}
+event = {
+	id = 25359
+	trigger = {
+		NOT = { core = { province = 289 data = -1 }}
+	}
+	province = 289
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 289 }
+	}
+}
+event = {
+	id = 25360
+	trigger = {
+		NOT = { core = { province = 290 data = -1 }}
+	}
+	province = 290
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 290 }
+	}
+}
+event = {
+	id = 25361
+	trigger = {
+		NOT = { core = { province = 291 data = -1 }}
+	}
+	province = 291
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 291 }
+	}
+}
+event = {
+	id = 25362
+	trigger = {
+		NOT = { core = { province = 292 data = -1 }}
+	}
+	province = 292
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 292 }
+	}
+}
+event = {
+	id = 25363
+	trigger = {
+		NOT = { core = { province = 293 data = -1 }}
+	}
+	province = 293
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 293 }
+	}
+}
+event = {
+	id = 25364
+	trigger = {
+		NOT = { core = { province = 294 data = -1 }}
+	}
+	province = 294
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 294 }
+	}
+}
+event = {
+	id = 25365
+	trigger = {
+		NOT = { core = { province = 295 data = -1 }}
+	}
+	province = 295
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 295 }
+	}
+}
+event = {
+	id = 25366
+	trigger = {
+		NOT = { core = { province = 296 data = -1 }}
+	}
+	province = 296
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 296 }
+	}
+}
+event = {
+	id = 25367
+	trigger = {
+		NOT = { core = { province = 297 data = -1 }}
+	}
+	province = 297
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 297 }
+	}
+}
+event = {
+	id = 25368
+	trigger = {
+		NOT = { core = { province = 298 data = -1 }}
+	}
+	province = 298
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 298 }
+	}
+}
+event = {
+	id = 25369
+	trigger = {
+		NOT = { core = { province = 299 data = -1 }}
+	}
+	province = 299
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 299 }
+	}
+}
+event = {
+	id = 25370
+	trigger = {
+		NOT = { core = { province = 300 data = -1 }}
+	}
+	province = 300
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 300 }
+	}
+}
+event = {
+	id = 25371
+	trigger = {
+		NOT = { core = { province = 301 data = -1 }}
+	}
+	province = 301
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 301 }
+	}
+}
+event = {
+	id = 25372
+	trigger = {
+		NOT = { core = { province = 302 data = -1 }}
+	}
+	province = 302
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 302 }
+	}
+}
+event = {
+	id = 25373
+	trigger = {
+		NOT = { core = { province = 303 data = -1 }}
+	}
+	province = 303
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 303 }
+	}
+}
+event = {
+	id = 25374
+	trigger = {
+		NOT = { core = { province = 304 data = -1 }}
+	}
+	province = 304
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 304 }
+	}
+}
+event = {
+	id = 25375
+	trigger = {
+		NOT = { core = { province = 305 data = -1 }}
+	}
+	province = 305
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 305 }
+	}
+}
+event = {
+	id = 25376
+	trigger = {
+		NOT = { core = { province = 306 data = -1 }}
+	}
+	province = 306
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 306 }
+	}
+}
+event = {
+	id = 25377
+	trigger = {
+		NOT = { core = { province = 307 data = -1 }}
+	}
+	province = 307
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 307 }
+	}
+}
+event = {
+	id = 25378
+	trigger = {
+		NOT = { core = { province = 308 data = -1 }}
+	}
+	province = 308
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 308 }
+	}
+}
+event = {
+	id = 25379
+	trigger = {
+		NOT = { core = { province = 309 data = -1 }}
+	}
+	province = 309
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 309 }
+	}
+}
+event = {
+	id = 25380
+	trigger = {
+		NOT = { core = { province = 310 data = -1 }}
+	}
+	province = 310
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 310 }
+	}
+}
+event = {
+	id = 25381
+	trigger = {
+		NOT = { core = { province = 311 data = -1 }}
+	}
+	province = 311
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 311 }
+	}
+}
+event = {
+	id = 25382
+	trigger = {
+		NOT = { core = { province = 312 data = -1 }}
+	}
+	province = 312
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 312 }
+	}
+}
+event = {
+	id = 25383
+	trigger = {
+		NOT = { core = { province = 313 data = -1 }}
+	}
+	province = 313
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 313 }
+	}
+}
+event = {
+	id = 25384
+	trigger = {
+		NOT = { core = { province = 314 data = -1 }}
+	}
+	province = 314
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 314 }
+	}
+}
+event = {
+	id = 25385
+	trigger = {
+		NOT = { core = { province = 315 data = -1 }}
+	}
+	province = 315
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 315 }
+	}
+}
+event = {
+	id = 25386
+	trigger = {
+		NOT = { core = { province = 316 data = -1 }}
+	}
+	province = 316
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 316 }
+	}
+}
+event = {
+	id = 25387
+	trigger = {
+		NOT = { core = { province = 317 data = -1 }}
+	}
+	province = 317
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 317 }
+	}
+}
+event = {
+	id = 25388
+	trigger = {
+		NOT = { core = { province = 318 data = -1 }}
+	}
+	province = 318
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 318 }
+	}
+}
+event = {
+	id = 25389
+	trigger = {
+		NOT = { core = { province = 319 data = -1 }}
+	}
+	province = 319
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 319 }
+	}
+}
+event = {
+	id = 25390
+	trigger = {
+		NOT = { core = { province = 320 data = -1 }}
+	}
+	province = 320
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 320 }
+	}
+}
+event = {
+	id = 25391
+	trigger = {
+		NOT = { core = { province = 321 data = -1 }}
+	}
+	province = 321
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 321 }
+	}
+}
+event = {
+	id = 25392
+	trigger = {
+		NOT = { core = { province = 322 data = -1 }}
+	}
+	province = 322
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 322 }
+	}
+}
+event = {
+	id = 25393
+	trigger = {
+		NOT = { core = { province = 323 data = -1 }}
+	}
+	province = 323
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 323 }
+	}
+}
+event = {
+	id = 25394
+	trigger = {
+		NOT = { core = { province = 324 data = -1 }}
+	}
+	province = 324
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 324 }
+	}
+}
+event = {
+	id = 25395
+	trigger = {
+		NOT = { core = { province = 325 data = -1 }}
+	}
+	province = 325
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 325 }
+	}
+}
+event = {
+	id = 25396
+	trigger = {
+		NOT = { core = { province = 326 data = -1 }}
+	}
+	province = 326
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 326 }
+	}
+}
+event = {
+	id = 25397
+	trigger = {
+		NOT = { core = { province = 327 data = -1 }}
+	}
+	province = 327
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 327 }
+	}
+}
+event = {
+	id = 25398
+	trigger = {
+		NOT = { core = { province = 328 data = -1 }}
+	}
+	province = 328
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 328 }
+	}
+}
+event = {
+	id = 25399
+	trigger = {
+		NOT = { core = { province = 329 data = -1 }}
+	}
+	province = 329
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 329 }
+	}
+}
+event = {
+	id = 25400
+	trigger = {
+		NOT = { core = { province = 330 data = -1 }}
+	}
+	province = 330
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 330 }
+	}
+}
+event = {
+	id = 25401
+	trigger = {
+		NOT = { core = { province = 331 data = -1 }}
+	}
+	province = 331
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 331 }
+	}
+}
+event = {
+	id = 25402
+	trigger = {
+		NOT = { core = { province = 332 data = -1 }}
+	}
+	province = 332
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 332 }
+	}
+}
+event = {
+	id = 25403
+	trigger = {
+		NOT = { core = { province = 333 data = -1 }}
+	}
+	province = 333
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 333 }
+	}
+}
+event = {
+	id = 25404
+	trigger = {
+		NOT = { core = { province = 334 data = -1 }}
+	}
+	province = 334
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 334 }
+	}
+}
+event = {
+	id = 25405
+	trigger = {
+		NOT = { core = { province = 335 data = -1 }}
+	}
+	province = 335
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 335 }
+	}
+}
+event = {
+	id = 25406
+	trigger = {
+		NOT = { core = { province = 336 data = -1 }}
+	}
+	province = 336
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 336 }
+	}
+}
+event = {
+	id = 25407
+	trigger = {
+		NOT = { core = { province = 337 data = -1 }}
+	}
+	province = 337
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 337 }
+	}
+}
+event = {
+	id = 25408
+	trigger = {
+		NOT = { core = { province = 338 data = -1 }}
+	}
+	province = 338
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 338 }
+	}
+}
+event = {
+	id = 25409
+	trigger = {
+		NOT = { core = { province = 339 data = -1 }}
+	}
+	province = 339
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 339 }
+	}
+}
+event = {
+	id = 25410
+	trigger = {
+		NOT = { core = { province = 340 data = -1 }}
+	}
+	province = 340
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 340 }
+	}
+}
+event = {
+	id = 25411
+	trigger = {
+		NOT = { core = { province = 341 data = -1 }}
+	}
+	province = 341
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 341 }
+	}
+}
+event = {
+	id = 25412
+	trigger = {
+		NOT = { core = { province = 342 data = -1 }}
+	}
+	province = 342
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 342 }
+	}
+}
+event = {
+	id = 25413
+	trigger = {
+		NOT = { core = { province = 343 data = -1 }}
+	}
+	province = 343
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 343 }
+	}
+}
+event = {
+	id = 25414
+	trigger = {
+		NOT = { core = { province = 344 data = -1 }}
+	}
+	province = 344
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 344 }
+	}
+}
+event = {
+	id = 25415
+	trigger = {
+		NOT = { core = { province = 345 data = -1 }}
+	}
+	province = 345
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 345 }
+	}
+}
+event = {
+	id = 25416
+	trigger = {
+		NOT = { core = { province = 346 data = -1 }}
+	}
+	province = 346
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 346 }
+	}
+}
+event = {
+	id = 25417
+	trigger = {
+		NOT = { core = { province = 347 data = -1 }}
+	}
+	province = 347
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 347 }
+	}
+}
+event = {
+	id = 25418
+	trigger = {
+		NOT = { core = { province = 348 data = -1 }}
+	}
+	province = 348
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 348 }
+	}
+}
+event = {
+	id = 25419
+	trigger = {
+		NOT = { core = { province = 349 data = -1 }}
+	}
+	province = 349
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 349 }
+	}
+}
+event = {
+	id = 25420
+	trigger = {
+		NOT = { core = { province = 350 data = -1 }}
+	}
+	province = 350
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 350 }
+	}
+}
+event = {
+	id = 25421
+	trigger = {
+		NOT = { core = { province = 351 data = -1 }}
+	}
+	province = 351
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 351 }
+	}
+}
+event = {
+	id = 25422
+	trigger = {
+		NOT = { core = { province = 352 data = -1 }}
+	}
+	province = 352
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 352 }
+	}
+}
+event = {
+	id = 25423
+	trigger = {
+		NOT = { core = { province = 353 data = -1 }}
+	}
+	province = 353
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 353 }
+	}
+}
+event = {
+	id = 25424
+	trigger = {
+		NOT = { core = { province = 354 data = -1 }}
+	}
+	province = 354
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 354 }
+	}
+}
+event = {
+	id = 25425
+	trigger = {
+		NOT = { core = { province = 355 data = -1 }}
+	}
+	province = 355
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 355 }
+	}
+}
+event = {
+	id = 25426
+	trigger = {
+		NOT = { core = { province = 356 data = -1 }}
+	}
+	province = 356
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 356 }
+	}
+}
+event = {
+	id = 25427
+	trigger = {
+		NOT = { core = { province = 357 data = -1 }}
+	}
+	province = 357
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 357 }
+	}
+}
+event = {
+	id = 25428
+	trigger = {
+		NOT = { core = { province = 358 data = -1 }}
+	}
+	province = 358
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 358 }
+	}
+}
+event = {
+	id = 25429
+	trigger = {
+		NOT = { core = { province = 359 data = -1 }}
+	}
+	province = 359
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 359 }
+	}
+}
+event = {
+	id = 25430
+	trigger = {
+		NOT = { core = { province = 360 data = -1 }}
+	}
+	province = 360
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 360 }
+	}
+}
+event = {
+	id = 25431
+	trigger = {
+		NOT = { core = { province = 361 data = -1 }}
+	}
+	province = 361
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 361 }
+	}
+}
+event = {
+	id = 25432
+	trigger = {
+		NOT = { core = { province = 362 data = -1 }}
+	}
+	province = 362
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 362 }
+	}
+}
+event = {
+	id = 25433
+	trigger = {
+		NOT = { core = { province = 363 data = -1 }}
+	}
+	province = 363
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 363 }
+	}
+}
+event = {
+	id = 25434
+	trigger = {
+		NOT = { core = { province = 364 data = -1 }}
+	}
+	province = 364
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 364 }
+	}
+}
+event = {
+	id = 25435
+	trigger = {
+		NOT = { core = { province = 365 data = -1 }}
+	}
+	province = 365
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 365 }
+	}
+}
+event = {
+	id = 25436
+	trigger = {
+		NOT = { core = { province = 366 data = -1 }}
+	}
+	province = 366
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 366 }
+	}
+}
+event = {
+	id = 25437
+	trigger = {
+		NOT = { core = { province = 367 data = -1 }}
+	}
+	province = 367
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 367 }
+	}
+}
+event = {
+	id = 25438
+	trigger = {
+		NOT = { core = { province = 368 data = -1 }}
+	}
+	province = 368
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 368 }
+	}
+}
+event = {
+	id = 25439
+	trigger = {
+		NOT = { core = { province = 369 data = -1 }}
+	}
+	province = 369
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 369 }
+	}
+}
+event = {
+	id = 25440
+	trigger = {
+		NOT = { core = { province = 370 data = -1 }}
+	}
+	province = 370
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 370 }
+	}
+}
+event = {
+	id = 25441
+	trigger = {
+		NOT = { core = { province = 371 data = -1 }}
+	}
+	province = 371
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 371 }
+	}
+}
+event = {
+	id = 25442
+	trigger = {
+		NOT = { core = { province = 372 data = -1 }}
+	}
+	province = 372
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 372 }
+	}
+}
+event = {
+	id = 25443
+	trigger = {
+		NOT = { core = { province = 373 data = -1 }}
+	}
+	province = 373
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 373 }
+	}
+}
+event = {
+	id = 25444
+	trigger = {
+		NOT = { core = { province = 374 data = -1 }}
+	}
+	province = 374
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 374 }
+	}
+}
+event = {
+	id = 25445
+	trigger = {
+		NOT = { core = { province = 375 data = -1 }}
+	}
+	province = 375
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 375 }
+	}
+}
+event = {
+	id = 25446
+	trigger = {
+		NOT = { core = { province = 376 data = -1 }}
+	}
+	province = 376
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 376 }
+	}
+}
+event = {
+	id = 25447
+	trigger = {
+		NOT = { core = { province = 377 data = -1 }}
+	}
+	province = 377
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 377 }
+	}
+}
+event = {
+	id = 25448
+	trigger = {
+		NOT = { core = { province = 378 data = -1 }}
+	}
+	province = 378
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 378 }
+	}
+}
+event = {
+	id = 25449
+	trigger = {
+		NOT = { core = { province = 379 data = -1 }}
+	}
+	province = 379
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 379 }
+	}
+}
+event = {
+	id = 25450
+	trigger = {
+		NOT = { core = { province = 380 data = -1 }}
+	}
+	province = 380
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 380 }
+	}
+}
+event = {
+	id = 25451
+	trigger = {
+		NOT = { core = { province = 381 data = -1 }}
+	}
+	province = 381
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 381 }
+	}
+}
+event = {
+	id = 25452
+	trigger = {
+		NOT = { core = { province = 382 data = -1 }}
+	}
+	province = 382
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 382 }
+	}
+}
+event = {
+	id = 25453
+	trigger = {
+		NOT = { core = { province = 383 data = -1 }}
+	}
+	province = 383
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 383 }
+	}
+}
+event = {
+	id = 25454
+	trigger = {
+		NOT = { core = { province = 384 data = -1 }}
+	}
+	province = 384
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 384 }
+	}
+}
+event = {
+	id = 25455
+	trigger = {
+		NOT = { core = { province = 385 data = -1 }}
+	}
+	province = 385
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 385 }
+	}
+}
+event = {
+	id = 25456
+	trigger = {
+		NOT = { core = { province = 386 data = -1 }}
+	}
+	province = 386
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 386 }
+	}
+}
+event = {
+	id = 25457
+	trigger = {
+		NOT = { core = { province = 387 data = -1 }}
+	}
+	province = 387
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 387 }
+	}
+}
+event = {
+	id = 25458
+	trigger = {
+		NOT = { core = { province = 388 data = -1 }}
+	}
+	province = 388
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 388 }
+	}
+}
+event = {
+	id = 25459
+	trigger = {
+		NOT = { core = { province = 389 data = -1 }}
+	}
+	province = 389
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 389 }
+	}
+}
+event = {
+	id = 25460
+	trigger = {
+		NOT = { core = { province = 390 data = -1 }}
+	}
+	province = 390
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 390 }
+	}
+}
+event = {
+	id = 25461
+	trigger = {
+		NOT = { core = { province = 391 data = -1 }}
+	}
+	province = 391
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 391 }
+	}
+}
+event = {
+	id = 25462
+	trigger = {
+		NOT = { core = { province = 392 data = -1 }}
+	}
+	province = 392
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 392 }
+	}
+}
+event = {
+	id = 25463
+	trigger = {
+		NOT = { core = { province = 393 data = -1 }}
+	}
+	province = 393
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 393 }
+	}
+}
+event = {
+	id = 25464
+	trigger = {
+		NOT = { core = { province = 394 data = -1 }}
+	}
+	province = 394
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 394 }
+	}
+}
+event = {
+	id = 25465
+	trigger = {
+		NOT = { core = { province = 395 data = -1 }}
+	}
+	province = 395
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 395 }
+	}
+}
+event = {
+	id = 25466
+	trigger = {
+		NOT = { core = { province = 396 data = -1 }}
+	}
+	province = 396
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 396 }
+	}
+}
+event = {
+	id = 25467
+	trigger = {
+		NOT = { core = { province = 397 data = -1 }}
+	}
+	province = 397
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 397 }
+	}
+}
+event = {
+	id = 25468
+	trigger = {
+		NOT = { core = { province = 398 data = -1 }}
+	}
+	province = 398
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 398 }
+	}
+}
+event = {
+	id = 25469
+	trigger = {
+		NOT = { core = { province = 399 data = -1 }}
+	}
+	province = 399
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 399 }
+	}
+}
+event = {
+	id = 25470
+	trigger = {
+		NOT = { core = { province = 400 data = -1 }}
+	}
+	province = 400
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 400 }
+	}
+}
+event = {
+	id = 25471
+	trigger = {
+		NOT = { core = { province = 401 data = -1 }}
+	}
+	province = 401
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 401 }
+	}
+}
+event = {
+	id = 25472
+	trigger = {
+		NOT = { core = { province = 402 data = -1 }}
+	}
+	province = 402
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 402 }
+	}
+}
+event = {
+	id = 25473
+	trigger = {
+		NOT = { core = { province = 403 data = -1 }}
+	}
+	province = 403
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 403 }
+	}
+}
+event = {
+	id = 25474
+	trigger = {
+		NOT = { core = { province = 404 data = -1 }}
+	}
+	province = 404
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 404 }
+	}
+}
+event = {
+	id = 25475
+	trigger = {
+		NOT = { core = { province = 405 data = -1 }}
+	}
+	province = 405
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 405 }
+	}
+}
+event = {
+	id = 25476
+	trigger = {
+		NOT = { core = { province = 406 data = -1 }}
+	}
+	province = 406
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 406 }
+	}
+}
+event = {
+	id = 25477
+	trigger = {
+		NOT = { core = { province = 407 data = -1 }}
+	}
+	province = 407
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 407 }
+	}
+}
+event = {
+	id = 25478
+	trigger = {
+		NOT = { core = { province = 408 data = -1 }}
+	}
+	province = 408
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 408 }
+	}
+}
+event = {
+	id = 25479
+	trigger = {
+		NOT = { core = { province = 409 data = -1 }}
+	}
+	province = 409
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 409 }
+	}
+}
+event = {
+	id = 25480
+	trigger = {
+		NOT = { core = { province = 410 data = -1 }}
+	}
+	province = 410
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 410 }
+	}
+}
+event = {
+	id = 25481
+	trigger = {
+		NOT = { core = { province = 411 data = -1 }}
+	}
+	province = 411
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 411 }
+	}
+}
+event = {
+	id = 25482
+	trigger = {
+		NOT = { core = { province = 412 data = -1 }}
+	}
+	province = 412
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 412 }
+	}
+}
+event = {
+	id = 25483
+	trigger = {
+		NOT = { core = { province = 413 data = -1 }}
+	}
+	province = 413
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 413 }
+	}
+}
+event = {
+	id = 25484
+	trigger = {
+		NOT = { core = { province = 414 data = -1 }}
+	}
+	province = 414
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 414 }
+	}
+}
+event = {
+	id = 25485
+	trigger = {
+		NOT = { core = { province = 415 data = -1 }}
+	}
+	province = 415
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 415 }
+	}
+}
+event = {
+	id = 25486
+	trigger = {
+		NOT = { core = { province = 416 data = -1 }}
+	}
+	province = 416
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 416 }
+	}
+}
+event = {
+	id = 25487
+	trigger = {
+		NOT = { core = { province = 417 data = -1 }}
+	}
+	province = 417
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 417 }
+	}
+}
+event = {
+	id = 25488
+	trigger = {
+		NOT = { core = { province = 418 data = -1 }}
+	}
+	province = 418
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 418 }
+	}
+}
+event = {
+	id = 25489
+	trigger = {
+		NOT = { core = { province = 419 data = -1 }}
+	}
+	province = 419
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 419 }
+	}
+}
+event = {
+	id = 25490
+	trigger = {
+		NOT = { core = { province = 420 data = -1 }}
+	}
+	province = 420
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 420 }
+	}
+}
+event = {
+	id = 25491
+	trigger = {
+		NOT = { core = { province = 421 data = -1 }}
+	}
+	province = 421
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 421 }
+	}
+}
+event = {
+	id = 25492
+	trigger = {
+		NOT = { core = { province = 422 data = -1 }}
+	}
+	province = 422
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 422 }
+	}
+}
+event = {
+	id = 25493
+	trigger = {
+		NOT = { core = { province = 423 data = -1 }}
+	}
+	province = 423
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 423 }
+	}
+}
+event = {
+	id = 25494
+	trigger = {
+		NOT = { core = { province = 424 data = -1 }}
+	}
+	province = 424
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 424 }
+	}
+}
+event = {
+	id = 25495
+	trigger = {
+		NOT = { core = { province = 425 data = -1 }}
+	}
+	province = 425
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 425 }
+	}
+}
+event = {
+	id = 25496
+	trigger = {
+		NOT = { core = { province = 426 data = -1 }}
+	}
+	province = 426
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 426 }
+	}
+}
+event = {
+	id = 25497
+	trigger = {
+		NOT = { core = { province = 427 data = -1 }}
+	}
+	province = 427
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 427 }
+	}
+}
+event = {
+	id = 25498
+	trigger = {
+		NOT = { core = { province = 428 data = -1 }}
+	}
+	province = 428
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 428 }
+	}
+}
+event = {
+	id = 25499
+	trigger = {
+		NOT = { core = { province = 429 data = -1 }}
+	}
+	province = 429
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 429 }
+	}
+}
+event = {
+	id = 25500
+	trigger = {
+		NOT = { core = { province = 430 data = -1 }}
+	}
+	province = 430
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 430 }
+	}
+}
+event = {
+	id = 25501
+	trigger = {
+		NOT = { core = { province = 431 data = -1 }}
+	}
+	province = 431
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 431 }
+	}
+}
+event = {
+	id = 25502
+	trigger = {
+		NOT = { core = { province = 432 data = -1 }}
+	}
+	province = 432
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 432 }
+	}
+}
+event = {
+	id = 25503
+	trigger = {
+		NOT = { core = { province = 433 data = -1 }}
+	}
+	province = 433
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 433 }
+	}
+}
+event = {
+	id = 25504
+	trigger = {
+		NOT = { core = { province = 434 data = -1 }}
+	}
+	province = 434
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 434 }
+	}
+}
+event = {
+	id = 25505
+	trigger = {
+		NOT = { core = { province = 435 data = -1 }}
+	}
+	province = 435
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 435 }
+	}
+}
+event = {
+	id = 25506
+	trigger = {
+		NOT = { core = { province = 436 data = -1 }}
+	}
+	province = 436
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 436 }
+	}
+}
+event = {
+	id = 25507
+	trigger = {
+		NOT = { core = { province = 437 data = -1 }}
+	}
+	province = 437
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 437 }
+	}
+}
+event = {
+	id = 25508
+	trigger = {
+		NOT = { core = { province = 438 data = -1 }}
+	}
+	province = 438
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 438 }
+	}
+}
+event = {
+	id = 25509
+	trigger = {
+		NOT = { core = { province = 439 data = -1 }}
+	}
+	province = 439
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 439 }
+	}
+}
+event = {
+	id = 25510
+	trigger = {
+		NOT = { core = { province = 440 data = -1 }}
+	}
+	province = 440
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 440 }
+	}
+}
+event = {
+	id = 25511
+	trigger = {
+		NOT = { core = { province = 441 data = -1 }}
+	}
+	province = 441
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 441 }
+	}
+}
+event = {
+	id = 25512
+	trigger = {
+		NOT = { core = { province = 442 data = -1 }}
+	}
+	province = 442
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 442 }
+	}
+}
+event = {
+	id = 25513
+	trigger = {
+		NOT = { core = { province = 443 data = -1 }}
+	}
+	province = 443
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 443 }
+	}
+}
+event = {
+	id = 25514
+	trigger = {
+		NOT = { core = { province = 444 data = -1 }}
+	}
+	province = 444
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 444 }
+	}
+}
+event = {
+	id = 25515
+	trigger = {
+		NOT = { core = { province = 445 data = -1 }}
+	}
+	province = 445
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 445 }
+	}
+}
+event = {
+	id = 25516
+	trigger = {
+		NOT = { core = { province = 446 data = -1 }}
+	}
+	province = 446
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 446 }
+	}
+}
+event = {
+	id = 25517
+	trigger = {
+		NOT = { core = { province = 447 data = -1 }}
+	}
+	province = 447
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 447 }
+	}
+}
+event = {
+	id = 25518
+	trigger = {
+		NOT = { core = { province = 448 data = -1 }}
+	}
+	province = 448
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 448 }
+	}
+}
+event = {
+	id = 25519
+	trigger = {
+		NOT = { core = { province = 449 data = -1 }}
+	}
+	province = 449
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 449 }
+	}
+}
+event = {
+	id = 25520
+	trigger = {
+		NOT = { core = { province = 450 data = -1 }}
+	}
+	province = 450
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 450 }
+	}
+}
+event = {
+	id = 25521
+	trigger = {
+		NOT = { core = { province = 451 data = -1 }}
+	}
+	province = 451
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 451 }
+	}
+}
+event = {
+	id = 25522
+	trigger = {
+		NOT = { core = { province = 452 data = -1 }}
+	}
+	province = 452
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 452 }
+	}
+}
+event = {
+	id = 25523
+	trigger = {
+		NOT = { core = { province = 453 data = -1 }}
+	}
+	province = 453
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 453 }
+	}
+}
+event = {
+	id = 25524
+	trigger = {
+		NOT = { core = { province = 454 data = -1 }}
+	}
+	province = 454
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 454 }
+	}
+}
+event = {
+	id = 25525
+	trigger = {
+		NOT = { core = { province = 455 data = -1 }}
+	}
+	province = 455
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 455 }
+	}
+}
+event = {
+	id = 25526
+	trigger = {
+		NOT = { core = { province = 456 data = -1 }}
+	}
+	province = 456
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 456 }
+	}
+}
+event = {
+	id = 25527
+	trigger = {
+		NOT = { core = { province = 457 data = -1 }}
+	}
+	province = 457
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 457 }
+	}
+}
+event = {
+	id = 25528
+	trigger = {
+		NOT = { core = { province = 458 data = -1 }}
+	}
+	province = 458
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 458 }
+	}
+}
+event = {
+	id = 25529
+	trigger = {
+		NOT = { core = { province = 459 data = -1 }}
+	}
+	province = 459
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 459 }
+	}
+}
+event = {
+	id = 25530
+	trigger = {
+		NOT = { core = { province = 460 data = -1 }}
+	}
+	province = 460
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 460 }
+	}
+}
+event = {
+	id = 25531
+	trigger = {
+		NOT = { core = { province = 461 data = -1 }}
+	}
+	province = 461
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 461 }
+	}
+}
+event = {
+	id = 25532
+	trigger = {
+		NOT = { core = { province = 462 data = -1 }}
+	}
+	province = 462
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 462 }
+	}
+}
+event = {
+	id = 25533
+	trigger = {
+		NOT = { core = { province = 463 data = -1 }}
+	}
+	province = 463
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 463 }
+	}
+}
+event = {
+	id = 25534
+	trigger = {
+		NOT = { core = { province = 464 data = -1 }}
+	}
+	province = 464
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 464 }
+	}
+}
+event = {
+	id = 25535
+	trigger = {
+		NOT = { core = { province = 465 data = -1 }}
+	}
+	province = 465
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 465 }
+	}
+}
+event = {
+	id = 25536
+	trigger = {
+		NOT = { core = { province = 466 data = -1 }}
+	}
+	province = 466
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 466 }
+	}
+}
+event = {
+	id = 25537
+	trigger = {
+		NOT = { core = { province = 467 data = -1 }}
+	}
+	province = 467
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 467 }
+	}
+}
+event = {
+	id = 25538
+	trigger = {
+		NOT = { core = { province = 468 data = -1 }}
+	}
+	province = 468
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 468 }
+	}
+}
+event = {
+	id = 25539
+	trigger = {
+		NOT = { core = { province = 469 data = -1 }}
+	}
+	province = 469
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 469 }
+	}
+}
+event = {
+	id = 25540
+	trigger = {
+		NOT = { core = { province = 470 data = -1 }}
+	}
+	province = 470
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 470 }
+	}
+}
+event = {
+	id = 25541
+	trigger = {
+		NOT = { core = { province = 471 data = -1 }}
+	}
+	province = 471
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 471 }
+	}
+}
+event = {
+	id = 25542
+	trigger = {
+		NOT = { core = { province = 472 data = -1 }}
+	}
+	province = 472
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 472 }
+	}
+}
+event = {
+	id = 25543
+	trigger = {
+		NOT = { core = { province = 473 data = -1 }}
+	}
+	province = 473
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 473 }
+	}
+}
+event = {
+	id = 25544
+	trigger = {
+		NOT = { core = { province = 474 data = -1 }}
+	}
+	province = 474
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 474 }
+	}
+}
+event = {
+	id = 25545
+	trigger = {
+		NOT = { core = { province = 475 data = -1 }}
+	}
+	province = 475
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 475 }
+	}
+}
+event = {
+	id = 25546
+	trigger = {
+		NOT = { core = { province = 476 data = -1 }}
+	}
+	province = 476
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 476 }
+	}
+}
+event = {
+	id = 25547
+	trigger = {
+		NOT = { core = { province = 477 data = -1 }}
+	}
+	province = 477
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 477 }
+	}
+}
+event = {
+	id = 25548
+	trigger = {
+		NOT = { core = { province = 478 data = -1 }}
+	}
+	province = 478
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 478 }
+	}
+}
+event = {
+	id = 25549
+	trigger = {
+		NOT = { core = { province = 479 data = -1 }}
+	}
+	province = 479
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 479 }
+	}
+}
+event = {
+	id = 25550
+	trigger = {
+		NOT = { core = { province = 480 data = -1 }}
+	}
+	province = 480
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 480 }
+	}
+}
+event = {
+	id = 25551
+	trigger = {
+		NOT = { core = { province = 481 data = -1 }}
+	}
+	province = 481
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 481 }
+	}
+}
+event = {
+	id = 25552
+	trigger = {
+		NOT = { core = { province = 482 data = -1 }}
+	}
+	province = 482
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 482 }
+	}
+}
+event = {
+	id = 25553
+	trigger = {
+		NOT = { core = { province = 483 data = -1 }}
+	}
+	province = 483
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 483 }
+	}
+}
+event = {
+	id = 25554
+	trigger = {
+		NOT = { core = { province = 484 data = -1 }}
+	}
+	province = 484
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 484 }
+	}
+}
+event = {
+	id = 25555
+	trigger = {
+		NOT = { core = { province = 485 data = -1 }}
+	}
+	province = 485
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 485 }
+	}
+}
+event = {
+	id = 25556
+	trigger = {
+		NOT = { core = { province = 486 data = -1 }}
+	}
+	province = 486
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 486 }
+	}
+}
+event = {
+	id = 25557
+	trigger = {
+		NOT = { core = { province = 487 data = -1 }}
+	}
+	province = 487
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 487 }
+	}
+}
+event = {
+	id = 25558
+	trigger = {
+		NOT = { core = { province = 488 data = -1 }}
+	}
+	province = 488
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 488 }
+	}
+}
+event = {
+	id = 25559
+	trigger = {
+		NOT = { core = { province = 489 data = -1 }}
+	}
+	province = 489
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 489 }
+	}
+}
+event = {
+	id = 25560
+	trigger = {
+		NOT = { core = { province = 490 data = -1 }}
+	}
+	province = 490
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 490 }
+	}
+}
+event = {
+	id = 25561
+	trigger = {
+		NOT = { core = { province = 491 data = -1 }}
+	}
+	province = 491
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 491 }
+	}
+}
+event = {
+	id = 25562
+	trigger = {
+		NOT = { core = { province = 492 data = -1 }}
+	}
+	province = 492
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 492 }
+	}
+}
+event = {
+	id = 25563
+	trigger = {
+		NOT = { core = { province = 493 data = -1 }}
+	}
+	province = 493
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 493 }
+	}
+}
+event = {
+	id = 25564
+	trigger = {
+		NOT = { core = { province = 494 data = -1 }}
+	}
+	province = 494
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 494 }
+	}
+}
+event = {
+	id = 25565
+	trigger = {
+		NOT = { core = { province = 495 data = -1 }}
+	}
+	province = 495
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 495 }
+	}
+}
+event = {
+	id = 25566
+	trigger = {
+		NOT = { core = { province = 496 data = -1 }}
+	}
+	province = 496
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 496 }
+	}
+}
+event = {
+	id = 25567
+	trigger = {
+		NOT = { core = { province = 497 data = -1 }}
+	}
+	province = 497
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 497 }
+	}
+}
+event = {
+	id = 25568
+	trigger = {
+		NOT = { core = { province = 530 data = -1 }}
+	}
+	province = 530
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 530 }
+	}
+}
+event = {
+	id = 25569
+	trigger = {
+		NOT = { core = { province = 531 data = -1 }}
+	}
+	province = 531
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 531 }
+	}
+}
+event = {
+	id = 25570
+	trigger = {
+		NOT = { core = { province = 732 data = -1 }}
+	}
+	province = 732
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 732 }
+	}
+}
+event = {
+	id = 25571
+	trigger = {
+		NOT = { core = { province = 733 data = -1 }}
+	}
+	province = 733
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 733 }
+	}
+}
+event = {
+	id = 25572
+	trigger = {
+		NOT = { core = { province = 734 data = -1 }}
+	}
+	province = 734
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 734 }
+	}
+}
+event = {
+	id = 25573
+	trigger = {
+		NOT = { core = { province = 735 data = -1 }}
+	}
+	province = 735
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 735 }
+	}
+}
+event = {
+	id = 25574
+	trigger = {
+		NOT = { core = { province = 736 data = -1 }}
+	}
+	province = 736
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 736 }
+	}
+}
+event = {
+	id = 25575
+	trigger = {
+		NOT = { core = { province = 737 data = -1 }}
+	}
+	province = 737
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 737 }
+	}
+}
+event = {
+	id = 25576
+	trigger = {
+		NOT = { core = { province = 738 data = -1 }}
+	}
+	province = 738
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 738 }
+	}
+}
+event = {
+	id = 25577
+	trigger = {
+		NOT = { core = { province = 739 data = -1 }}
+	}
+	province = 739
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 739 }
+	}
+}
+event = {
+	id = 25578
+	trigger = {
+		NOT = { core = { province = 740 data = -1 }}
+	}
+	province = 740
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 740 }
+	}
+}
+event = {
+	id = 25579
+	trigger = {
+		NOT = { core = { province = 741 data = -1 }}
+	}
+	province = 741
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 741 }
+	}
+}
+event = {
+	id = 25580
+	trigger = {
+		NOT = { core = { province = 742 data = -1 }}
+	}
+	province = 742
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 742 }
+	}
+}
+event = {
+	id = 25581
+	trigger = {
+		NOT = { core = { province = 743 data = -1 }}
+	}
+	province = 743
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 743 }
+	}
+}
+event = {
+	id = 25582
+	trigger = {
+		NOT = { core = { province = 744 data = -1 }}
+	}
+	province = 744
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 744 }
+	}
+}
+event = {
+	id = 25583
+	trigger = {
+		NOT = { core = { province = 745 data = -1 }}
+	}
+	province = 745
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 745 }
+	}
+}
+event = {
+	id = 25584
+	trigger = {
+		NOT = { core = { province = 746 data = -1 }}
+	}
+	province = 746
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 746 }
+	}
+}
+event = {
+	id = 25585
+	trigger = {
+		NOT = { core = { province = 747 data = -1 }}
+	}
+	province = 747
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 747 }
+	}
+}
+event = {
+	id = 25586
+	trigger = {
+		NOT = { core = { province = 748 data = -1 }}
+	}
+	province = 748
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 748 }
+	}
+}
+event = {
+	id = 25587
+	trigger = {
+		NOT = { core = { province = 749 data = -1 }}
+	}
+	province = 749
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 749 }
+	}
+}
+event = {
+	id = 25588
+	trigger = {
+		NOT = { core = { province = 750 data = -1 }}
+	}
+	province = 750
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 750 }
+	}
+}
+event = {
+	id = 25589
+	trigger = {
+		NOT = { core = { province = 806 data = -1 }}
+	}
+	province = 806
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 806 }
+	}
+}
+event = {
+	id = 25590
+	trigger = {
+		NOT = { core = { province = 819 data = -1 }}
+	}
+	province = 819
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 819 }
+	}
+}
+event = {
+	id = 25591
+	trigger = {
+		NOT = { core = { province = 820 data = -1 }}
+	}
+	province = 820
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 820 }
+	}
+}
+event = {
+	id = 25592
+	trigger = {
+		NOT = { core = { province = 821 data = -1 }}
+	}
+	province = 821
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 821 }
+	}
+}
+event = {
+	id = 25593
+	trigger = {
+		NOT = { core = { province = 1469 data = -1 }}
+	}
+	province = 1469
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 1469 }
+	}
+}
+event = {
+	id = 25594
+	trigger = {
+		NOT = { core = { province = 1470 data = -1 }}
+	}
+	province = 1470
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 1470 }
+	}
+}
+event = {
+	id = 25595
+	trigger = {
+		NOT = { core = { province = 1609 data = -1 }}
+	}
+	province = 1609
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 1609 }
+	}
+}
+event = {
+	id = 25596
+	trigger = {
+		NOT = { core = { province = 1610 data = -1 }}
+	}
+	province = 1610
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 1610 }
+	}
+}
+event = {
+	id = 25597
+	trigger = {
+		NOT = { core = { province = 1611 data = -1 }}
+	}
+	province = 1611
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 1611 }
+	}
+}
+event = {
+	id = 25598
+	trigger = {
+		NOT = { core = { province = 1612 data = -1 }}
+	}
+	province = 1612
+	random = yes
+	name = "EVENTNAME75"
+	desc = "EVENTHIST75"
+	action_a = {
+		name = "OK"
+		command = { type = addcore which = 1612 }
+	}
+}

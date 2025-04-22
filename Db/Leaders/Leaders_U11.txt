@@ -1,0 +1,962 @@
+historicalleader = {
+	id = { type = 6 id = 2882 }
+	category = monarch
+	name = "Ferdinand II"
+	startdate = {
+		year = 1424
+	}
+	deathdate = {
+		year = 1461
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 5
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 2881 }
+	category = monarch
+	name = "Fernando V"
+	startdate = {
+		year = 1466
+	}
+	deathdate = {
+		year = 1472
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 2880 }
+	category = monarch
+	name = "Carlos XII"
+	startdate = {
+		year = 1477
+	}
+	deathdate = {
+		year = 1498
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 4
+	shock = 3
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 2879 }
+	category = monarch
+	name = "Juan I"
+	startdate = {
+		year = 1501
+	}
+	deathdate = {
+		year = 1543
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 2878 }
+	category = monarch
+	name = "Enrique III"
+	startdate = {
+		year = 1556
+	}
+	deathdate = {
+		year = 1567
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 2877 }
+	category = monarch
+	name = "Fernando VI"
+	startdate = {
+		year = 1567
+	}
+	deathdate = {
+		year = 1597
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 4
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 2876 }
+	category = monarch
+	name = "Fernando VII"
+	startdate = {
+		year = 1598
+	}
+	deathdate = {
+		year = 1627
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 2875 }
+	category = monarch
+	name = "Ferdinand III"
+	startdate = {
+		year = 1667
+	}
+	deathdate = {
+		year = 1669
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 2
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 2874 }
+	category = monarch
+	name = "Felipe XI"
+	startdate = {
+		year = 1767
+	}
+	deathdate = {
+		year = 1803
+		month = january
+		day = 2
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3601 }
+	category = general
+	name = "De Veuigy"
+	startdate = {
+		year = 1415
+	}
+	deathdate = {
+		year = 1434
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3602 }
+	category = general
+	name = "Malaga"
+	startdate = {
+		year = 1408
+	}
+	deathdate = {
+		year = 1430
+	}
+	rank = 2
+	movement = 6
+	fire = 5
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3603 }
+	category = general
+	name = "Tordesillas"
+	startdate = {
+		year = 1504
+	}
+	deathdate = {
+		year = 1529
+	}
+	rank = 7
+	movement = 6
+	fire = 5
+	shock = 6
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3604 }
+	category = general
+	name = "Palma"
+	startdate = {
+		year = 1564
+	}
+	deathdate = {
+		year = 1589
+	}
+	rank = 9
+	movement = 2
+	fire = 3
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3605 }
+	category = conquistador
+	name = "Quesada"
+	startdate = {
+		year = 1524
+	}
+	deathdate = {
+		year = 1540
+	}
+	rank = 10
+	movement = 6
+	fire = 6
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3606 }
+	category = conquistador
+	name = "Ypres"
+	startdate = {
+		year = 1589
+	}
+	deathdate = {
+		year = 1613
+	}
+	rank = 11
+	movement = 2
+	fire = 3
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3607 }
+	category = general
+	name = "Vercelles"
+	startdate = {
+		year = 1430
+	}
+	deathdate = {
+		year = 1447
+	}
+	rank = 2
+	movement = 4
+	fire = 5
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3608 }
+	category = general
+	name = "San Martin"
+	startdate = {
+		year = 1436
+	}
+	deathdate = {
+		year = 1454
+	}
+	rank = 2
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3609 }
+	category = general
+	name = "Canarias"
+	startdate = {
+		year = 1454
+	}
+	deathdate = {
+		year = 1470
+	}
+	rank = 0
+	movement = 4
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3610 }
+	category = general
+	name = "Guerana"
+	startdate = {
+		year = 1458
+	}
+	deathdate = {
+		year = 1481
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3611 }
+	category = general
+	name = "Palma"
+	startdate = {
+		year = 1472
+	}
+	deathdate = {
+		year = 1488
+	}
+	rank = 2
+	movement = 3
+	fire = 5
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3612 }
+	category = general
+	name = "Palos"
+	startdate = {
+		year = 1480
+	}
+	deathdate = {
+		year = 1500
+	}
+	rank = 0
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3613 }
+	category = general
+	name = "Marbella"
+	startdate = {
+		year = 1493
+	}
+	deathdate = {
+		year = 1511
+	}
+	rank = 2
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3614 }
+	category = general
+	name = "Gonzalva"
+	startdate = {
+		year = 1495
+	}
+	deathdate = {
+		year = 1515
+	}
+	rank = 1
+	movement = 4
+	fire = 3
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 3615 }
+	category = general
+	name = "Navarra"
+	startdate = {
+		year = 1513
+	}
+	deathdate = {
+		year = 1536
+	}
+	rank = 3
+	movement = 2
+	fire = 4
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3616 }
+	category = general
+	name = "Grivalva"
+	startdate = {
+		year = 1516
+	}
+	deathdate = {
+		year = 1540
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3617 }
+	category = general
+	name = "Saragossa"
+	startdate = {
+		year = 1533
+	}
+	deathdate = {
+		year = 1553
+	}
+	rank = 3
+	movement = 4
+	fire = 4
+	shock = 4
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3618 }
+	category = general
+	name = "Garcia"
+	startdate = {
+		year = 1536
+	}
+	deathdate = {
+		year = 1554
+	}
+	rank = 3
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3619 }
+	category = general
+	name = "Rio Seco"
+	startdate = {
+		year = 1548
+	}
+	deathdate = {
+		year = 1565
+	}
+	rank = 5
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3620 }
+	category = general
+	name = "Vitoria"
+	startdate = {
+		year = 1560
+	}
+	deathdate = {
+		year = 1583
+	}
+	rank = 6
+	movement = 3
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3621 }
+	category = general
+	name = "Primero"
+	startdate = {
+		year = 1569
+	}
+	deathdate = {
+		year = 1591
+	}
+	rank = 5
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3622 }
+	category = general
+	name = "Toledo"
+	startdate = {
+		year = 1578
+	}
+	deathdate = {
+		year = 1597
+	}
+	rank = 3
+	movement = 3
+	fire = 2
+	shock = 3
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 3623 }
+	category = general
+	name = "Guipuzcoa"
+	startdate = {
+		year = 1590
+	}
+	deathdate = {
+		year = 1609
+	}
+	rank = 0
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3624 }
+	category = general
+	name = "Merida"
+	startdate = {
+		year = 1598
+	}
+	deathdate = {
+		year = 1621
+	}
+	rank = 3
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3625 }
+	category = general
+	name = "Gonzalva"
+	startdate = {
+		year = 1612
+	}
+	deathdate = {
+		year = 1637
+	}
+	rank = 6
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3626 }
+	category = general
+	name = "Badajoz"
+	startdate = {
+		year = 1615
+	}
+	deathdate = {
+		year = 1634
+	}
+	rank = 4
+	movement = 2
+	fire = 5
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3627 }
+	category = general
+	name = "Mondragon"
+	startdate = {
+		year = 1628
+	}
+	deathdate = {
+		year = 1649
+	}
+	rank = 3
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 3628 }
+	category = general
+	name = "Alcaniz"
+	startdate = {
+		year = 1641
+	}
+	deathdate = {
+		year = 1660
+	}
+	rank = 2
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3629 }
+	category = general
+	name = "Mondragon"
+	startdate = {
+		year = 1649
+	}
+	deathdate = {
+		year = 1669
+	}
+	rank = 3
+	movement = 5
+	fire = 3
+	shock = 5
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3630 }
+	category = general
+	name = "Batista"
+	startdate = {
+		year = 1663
+	}
+	deathdate = {
+		year = 1683
+	}
+	rank = 4
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3631 }
+	category = general
+	name = "Marenga"
+	startdate = {
+		year = 1671
+	}
+	deathdate = {
+		year = 1687
+	}
+	rank = 1
+	movement = 3
+	fire = 2
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3632 }
+	category = general
+	name = "Alcaniz"
+	startdate = {
+		year = 1683
+	}
+	deathdate = {
+		year = 1699
+	}
+	rank = 1
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3633 }
+	category = general
+	name = "Batista"
+	startdate = {
+		year = 1687
+	}
+	deathdate = {
+		year = 1708
+	}
+	rank = 1
+	movement = 5
+	fire = 6
+	shock = 5
+	siege = 3
+}
+historicalleader = {
+	id = { type = 6 id = 3634 }
+	category = general
+	name = "Merino"
+	startdate = {
+		year = 1704
+	}
+	deathdate = {
+		year = 1720
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3635 }
+	category = general
+	name = "Lerida"
+	startdate = {
+		year = 1712
+	}
+	deathdate = {
+		year = 1737
+	}
+	rank = 3
+	movement = 3
+	fire = 3
+	shock = 4
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3636 }
+	category = general
+	name = "Atanes"
+	startdate = {
+		year = 1720
+	}
+	deathdate = {
+		year = 1744
+	}
+	rank = 6
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3637 }
+	category = general
+	name = "Talaverra"
+	startdate = {
+		year = 1733
+	}
+	deathdate = {
+		year = 1751
+	}
+	rank = 0
+	movement = 4
+	fire = 6
+	shock = 5
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 3638 }
+	category = general
+	name = "Oviedo"
+	startdate = {
+		year = 1731
+	}
+	deathdate = {
+		year = 1755
+	}
+	rank = 0
+	movement = 4
+	fire = 3
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3639 }
+	category = general
+	name = "Pigafetta"
+	startdate = {
+		year = 1744
+	}
+	deathdate = {
+		year = 1765
+	}
+	rank = 0
+	movement = 2
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3640 }
+	category = general
+	name = "Alicantara"
+	startdate = {
+		year = 1757
+	}
+	deathdate = {
+		year = 1782
+	}
+	rank = 5
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3641 }
+	category = general
+	name = "Miranda"
+	startdate = {
+		year = 1767
+	}
+	deathdate = {
+		year = 1791
+	}
+	rank = 1
+	movement = 5
+	fire = 3
+	shock = 5
+	siege = 2
+}
+historicalleader = {
+	id = { type = 6 id = 3642 }
+	category = general
+	name = "Mendoza"
+	startdate = {
+		year = 1779
+	}
+	deathdate = {
+		year = 1797
+	}
+	rank = 2
+	movement = 6
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3643 }
+	category = general
+	name = "Alcaniz"
+	startdate = {
+		year = 1667
+	}
+	deathdate = {
+		year = 1687
+	}
+	rank = 1
+	movement = 5
+	fire = 5
+	shock = 5
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3644 }
+	category = general
+	name = "Mons"
+	startdate = {
+		year = 1690
+	}
+	deathdate = {
+		year = 1710
+	}
+	rank = 3
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3645 }
+	category = general
+	name = "Mellila"
+	startdate = {
+		year = 1712
+	}
+	deathdate = {
+		year = 1731
+	}
+	rank = 4
+	movement = 2
+	fire = 2
+	shock = 2
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3646 }
+	category = general
+	name = "Malaga"
+	startdate = {
+		year = 1736
+	}
+	deathdate = {
+		year = 1761
+	}
+	rank = 2
+	movement = 6
+	fire = 4
+	shock = 3
+	siege = 1
+}
+historicalleader = {
+	id = { type = 6 id = 3647 }
+	category = general
+	name = "Denia"
+	startdate = {
+		year = 1771
+	}
+	deathdate = {
+		year = 1787
+	}
+	rank = 6
+	movement = 6
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3648 }
+	category = general
+	name = "Coruna"
+	startdate = {
+		year = 1668
+	}
+	deathdate = {
+		year = 1688
+	}
+	rank = 0
+	movement = 2
+	fire = 5
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3649 }
+	category = general
+	name = "Denia"
+	startdate = {
+		year = 1692
+	}
+	deathdate = {
+		year = 1716
+	}
+	rank = 0
+	movement = 3
+	fire = 3
+	shock = 3
+	siege = 0
+}
+historicalleader = {
+	id = { type = 6 id = 3600 }
+	category = general
+	name = "Vercelles"
+	startdate = {
+		year = 1710
+	}
+	deathdate = {
+		year = 1731
+	}
+	rank = 1
+	movement = 3
+	fire = 4
+	shock = 2
+	siege = 0
+}

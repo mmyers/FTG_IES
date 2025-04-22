@@ -1,0 +1,187 @@
+# Numbering scheme: First a fixed number 717 specifying a range. Then a four
+# digit number for the province. Finally a two digit number for the different
+# events for that province.
+
+# Main action events to change provinces to reformed during Jean Calvin.
+# These won't happen by themselves, they are intended to (perhaps) be
+# triggered by the helper events.
+
+event = {
+    id = 717023610
+    random = no
+    province = 236
+    name = "The Highlands converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 236 value = reformed }
+    }
+}
+
+event = {
+    id = 717023710
+    random = no
+    province = 237
+    name = "The Grampians converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 237 value = reformed }
+    }
+}
+
+event = {
+    id = 717023810
+    random = no
+    province = 238
+    name = "Lothian converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 238 value = reformed }
+    }
+}
+
+event = {
+    id = 717023910
+    random = no
+    province = 239
+    name = "Strathclyde converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 239 value = reformed }
+    }
+}
+
+event = {
+    id = 717024010
+    random = no
+    province = 240
+    name = "Northumberland converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 240 value = reformed }
+    }
+}
+
+event = {
+    id = 717024110
+    random = no
+    province = 241
+    name = "Yorkshire converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 241 value = reformed }
+    }
+}
+
+event = {
+    id = 717024210
+    random = no
+    province = 242
+    name = "Lancashire converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 242 value = reformed }
+    }
+}
+
+event = {
+    id = 717024310
+    random = no
+    province = 243
+    name = "Wales converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 243 value = reformed }
+    }
+}
+
+event = {
+    id = 717024410
+    random = no
+    province = 244
+    name = "Midlands converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 244 value = reformed }
+    }
+}
+
+event = {
+    id = 717024510
+    random = no
+    province = 245
+    name = "Lincoln converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 245 value = reformed }
+    }
+}
+
+event = {
+    id = 717024610
+    random = no
+    province = 246
+    name = "Bristol converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 246 value = reformed }
+    }
+}
+
+event = {
+    id = 717024710
+    random = no
+    province = 247
+    name = "Anglia converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 247 value = reformed }
+    }
+}
+
+event = {
+    id = 717024810
+    random = no
+    province = 248
+    name = "Kent converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 248 value = reformed }
+    }
+}
+
+event = {
+    id = 717024910
+    random = no
+    province = 249
+    name = "Wessex converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 249 value = reformed }
+    }
+}
+
+event = {
+    id = 717025010
+    random = no
+    province = 250
+    name = "Cornwall converted to reformed"
+    desc = "As a result of the spread of the reformation, the province is now considered as being of the reformed faith."
+    action_a = {
+        name = "OK"
+        command = { type = provincereligion which = 250 value = reformed }
+    }
+}

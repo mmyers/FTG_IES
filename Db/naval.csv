@@ -1,0 +1,62 @@
+level;Cost;WarshipFire;WarshipShock;GalleyFire;GalleyShock;Attrition;Morale;Wind;Low Wind;Sprite;Era;Name;
+0;1419;5;50;1;100;1;1.5;0;10;0;0;Medieval (0);Allows Warships, Galleys and naval troop transportation
+1;1429;5;50;1;100;1;1.5;0;10;0;0;Late Medieval (1);
+2;1450;5;50;1;100;1;1.5;0;9;0;0;Late Medieval (2);
+3;1465;5;50;1;100;1;1.5;0;8;0;0;Late Medieval (3);
+4;1475;5;50;1;100;1;1.5;0;8;0;0;Late Medieval (4);Allows Transport ships
+5;1485;5;50;1;100;1;1.5;0;7;0;0;Late Medieval (5);
+6;1495;10;70;1;100;1;1.5;0;7;0;0;Late Medieval (6);
+7;1497;10;70;1;100;0.9;1.5;0;6;0;0;Late Medieval (7);
+8;1498;10;70;1;100;0.9;1.5;0;6;0;0;Late Medieval (8);
+9;1502;30;70;1;100;0.8;1.5;0;6;0;1;Late Medieval (9);Bronze Cannon Armament (Improved CRT)
+10;1508;50;70;5;100;0.8;1.5;0;6;0;1;Late Medieval (10);
+11;1518;100;80;5;100;0.8;1.75;0;5;0;1;Renaissance (11);Great Royal Wharf (Allows Shipyards)
+12;1530;100;80;5;100;0.7;1.75;0;5;0;1;Renaissance (12);
+13;1540;100;80;5;100;0.7;1.75;0.5;5;0;1;Renaissance (13);
+14;1545;100;80;5;100;0.7;1.75;0.5;5;0;1;Renaissance (14);
+15;1550;100;80;5;100;0.6;1.75;0.5;5;0;1;Renaissance (15);
+16;1565;100;80;5;100;0.6;1.75;0.5;5;0;1;Renaissance (16);Military-Mercantile Complex (Allows Naval Equipement Manufactories)
+17;1585;100;100;5;100;0.6;2.5;1.5;3;1;1;Renaissance (17);Galleon Shiptype ( Improved Moral and Wind Gauge)
+18;1600;100;100;7;100;0.6;2.5;1.5;1;1;1;Renaissance (18);Navigation Instruments (Increase sightrange at sea)
+19;1610;110;100;10;100;0.5;2.5;1.5;0;1;1;Renaissance (19);
+20;1620;110;100;10;100;0.5;2.5;2;0;1;1;Renaissance (20);
+21;1625;110;100;10;100;0.5;2.5;2;0;1;2;Baroque (21);Iron Cannon Armament (Improved CRT)
+22;1636;110;100;10;100;0.5;2.5;2.5;0;1;2;Baroque (22);
+23;1644;130;100;20;100;0.5;2.5;2.5;0;1;2;Baroque (23);
+24;1655;140;110;30;110;0.5;2.5;2.5;0;1;2;Baroque (24);
+25;1660;150;110;30;110;0.5;2.5;2.5;0;1;2;Baroque (25);
+26;1675;175;110;30;110;0.5;2.75;2.5;0;1;3;Baroque (26);Professional Navy (Improved CRT and Allows Naval Blockade)
+27;1690;175;110;30;110;0.4;2.75;2.75;0;1;3;Baroque (27);Naval Entrepreneurs (Allows exploration with all Navies)
+28;1700;175;120;30;120;0.4;2.75;2.75;0;1;3;Baroque (28);
+29;1709;190;120;30;120;0.4;2.75;2.75;0;1;3;Baroque (29);
+30;1714;190;120;30;120;0.4;2.75;2.75;0;1;3;Baroque (30);
+31;1719;190;150;30;150;0.3;3;3.5;0;2;4;War of Maneuver (31);Vaisseaux Shiptype ( Improved Moral and Wind Gauge )
+32;1723;200;150;30;150;0.3;3;3.5;0;2;4;War of Maneuver (32);
+33;1725;200;175;30;160;0.3;3;3.5;0;2;4;War of Maneuver (33);
+34;1727;220;175;50;160;0.3;3;3.5;0;2;4;War of Maneuver (34);
+35;1730;220;180;50;170;0.3;3;3.5;0;2;4;War of Maneuver (35);
+36;1732;250;190;50;170;0.3;3;3.5;0;2;4;War of Maneuver (36);
+37;1735;230;190;50;170;0.3;3;3.5;0;2;4;War of Maneuver (37);
+38;1737;230;190;50;170;0.3;3;3.5;0;2;4;War of Maneuver (38);Sturdier Hulls (Cancels effect of Storms)
+39;1743;240;190;50;170;0.3;3;3.5;0;2;4;War of Maneuver (39);
+40;1747;240;190;50;170;0.3;3;3.5;0;2;4;War of Maneuver (40);
+41;1750;240;200;50;170;0.3;3;4;0;2;4;War in Laces (41);Naval Supply System (Cancels effect of naval attrition)
+42;1755;250;200;50;170;0.3;4;4;0;2;4;War in Laces (42);
+43;1760;250;200;50;170;0.2;4;4;0;2;5;War in Laces (43);Straightbore Armament (Improved CRT)
+44;1765;250;200;50;170;0.2;4;4.5;0;2;5;War in Laces (44);
+45;1770;260;200;50;170;0.2;4;4.5;0;2;5;War in Laces (45);
+46;1775;260;200;50;170;0.1;4;4.5;0;2;5;War in Laces (46);
+47;1780;260;220;50;170;0.1;4;4.5;0;2;5;War in Laces (47);
+48;1785;260;230;50;170;0.1;4;4.5;0;2;5;War in Laces (48);
+49;1790;260;230;50;170;0.1;5;5;0;3;5;War in Laces (49);Triple Decker Shiptype (  Improved Moral and Wind Gauge )
+50;1791;260;230;50;170;0.1;5;5;0;3;5;War in Laces (50);
+51;1792;260;230;50;170;0.1;5;5;0;3;6;Revolutionary (51);Carronade Armament (Improved CRT)
+52;1795;260;230;50;170;0.1;5;5;0;3;6;Revolutionary (52);
+53;1798;260;230;50;170;0.1;5;5;0;3;6;Revolutionary (53);
+54;1801;260;230;50;170;0.1;5;5;0;3;6;Revolutionary (54);
+55;1805;270;230;50;170;0.1;5;5;0;3;6;Revolutionary (55);
+56;1809;270;230;50;170;0.1;5;5;0;3;6;Revolutionary (56);
+57;1812;270;230;50;170;0.1;5;5;0;3;6;Revolutionary (57);
+58;1813;270;230;50;170;0.1;5;5;0;3;6;Revolutionary (58);
+59;1815;270;230;50;170;0.1;5;5;0;3;6;Revolutionary (59);
+60;9999;280;230;50;170;0.1;5;5;0;3;6;Revolutionary (60);

@@ -1,0 +1,5281 @@
+event = {
+	id = 25001
+	random = yes
+	name = "EVENTNAME10"
+	desc = "EVENTHIST10"
+	action_a = {
+		name = "OK"
+		command = { type = dip which = 3 value = 120 }
+	}
+}
+event = {
+	id = 25002
+	random = yes
+	name = "EVENTNAME10"
+	desc = "EVENTHIST10"
+	action_a = {
+		name = "OK"
+		command = { type = adm which = 3 value = 120 }
+	}
+}
+event = {
+	id = 25003
+	random = yes
+	name = "EVENTNAME10"
+	desc = "EVENTHIST10"
+	action_a = {
+		name = "OK"
+		command = { type = mil which = 3 value = 120 }
+	}
+}
+event = {
+	id = 25004
+	random = yes
+	name = "EVENTNAME10"
+	desc = "EVENTHIST10"
+	action_a = {
+		name = "OK"
+		command = { type = dip which = 2 value = 120 }
+		command = { type = adm which = 1 value = 120 }
+	}
+}
+event = {
+	id = 25005
+	random = yes
+	name = "EVENTNAME10"
+	desc = "EVENTHIST10"
+	action_a = {
+		name = "OK"
+		command = { type = dip which = 2 value = 120 }
+		command = { type = mil which = 1 value = 120 }
+	}
+}
+event = {
+	id = 25006
+	random = yes
+	name = "EVENTNAME10"
+	desc = "EVENTHIST10"
+	action_a = {
+		name = "OK"
+		command = { type = adm which = 2 value = 120 }
+		command = { type = mil which = 1 value = 120 }
+	}
+}
+event = {
+	id = 25007
+	random = yes
+	name = "EVENTNAME10"
+	desc = "EVENTHIST10"
+	action_a = {
+		name = "OK"
+		command = { type = dip which = 1 value = 120 }
+		command = { type = adm which = 2 value = 120 }
+	}
+}
+event = {
+	id = 25008
+	random = yes
+	name = "EVENTNAME10"
+	desc = "EVENTHIST10"
+	action_a = {
+		name = "OK"
+		command = { type = dip which = 1 value = 120 }
+		command = { type = mil which = 2 value = 120 }
+	}
+}
+event = {
+	id = 25009
+	random = yes
+	name = "EVENTNAME10"
+	desc = "EVENTHIST10"
+	action_a = {
+		name = "OK"
+		command = { type = adm which = 1 value = 120 }
+		command = { type = mil which = 2 value = 120 }
+	}
+}
+event = {
+	id = 25010
+	random = yes
+	name = "EVENTNAME11"
+	desc = "EVENTHIST11"
+	action_a = {
+		name = "OK"
+		command = { type = dip which = -3 value = 120 }
+	}
+}
+event = {
+	id = 25011
+	random = yes
+	name = "EVENTNAME11"
+	desc = "EVENTHIST11"
+	action_a = {
+		name = "OK"
+		command = { type = adm which = -2 value = 120 }
+	}
+}
+event = {
+	id = 25012
+	random = yes
+	name = "EVENTNAME11"
+	desc = "EVENTHIST11"
+	action_a = {
+		name = "OK"
+		command = { type = mil which = -2 value = 120 }
+	}
+}
+event = {
+	id = 25013
+	trigger = {
+		domestic = { type = INNOVATIVE value = 1 }
+		infra = 6
+	}
+	random = yes
+	name = "EVENTNAME27"
+	desc = "EVENTHIST27"
+	action_a = {
+		name = "OK"
+		command = { type = gainmanufactory which = -1 value = -1 }
+	}
+}
+event = {
+	id = 25014
+	trigger = {
+		domestic = { type = INNOVATIVE value = 3 }
+		infra = 5
+	}
+	random = yes
+	name = "EVENTNAME16"
+	desc = "EVENTHIST16"
+	action_a = {
+		name = "OK"
+		command = { type = gainmanufactory which = -1 value = -1 }
+	}
+}
+event = {
+	id = 25015
+	trigger = {
+		domestic = { type = INNOVATIVE value = 5 }
+		infra = 4
+	}
+	random = yes
+	name = "EVENTNAME16"
+	desc = "EVENTHIST16"
+	action_a = {
+		name = "OK"
+		command = { type = gainmanufactory which = -1 value = -1 }
+	}
+}
+event = {
+	id = 25016
+	trigger = {
+		NOT = { countrysize = 4 }
+		domestic = { type = land value = 5 }
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT62C"
+		command = { type = land value = 100 }
+		command = { type = cash value = -10 }
+	}
+	action_b = {
+		name = "EVENT62A"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = 2 }
+		command = { type = land value = 250 }
+		command = { type = cash value = -50 }
+	}
+	action_c = {
+		name = "EVENT62B"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = -2 }
+		command = { type = land value = 250 }
+		command = { type = cash value = -50 }
+	}
+	action_d = {
+		name = "EVENT62D"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = naval value = 250 }
+		command = { type = trade value = 50 }
+		command = { type = cash value = -50 }
+	}
+}
+event = {
+	id = 25017
+	trigger = {
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		domestic = { type = land value = 5 }
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT62C"
+		command = { type = land value = 250 }
+		command = { type = cash value = -25 }
+	}
+	action_b = {
+		name = "EVENT62A"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = 2 }
+		command = { type = land value = 500 }
+		command = { type = cash value = -100 }
+	}
+	action_c = {
+		name = "EVENT62B"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = -2 }
+		command = { type = land value = 500 }
+		command = { type = cash value = -100 }
+	}
+	action_d = {
+		name = "EVENT62D"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = naval value = 500 }
+		command = { type = trade value = 100 }
+		command = { type = cash value = -100 }
+	}
+}
+event = {
+	id = 25018
+	trigger = {
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		domestic = { type = land value = 5 }
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT62C"
+		command = { type = land value = 500 }
+		command = { type = cash value = -50 }
+	}
+	action_b = {
+		name = "EVENT62A"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = 2 }
+		command = { type = land value = 1000 }
+		command = { type = cash value = -200 }
+	}
+	action_c = {
+		name = "EVENT62B"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = -2 }
+		command = { type = land value = 1000 }
+		command = { type = cash value = -200 }
+	}
+	action_d = {
+		name = "EVENT62D"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = naval value = 1000 }
+		command = { type = trade value = 200 }
+		command = { type = cash value = -200 }
+	}
+}
+event = {
+	id = 25019
+	trigger = {
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		domestic = { type = land value = 5 }
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT62C"
+		command = { type = land value = 1000 }
+		command = { type = cash value = -100 }
+	}
+	action_b = {
+		name = "EVENT62A"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = 2 }
+		command = { type = land value = 2500 }
+		command = { type = cash value = -500 }
+	}
+	action_c = {
+		name = "EVENT62B"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = -2 }
+		command = { type = land value = 2500 }
+		command = { type = cash value = -500 }
+	}
+	action_d = {
+		name = "EVENT62D"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = naval value = 2500 }
+		command = { type = trade value = 500 }
+		command = { type = cash value = -500 }
+	}
+}
+event = {
+	id = 25020
+	trigger = {
+		countrysize = 80
+		domestic = { type = land value = 5 }
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT62C"
+		command = { type = land value = 2500 }
+		command = { type = cash value = -250 }
+	}
+	action_b = {
+		name = "EVENT62A"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = 2 }
+		command = { type = land value = 5000 }
+		command = { type = cash value = -1000 }
+	}
+	action_c = {
+		name = "EVENT62B"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = -2 }
+		command = { type = land value = 5000 }
+		command = { type = cash value = -1000 }
+	}
+	action_d = {
+		name = "EVENT62D"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = naval value = 5000 }
+		command = { type = trade value = 1000 }
+		command = { type = cash value = -1000 }
+	}
+}
+
+
+
+
+
+event = {
+	id = 25021
+	trigger = {
+		NOT = { countrysize = 4 }
+		NOT = { domestic = { type = land value = 6 }
+		}
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT62C"
+		command = { type = naval value = 100 }
+		command = { type = cash value = -10 }
+	}
+	action_b = {
+		name = "EVENT62D"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = naval value = 250 }
+		command = { type = trade value = 50 }
+		command = { type = cash value = -50 }
+	}
+	action_c = {
+		name = "EVENT62B"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = -2 }
+		command = { type = land value = 250 }
+		command = { type = cash value = -50 }
+	}
+	action_d = {
+		name = "EVENT62A"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = 2 }
+		command = { type = land value = 250 }
+		command = { type = cash value = -50 }
+	}
+}
+event = {
+	id = 25022
+	trigger = {
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		NOT = { domestic = { type = land value = 6 }
+		}
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT62C"
+		command = { type = naval value = 250 }
+		command = { type = cash value = -25 }
+	}
+	action_b = {
+		name = "EVENT62D"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = naval value = 500 }
+		command = { type = trade value = 100 }
+		command = { type = cash value = -100 }
+	}
+	action_c = {
+		name = "EVENT62B"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = -2 }
+		command = { type = land value = 500 }
+		command = { type = cash value = -100 }
+	}
+	action_d = {
+		name = "EVENT62A"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = 2 }
+		command = { type = land value = 500 }
+		command = { type = cash value = -100 }
+	}
+}
+event = {
+	id = 25023
+	trigger = {
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		NOT = { domestic = { type = land value = 6 }
+		}
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT62C"
+		command = { type = naval value = 500 }
+		command = { type = cash value = -50 }
+	}
+	action_b = {
+		name = "EVENT62D"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = naval value = 1000 }
+		command = { type = trade value = 200 }
+		command = { type = cash value = -200 }
+	}
+	action_c = {
+		name = "EVENT62B"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = -2 }
+		command = { type = land value = 1000 }
+		command = { type = cash value = -200 }
+	}
+	action_d = {
+		name = "EVENT62A"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = 2 }
+		command = { type = land value = 1000 }
+		command = { type = cash value = -200 }
+	}
+}
+event = {
+	id = 25024
+	trigger = {
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		NOT = { domestic = { type = land value = 6 }
+		}
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT62C"
+		command = { type = naval value = 1000 }
+		command = { type = cash value = -100 }
+	}
+	action_b = {
+		name = "EVENT62D"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = naval value = 2500 }
+		command = { type = trade value = 500 }
+		command = { type = cash value = -500 }
+	}
+	action_c = {
+		name = "EVENT62B"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = -2 }
+		command = { type = land value = 2500 }
+		command = { type = cash value = -500 }
+	}
+	action_d = {
+		name = "EVENT62A"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = 2 }
+		command = { type = land value = 2500 }
+		command = { type = cash value = -500 }
+	}
+}
+event = {
+	id = 25025
+	trigger = {
+		countrysize = 80
+		NOT = { domestic = { type = land value = 6 }
+		}
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT62C"
+		command = { type = naval value = 2500 }
+		command = { type = cash value = -250 }
+	}
+	action_b = {
+		name = "EVENT62D"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = -2 }
+		command = { type = domestic which = ARISTOCRACY value = -2 }
+		command = { type = naval value = 5000 }
+		command = { type = trade value = 1000 }
+		command = { type = cash value = -1000 }
+	}
+	action_c = {
+		name = "EVENT62B"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = -2 }
+		command = { type = land value = 5000 }
+		command = { type = cash value = -1000 }
+	}
+	action_d = {
+		name = "EVENT62A"
+		command = { type = stability value = -1 }
+		command = { type = domestic which = LAND value = 1 }
+		command = { type = domestic which = OFFENSIVE value = 2 }
+		command = { type = land value = 5000 }
+		command = { type = cash value = -1000 }
+	}
+}
+
+event = {
+	id = 25026
+	trigger = {
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT68B"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT62E"
+		command = { type = domestic which = quality value = 1 }
+		command = { type = cash value = -10 }
+	}
+	action_c = {
+		name = "EVENT62F"
+		command = { type = domestic which = quality value = -1 }
+		command = { type = cash value = -10 }
+		command = { type = inf which = -2 value = 2000 }
+	}
+}
+event = {
+	id = 25027
+	trigger = {
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT68B"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT62E"
+		command = { type = domestic which = quality value = 1 }
+		command = { type = cash value = -25 }
+	}
+	action_c = {
+		name = "EVENT62F"
+		command = { type = domestic which = quality value = -1 }
+		command = { type = cash value = -25 }
+		command = { type = inf which = -2 value = 5000 }
+	}
+}
+event = {
+	id = 25028
+	trigger = {
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT68B"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT62E"
+		command = { type = domestic which = quality value = 1 }
+		command = { type = cash value = -50 }
+	}
+	action_c = {
+		name = "EVENT62F"
+		command = { type = domestic which = quality value = -1 }
+		command = { type = cash value = -50 }
+		command = { type = inf which = -2 value = 10000 }
+	}
+}
+event = {
+	id = 25029
+	trigger = {
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT68B"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT62E"
+		command = { type = domestic which = quality value = 1 }
+		command = { type = cash value = -100 }
+	}
+	action_c = {
+		name = "EVENT62F"
+		command = { type = domestic which = quality value = -1 }
+		command = { type = cash value = -100 }
+		command = { type = inf which = -2 value = 20000 }
+	}
+}
+event = {
+	id = 25030
+	trigger = {
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME62"
+	desc = "EVENTHIST62"
+	action_a = {
+		name = "EVENT68B"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT62E"
+		command = { type = domestic which = quality value = 1 }
+		command = { type = cash value = -250 }
+	}
+	action_c = {
+		name = "EVENT62F"
+		command = { type = domestic which = quality value = -1 }
+		command = { type = cash value = -250 }
+		command = { type = inf which = -2 value = 50000 }
+	}
+}
+event = {
+	id = 25031
+	trigger = {
+		NOT = { countrysize = 4 }
+		atwar = yes
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -1 }
+		command = { type = desertion which = -1 value = 1000 }
+	}
+}
+event = {
+	id = 25032
+	trigger = {
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		atwar = yes
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -1 }
+		command = { type = desertion which = -1 value = 2000 }
+	}
+}
+event = {
+	id = 25033
+	trigger = {
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		atwar = yes
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -1 }
+		command = { type = desertion which = -1 value = 5000 }
+	}
+}
+event = {
+	id = 25034
+	trigger = {
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		atwar = yes
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -1 }
+		command = { type = desertion which = -1 value = 5000 }
+		command = { type = desertion which = -1 value = 5000 }
+	}
+}
+event = {
+	id = 25035
+	trigger = {
+		countrysize = 80
+		atwar = yes
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -1 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25036
+	trigger = {
+		NOT = { countrysize = 4 }
+		atwar = yes
+		domestic = { type = SERFDOM value = 3 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -1 }
+		command = { type = desertion which = -1 value = 1000 }
+		command = { type = desertion which = -1 value = 1000 }
+	}
+}
+event = {
+	id = 25037
+	trigger = {
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		atwar = yes
+		domestic = { type = SERFDOM value = 3 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -1 }
+		command = { type = desertion which = -1 value = 2000 }
+		command = { type = desertion which = -1 value = 2000 }
+	}
+}
+event = {
+	id = 25038
+	trigger = {
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		atwar = yes
+		domestic = { type = SERFDOM value = 3 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -1 }
+		command = { type = desertion which = -1 value = 5000 }
+		command = { type = desertion which = -1 value = 5000 }
+	}
+}
+event = {
+	id = 25039
+	trigger = {
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		atwar = yes
+		domestic = { type = SERFDOM value = 3 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -1 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25040
+	trigger = {
+		countrysize = 80
+		atwar = yes
+		domestic = { type = SERFDOM value = 3 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -1 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25041
+	trigger = {
+		NOT = { countrysize = 4 }
+		atwar = yes
+		domestic = { type = SERFDOM value = 6 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -2 }
+		command = { type = desertion which = -1 value = 1000 }
+		command = { type = desertion which = -1 value = 1000 }
+		command = { type = desertion which = -1 value = 1000 }
+	}
+}
+event = {
+	id = 25042
+	trigger = {
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		atwar = yes
+		domestic = { type = SERFDOM value = 6 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -2 }
+		command = { type = desertion which = -1 value = 2000 }
+		command = { type = desertion which = -1 value = 2000 }
+		command = { type = desertion which = -1 value = 2000 }
+	}
+}
+event = {
+	id = 25043
+	trigger = {
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		atwar = yes
+		domestic = { type = SERFDOM value = 6 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -2 }
+		command = { type = desertion which = -1 value = 5000 }
+		command = { type = desertion which = -1 value = 5000 }
+		command = { type = desertion which = -1 value = 5000 }
+	}
+}
+event = {
+	id = 25044
+	trigger = {
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		atwar = yes
+		domestic = { type = SERFDOM value = 6 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -2 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25045
+	trigger = {
+		countrysize = 80
+		atwar = yes
+		domestic = { type = SERFDOM value = 6 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -2 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25046
+	trigger = {
+		NOT = { countrysize = 4 }
+		atwar = yes
+		domestic = { type = SERFDOM value = 9 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -2 }
+		command = { type = desertion which = -1 value = 1000 }
+		command = { type = desertion which = -1 value = 1000 }
+		command = { type = desertion which = -1 value = 1000 }
+		command = { type = desertion which = -1 value = 1000 }
+	}
+}
+event = {
+	id = 25047
+	trigger = {
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		atwar = yes
+		domestic = { type = SERFDOM value = 9 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -2 }
+		command = { type = desertion which = -1 value = 2000 }
+		command = { type = desertion which = -1 value = 2000 }
+		command = { type = desertion which = -1 value = 2000 }
+		command = { type = desertion which = -1 value = 2000 }
+	}
+}
+event = {
+	id = 25048
+	trigger = {
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		atwar = yes
+		domestic = { type = SERFDOM value = 9 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -2 }
+		command = { type = desertion which = -1 value = 5000 }
+		command = { type = desertion which = -1 value = 5000 }
+		command = { type = desertion which = -1 value = 5000 }
+		command = { type = desertion which = -1 value = 5000 }
+	}
+}
+event = {
+	id = 25049
+	trigger = {
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		atwar = yes
+		domestic = { type = SERFDOM value = 9 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -2 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25050
+	trigger = {
+		countrysize = 80
+		atwar = yes
+		domestic = { type = SERFDOM value = 9 }
+		NOT = { stability = 2 }
+	}
+	random = yes
+	name = "EVENTNAME63"
+	desc = "EVENTHIST63"
+	action_a = {
+		name = "EVENT63A"
+		command = { type = stability value = -2 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+		command = { type = desertion which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25051
+	trigger = {
+		domestic = { type = land value = 6 }
+		domestic = { type = aristocracy value = 6 }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 2 }
+	}
+}
+event = {
+	id = 25052
+	trigger = {
+		domestic = { type = land value = 6 }
+		domestic = { type = aristocracy value = 6 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 4 }
+	}
+}
+event = {
+	id = 25053
+	trigger = {
+		domestic = { type = land value = 6 }
+		domestic = { type = aristocracy value = 6 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 6 }
+	}
+}
+event = {
+	id = 25054
+	trigger = {
+		domestic = { type = land value = 6 }
+		domestic = { type = aristocracy value = 6 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 8 }
+	}
+}
+event = {
+	id = 25055
+	trigger = {
+		domestic = { type = land value = 6 }
+		domestic = { type = aristocracy value = 6 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 10 }
+	}
+}
+event = {
+	id = 25056
+	trigger = {
+		NOT = { domestic = { type = land value = 6 } }
+		NOT = { domestic = { type = aristocracy value = 6 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 3 }
+	}
+}
+event = {
+	id = 25057
+	trigger = {
+		NOT = { domestic = { type = land value = 6 } }
+		NOT = { domestic = { type = aristocracy value = 6 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 6 }
+	}
+}
+event = {
+	id = 25058
+	trigger = {
+		NOT = { domestic = { type = land value = 6 } }
+		NOT = { domestic = { type = aristocracy value = 6 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 9 }
+	}
+}
+event = {
+	id = 25059
+	trigger = {
+		NOT = { domestic = { type = land value = 6 } }
+		NOT = { domestic = { type = aristocracy value = 6 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 12 }
+	}
+}
+event = {
+	id = 25060
+	trigger = {
+		NOT = { domestic = { type = land value = 6 } }
+		NOT = { domestic = { type = aristocracy value = 6 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 15 }
+	}
+}
+event = {
+	id = 25061
+	trigger = {
+		NOT = { domestic = { type = land value = 4 } }
+		NOT = { domestic = { type = aristocracy value = 4 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 4 }
+	}
+}
+event = {
+	id = 25062
+	trigger = {
+		NOT = { domestic = { type = land value = 4 } }
+		NOT = { domestic = { type = aristocracy value = 4 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 8 }
+	}
+}
+event = {
+	id = 25063
+	trigger = {
+		NOT = { domestic = { type = land value = 4 } }
+		NOT = { domestic = { type = aristocracy value = 4 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 12 }
+	}
+}
+event = {
+	id = 25064
+	trigger = {
+		NOT = { domestic = { type = land value = 4 } }
+		NOT = { domestic = { type = aristocracy value = 4 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 16 }
+	}
+}
+event = {
+	id = 25065
+	trigger = {
+		NOT = { domestic = { type = land value = 4 } }
+		NOT = { domestic = { type = aristocracy value = 4 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 20 }
+	}
+}
+
+event = {
+	id = 25066
+	trigger = {
+		NOT = { domestic = { type = land value = 2 } }
+		NOT = { domestic = { type = aristocracy value = 2 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 5 }
+	}
+}
+event = {
+	id = 25067
+	trigger = {
+		NOT = { domestic = { type = land value = 2 } }
+		NOT = { domestic = { type = aristocracy value = 2 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 10 }
+	}
+}
+event = {
+	id = 25068
+	trigger = {
+		NOT = { domestic = { type = land value = 2 } }
+		NOT = { domestic = { type = aristocracy value = 2 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 15 }
+	}
+}
+event = {
+	id = 25069
+	trigger = {
+		NOT = { domestic = { type = land value = 2 } }
+		NOT = { domestic = { type = aristocracy value = 2 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 20 }
+	}
+}
+event = {
+	id = 25070
+	trigger = {
+		NOT = { domestic = { type = land value = 2 } }
+		NOT = { domestic = { type = aristocracy value = 2 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = warships which = -1 value = 25 }
+	}
+}
+event = {
+	id = 25071
+	trigger = {
+		domestic = { type = aristocracy value = 6 }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 4 }
+	}
+}
+event = {
+	id = 25072
+	trigger = {
+		domestic = { type = aristocracy value = 6 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 8 }
+	}
+}
+event = {
+	id = 25073
+	trigger = {
+		domestic = { type = aristocracy value = 6 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 12 }
+	}
+}
+event = {
+	id = 25074
+	trigger = {
+		domestic = { type = aristocracy value = 6 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 16 }
+	}
+}
+event = {
+	id = 25075
+	trigger = {
+		domestic = { type = aristocracy value = 6 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 20 }
+	}
+}
+event = {
+	id = 25076
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 6 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 6 }
+	}
+}
+event = {
+	id = 25077
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 6 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 12 }
+	}
+}
+event = {
+	id = 25078
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 6 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 18 }
+	}
+}
+event = {
+	id = 25079
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 6 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 24 }
+	}
+}
+event = {
+	id = 25080
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 6 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 30 }
+	}
+}
+event = {
+	id = 25081
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 4 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 8 }
+	}
+}
+event = {
+	id = 25082
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 4 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 16 }
+	}
+}
+event = {
+	id = 25083
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 4 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 24 }
+	}
+}
+event = {
+	id = 25084
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 4 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 32 }
+	}
+}
+event = {
+	id = 25085
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 4 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 40 }
+	}
+}
+
+event = {
+	id = 25086
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 2 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 10 }
+	}
+}
+event = {
+	id = 25087
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 2 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 20 }
+	}
+}
+event = {
+	id = 25088
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 2 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 30 }
+	}
+}
+event = {
+	id = 25089
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 2 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 40 }
+	}
+}
+event = {
+	id = 25090
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 2 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = transports which = -1 value = 50 }
+	}
+}
+event = {
+	id = 25091
+	trigger = {
+		domestic = { type = land value = 6 }
+		NOT = { countrysize = 4 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 4 }
+	}
+}
+event = {
+	id = 25092
+	trigger = {
+		domestic = { type = land value = 6 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 8 }
+	}
+}
+event = {
+	id = 25093
+	trigger = {
+		domestic = { type = land value = 6 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 12 }
+	}
+}
+event = {
+	id = 25094
+	trigger = {
+		domestic = { type = land value = 6 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 16 }
+	}
+}
+event = {
+	id = 25095
+	trigger = {
+		domestic = { type = land value = 6 }
+		countrysize = 80
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 20 }
+	}
+}
+event = {
+	id = 25096
+	trigger = {
+		NOT = { domestic = { type = land value = 6 } }
+		NOT = { countrysize = 4 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 6 }
+	}
+}
+event = {
+	id = 25097
+	trigger = {
+		NOT = { domestic = { type = land value = 6 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 12 }
+	}
+}
+event = {
+	id = 25098
+	trigger = {
+		NOT = { domestic = { type = land value = 6 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 18 }
+	}
+}
+event = {
+	id = 25099
+	trigger = {
+		NOT = { domestic = { type = land value = 6 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 24 }
+	}
+}
+event = {
+	id = 25100
+	trigger = {
+		NOT = { domestic = { type = land value = 6 } }
+		countrysize = 80
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 30 }
+	}
+}
+event = {
+	id = 25101
+	trigger = {
+		NOT = { domestic = { type = land value = 4 } }
+		NOT = { countrysize = 4 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 8 }
+	}
+}
+event = {
+	id = 25102
+	trigger = {
+		NOT = { domestic = { type = land value = 4 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 16 }
+	}
+}
+event = {
+	id = 25103
+	trigger = {
+		NOT = { domestic = { type = land value = 4 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 24 }
+	}
+}
+event = {
+	id = 25104
+	trigger = {
+		NOT = { domestic = { type = land value = 4 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 32 }
+	}
+}
+event = {
+	id = 25105
+	trigger = {
+		NOT = { domestic = { type = land value = 4 } }
+		countrysize = 80
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 40 }
+	}
+}
+
+event = {
+	id = 25106
+	trigger = {
+		NOT = { domestic = { type = land value = 2 } }
+		NOT = { countrysize = 4 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 10 }
+	}
+}
+event = {
+	id = 25107
+	trigger = {
+		NOT = { domestic = { type = land value = 2 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 20 }
+	}
+}
+event = {
+	id = 25108
+	trigger = {
+		NOT = { domestic = { type = land value = 2 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 30 }
+	}
+}
+event = {
+	id = 25109
+	trigger = {
+		NOT = { domestic = { type = land value = 2 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 40 }
+	}
+}
+event = {
+	id = 25110
+	trigger = {
+		NOT = { domestic = { type = land value = 2 } }
+		countrysize = 80
+		NOT = { naval = 11 }
+	}
+	random = yes
+	name = "EVENTNAME36"
+	desc = "EVENTHIST36"
+	action_a = {
+		name = "OK"
+		command = { type = galleys which = -1 value = 50 }
+	}
+}
+event = {
+	id = 25111
+	trigger = {
+		NOT = { domestic = { type = offensive value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+		command = { type = cavalry which = -2 value = 4000 }
+	}
+}
+event = {
+	id = 25112
+	trigger = {
+		NOT = { domestic = { type = offensive value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+		command = { type = cavalry which = -2 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = cavalry which = -3 value = 4000 }
+	}
+}
+event = {
+	id = 25113
+	trigger = {
+		NOT = { domestic = { type = offensive value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+		command = { type = cavalry which = -2 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = cavalry which = -3 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = cavalry which = -3 value = 4000 }
+	}
+}
+event = {
+	id = 25114
+	trigger = {
+		NOT = { domestic = { type = offensive value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+		command = { type = cavalry which = -2 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = cavalry which = -3 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = cavalry which = -3 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = cavalry which = -3 value = 4000 }
+	}
+}
+event = {
+	id = 25115
+	trigger = {
+		NOT = { domestic = { type = offensive value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+		command = { type = cavalry which = -2 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = cavalry which = -3 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = cavalry which = -3 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = cavalry which = -3 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = cavalry which = -3 value = 4000 }
+	}
+}
+event = {
+	id = 25116
+	trigger = {
+		domestic = { type = offensive value = 5 }
+		domestic = { type = land value = 5 }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+		command = { type = cavalry which = -2 value = 6000 }
+	}
+}
+event = {
+	id = 25117
+	trigger = {
+		domestic = { type = offensive value = 5 }
+		domestic = { type = land value = 5 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+		command = { type = cavalry which = -2 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = cavalry which = -3 value = 6000 }
+	}
+}
+event = {
+	id = 25118
+	trigger = {
+		domestic = { type = offensive value = 5 }
+		domestic = { type = land value = 5 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+		command = { type = cavalry which = -2 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = cavalry which = -3 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = cavalry which = -3 value = 6000 }
+	}
+}
+event = {
+	id = 25119
+	trigger = {
+		domestic = { type = offensive value = 5 }
+		domestic = { type = land value = 5 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+		command = { type = cavalry which = -2 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = cavalry which = -3 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = cavalry which = -3 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = cavalry which = -3 value = 6000 }
+	}
+}
+event = {
+	id = 25120
+	trigger = {
+		domestic = { type = offensive value = 5 }
+		domestic = { type = land value = 5 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+		command = { type = cavalry which = -2 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = cavalry which = -3 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = cavalry which = -3 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = cavalry which = -3 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = cavalry which = -3 value = 6000 }
+	}
+}
+event = {
+	id = 25121
+	trigger = {
+		domestic = { type = offensive value = 7 }
+		domestic = { type = land value = 7 }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+		command = { type = cavalry which = -2 value = 8000 }
+	}
+}
+event = {
+	id = 25122
+	trigger = {
+		domestic = { type = offensive value = 7 }
+		domestic = { type = land value = 7 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+		command = { type = cavalry which = -2 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = cavalry which = -3 value = 8000 }
+	}
+}
+event = {
+	id = 25123
+	trigger = {
+		domestic = { type = offensive value = 7 }
+		domestic = { type = land value = 7 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+		command = { type = cavalry which = -2 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = cavalry which = -3 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = cavalry which = -3 value = 8000 }
+	}
+}
+event = {
+	id = 25124
+	trigger = {
+		domestic = { type = offensive value = 7 }
+		domestic = { type = land value = 7 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+		command = { type = cavalry which = -2 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = cavalry which = -3 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = cavalry which = -3 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = cavalry which = -3 value = 8000 }
+	}
+}
+event = {
+	id = 25125
+	trigger = {
+		domestic = { type = offensive value = 7 }
+		domestic = { type = land value = 7 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+		command = { type = cavalry which = -2 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = cavalry which = -3 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = cavalry which = -3 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = cavalry which = -3 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = cavalry which = -3 value = 8000 }
+	}
+}
+event = {
+	id = 25126
+	trigger = {
+		domestic = { type = offensive value = 9 }
+		domestic = { type = land value = 9 }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+		command = { type = cavalry which = -2 value = 10000 }
+	}
+}
+event = {
+	id = 25127
+	trigger = {
+		domestic = { type = offensive value = 9 }
+		domestic = { type = land value = 9 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+		command = { type = cavalry which = -2 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = cavalry which = -3 value = 10000 }
+	}
+}
+event = {
+	id = 25128
+	trigger = {
+		domestic = { type = offensive value = 9 }
+		domestic = { type = land value = 9 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+		command = { type = cavalry which = -2 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = cavalry which = -3 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = cavalry which = -3 value = 10000 }
+	}
+}
+event = {
+	id = 25129
+	trigger = {
+		domestic = { type = offensive value = 9 }
+		domestic = { type = land value = 9 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+		command = { type = cavalry which = -2 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = cavalry which = -3 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = cavalry which = -3 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = cavalry which = -3 value = 10000 }
+	}
+}
+event = {
+	id = 25130
+	trigger = {
+		domestic = { type = offensive value = 9 }
+		domestic = { type = land value = 9 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+		command = { type = cavalry which = -2 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = cavalry which = -3 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = cavalry which = -3 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = cavalry which = -3 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = cavalry which = -3 value = 10000 }
+	}
+}
+event = {
+	id = 25131
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 4000 }
+	}
+}
+event = {
+	id = 25132
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 4000 }
+		command = { type = cavalry which = -1 value = 4000 }
+	}
+}
+event = {
+	id = 25133
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 4000 }
+		command = { type = cavalry which = -1 value = 4000 }
+		command = { type = cavalry which = -1 value = 4000 }
+	}
+}
+event = {
+	id = 25134
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 4000 }
+		command = { type = cavalry which = -1 value = 4000 }
+		command = { type = cavalry which = -1 value = 4000 }
+		command = { type = cavalry which = -1 value = 4000 }
+	}
+}
+event = {
+	id = 25135
+	trigger = {
+		NOT = { domestic = { type = aristocracy value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 4000 }
+		command = { type = cavalry which = -1 value = 4000 }
+		command = { type = cavalry which = -1 value = 4000 }
+		command = { type = cavalry which = -1 value = 4000 }
+		command = { type = cavalry which = -1 value = 4000 }
+	}
+}
+event = {
+	id = 25136
+	trigger = {
+		domestic = { type = aristocracy value = 5 }
+		domestic = { type = land value = 5 }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 6000 }
+	}
+}
+event = {
+	id = 25137
+	trigger = {
+		domestic = { type = aristocracy value = 5 }
+		domestic = { type = land value = 5 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 6000 }
+		command = { type = cavalry which = -1 value = 6000 }
+	}
+}
+event = {
+	id = 25138
+	trigger = {
+		domestic = { type = aristocracy value = 5 }
+		domestic = { type = land value = 5 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 6000 }
+		command = { type = cavalry which = -1 value = 6000 }
+		command = { type = cavalry which = -1 value = 6000 }
+	}
+}
+event = {
+	id = 25139
+	trigger = {
+		domestic = { type = aristocracy value = 5 }
+		domestic = { type = land value = 5 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 6000 }
+		command = { type = cavalry which = -1 value = 6000 }
+		command = { type = cavalry which = -1 value = 6000 }
+		command = { type = cavalry which = -1 value = 6000 }
+	}
+}
+event = {
+	id = 25140
+	trigger = {
+		domestic = { type = aristocracy value = 5 }
+		domestic = { type = land value = 5 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 6000 }
+		command = { type = cavalry which = -1 value = 6000 }
+		command = { type = cavalry which = -1 value = 6000 }
+		command = { type = cavalry which = -1 value = 6000 }
+		command = { type = cavalry which = -1 value = 6000 }
+	}
+}
+event = {
+	id = 25141
+	trigger = {
+		domestic = { type = aristocracy value = 7 }
+		domestic = { type = land value = 7 }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 8000 }
+	}
+}
+event = {
+	id = 25142
+	trigger = {
+		domestic = { type = aristocracy value = 7 }
+		domestic = { type = land value = 7 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 8000 }
+		command = { type = cavalry which = -1 value = 8000 }
+	}
+}
+event = {
+	id = 25143
+	trigger = {
+		domestic = { type = aristocracy value = 7 }
+		domestic = { type = land value = 7 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 8000 }
+		command = { type = cavalry which = -1 value = 8000 }
+		command = { type = cavalry which = -1 value = 8000 }
+	}
+}
+event = {
+	id = 25144
+	trigger = {
+		domestic = { type = aristocracy value = 7 }
+		domestic = { type = land value = 7 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 8000 }
+		command = { type = cavalry which = -1 value = 8000 }
+		command = { type = cavalry which = -1 value = 8000 }
+		command = { type = cavalry which = -1 value = 8000 }
+	}
+}
+event = {
+	id = 25145
+	trigger = {
+		domestic = { type = aristocracy value = 7 }
+		domestic = { type = land value = 7 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 8000 }
+		command = { type = cavalry which = -1 value = 8000 }
+		command = { type = cavalry which = -1 value = 8000 }
+		command = { type = cavalry which = -1 value = 8000 }
+		command = { type = cavalry which = -1 value = 8000 }
+	}
+}
+event = {
+	id = 25146
+	trigger = {
+		domestic = { type = aristocracy value = 9 }
+		domestic = { type = land value = 9 }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 10000 }
+	}
+}
+event = {
+	id = 25147
+	trigger = {
+		domestic = { type = aristocracy value = 9 }
+		domestic = { type = land value = 9 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 10000 }
+		command = { type = cavalry which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25148
+	trigger = {
+		domestic = { type = aristocracy value = 9 }
+		domestic = { type = land value = 9 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 10000 }
+		command = { type = cavalry which = -1 value = 10000 }
+		command = { type = cavalry which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25149
+	trigger = {
+		domestic = { type = aristocracy value = 9 }
+		domestic = { type = land value = 9 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 10000 }
+		command = { type = cavalry which = -1 value = 10000 }
+		command = { type = cavalry which = -1 value = 10000 }
+		command = { type = cavalry which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25150
+	trigger = {
+		domestic = { type = aristocracy value = 9 }
+		domestic = { type = land value = 9 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = cavalry which = -2 value = 10000 }
+		command = { type = cavalry which = -1 value = 10000 }
+		command = { type = cavalry which = -1 value = 10000 }
+		command = { type = cavalry which = -1 value = 10000 }
+		command = { type = cavalry which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25151
+	trigger = {
+		domestic = { type = offensive value = 6 }
+		NOT = { domestic = { type = land value = 5 } }
+		NOT = { countrysize = 4 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+		command = { type = artillery which = -2 value = 20 }
+	}
+}
+event = {
+	id = 25152
+	trigger = {
+		domestic = { type = offensive value = 6 }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+		command = { type = artillery which = -2 value = 20 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = artillery which = -3 value = 20 }
+	}
+}
+event = {
+	id = 25153
+	trigger = {
+		domestic = { type = offensive value = 6 }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+		command = { type = artillery which = -2 value = 20 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = artillery which = -3 value = 20 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = artillery which = -3 value = 20 }
+	}
+}
+event = {
+	id = 25154
+	trigger = {
+		domestic = { type = offensive value = 6 }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+		command = { type = artillery which = -2 value = 20 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = artillery which = -3 value = 20 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = artillery which = -3 value = 20 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = artillery which = -3 value = 20 }
+	}
+}
+event = {
+	id = 25155
+	trigger = {
+		domestic = { type = offensive value = 6 }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 80
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+		command = { type = artillery which = -2 value = 20 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = artillery which = -3 value = 20 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = artillery which = -3 value = 20 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = artillery which = -3 value = 20 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = artillery which = -3 value = 20 }
+	}
+}
+event = {
+	id = 25156
+	trigger = {
+		NOT = { domestic = { type = offensive value = 6 } }
+		domestic = { type = land value = 5 }
+		NOT = { countrysize = 4 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+		command = { type = artillery which = -2 value = 30 }
+	}
+}
+event = {
+	id = 25157
+	trigger = {
+		NOT = { domestic = { type = offensive value = 6 } }
+		domestic = { type = land value = 5 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+		command = { type = artillery which = -2 value = 30 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = artillery which = -3 value = 30 }
+	}
+}
+event = {
+	id = 25158
+	trigger = {
+		NOT = { domestic = { type = offensive value = 6 } }
+		domestic = { type = land value = 5 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+		command = { type = artillery which = -2 value = 30 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = artillery which = -3 value = 30 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = artillery which = -3 value = 30 }
+	}
+}
+event = {
+	id = 25159
+	trigger = {
+		NOT = { domestic = { type = offensive value = 6 } }
+		domestic = { type = land value = 5 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+		command = { type = artillery which = -2 value = 30 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = artillery which = -3 value = 30 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = artillery which = -3 value = 30 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = artillery which = -3 value = 30 }
+	}
+}
+event = {
+	id = 25160
+	trigger = {
+		NOT = { domestic = { type = offensive value = 6 } }
+		domestic = { type = land value = 5 }
+		countrysize = 80
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+		command = { type = artillery which = -2 value = 30 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = artillery which = -3 value = 30 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = artillery which = -3 value = 30 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = artillery which = -3 value = 30 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = artillery which = -3 value = 30 }
+	}
+}
+event = {
+	id = 25161
+	trigger = {
+		NOT = { domestic = { type = offensive value = 4 } }
+		domestic = { type = land value = 7 }
+		NOT = { countrysize = 4 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+		command = { type = artillery which = -2 value = 40 }
+	}
+}
+event = {
+	id = 25162
+	trigger = {
+		NOT = { domestic = { type = offensive value = 4 } }
+		domestic = { type = land value = 7 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+		command = { type = artillery which = -2 value = 40 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = artillery which = -3 value = 40 }
+	}
+}
+event = {
+	id = 25163
+	trigger = {
+		NOT = { domestic = { type = offensive value = 4 } }
+		domestic = { type = land value = 7 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+		command = { type = artillery which = -2 value = 40 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = artillery which = -3 value = 40 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = artillery which = -3 value = 40 }
+	}
+}
+event = {
+	id = 25164
+	trigger = {
+		NOT = { domestic = { type = offensive value = 4 } }
+		domestic = { type = land value = 7 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+		command = { type = artillery which = -2 value = 40 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = artillery which = -3 value = 40 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = artillery which = -3 value = 40 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = artillery which = -3 value = 40 }
+	}
+}
+event = {
+	id = 25165
+	trigger = {
+		NOT = { domestic = { type = offensive value = 4 } }
+		domestic = { type = land value = 7 }
+		countrysize = 80
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+		command = { type = artillery which = -2 value = 40 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = artillery which = -3 value = 40 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = artillery which = -3 value = 40 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = artillery which = -3 value = 40 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = artillery which = -3 value = 40 }
+	}
+}
+event = {
+	id = 25166
+	trigger = {
+		NOT = { domestic = { type = offensive value = 2 } }
+		domestic = { type = land value = 9 }
+		NOT = { countrysize = 4 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+		command = { type = artillery which = -2 value = 50 }
+	}
+}
+event = {
+	id = 25167
+	trigger = {
+		NOT = { domestic = { type = offensive value = 2 } }
+		domestic = { type = land value = 9 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+		command = { type = artillery which = -2 value = 50 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = artillery which = -3 value = 50 }
+	}
+}
+event = {
+	id = 25168
+	trigger = {
+		NOT = { domestic = { type = offensive value = 2 } }
+		domestic = { type = land value = 9 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+		command = { type = artillery which = -2 value = 50 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = artillery which = -3 value = 50 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = artillery which = -3 value = 50 }
+	}
+}
+event = {
+	id = 25169
+	trigger = {
+		NOT = { domestic = { type = offensive value = 2 } }
+		domestic = { type = land value = 9 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+		command = { type = artillery which = -2 value = 50 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = artillery which = -3 value = 50 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = artillery which = -3 value = 50 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = artillery which = -3 value = 50 }
+	}
+}
+event = {
+	id = 25170
+	trigger = {
+		NOT = { domestic = { type = offensive value = 2 } }
+		domestic = { type = land value = 9 }
+		countrysize = 80
+		land = 7
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+		command = { type = artillery which = -2 value = 50 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = artillery which = -3 value = 50 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = artillery which = -3 value = 50 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = artillery which = -3 value = 50 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = artillery which = -3 value = 50 }
+	}
+}
+event = {
+	id = 25171
+	trigger = {
+		NOT = { domestic = { type = offensive value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+	}
+}
+event = {
+	id = 25172
+	trigger = {
+		NOT = { domestic = { type = offensive value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+	}
+}
+event = {
+	id = 25173
+	trigger = {
+		NOT = { domestic = { type = offensive value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+	}
+}
+event = {
+	id = 25174
+	trigger = {
+		NOT = { domestic = { type = offensive value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+	}
+}
+event = {
+	id = 25175
+	trigger = {
+		NOT = { domestic = { type = offensive value = 5 } }
+		NOT = { domestic = { type = land value = 5 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+		command = { type = infantry which = -1 value = 4000 }
+	}
+}
+event = {
+	id = 25176
+	trigger = {
+		domestic = { type = land value = 5 }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+	}
+}
+event = {
+	id = 25177
+	trigger = {
+		domestic = { type = land value = 5 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+	}
+}
+event = {
+	id = 25178
+	trigger = {
+		domestic = { type = land value = 5 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+	}
+}
+event = {
+	id = 25179
+	trigger = {
+		domestic = { type = land value = 5 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+	}
+}
+event = {
+	id = 25180
+	trigger = {
+		domestic = { type = land value = 5 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+		command = { type = infantry which = -1 value = 6000 }
+	}
+}
+event = {
+	id = 25181
+	trigger = {
+		domestic = { type = land value = 7 }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+	}
+}
+event = {
+	id = 25182
+	trigger = {
+		domestic = { type = land value = 7 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+	}
+}
+event = {
+	id = 25183
+	trigger = {
+		domestic = { type = land value = 7 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+	}
+}
+event = {
+	id = 25184
+	trigger = {
+		domestic = { type = land value = 7 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+	}
+}
+event = {
+	id = 25185
+	trigger = {
+		domestic = { type = land value = 7 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+		command = { type = infantry which = -1 value = 8000 }
+	}
+}
+event = {
+	id = 25186
+	trigger = {
+		domestic = { type = land value = 9 }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+	}
+}
+event = {
+	id = 25187
+	trigger = {
+		domestic = { type = land value = 9 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25188
+	trigger = {
+		domestic = { type = land value = 9 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25189
+	trigger = {
+		domestic = { type = land value = 9 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25190
+	trigger = {
+		domestic = { type = land value = 9 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME35"
+	desc = "EVENTHIST35"
+	action_a = {
+		name = "OK"
+		command = { type = infantry which = -2 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+		command = { type = infantry which = -1 value = 10000 }
+	}
+}
+event = {
+	id = 25191
+	trigger = {
+		NOT = { domestic = { type = land value = 6 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME65"
+	desc = "EVENTHIST65"
+	action_a = {
+		name = "EVENT65B"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT65A"
+		command = { type = gainbuilding which = -1 value = shipyard }
+		command = { type = cash value = -500 }
+		command = { type = naval value = 1000 }
+	}
+}
+event = {
+	id = 25192
+	trigger = {
+		NOT = { domestic = { type = land value = 6 } }
+		countrysize = 9
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME65"
+	desc = "EVENTHIST65"
+	action_a = {
+		name = "EVENT65A"
+		command = { type = gainbuilding which = -1 value = shipyard }
+		command = { type = cash value = -500 }
+		command = { type = naval value = 1000 }
+	}
+	action_b = {
+		name = "EVENT65B"
+		command = { }
+	}
+}
+event = {
+	id = 25193
+	trigger = {
+		NOT = { domestic = { type = land value = 6 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME65"
+	desc = "EVENTHIST65"
+	action_a = {
+		name = "EVENT65A"
+		command = { type = gainbuilding which = -1 value = shipyard }
+		command = { type = gainbuilding which = -1 value = shipyard }
+		command = { type = cash value = -1000 }
+		command = { type = naval value = 2000 }
+	}
+	action_b = {
+		name = "EVENT65B"
+		command = { }
+	}
+}
+event = {
+	id = 25194
+	trigger = {
+		domestic = { type = land value = 5 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME66"
+	desc = "EVENTHIST66"
+	action_a = {
+		name = "EVENT65B"
+		command = { }
+	}
+	action_b = {
+		name = "EVENT65A"
+		command = { type = gainbuilding which = -1 value = barrack }
+		command = { type = cash value = -250 }
+		command = { type = land value = 500 }
+	}
+}
+event = {
+	id = 25195
+	trigger = {
+		domestic = { type = land value = 5 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME66"
+	desc = "EVENTHIST66"
+	action_a = {
+		name = "EVENT65A"
+		command = { type = gainbuilding which = -1 value = barrack }
+		command = { type = cash value = -250 }
+		command = { type = land value = 500 }
+	}
+	action_b = {
+		name = "EVENT65B"
+		command = { }
+	}
+}
+event = {
+	id = 25196
+	trigger = {
+		domestic = { type = land value = 5 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME66"
+	desc = "EVENTHIST66"
+	action_a = {
+		name = "EVENT65A"
+		command = { type = gainbuilding which = -1 value = barrack }
+		command = { type = gainbuilding which = -1 value = barrack }
+		command = { type = cash value = -500 }
+		command = { type = land value = 1000 }
+	}
+	action_b = {
+		name = "EVENT65B"
+		command = { }
+	}
+}
+event = {
+	id = 25197
+	trigger = {
+		domestic = { type = land value = 5 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME66"
+	desc = "EVENTHIST66"
+	action_a = {
+		name = "EVENT65A"
+		command = { type = gainbuilding which = -1 value = barrack }
+		command = { type = gainbuilding which = -1 value = barrack }
+		command = { type = gainbuilding which = -1 value = barrack }
+		command = { type = cash value = -750 }
+		command = { type = land value = 1500 }
+	}
+	action_b = {
+		name = "EVENT65B"
+		command = { }
+	}
+}
+event = {
+	id = 25198
+	trigger = {
+		countrysize = 4
+	}
+	random = yes
+	name = "EVENTNAME67"
+	desc = "EVENTHIST67"
+	action_a = {
+		name = "EVENT67A"
+		command = { type = cot which = -2 }
+		command = { type = removecot which = -1 }
+		command = { type = merchants value = 6 }
+	}
+	action_b = {
+		name = "EVENT67B"
+		command = { }
+	}
+}
+event = {
+	id = 25199
+	trigger = {
+		countrysize = 9
+	}
+	random = yes
+	name = "EVENTNAME67"
+	desc = "EVENTHIST67"
+	action_a = {
+		name = "EVENT67A"
+		command = { type = cot which = -2 }
+		command = { type = removecot which = -1 }
+		command = { type = merchants value = 6 }
+	}
+	action_b = {
+		name = "EVENT67B"
+		command = { }
+	}
+}
+event = {
+	id = 25200
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -100 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25201
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -200 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25202
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -300 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25203
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -400 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25204
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -500 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25205
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -90 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25206
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -180 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25207
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -270 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25208
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -360 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25209
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -450 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25210
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -80 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25211
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -160 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25212
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -240 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25213
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -320 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25214
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -400 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25215
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -70 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25216
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -140 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25217
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -210 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25218
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -280 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25219
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = provincetax which = -1 value = 1 }
+		command = { type = cash value = -350 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25220
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -90 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25221
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -180 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25222
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -270 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25223
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -360 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25224
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -450 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25225
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -80 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25226
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -160 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25227
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -240 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25228
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -320 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25229
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -400 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25230
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -70 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25231
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -140 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25232
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -210 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25233
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -280 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25234
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -350 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25235
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -60 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25236
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -120 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25237
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -180 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25238
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -240 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25239
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = gainbuilding which = -1 value = cityrights }
+		command = { type = cash value = -300 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25240
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -90 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25241
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -180 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25242
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -270 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25243
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -360 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25244
+	trigger = {
+		domestic = { type = centralization value = 3 }
+		NOT = { domestic = { type = centralization value = 5 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -450 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25245
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -80 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25246
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -160 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25247
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -240 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25248
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -320 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25249
+	trigger = {
+		domestic = { type = centralization value = 5 }
+		NOT = { domestic = { type = centralization value = 7 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -400 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25250
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -70 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25251
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -140 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25252
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -210 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25253
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -280 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25254
+	trigger = {
+		domestic = { type = centralization value = 7 }
+		NOT = { domestic = { type = centralization value = 9 } }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -350 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25255
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -60 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25256
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -120 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25257
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -180 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25258
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -240 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25259
+	trigger = {
+		domestic = { type = centralization value = 9 }
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME68"
+	desc = "EVENTHIST68"
+	action_a = {
+		name = "EVENT68A"
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = gainbuilding which = -1 value = courthouse }
+		command = { type = cash value = -300 }
+	}
+	action_b = {
+		name = "EVENT68B"
+		command = { }
+	}
+}
+event = {
+	id = 25260
+	trigger = {
+		domestic = { type = INNOVATIVE value = 5 }
+	}
+	random = yes
+	name = "EVENTNAME61"
+	desc = "EVENTHIST61"
+	action_a = {
+		name = "EVENT61A"
+		command = { type = missionaries value = 3 }
+	}
+}
+event = { 
+	id = 25261
+	random = yes
+	name = "EVENTNAME7"
+	desc = "EVENTHIST7"
+	action_a = {
+		name = "OK"
+		command = { type = missionaries value = -1 }
+		command = { type = conversion which = -1 }
+	}
+}
+event = { 
+	id = 25262
+	trigger = {
+		NOT = { domestic = { type = INNOVATIVE value = 8 } }
+	}
+	random = yes
+	name = "EVENTNAME7"
+	desc = "EVENTHIST7"
+	action_a = {
+		name = "OK"
+		command = { type = missionaries value = -1 }
+		command = { type = conversion which = -1 }
+	}
+}
+event = { 
+	id = 25263
+	trigger = {
+		NOT = { domestic = { type = INNOVATIVE value = 6 } }
+	}
+	random = yes
+	name = "EVENTNAME7"
+	desc = "EVENTHIST7"
+	action_a = {
+		name = "OK"
+		command = { type = missionaries value = -1 }
+		command = { type = conversion which = -1 }
+	}
+}
+event = { 
+	id = 25264
+	trigger = {
+		NOT = { domestic = { type = INNOVATIVE value = 4 } }
+	}
+	random = yes
+	name = "EVENTNAME7"
+	desc = "EVENTHIST7"
+	action_a = {
+		name = "OK"
+		command = { type = missionaries value = -1 }
+		command = { type = conversion which = -1 }
+	}
+}
+event = { 
+	id = 25265
+	trigger = {
+		NOT = { domestic = { type = INNOVATIVE value = 2 } }
+	}
+	random = yes
+	name = "EVENTNAME7"
+	desc = "EVENTHIST7"
+	action_a = {
+		name = "OK"
+		command = { type = missionaries value = -1 }
+		command = { type = conversion which = -1 }
+	}
+}
+event = {
+	id = 25266
+	trigger = {
+		NOT = { countrysize = 4 }
+	}
+	random = yes
+	name = "EVENTNAME47"
+	desc = "EVENTHIST47"
+	action_a = {
+		name = "OK"
+		command = { type = stability value = -4 }
+		command = { type = losebuilding which = -1 value = bailiff }
+	}
+	action_b = {
+		name = "OK"
+		command = { type = stability value = -4 }
+		command = { type = cash value = -50 }
+	}
+}
+event = {
+	id = 25267
+	trigger = {
+		countrysize = 4
+		NOT = { countrysize = 9 }
+	}
+	random = yes
+	name = "EVENTNAME47"
+	desc = "EVENTHIST47"
+	action_a = {
+		name = "OK"
+		command = { type = stability value = -3 }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+	}
+	action_b = {
+		name = "OK"
+		command = { type = stability value = -3 }
+		command = { type = cash value = -100 }
+	}
+}
+event = {
+	id = 25268
+	trigger = {
+		countrysize = 9
+		NOT = { countrysize = 30 }
+	}
+	random = yes
+	name = "EVENTNAME47"
+	desc = "EVENTHIST47"
+	action_a = {
+		name = "OK"
+		command = { type = stability value = -3 }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+	}
+	action_b = {
+		name = "OK"
+		command = { type = stability value = -3 }
+		command = { type = cash value = -200 }
+	}
+}
+event = {
+	id = 25269
+	trigger = {
+		countrysize = 30
+		NOT = { countrysize = 80 }
+	}
+	random = yes
+	name = "EVENTNAME47"
+	desc = "EVENTHIST47"
+	action_a = {
+		name = "OK"
+		command = { type = stability value = -2 }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+	}
+	action_b = {
+		name = "OK"
+		command = { type = stability value = -2 }
+		command = { type = cash value = -400 }
+	}
+}
+event = {
+	id = 25270
+	trigger = {
+		countrysize = 80
+	}
+	random = yes
+	name = "EVENTNAME47"
+	desc = "EVENTHIST47"
+	action_a = {
+		name = "OK"
+		command = { type = stability value = -2 }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+		command = { type = losebuilding which = -1 value = bailiff }
+	}
+	action_b = {
+		name = "OK"
+		command = { type = stability value = -2 }
+		command = { type = cash value = -800 }
+	}
+}
+

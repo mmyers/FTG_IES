@@ -1,0 +1,242 @@
+header = {
+	name = "Independent Europe"
+	startyear = 1519
+	absolutestartyear = 1419
+	endyear = 1820
+	selectable = {
+ ADE AFG AKK ALB ALD ALE ALI ALM ALT AMG AMI ANH ANJ ANN APA APU AQU ARA ARG ARK ARM ART ASH ASS AST ASU ATH ATJ AUV AYU
+ AYY AZT BAD BAE BAL BAN BAS BAY BEA BEI BEN BGL BOH BOS BOU BRA BRE BRI BRZ BUK BUL BUR BYZ CAL CAM CAN CAT CHA CHE CHG
+ CHI CHM CMG CNW COI COL CON COR CRD CRE CRG CRI CRO CUM CYP CYR DAH DAI DAK DAM DAN DAU DEL DLH DUL EDE EGY EIR ENG ETH
+ FAT FEZ FLA FPR FRC FRI FUC GEL GEN GEO GOT GRA GRE GUJ HAI HAM HAN HAU HEI HEL HES HLL HSA HUR HYD ICE INC IRA IST JAI
+ JER JUT KAR KAZ KHM KIE KLE KOL KON KOR KRE KRN KSH KUR KUS KZK LAN LAP LAT LEI LEO LGD LIT LIV LOR LOU LUA LUX MAA MAG
+ MAH MAI MAL MAN MCH MEA MEC MES MEX MIN MKS MLC MLL MLO MLW MOG MOL MOR MOS MSK MST MTR MUN MYA MYS NAF NAP NAV NIP NOG
+ NOR NRM NVG OHI OLD OMA ORI ORL PAM PAR PEG PER PET PEU PFA PIC PIS POD POI POK POL POM PRM PRO PRT PRU PSK PUR QAR QUE
+ RAG ROM ROY RYA SAC SAR SAV SCO SEI SEL SER SEV SHA SHL SIB SIC SIE SIL SKA SLO SLZ SMO SON SPR STR STT SUD SUZ SWA SWE
+ TAN TAU TEK THE THU TIB TIM TOS TOU TOX TRE TRI TUN TVE TYR U01 U02 U03 U06 U07 U08 U10 U11 U12 U15 U25 U26 U29 U30 U31
+ U32 U33 U33 U34 U35 U36 U37 U38 U39 UKR ULS USA UZB WAL VEN VER VIE VIJ WLS VOL WUR XHO YOR ZAN ZAP ZEE ZIM ZUL REB MER
+	}
+	ANJ = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 3
+		countryeconomy		= 5
+		countrymilitary		= 7
+		countrydiplomacy	= 6
+	}
+	ANN = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 7
+		countryeconomy		= 5
+		countrymilitary		= 7
+		countrydiplomacy	= 3
+	}
+	ARG = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 5
+		countryeconomy		= 5
+		countrymilitary		= 7
+		countrydiplomacy	= 4
+	}
+	BAS = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 5
+		countryeconomy		= 5
+		countrymilitary		= 7
+		countrydiplomacy	= 5
+	}
+	BUL = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 5
+		countryeconomy		= 5
+		countrymilitary		= 7
+		countrydiplomacy	= 6
+	}
+	CNW = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 7
+		countryeconomy		= 6
+		countrymilitary		= 5
+		countrydiplomacy	= 5
+	}
+	COI = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 3
+		countryeconomy		= 6
+		countrymilitary		= 7
+		countrydiplomacy	= 6
+	}
+	CON = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 5
+		countryeconomy		= 6
+		countrymilitary		= 6
+		countrydiplomacy	= 4
+	}
+	DAH = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 7
+		countryeconomy		= 6
+		countrymilitary		= 5
+		countrydiplomacy	= 5
+	}
+	DAU = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 5
+		countryeconomy		= 6
+		countrymilitary		= 7
+		countrydiplomacy	= 4
+	}
+	GRE = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 5
+		countryeconomy		= 3
+		countrymilitary		= 6
+		countrydiplomacy	= 3
+	}
+	GUJ = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 7
+		countryeconomy		= 5
+		countrymilitary		= 6
+		countrydiplomacy	= 6
+	}
+	NAP = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 4
+		countryeconomy		= 5
+		countrymilitary		= 6
+		countrydiplomacy	= 5
+	}
+	PFA = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 6
+		countryeconomy		= 4
+		countrymilitary		= 7
+		countrydiplomacy	= 7
+	}
+	POL = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 3
+		countryeconomy		= 5
+		countrymilitary		= 7
+		countrydiplomacy	= 5
+	}
+	RYA = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 5
+		countryeconomy		= 5
+		countrymilitary		= 7
+		countrydiplomacy	= 5
+	}
+	SAC = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 7
+		countryeconomy		= 5
+		countrymilitary		= 7
+		countrydiplomacy	= 6
+	}
+	SIL = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 6
+		countryeconomy		= 5
+		countrymilitary		= 7
+		countrydiplomacy	= 5
+	}
+	SKA = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 7
+		countryeconomy		= 4
+		countrymilitary		= 5
+		countrydiplomacy	= 6
+	}
+	TRE = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 5
+		countryeconomy		= 5
+		countrymilitary		= 6
+		countrydiplomacy	= 4
+	}
+	TYR = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 7
+		countryeconomy		= 4
+		countrymilitary		= 7
+		countrydiplomacy	= 5
+	}
+	U02 = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 3
+		countryeconomy		= 6
+		countrymilitary		= 7
+		countrydiplomacy	= 3
+	}
+	U03 = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 4
+		countryeconomy		= 6
+		countrymilitary		= 6
+		countrydiplomacy	= 5
+	}
+	VIJ = { desc			= "IES_HISTDESC"
+		countrytactics		= "IES_VPTACTIC"
+		countrydifficulty	= 7
+		countryeconomy		= 3
+		countrymilitary		= 6
+		countrydiplomacy	= 5
+	}
+	option = {
+		name = "5 diplomats at start"
+		tag = 5dip
+		status = no
+	}
+	option = {
+		name = "1000$ at start"
+		tag = 1000d
+		status = no
+	}
+	option = {
+		name = "100 manpower at start"
+		tag = 100mp
+		status = no
+	}
+	option = {
+		name = "All of Europe known"
+		tag = Europeknown
+		status = yes
+	}
+	option = {
+		name = "Randomized Centers of Trade"
+		tag = RandCoT
+		status = yes
+	}
+	option = {
+		name = "DP reminding events"
+		tag = DPevents
+		status = no
+	}
+	option = {
+		name = "Reduced AI Badboy"
+		tag = BBAI
+		status = yes
+	}
+	option = {
+		name = "Alun's Reformation Mod"
+		tag = Reformation
+		status = yes
+	}
+}
+
+globaldata = {
+	startdate = { year = 1519 month = january day = 0 }
+	enddate = { year = 1820 }
+	emperor = PAP
+	}
+
+include = "Scenarios\Nations Base.inc"
+include = "Scenarios\Nations 1519.inc"
+include = "Scenarios\Options.inc"
+event = "Db\Events\addcore.txt"
+event = "Db\Events\randomevents.txt"
+event = "Db\Events\freevents.txt"
+event = "Db\Events\IESevents.txt"
+event = "Db\Events\timedevents.txt"
+event = "Db\Events\culturenationevents.txt"

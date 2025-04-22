@@ -1,0 +1,16 @@
+historicalleader = {
+	id = { type = 6 id = 2970 }
+	category = general
+	name = "Kaigon"
+	startdate = {
+		year = 1410
+	}
+	deathdate = {
+		year = 1820
+	}
+	rank = 0
+	movement = 9
+	fire = 8
+	shock = 8
+	siege = 0
+}
