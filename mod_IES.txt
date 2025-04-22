@@ -1,0 +1,13 @@
+#Independent Europe Scenario
+
+#-----------------------------------------------------------------------------------------------
+
+mod = {
+	name = "Independent Europe"
+	dir = "Independent"
+	language = { "english" }
+	shields = { "classic" } # no updated gfx for many old EU2/CK1 revolters
+	remark = "Independent Europe Scenario by Kaigon"
+}
+
+#-----------------------------------------------------------------------------------------------
