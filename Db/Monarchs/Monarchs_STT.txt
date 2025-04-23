@@ -12,10 +12,6 @@ historicalmonarch = {
 	DIP = 2
 	ADM = 7
 	MIL = 4
-	movement = 4
-	fire = 5
-	shock = 4
-	siege = 1
 }
 historicalmonarch = {
 	id = { type = 6 id = 18882 }
@@ -31,10 +27,6 @@ historicalmonarch = {
 	DIP = 6
 	ADM = 9
 	MIL = 2
-	movement = 0
-	fire = 0
-	shock = 0
-	siege = 0
 }
 historicalmonarch = {
 	id = { type = 6 id = 18883 }
@@ -50,10 +42,6 @@ historicalmonarch = {
 	DIP = 2
 	ADM = 6
 	MIL = 8
-	movement = 2
-	fire = 2
-	shock = 3
-	siege = 0
 }
 historicalmonarch = {
 	id = { type = 6 id = 18884 }
@@ -69,10 +57,6 @@ historicalmonarch = {
 	DIP = 4
 	ADM = 2
 	MIL = 2
-	movement = 3
-	fire = 4
-	shock = 3
-	siege = 0
 }
 historicalmonarch = {
 	id = { type = 6 id = 18885 }
@@ -88,10 +72,6 @@ historicalmonarch = {
 	DIP = 4
 	ADM = 2
 	MIL = 5
-	movement = 6
-	fire = 5
-	shock = 4
-	siege = 1
 }
 historicalmonarch = {
 	id = { type = 6 id = 18886 }
@@ -107,10 +87,6 @@ historicalmonarch = {
 	DIP = 5
 	ADM = 4
 	MIL = 2
-	movement = 3
-	fire = 3
-	shock = 3
-	siege = 1
 }
 historicalmonarch = {
 	id = { type = 6 id = 18887 }
@@ -126,10 +102,6 @@ historicalmonarch = {
 	DIP = 7
 	ADM = 2
 	MIL = 2
-	movement = 0
-	fire = 0
-	shock = 0
-	siege = 0
 }
 historicalmonarch = {
 	id = { type = 6 id = 18888 }
@@ -145,10 +117,6 @@ historicalmonarch = {
 	DIP = 9
 	ADM = 2
 	MIL = 8
-	movement = 3
-	fire = 2
-	shock = 2
-	siege = 0
 }
 historicalmonarch = {
 	id = { type = 6 id = 18889 }
@@ -164,10 +132,6 @@ historicalmonarch = {
 	DIP = 2
 	ADM = 7
 	MIL = 2
-	movement = 3
-	fire = 5
-	shock = 4
-	siege = 1
 }
 historicalmonarch = {
 	id = { type = 6 id = 18890 }
@@ -183,10 +147,6 @@ historicalmonarch = {
 	DIP = 2
 	ADM = 2
 	MIL = 9
-	movement = 3
-	fire = 4
-	shock = 2
-	siege = 0
 }
 historicalmonarch = {
 	id = { type = 6 id = 18891 }
@@ -202,8 +162,4 @@ historicalmonarch = {
 	DIP = 2
 	ADM = 8
 	MIL = 2
-	movement = 3
-	fire = 4
-	shock = 4
-	siege = 0
 }

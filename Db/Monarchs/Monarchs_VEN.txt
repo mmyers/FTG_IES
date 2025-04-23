@@ -12,10 +12,6 @@ historicalmonarch = {
 	DIP = 3
 	ADM = 8
 	MIL = 9
-	movement = 5
-	fire = 4
-	shock = 4
-	siege = 1
 }
 historicalmonarch = {
 	id = { type = 6 id = 16382 }
@@ -31,10 +27,6 @@ historicalmonarch = {
 	DIP = 9
 	ADM = 4
 	MIL = 5
-	movement = 0
-	fire = 0
-	shock = 0
-	siege = 0
 }
 historicalmonarch = {
 	id = { type = 6 id = 16383 }
@@ -50,10 +42,6 @@ historicalmonarch = {
 	DIP = 9
 	ADM = 8
 	MIL = 2
-	movement = 4
-	fire = 5
-	shock = 3
-	siege = 0
 }
 historicalmonarch = {
 	id = { type = 6 id = 16384 }
@@ -69,10 +57,6 @@ historicalmonarch = {
 	DIP = 6
 	ADM = 3
 	MIL = 3
-	movement = 0
-	fire = 0
-	shock = 0
-	siege = 0
 }
 historicalmonarch = {
 	id = { type = 6 id = 16385 }
@@ -88,10 +72,6 @@ historicalmonarch = {
 	DIP = 4
 	ADM = 6
 	MIL = 2
-	movement = 0
-	fire = 0
-	shock = 0
-	siege = 0
 }
 historicalmonarch = {
 	id = { type = 6 id = 16386 }
@@ -107,10 +87,6 @@ historicalmonarch = {
 	DIP = 4
 	ADM = 9
 	MIL = 2
-	movement = 3
-	fire = 4
-	shock = 4
-	siege = 1
 }
 historicalmonarch = {
 	id = { type = 6 id = 16387 }
@@ -126,10 +102,6 @@ historicalmonarch = {
 	DIP = 8
 	ADM = 9
 	MIL = 2
-	movement = 0
-	fire = 0
-	shock = 0
-	siege = 0
 }
 historicalmonarch = {
 	id = { type = 6 id = 16388 }
@@ -145,10 +117,6 @@ historicalmonarch = {
 	DIP = 9
 	ADM = 7
 	MIL = 7
-	movement = 0
-	fire = 0
-	shock = 0
-	siege = 0
 }
 historicalmonarch = {
 	id = { type = 6 id = 16389 }
@@ -164,10 +132,6 @@ historicalmonarch = {
 	DIP = 2
 	ADM = 5
 	MIL = 4
-	movement = 5
-	fire = 2
-	shock = 3
-	siege = 0
 }
 historicalmonarch = {
 	id = { type = 6 id = 16390 }
@@ -183,10 +147,6 @@ historicalmonarch = {
 	DIP = 8
 	ADM = 9
 	MIL = 4
-	movement = 6
-	fire = 6
-	shock = 5
-	siege = 1
 }
 historicalmonarch = {
 	id = { type = 6 id = 16391 }
@@ -202,10 +162,6 @@ historicalmonarch = {
 	DIP = 8
 	ADM = 8
 	MIL = 7
-	movement = 5
-	fire = 4
-	shock = 3
-	siege = 0
 }
 historicalmonarch = {
 	id = { type = 6 id = 16392 }
@@ -221,8 +177,4 @@ historicalmonarch = {
 	DIP = 7
 	ADM = 2
 	MIL = 5
-	movement = 0
-	fire = 0
-	shock = 0
-	siege = 0
 }
