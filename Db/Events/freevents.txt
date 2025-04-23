@@ -12837,7 +12837,7 @@ event = {
 		command = { type = add_countryculture which = polish }
 		command = { type = domestic which = CENTRALIZATION value = -1 }
 		command = { type = stability value = -2 }
-		command = { type = setflag which = baltic }
+		command = { type = setflag which = polish }
 	}
 	action_b = {
 		name = "EVENT60B"
@@ -13287,7 +13287,7 @@ event = {
 		command = { type = add_countryculture which = turkish }
 		command = { type = domestic which = CENTRALIZATION value = -2 }
 		command = { type = stability value = -2 }
-		command = { type = setflag which = arabic }
+		command = { type = setflag which = turkish }
 	}
 	action_b = {
 		name = "EVENT60B"
@@ -13303,13 +13303,13 @@ event = {
 	random = yes
 	country = SYR
 	trigger = {
-		NOT = { flag = turkish }
+		NOT = { flag = greek }
 	}
 	name = "EVENTNAME60"
 	desc = "EVENTHIST60"
 	action_a = {
-		name = "EVENT60A28"
-		command = { type = add_countryculture which = turkish }
+		name = "EVENT60A14"
+		command = { type = add_countryculture which = greek }
 		command = { type = domestic which = CENTRALIZATION value = -2 }
 		command = { type = stability value = -2 }
 		command = { type = setflag which = greek }
