@@ -12,3 +12,24 @@
     + could use knownprovinces = { europe } to speed loading time, but what provinces outside Europe might be needed?
 
 2025-04
+- Unused event texts (either old events that have been removed or new events that were never scripted):
+EVENTNAME69;Tradeactivity and tradecompetition raises new center of trade in Europe
+EVENTHIST69;Due to increased trade activity in certain parts of Europe, we have been forced to limit tolls, to still be able to attract merchants from all over the world to Kaigon Island.
+EVENT69A;We will try to compete with the new tradecenters!
+
+EVENTNAME70;European trade on Kaigon Island ends
+EVENTHIST70;Due to lack of foreign merchant activity, we have been forced to close down the tradecenter of Kaigon Island. The Europeans obviously found it more attractive to trade in their own areas, instead of taking sending a merchant ship, with about 0,1% chance of succeding, down to Kaigon Island.
+EVENT70A;Dang!
+
+EVENTNAME71;Tradeactivity and tradecompetition raises new center of trade in Europe
+EVENTHIST71;Trade seems to have concentrated in one of our provinces and a new center of trade has emerged. This better bring some nice toll-income.
+EVENT71A;This is great news!
+
+EVENTNAME74;A New Empire
+EVENTHIST74;After years of war and conquest, you've finally managed to bring a new empire to Europe. What will you do?
+EVENT74A;Let Europe fear the new Empire!
+EVENT74B;Proclaim that we are the defender of our culture!
+EVENT74C;I just did this for fun. I never wanted an empire.
+
+Note that whatever event 69/71 did might be covered by event 67, which creates a COT in the capital and closes a random COT. Presumably event 70 was needed at some point for gameplay but not anymore.
+Event 74 is interesting though. How would it work differently from event 73, which is creation of a culture nation?
