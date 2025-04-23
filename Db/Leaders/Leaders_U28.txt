@@ -233,7 +233,7 @@ historicalleader = {
 	siege = 0
 }
 historicalleader = {
-	id = { type = 6 id = 36470 }
+	id = { type = 6 id = 136470 }
 	category = monarch
 	name = "Jakub VIII"
 	startdate = {
@@ -251,7 +251,7 @@ historicalleader = {
 	siege = 1
 }
 historicalleader = {
-	id = { type = 6 id = 36471 }
+	id = { type = 6 id = 136471 }
 	category = monarch
 	name = "Henryk IX"
 	startdate = {

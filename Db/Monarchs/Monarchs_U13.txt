@@ -284,7 +284,7 @@ historicalmonarch = {
 	MIL = 7
 }
 historicalmonarch = {
-	id = { type = 6 id = 27020 }
+	id = { type = 6 id = 27030 }
 	startdate = {
 		year = 1770
 		month = january
@@ -299,7 +299,7 @@ historicalmonarch = {
 	MIL = 7
 }
 historicalmonarch = {
-	id = { type = 6 id = 27021 }
+	id = { type = 6 id = 27031 }
 	startdate = {
 		year = 1794
 		month = january
