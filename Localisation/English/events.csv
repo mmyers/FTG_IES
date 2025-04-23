@@ -64,8 +64,6 @@ EVENT_A7_A;Side with one family;;;;;;;;;;6016
 EVENT_A7_B;Let them fight it out.;;;;;;;;;;6017
 EVENT_A7_C;Try to settle the issue.;;;;;;;;;;6018
 EVENT_NEXT;Next Event;;;;;;;;;;6019
-EVENT_SELECTION;%s : We went with %s in %s.;;;;;;;;;;6020
-EVENT_SIMPLE;%s : %s happened to us.;;;;;;;;;;6021
 EVENT1101A;Yes;;;;;;;;;;6022
 EVENT1101B;No;;;;;;;;;;6023
 EVENT1102A;Yes;;;;;;;;;;6024
@@ -83,7 +81,7 @@ EVENT48_B;Ignore them;;;;;;;;;;6035
 EVENT59A;Splendid!;;;;;;;;;;6036
 EVENT60A1;Anglian culture is our culture;;;;;;;;;;6037
 EVENT60A10;Dutch culture is our culture;;;;;;;;;;6038
-EVENT60A11;Franco-provenÃ§al culture is our culture;;;;;;;;;;6039
+EVENT60A11;Franco-provençal culture is our culture;;;;;;;;;;6039
 EVENT60A12;French culture is our culture;;;;;;;;;;6040
 EVENT60A13;Gaelic culture is our culture;;;;;;;;;;6041
 EVENT60A14;Greek culture is our culture;;;;;;;;;;6042
@@ -138,11 +136,10 @@ EVENT71A;This is great news!;;;;;;;;;;6090
 EVENT72B;Don't remind me again;;;;;;;;;;6091
 EVENT73A;Let our culture guide our new nation;;;;;;;;;;6092
 EVENT73B;Proclaim that we are the defender of our culture!;;;;;;;;;;6093
-EVENT73C;Culture is overratedâ€¦;;;;;;;;;;6094
+EVENT73C;Culture is overrated…;;;;;;;;;;6094
 EVENT74A;Let Europe fear the new Empire!;;;;;;;;;;6095
 EVENT74B;Proclaim that we are the defender of our culture!;;;;;;;;;;6096
 EVENT74C;I just did this for fun. I never wanted an empire.;;;;;;;;;;6097
-EVENTBUTTON_INFO;(For effects on your decision, check the information appearing when you move the mouse over the button.);;;;;;;;;;6098
 EVENTHIST_A0;The privileges of the nobility were continually under assault as the monarch tried to centralize more and more control. Sometimes the nobles would attempt to gain rights they had lost or surrendered to the monarch in earlier times.;;;;;;;;;;6099
 EVENTHIST_A1;Trading companies were often founded on highly speculative stocks. When they failed, large sums of wealth could be lost and faith in the goverment declined as well.;;;;;;;;;;6100
 EVENTHIST_A10;Noble families were often granted control over church lands and appointment in many states in exchange for cash contributions to the crown's efforts. The crown, of course, lost control over some revenues this way in exhange for a short term boost in revenue.;;;;;;;;;;6101
@@ -189,7 +186,7 @@ EVENTHIST_A9;Noble families were the bulwark of power during these times. Assasi
 EVENTHIST1;Revolts were almost part of everyday life for the rulers all over Europe. High taxes noblemen cruelties as well as cultural and religious differencies caused unhappiness among the farmers and in the cities and in the most extreme cases this led to rebellions with sometimes long lasting and drastic effect.;;;;;;;;;;6142
 EVENTHIST10;Monarchs were sometimes wise or lucky enough to appoint excellent ministers whose actions would greatly benefit their realm.;;;;;;;;;;6143
 EVENTHIST101;On October 31, 1517 Martin Luther pinned his 95 articles on the churchdoor at Wittenberg  condemning the trafficking of Redeems by the Pope and advocating a return to a purer former of Christianity. This is normally said to be the birth of the Protestant branch of Christianity. Catholic nations can now convert to Protestantism thereby increasing their long term tax incomes and giving a one-time bonus of 25$ per province as church property is confiscated by the State.;;;;;;;;;;6144
-EVENTHIST102;Luther's followers created a formal church but Calvin's followers created many churches â€“ among them the French Huguenots the English Puritans the Scottish Presbyterians and the Dutch Reformed Church. Protestant nations may now convert to Reformed Christians thereby increasing their long term tax incomes.;;;;;;;;;;6145
+EVENTHIST102;Luther's followers created a formal church but Calvin's followers created many churches – among them the French Huguenots the English Puritans the Scottish Presbyterians and the Dutch Reformed Church. Protestant nations may now convert to Reformed Christians thereby increasing their long term tax incomes.;;;;;;;;;;6145
 EVENTHIST103;In the sixteenth century it became imperative for the State and the Church to stem the tide of Lutheranism sweeping through Europe. The decrees included the reorganization and moralization of the ecclesiastical body and solemnly reconfirmed the Pope's indisputable and absolute authority. Catholic nations may now convert to Counter Reformed Catholics, thereby allowing them to force enemy nations to convert back to Catholicism as a peace option.;;;;;;;;;;6146
 EVENTHIST104;Historically there are many such edicts in the later part of the sixteenth century, all aiming at stopping hostilities and imposing tolerance and mutual recognition between the religious factions. Most of them were broken nearly as soon as they were signed. The effects of the Counter Reformation and the Treaty of Tordesillas have been cancelled.;;;;;;;;;;6147
 EVENTHIST105;You'd better accept this one and convert yourself to a Kaigonist!;;;;;;;;;;6148
