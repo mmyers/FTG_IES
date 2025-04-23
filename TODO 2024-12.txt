@@ -10,3 +10,84 @@
 - Very slow loading
   + probably Options_knowneurope.inc
     + could use knownprovinces = { europe } to speed loading time, but what provinces outside Europe might be needed?
+
+2025-04
+- ID conflicts reported by event doc tool:
+Parsing monarchs from db/monarchs
+Monarch ID conflict: Philippe&nbsp;I and Rákóczy&nbsp;XIII both have ID 27020
+Monarch ID conflict: Jakub&nbsp;VIII and Philippe&nbsp;I both have ID 27020
+Monarch ID conflict: Henryk&nbsp;IX and Gaston&nbsp;XI both have ID 27021
+Finished monarchs
+Parsing leaders from db/leaders
+Leader ID conflict: Auvergne and Philippe&nbsp;I both have ID 34970
+Leader ID conflict: Estrées and Gaston&nbsp;XI both have ID 34971
+Leader ID conflict: Grigore&nbsp;VI and Jerzy&nbsp;IV both have ID 35002
+Leader ID conflict: Petru&nbsp;III and Krzysztof&nbsp;VIII both have ID 35004
+Leader ID conflict: Eustratie&nbsp;VI and Stary&nbsp;II both have ID 35005
+Leader ID conflict: Grigore&nbsp;VIII and Mikhail&nbsp;VII both have ID 35007
+Leader ID conflict: Grigore&nbsp;IX and Vytautus&nbsp;II both have ID 35009
+Leader ID conflict: Stefan&nbsp;IX and Andrei&nbsp;III both have ID 35010
+Leader ID conflict: Matei&nbsp;VI and Jerzy&nbsp;VII both have ID 35012
+Leader ID conflict: Sulina and Mstislavski both have ID 35021
+Leader ID conflict: Tulcea and Wladimir both have ID 35022
+Leader ID conflict: Cernauti and Glinski both have ID 35023
+Leader ID conflict: Bacau and Ochakov both have ID 35024
+Leader ID conflict: Galati and Razumovski both have ID 35025
+Leader ID conflict: Mamaia and Semenov both have ID 35026
+Leader ID conflict: Calaris and Adachev both have ID 35027
+Leader ID conflict: Calaris and Psochkov both have ID 35028
+Leader ID conflict: Sulina and Lapunov both have ID 35029
+Leader ID conflict: Pitesti and Bezukov both have ID 35030
+Leader ID conflict: Focsani and Berezov both have ID 35031
+Leader ID conflict: Braila and Torjok both have ID 35032
+Leader ID conflict: Slatina and Tatichev both have ID 35033
+Leader ID conflict: Calaris and Semenov both have ID 35034
+Leader ID conflict: Craiova and Torjok both have ID 35035
+Leader ID conflict: Tiraspol and Sverdlovsk both have ID 35036
+Leader ID conflict: Pitesti and Pskov both have ID 35037
+Leader ID conflict: Sulina and Vnukov both have ID 35038
+Leader ID conflict: Vlad and Lytkharin both have ID 35039
+Leader ID conflict: Sulina and Sviajsk both have ID 35040
+Leader ID conflict: Cernauti and Karpenski both have ID 35041
+Leader ID conflict: Tulcea and Raskolniki both have ID 35042
+Leader ID conflict: Braila and Grigorievich both have ID 35043
+Leader ID conflict: Calaris and Golytsin both have ID 35044
+Leader ID conflict: Tulcea and Tcherbatov both have ID 35045
+Leader ID conflict: Tiraspol and Holstein-Gottorp both have ID 35046
+Leader ID conflict: Focsani and Iurev both have ID 35047
+Leader ID conflict: Calaris and Berezov both have ID 35048
+Leader ID conflict: Focsani and Golytsin both have ID 35049
+Leader ID conflict: Mamaia and Kama both have ID 35050
+Leader ID conflict: Craiova and Raskolniki both have ID 35051
+Leader ID conflict: Bacau and Bolotnikov both have ID 35052
+Leader ID conflict: Böszau and Tatichev both have ID 35053
+Leader ID conflict: Slatina and Karpenski both have ID 35054
+Leader ID conflict: Pitesti and Karpenko both have ID 35055
+Leader ID conflict: Kichinau and Rotislav both have ID 35056
+Leader ID conflict: Slatina and Vnukov both have ID 35057
+Leader ID conflict: Focsani and Basmanov both have ID 35058
+Leader ID conflict: Böszau and Kirilenko both have ID 35059
+Leader ID conflict: Craiova and Prokofievich both have ID 35060
+Leader ID conflict: Mamaia and Moskwitianine both have ID 35061
+Leader ID conflict: Galati and Iurev both have ID 35062
+Leader ID conflict: Sulina and Berelowitch both have ID 35063
+Leader ID conflict: Calaris and Holstein-Gottorp both have ID 35064
+Leader ID conflict: Craiova and Kostov both have ID 35065
+Leader ID conflict: Calafat and Gomel both have ID 35066
+Leader ID conflict: Galati and Panin both have ID 35067
+Leader ID conflict: Calaris and Holstein-Gottorp both have ID 35068
+Leader ID conflict: Slatina and Pskov both have ID 35069
+Leader ID conflict: Sulina and Preobajenski both have ID 35070
+Leader ID conflict: Slatina and Chafirov both have ID 35071
+Leader ID conflict: Galati and Golytsin both have ID 35072
+Leader ID conflict: Calaris and Golovkine both have ID 35073
+Leader ID conflict: Calaris and Zarutski both have ID 35074
+Leader ID conflict: Galati and Dolgoruki both have ID 35075
+Leader ID conflict: Galati and Grigorievich both have ID 35076
+Leader ID conflict: Craiova and Bereznik both have ID 35077
+Leader ID conflict: Bacau and Psochkov both have ID 35078
+Leader ID conflict: Vlad and Pojarski both have ID 35079
+Leader ID conflict: Tiraspol and Feodor both have ID 35080
+Leader ID conflict: Potocki and Jakub&nbsp;VIII both have ID 36470
+Leader ID conflict: Lisowski and Henryk&nbsp;IX both have ID 36471
+Finished leaders
